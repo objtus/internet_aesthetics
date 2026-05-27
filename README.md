@@ -138,7 +138,7 @@
 | 批評・ジャーナリズム | VICE / BuzzFeed (2012) / The Atlantic (2021) / Chicago Reader |
 | 理論的背景書 | Marc Augé *Non-Places* / Mark Fisher *Ghosts of My Life* / Simon Reynolds *Retromania* |
 | 日本語文献 | ばるぼら「蒸気波大辞典」（『新蒸気波要点ガイド』所収）/ 捨て垢（sute_aca）記事 / obakeweb「ドラゴンファンクの5000年」 |
-| 日本語書籍 | 古屋蔵人・高岡謙太郎 編『Designing Tumblr』（BNN、2012年9月）/ MASSAGE編集部・庄野祐輔・高岡謙太郎 編『MASSAGE 9: INTERNET CULTURE』（MASSAGE MAGAZINE、2014年1月10日）——高岡謙太郎は両書に関与 |
+| 日本語書籍 | 古屋蔵人・高岡謙太郎 編『Designing Tumblr』（BNN、2012年9月）/ MASSAGE編集部・庄野祐輔・高岡謙太郎 編『MASSAGE 9: INTERNET CULTURE』（MASSAGE MAGAZINE、2014年1月10日） |
 
 ---
 
