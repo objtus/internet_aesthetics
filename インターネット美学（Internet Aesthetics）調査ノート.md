@@ -629,7 +629,9 @@ r/LiminalSpaceの定義（最も体系的な定義を持つコミュニティ）
 |@elegiac_images（Twitter）|2020年6月6日|120万フォロワー→11月凍結|
 |r/liminalspaces|2021年7月31日|r/LiminalSpaceより2年後|
 
-**2020年4月のバイラル連鎖**： 2020年4月1〜15日の約2週間で複数のliminal space画像コレクションが連鎖的にバイラル化した。特にYouTuber floatのコンピレーション動画（2020年4月15日、200万回再生、ダークアンビエント音楽付き）がaestheticとしての確立に大きく寄与した。
+**2020年4月の拡散連鎖**： 2020年4月1〜16日ごろ、複数のliminal space画像コレクションが複数プラットフォームで連鎖的に広まった。[2020年4月16日](https://www.youtube.com/watch?v=VqZEfqoTA7M)、YouTuber **float**がコンピレーション動画「Strangely Familiar Places with Unnerving Music」を投稿した。
+
+**2020年7月**： [2020年7月11日](https://www.youtube.com/watch?v=N63pQGhvK4M)、YouTuber **Solar Sands**が解説動画「Liminal Spaces (Exploring an Altered Reality)」を投稿。ダークアンビエント音楽付きで約200万回再生に達し、aestheticとしてのパッケージ化に大きく寄与した。
 
 **【URL】** Know Your Meme "Liminal Spaces / Images With Elegiac Auras / Dreamcore": https://knowyourmeme.com/memes/cultures/liminal-spaces-images-with-elegiac-auras-dreamcore
 
