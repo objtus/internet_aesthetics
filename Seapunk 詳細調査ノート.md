@@ -420,6 +420,19 @@ URL：https://www.buzzfeed.com/perpetua/web-artists-are-furious-at-rihanna-and-a
 
 この記事はBebe Zevaのツイートだけでなく、Perpetua自身の地の文においても「aesthetic」という語を繰り返し使用しており、2012年末時点でこの語がweb art・seapunkを論じる批評的語彙として定着していたことを示す重要な文書だ。
 
+なお記事の冒頭近くで、Perpetuaは以下のように書いている：
+
+> "The screen saver–like graphics, garish 3-D animations, and deep-sea imagery used in the performance should be at least vaguely recognizable to anyone who has had exposure to the more overtly arty corners of Tumblr in the past two years, **especially since the launch of the platform's Reblorg site for original Web art.**"
+
+**Reblorgとは**：TumblrのEditorial部門が2012年8月に立ち上げた公式ブログで、ユーザーが作成したオリジナルコンテンツのキュレーションを目的としていた。longtime TumblrユーザーでスタッフになったChristopher "topherchris" Priceがキュレーターを務めた。「Video, animation, GIFs, glitches, music, collage, haiku, limericks, and kabuki coding are all welcome」とされており、提出ルールは「自分で作ったもの・新しいもの」の二点のみ。Fast Companyの記事（2012年8月）でPriceは「what I call Internet art–that is, stuff that couldn't have existed until there was technology to make it and an Internet to put it on」と説明した——これはJames BridleのNew Aestheticとほぼ同じ問題意識だ。
+
+Perpetuaがseapunk的ビジュアルの認知をReblorgの存在と結びつけて記述したことは重要だ。TumblrというプラットフォームがReblorgを通じてこのビジュアル語彙を公式にキュレーション・拡散していたという事実は、seapunk/web artのaestheticが単なる地下的現象にとどまらず、プラットフォーム自体に認知・組み込まれていたことを示す。なお、reblorg.tumblr.com/archiveは現在も閲覧可能で、当時のTumblr上のweb art・GIFアート・グリッチアートの雰囲気を一次資料として確認できる。
+
+参照：Fast Company "With Reblorg, Tumblr Embraces Its Apocalypse GIF And Bespectacled Panda Penchant"（2012年8月）  
+URL：https://www.fastcompany.com/3000358/reblorg-tumblr-embraces-its-apocalypse-gif-and-bespectacled-panda-penchant  
+参照：Reblorg Tumblr archive  
+URL：https://reblorg.tumblr.com/archive
+
 Perpetuaによる「aesthetic」の使用箇所（地の文）：
 
 **①** 記事冒頭：
@@ -1134,6 +1147,8 @@ Discogs "Coral Records Internazionale"：https://www.discogs.com/label/369506-Co
 | Salacious Sound "Rihanna, Azealia Banks, and the Commoditization of Seapunk"（2012年11月） | 二次資料（ジャーナリズム） | https://salacioussound.com/2012/11/rihanna-azealia-banks-and-the-commoditization-of-seapunk/ |
 | Wikipedia "XXXO" (M.I.A.) | 二次資料 | https://en.wikipedia.org/wiki/XXXO |
 | IMVDb "M.I.A. - XXXO" | 一次資料（映像クレジット） | https://imvdb.com/video/m.i.a./xxxo |
+| Fast Company "With Reblorg, Tumblr Embraces Its Apocalypse GIF"（2012年8月） | 二次資料（ジャーナリズム） | https://www.fastcompany.com/3000358/reblorg-tumblr-embraces-its-apocalypse-gif-and-bespectacled-panda-penchant |
+| Reblorg Tumblr archive | 一次資料（プラットフォームアーカイブ） | https://reblorg.tumblr.com/archive |
 
 ---
 
