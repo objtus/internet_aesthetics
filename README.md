@@ -103,9 +103,9 @@
 - **序文**：「aesthetic」という語が哲学用語からネット用語へと転化した経緯（2012〜2013年）。Macintosh Plusのアルバム『Floral Shoppe』（2012年2月）をめぐるYouTubeコメント文化、Savvy JとFrankJavCeeの動画を経た語の自立、vaporwaveの形容詞だった語が上位カテゴリへと逆転するまでの過程を概説する。
 - **第1章　土壌（1994〜2011年ごろ）**：GeoCitiesの誕生と消滅、Tumblrのアーキテクチャ（リブログ・タグ・フォトセット）、フォークソノミーの論理、ポストインターネットアート（Megazord / OPN周辺）、James Bridleの「The New Aesthetic」を土台として、美学ミームが発生する可能性の空間がいかに開かれたかを記述する。
 - **第2章　命名の時代（2009〜2013年）**：chillwave・hypnagogic pop・witch house・vaporwave・seapunkの命名過程。2011年6月1日の「seapunk」ツイートを典型例として、ラベル先行型の発生パターンを示す。distroid（充填されなかった名前）、DIS Magazine周辺の文化、PC Music／hyperpopへの分岐も扱う。
-- **第3章　感情が先に来る（2015〜2019年）**：Dark Academiaとcottagecoreを実体先行型の発生パターンとして対比的に記述。Donna Tarttと文学ファンダムの蓄積、クィアコミュニティとの共進化、Tumblr NSFWバン（2018年12月）によるDiscordへの移行を含む。
-- **第4章　爆発（2020〜2021年）**：COVID-19ロックダウンによるLiminal Space・cottagecore・Dark Academiaの爆発的普及。TikTokのFor Youアルゴリズムと美学の短命化。Dreamcore／Weirdcoreの系譜、hyperpopの浮上、Dismiss YourselfのDiscordコミュニティとhex／surgeジャンルの誕生。
-- **第5章　制度化（2013〜2021年、回顧的構成）**：Frutiger Aero命名に見る「遡行的確定」という概念。CARIの機関史（Evan Collinsの個人Tumblrから公式サイトへ）、McBling命名の経緯、Aesthetics WikiとFairyPageの軌跡（設立・爆発的成長・創設者追放）、Discordが美学の承認プロセスになる過程、NeocitiesとIndieWebによる対位的な欲望を記述する。末尾に後記。
+- **第3章　感情が先に来る（2015〜2019年）**：Dark Academiaとcottagecoreを実体先行型の発生パターンとして対比的に記述。Donna Tarttと文学ファンダムの蓄積、de Gruyter論文の「mnemonic curatorial practice」概念、森ガール（Mori Kei）・Hyggeをcottagecoreのインターネット前史として記述、クィアコミュニティとの共進化（批判視点も含む）、Tumblr NSFWバン（2018年12月）によるDiscordへの移行を含む。
+- **第4章　爆発（2020〜2021年）**：COVID-19ロックダウンによるLiminal Space・cottagecore・Dark Academiaの爆発的普及。TikTokのFor Youアルゴリズムと美学の短命化。Dreamcore／Weirdcoreの系譜（DavidCryptによる普及）、r/LiminalSpace→r/liminalspacesの二段階Reddit制度化、The Backrooms（A24映画化・2026年5月公開まで到達）、hyperpopの浮上（Spotify 2019年8月）、Dismiss YourselfのDiscordコミュニティ（Bandcamp Daily・OTOTOY外部記録含む）とhex／surgeジャンルの誕生。
+- **第5章　制度化（2013〜2021年、回顧的構成）**：Frutiger Aero命名に見る「遡行的確定」という概念。CARIの機関史（Evan Collinsの個人Tumblrから2019年Seattle Design Festival公演・2021年公式サイトへ）、McBling・Frutiger Aero命名の経緯（Frutiger Colorful仮称・Facebookグループ開設含む）、Aesthetics WikiとFairyPageの軌跡（設立・2020年デザインコンテスト・爆発的成長・創設者追放）、Discordが美学の承認プロセスになる過程、NeocitiesとIndieWebによる対位的な欲望を記述する。末尾に後記。
 
 ---
 
