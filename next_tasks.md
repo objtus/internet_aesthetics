@@ -128,20 +128,18 @@ Cluster Mag の *aesthetic* 論点が草稿内の **2か所**にほぼ同型で�
 
 | 媒体 | URL | 年 | 呼称 | 音楽言及 | AIプロンプト | メモ |
 |---|---|---|---|---|---|---|
-| webclips | [ヴェイパーウェイヴとは？](https://webclips.jp/design/vaporwave/) | 2026-05 | デザインスタイル／音楽起源→デザイン発展 | あり（冒頭・Wikipedia） | **あり**（MJ/SD/Gemini/Firefly） | [`草稿_推敲メモ.md`](./草稿_推敲メモ.md) 続10。画像生成AI以降のサイト構造として重要 |
+| webclips | [ヴェイパーウェイヴとは？](https://webclips.jp/design/vaporwave/) | 2026-05 | デザインスタイル／音楽起源→デザイン発展 | あり（冒頭・Wikipedia） | **あり**（MJ/SD/Gemini/Firefly） | 続10参照。AI以降の制度化層として重要 |
+| Adobe Express | [What is vaporwave?](https://www.adobe.com/uk/express/learn/blog/what-is-vaporwave) | 不明 | "visual style and music genre" → design tips | あり（冒頭で音楽ジャンルと明示） | 要確認（Firefly連携の可能性） | 大手ツール企業による公式説明。音楽とデザイン両立の典型。**本文要確認**（403） |
+| Envato Tuts+ | [Aesthetic Design: From Vaporwave to Grunge](https://design.tutsplus.com/articles/aesthetic-design-from-vaporwave-design-to-grunge-aesthetic--cms-35213) | 要確認 | "aesthetic design"（タイトル）。vaporwave + grunge aesthetic を並列 | 要確認 | なし（おそらく） | 複数aesthetic並列紹介の典型構造。**本文要確認**（403） |
 
 **調査タスク（フェーズ2の前半）**
 
 デザイン記事を**あと1〜2本**ピックアップし、以下を [`草稿_推敲メモ.md`](./草稿_推敲メモ.md) に追記（**全文統合はしない**）。
 
 - [x] webclips vaporwave（2026-05）  
-- [ ] 媒体名・URL・おおよその年（追加1〜2本）
-- [ ] 記事内の呼称（"vaporwave style" / "Vaporwave aesthetic" / "グラフィックデザインスタイル" 等）  
-- [ ] 列挙されている**視覚要素**（草稿・Wiki・CARI と重複するか）  
-- [ ] **音楽・Tumblr・YouTube** への言及の有無  
-- [ ] 他スタイル（Y2K、グリッチ、サイバーパンク等）との**並列紹介**構造  
-
-収集例の候補キーワード：`vaporwave graphic design style` / `ヴェイパーウェイヴ デザイン` / `Y2K aesthetic design trend`（具体 URL は作業時に確定）。
+- [x] 候補2本を追加（Adobe Express・Envato Tuts+）——**本文要確認**（WebFetch 403のため）
+- [ ] 記事内の呼称・視覚要素・音楽言及・並列構造を確認（目視または再アクセスで）
+- [ ] 確認済み記事を [`草稿_推敲メモ.md`](./草稿_推敲メモ.md) 続11 として追記
 
 **文案の分割案**
 
@@ -150,9 +148,9 @@ Cluster Mag の *aesthetic* 論点が草稿内の **2か所**にほぼ同型で�
 
 **チェックリスト**
 
-- [ ] 3枠の関係を推敲メモに1ページ整理  
-- [ ] デザイン記事 2〜3本を収集・比較表作成（webclips 1/3 済）
-- [ ] 第2章／第5章の配置を確定  
+- [x] 3枠の関係を推敲メモに1ページ整理（`多角的な分析 §8`・`修正優先度 中 三枠境界論` 追加）
+- [x] デザイン記事 候補3本を表に追加（webclips 確認済み、Adobe Express・Envato Tuts+ は本文要確認）
+- [x] 第2章／第5章の配置を確定（推敲メモ `修正優先度 中 三枠境界論` に記載）
 - [ ] 文案作成 → 草稿反映（第5章は Frutiger Aero 節と整合確認）  
 - [ ] 6c（Perpetua、Dodecahedron）と**命名の政治学**が矛盾しないか確認  
 
