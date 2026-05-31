@@ -199,6 +199,7 @@ Cluster Mag の *aesthetic* 論点が草稿内の **2か所**にほぼ同型で�
 **要調査（保留）**
 
 - [ ] **Global Village Coffeehouse（2017-02-19）とCARIの関係**：調査ノートから関係性が不明確なため4-3では見送り。CARI一次資料（Tumblr・Facebook投稿）を確認してから草稿への追加可否を判断する。
+- [ ] **8番出口とliminal space美学**：KOTAKE CREATE制作のインディーゲーム（2023年12月公開）。liminal spaceの感覚を直接使った作品で、ストリーマーを通じて世界的にバイラル。Backroomsとの異同・日本発である点の意義を調査し、第4章liminal/Backrooms節への追加可否を判断する。
 
 ---
 
