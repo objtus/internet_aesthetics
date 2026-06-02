@@ -24,10 +24,12 @@
 | 4 | ファクト補強——第3〜5章 | ☑ | 章別文案→草稿（#11〜22・訂正1件） |
 | 5 | ドキュメント整理②（全体同期） | ☑ | 第3〜5章分割稿・README 等 |
 | **6a** | Seapunk 調査ノート——影響評価（統合しない） | ☐ | [`Seapunk調査_取り込み計画.md`](./Seapunk調査_取り込み計画.md) |
-| **6b** | Seapunk 本体の段階取込 | ☐ | 文案→草稿 第2章 seapunk 節 |
+| **6b** | Seapunk 本体の段階取込 | ☑ | 文案→草稿 第2章 seapunk 節（2026-06-02） |
 | **6c** | aesthetic 年表——中間層の段階取込 | ☐ | 文案→草稿 第2章 aesthetic 節 |
+| **6b-reorg** | seapunk 初期節の叙述順・節構成の整理 | ☐ | **6c 後**。VICE 年表軸→対立→Z/U 側→w-h→三流れ。文案→草稿 |
 | **6d** | witch house 前史——最小限取込 | ☐ | 文案 or 「調査ノート正本」決定 |
 | **6e** | vaporwave 接続——段階取込 | ☐ | 文案→草稿 seapunk 遺産／vaporwave 節 |
+| **6f** | Seapunk 後続（VICE 年表節・MASSAGE 9・slimepunk） | ☐ | **6b 外**。計画 f-vice／f-massage／f-slime |
 | 7 | ドキュメント整理③（Seapunk 取込後） | ☐ | 第2章分割稿・調査ノート §5 還流 |
 | §8 | 序文改稿・Tumblr For You・KYM Wayback | ☑ | 草稿・分割稿一部（§8-1〜3、2026-06-01） |
 | §9 | aesthetic 包含関係・語法分析 | ☐ | **6b〜6e（＋7）完了後** |
@@ -37,10 +39,10 @@
 ```
 1 → 2 → 3 ─────────────────────────→ 5
               4（第3〜5章）──────────↗
-1, 2 完了後 → 6a → 6b → 6c
+1, 2 完了後 → 6a → 6b → 6c → 6b-reorg
                     ↘ 6d（6b と並行可・最小限）
                     ↘ 6e（6b 後・DMY 節との前後を確認）
-6b〜6e 完了後 → 7 → §9
+6b〜6e（＋6b-reorg）完了後 → 6f（任意・6b外）→ 7 → §9
 ```
 
 ---
@@ -57,6 +59,11 @@
 | 第4章 L640 TikTok/Discord 対照 | §8 残 | 文案 B・任意 |
 | 後記 L772「アルゴリズムなきタグ文化」 | 7 | 第1・4章改稿に合わせ1文 |
 | KYM 訂正ログ（ファクト補強調査） | §8 残 | 任意 |
+| **草稿に調査ノートを引用しない** | 6b〜 | 正文は公開 URL のみ。メタ・§参照は文案の執筆メモ |
+| VICE 年表に基づく seapunk コミュニティ史 | **6f** | 掲載 [VICE](https://www.vice.com/en/article/r795xr/seapunk-washes-up)／Fig. は [Wayback](https://web.archive.org/web/20201112024823/https://www.vice.com/en/article/r795xr/seapunk-washes-up)／[`vice_seapunkwashesup.md`](./vice_seapunkwashesup.md) |
+| MASSAGE 9（VICE 年表・日訳・Lil Internet／Ultrademon 対談） | **6f** | [themassage.jp/archives/1](https://themassage.jp/archives/1) |
+| slimepunk（Zombelle 命名・seapunk 派生） | **6f** | [Wiki](https://aesthetics.fandom.com/wiki/Slimepunk)、ep22 podcast |
+| **seapunk 初期節の叙述順・節分割** | **6b-reorg** | 6c 後・6e 前。L220 付近のトーン含む。下記 §6b-reorg |
 
 ---
 
@@ -106,13 +113,64 @@
 
 **想定内容**：三極構造（§4）／Tropicult の witch house 文脈（§5）／内部対立（§7）／BuzzFeed 詳細（§8-2a・草稿既出の補強のみ）
 
-**文案**：`Seapunk取込_6b_文案.md`  
+**文案**：[`Seapunk取込_6b_文案.md`](./Seapunk取込_6b_文案.md)（L 行番号・前後文脈・修正前原文付き。冒頭に今後共通のフォーマット規約）  
 **反映先**：草稿 `## 2011年6月1日のツイート`〜`## seapunkの死と遺産`  
 **注意**：Perpetua 等は **6c**、witch house 前史の厚い追記は **6d**。
 
-- [ ] 文案作成（追記・修正合計 4〜6段落）  
-- [ ] 草稿反映  
-- [ ] 調査ノート §11 発生モデルと叙述が矛盾しないか確認  
+- [x] 文案作成（6b-1〜6b-4 必須、6b-5・6b-6 任意）  
+- [x] 文案チェック・承認  
+- [x] 草稿反映（6b-1〜6b-4b。6b-5・6b-6 は未反映）  
+- [ ] 文案に「調査ノート」参照・フェーズ番号が**反映用**に混入していないか（執筆メモのみ可）  
+- [ ] 6b-3：VICE 年表が Lil Internet／Lil Government 作であることを明示しているか  
+
+---
+
+### 6b-reorg. seapunk 初期節の叙述順・節構成（**6c 完了後**）
+
+**背景（2026-06-02）**  
+6b 反映後、`## 2011年6月1日のツイート`〜エコシステム直前のブロックは、**Lil Internet 三流れ（6b-1）→ Tropicult（6b-2）→ 内部対立（6b-3）** の順で積み上げている。草稿 L220 付近（Detrick 取材・嘘・起源隠蔽）は事実ベースだが**攻撃的に読まれうる**。ユーザー案：初期史は **VICE の Lil Internet／Lil Government 年表を軸**に書き、対立の有事実を伝えたうえで、**相対化**として Zombelle／Ultrademon 側（Tropicult・Coral Records）→ **witch-house.com 受容** → **三つの流れのまとめ**、の順がよい。節見出しの分割も検討。
+
+**タイミング**：**6c 完了後・6e 着手前**（aesthetic 節の追記で第2章の語彙バランスが固まってから。`6f` f-vice と文案段階で役割分担：reorg＝骨格・節割り、f-vice＝年表の厚い展開か統合かを決める）
+
+**反映範囲（案）**  
+- 対象：`## 2011年6月1日のツイート` 〜 内部対立段落末尾（`## seapunkの死と遺産` の直前）  
+- 現状維持しうる：`## seapunkの死と遺産` 以降（6b-4a/b 反映済み）
+
+**叙述の骨格（文案で具体化）**
+
+| 順 | 内容 | トーン |
+|---|---|---|
+| 1 | VICE 年表（@LILGOVERNMENT／@LILINTERNET 作）を軸に 2011夏〜2012春 | 一次叙述の主語はふたり側。対立は「あった」と伝える |
+| 2 | Zombelle／Ultrademon：Tropicult（Tundra Dubs）・Coral・Volume 1 | 善悪ではなく**制度化の第二の流れ** |
+| 3 | witch-house.com：懐疑と受容 | 隣接シーンの距離 |
+| 4 | 三つの流れのまとめ（現 6b-1 末尾相当） | 節末または独立小見出し |
+
+**見出し案（文案で確定）**  
+- 現行1節のまま差し替え、または例：`## Lil Internet 側の年表`／`## レーベルと正史`／`## witch-house.com` 等の小節分割
+
+**成果物**：`Seapunk取込_6b-reorg_文案.md` → チェック → 草稿反映
+
+**正本・出典**：[VICE](https://www.vice.com/en/article/r795xr/seapunk-washes-up)（[Wayback](https://web.archive.org/web/20201112024823/https://www.vice.com/en/article/r795xr/seapunk-washes-up)・Fig.）、[`vice_seapunkwashesup.md`](./vice_seapunkwashesup.md)、調査ノート §4・§5・§6・§7
+
+- [ ] 6c 完了を確認してから文案着手  
+- [ ] 6f f-vice との重複・統合方針を文案冒頭で決める  
+- [ ] L220 前後の Detrick／嘘の文はトーン調整または年表節へ移動  
+- [ ] 草稿反映・目視照合  
+
+---
+
+### 6f. Seapunk 後続（**6b では扱わない**）
+
+**前提**：6b 完了後、必要なら 6c〜6e のあと、または第2章バランスを見て実施。
+
+| ID | 内容 | 想定 | 正本・出典 |
+|---|---|---|---|
+| f-vice | VICE「Seapunk Washes Up」年表に基づくコミュニティ史の振り返り節 | 3〜6段落・新小節 | [VICE](https://www.vice.com/en/article/r795xr/seapunk-washes-up)。作業用 [`vice_seapunkwashesup.md`](./vice_seapunkwashesup.md) |
+| f-massage | [MASSAGE 9](https://themassage.jp/archives/1) 誌面の VICE 年表日本語訳、Lil Internet／Ultrademon インタビュー並記 | 1〜2段落 | 公開誌面 URL。中立的な両者の立場 |
+| f-slime | Zombelle による **slimepunk** 命名（seapunk 派生・近い美学） | 1〜2文 | [Aesthetics Wiki — Slimepunk](https://aesthetics.fandom.com/wiki/Slimepunk)、[Silent Generation ep22](https://www.iheart.com/podcast/1323-silent-generation-130572482/episode/ep-22-seapunk-2-w-zombelle-172547976/) |
+
+- [ ] [`Seapunk調査_取り込み計画.md`](./Seapunk調査_取り込み計画.md) f-vice／f-massage／f-slime 行を参照して文案作成  
+- [ ] 草稿反映（`Seapunk取込_6f_文案.md` 等）  
 
 ---
 
@@ -205,10 +263,11 @@
 
 | 今 | 次の1手 |
 |---|---|
-| **今** | **6a**——計画書の表を調査ノートと照合して完成（草稿は触らない） |
-| 6a 完了 | **6b**——`Seapunk取込_6b_文案.md` |
-| 6b 完了 | **6c** → **6e** → **6d**（6d は最小限・最後でも可） |
-| 6b〜6e 完了 | **7**——分割稿同期・後記 L772 |
+| **今** | **6c**——aesthetic 節の文案作成 → 草稿反映 |
+| 6a | 計画書完成（承認待ち可） |
+| 6b 完了 | **6c** → **6b-reorg** → **6e** → **6d**（6d は最小限・最後でも可） |
+| 6b〜6e（＋reorg）完了 | **6f**（任意）——年表厚み・MASSAGE 9・slimepunk（reorg と統合可） |
+| 6b〜6e（＋任意6f）完了 | **7**——分割稿同期・後記 L772 |
 | 7 完了 | **§9**——語法年表＋包含関係確定 → 草稿 aesthetic 節改稿 |
 
 ---
@@ -228,4 +287,4 @@
 
 ---
 
-*更新：2026-06-01。517行→スリム化。完了フェーズの詳細は推敲メモへ委譲。*
+*更新：2026-06-02。6b-reorg タスク追加（6c 後・6e 前）。*

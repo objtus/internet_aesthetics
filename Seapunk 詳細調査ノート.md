@@ -5,6 +5,16 @@
 > 方針：各記述に参照URLと部分引用を明示し、事後的な検証を可能にする  
 > 関連ファイル：internet_aesthetics_research.md（上位概念の調査ノート）
 
+### 出典URL注記：VICE「Seapunk Washes Up」（Lil Internet／Lil Government 年表）
+
+| 種別 | URL | 用途 |
+|---|---|---|
+| **掲載（現行）** | https://www.vice.com/en/article/r795xr/seapunk-washes-up | 本文テキスト・年表の節見出し（2012年3月9日掲載） |
+| **Internet Archive** | https://web.archive.org/web/20201112024823/https://www.vice.com/en/article/r795xr/seapunk-washes-up | **年表内の画像（Fig. 1–11）**。現行ページでは画像がリンク切れのため、図版確認は Wayback を用いる |
+| **作業用転写** | [`vice_seapunkwashesup.md`](./vice_seapunkwashesup.md) | 全文テキスト（画像は含まない） |
+
+草稿・文案での引用形式（併記）：`[VICE](掲載URL)（[Wayback](Archive URL)）`
+
 ---
 
 ## 目次
@@ -167,8 +177,9 @@ Lil Internetとそのコミュニティ（Lil Government、Teamsなど）にと�
 
 > "Teams, who says 'I stopped relating to seapunk when I realized it had surpassed a fun TWITTER joke/fashion style and turned into a club,' are also disillusioned."
 
-参照：VICE "Seapunk Washes Up"  
-URL：https://www.vice.com/en/article/r795xr/seapunk-washes-up
+参照：VICE "Seapunk Washes Up"（@LILINTERNET／@LILGOVERNMENT 作・年表）  
+URL（掲載）：https://www.vice.com/en/article/r795xr/seapunk-washes-up  
+URL（Wayback・Fig. 1–11 等）：https://web.archive.org/web/20201112024823/https://www.vice.com/en/article/r795xr/seapunk-washes-up
 
 しかしLil Internet自身のキャリアは、seapunk的ビジュアルを主流に伝播させる経路そのものとなった。
 
@@ -236,8 +247,9 @@ Zombelleはself-appointed curatorとして、seapunkの「本物の」創始者�
 
 > "Redwine, who lied outright to Detrick that he did not have Lil Internet's contact information, added that '[Lil Internet] doesn't have anything to do with seapunk.'"
 
-参照：VICE "Seapunk Washes Up"  
-URL：https://www.vice.com/en/article/r795xr/seapunk-washes-up
+参照：VICE "Seapunk Washes Up"（@LILINTERNET／@LILGOVERNMENT 作・年表）  
+URL（掲載）：https://www.vice.com/en/article/r795xr/seapunk-washes-up  
+URL（Wayback・Fig. 1–11 等）：https://web.archive.org/web/20201112024823/https://www.vice.com/en/article/r795xr/seapunk-washes-up
 
 ### 4-3. 流れ3：witch-house.comコミュニティ——隣接する受容
 
@@ -348,15 +360,17 @@ URL：https://www.discogs.com/label/369506-Coral-Records-Internazionale
 
 > "September-October 2011 — What was once a free-flowing exchange of quips, ideas, and imagery in the Seapunk secret group turns to squabbles about what 'is' and 'isn't' seapunk. Albert Redwine (producer Fire For Effect) wants to start a seapunk electronic music record label with contributions from original group members. However, Lil Internet and Lil Government are wary of the 'us against them' mentality forming, the exact opposite of seapunk's initial lack of intention."
 
-参照：VICE "Seapunk Washes Up"  
-URL：https://www.vice.com/en/article/r795xr/seapunk-washes-up
+参照：VICE "Seapunk Washes Up"（@LILINTERNET／@LILGOVERNMENT 作・年表）  
+URL（掲載）：https://www.vice.com/en/article/r795xr/seapunk-washes-up  
+URL（Wayback・Fig. 1–11 等）：https://web.archive.org/web/20201112024823/https://www.vice.com/en/article/r795xr/seapunk-washes-up
 
 ### 7-2. Lil Internet排除の試み
 
 > "Redwine, who lied outright to Detrick that he did not have Lil Internet's contact information, added that '[Lil Internet] doesn't have anything to do with seapunk.'"
 
-参照：VICE "Seapunk Washes Up"  
-URL：https://www.vice.com/en/article/r795xr/seapunk-washes-up
+参照：VICE "Seapunk Washes Up"（@LILINTERNET／@LILGOVERNMENT 作・年表）  
+URL（掲載）：https://www.vice.com/en/article/r795xr/seapunk-washes-up  
+URL（Wayback・Fig. 1–11 等）：https://web.archive.org/web/20201112024823/https://www.vice.com/en/article/r795xr/seapunk-washes-up
 
 UltradeamonはseapunkをLil Internetから切り離し、自分たちの所有物として定義しようとした。
 
@@ -406,8 +420,9 @@ URL：https://www.interviewmagazine.com/culture/zombelle-ultrademon-seapunk
 
 > "Present — Zombelle no longer seems to be stressed out when interviewers ask her what seapunk is, as she and Redwine vie to be known as the true creators of seapunk."
 
-参照：VICE "Seapunk Washes Up"  
-URL：https://www.vice.com/en/article/r795xr/seapunk-washes-up
+参照：VICE "Seapunk Washes Up"（@LILINTERNET／@LILGOVERNMENT 作・年表）  
+URL（掲載）：https://www.vice.com/en/article/r795xr/seapunk-washes-up  
+URL（Wayback・Fig. 1–11 等）：https://web.archive.org/web/20201112024823/https://www.vice.com/en/article/r795xr/seapunk-washes-up
 
 ### 8-2a. BuzzFeed記事「Web Artists Are Furious At Rihanna And Azealia Banks」（2012年11月12日）
 
@@ -1096,7 +1111,8 @@ Discogs "Coral Records Internazionale"：https://www.discogs.com/label/369506-Co
 | witch-house.com forum: #seapunkスレッド | 一次資料（フォーラム） | http://www.witch-house.com/forum/viewtopic.php?t=924 |
 | Tropicult Bandcamp（Web Archive） | 一次資料（音楽リリース） | https://web.archive.org/web/20110831135005/https://tundradub.bandcamp.com/album/tropicult |
 | Know Your Meme "Seapunk" | 二次資料（ドキュメント） | https://knowyourmeme.com/memes/cultures/seapunk |
-| VICE "Seapunk Washes Up" | 二次資料（ジャーナリズム） | https://www.vice.com/en/article/r795xr/seapunk-washes-up |
+| VICE "Seapunk Washes Up"（掲載） | 二次資料（ジャーナリズム・年表全文） | https://www.vice.com/en/article/r795xr/seapunk-washes-up |
+| VICE "Seapunk Washes Up"（Wayback） | 二次資料（同上・**Fig. 1–11 画像閲覧**） | https://web.archive.org/web/20201112024823/https://www.vice.com/en/article/r795xr/seapunk-washes-up |
 | Interview Magazine "Zombelle and Ultrademon, Seapunks Next Door" | 二次資料（インタビュー） | https://www.interviewmagazine.com/culture/zombelle-ultrademon-seapunk |
 | Fokkawolfe blog December 2011 | 二次資料（音楽ブログ） | http://fokkawolfe.blogspot.com/2011_12_01_archive.html |
 | Apesago blog Tropicult記事（2011年8月） | 二次資料（音楽ブログ） | https://apesago-blog.tumblr.com/post/8819709603/zombelle-myrrh-ka-ba-tropicult-2011-tundra |
