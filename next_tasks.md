@@ -65,7 +65,9 @@
 | slimepunk（Zombelle 命名・seapunk 派生） | **6f** | [Wiki](https://aesthetics.fandom.com/wiki/Slimepunk)、ep22 podcast |
 | **seapunk 初期節の叙述順・節分割** | **6b-reorg** | 6c 後・6e 前。L220 付近のトーン含む。下記 §6b-reorg |
 | **aesthetic 節 L254「転機は…」** | **6b-reorg または §9** | **6c-3 却下**（2026-06-02）。6c は 6c-1/2 のみ反映。Cluster Mag 直後の接続文・年表順は後続フェーズで整理 |
-| **Floral Shoppe と "aesthetic" コメント** | **§9 またはファクト確認** | アルバム／再投稿は 2012-02-14。コメント欄への "aesthetic" 書き込み**開始時期は不明**（KYM は結びつきを述べるが日付なし）。6c-3 文案の月日指定は採用しない |
+| **Floral Shoppe と "aesthetic" コメント** | **§9 またはファクト確認** | アルバム／再投稿は 2012-02-14。コメント欄への "aesthetic" 書き込み**開始時期は不明**（KYM は結びつきを述べるが日付なし）。**手動調査**（[`aestheticに関する手動調査.md`](./aestheticに関する手動調査.md)）：Wayback 2013-06 の保存コメントに "aesthetic" なし。X `"floral shoppe" AND "aesthetic"` 最古は **2014-05** 付近。6c-3 却下の根拠を補強 |
+| **aesthetic 手動調査（X・Wayback・Reddit）** | **§9／6c 後** | 正本：[`aestheticに関する手動調査.md`](./aestheticに関する手動調査.md)。リサフランク420：2013-06 Wayback でコメント232・閲覧分に aesthetic なし／Reddit 三サブ作成日・NA リンク収集済み |
+| **Google Trends（aesthetic 等）** | **§9 追補** | vaporwave／internet aesthetic／seapunk 等。再生数推移と突合 |
 
 ---
 
@@ -291,6 +293,7 @@
 | [`序文_改稿.md`](./序文_改稿.md) | §9 保留論点・KYM Wayback 年表 |
 | [`§8-2_Tumblr_ForYou_調査メモ.md`](./§8-2_Tumblr_ForYou_調査メモ.md) | Tumblr アルゴリズム年表 |
 | [`FrankJavCee文字起こし.md`](./FrankJavCee文字起こし.md) | §9 FrankJavCee 分析の正本 |
+| [`aestheticに関する手動調査.md`](./aestheticに関する手動調査.md) | aesthetic 語法・Floral Shoppe コメント年代・X 検索ログ（2026-06-02） |
 
 ---
 
