@@ -27,11 +27,11 @@
 | ref02 | §8-1 | Dazed 等初期メディア | — | 参照のみ | — | 0 | [KYM](https://knowyourmeme.com/memes/cultures/seapunk) | — | ☑ | 年表1文は過密 |
 | ref03 | §8-3 | 崩壊四要因 | — | 参照のみ | — | 0 | §8-3 | — | — | b04・死の節で十分 |
 | ref04 | §8-2 | SNL 日付・Interview | seapunk の死 | 参照のみ | — | 0 | §8-2 | — | ☑ | 草稿既出 |
-| c01 | §8-2a | Perpetua "their aesthetic" | aesthetic 節 | 追記 | 6c | 1 | BuzzFeed 2012-11-12 | ☐ | ☐ | Cluster Mag 後 |
-| c02 | §8-2a | Bebe Zeva "the Aesthetic" | aesthetic 節 | 追記 | 6c | 1 | 同上 | ☐ | ☐ | |
-| c03 | §9 | Ultrademon「ideology／not genre」 | aesthetic 節 | 追記 | 6c | 1 | [RBMA ep5](https://daily.redbullmusicacademy.com/2013/03/hashtags-tumblrwave/) | ☐ | ☐ | |
-| c04 | §9 | Dodecahedron "aesthetics"・逆説 | aesthetic 節 | 追記 | 6c | 1〜2 | RBMA ep5, §2-8 timeline | ☐ | ☐ | |
-| c05 | §9 | H∆SHTAG$ ep5（独立 #Seapunk なし） | aesthetic or 遺産 | 追記 | 6c | 1 | [RBMA シリーズ](https://daily.redbullmusicacademy.com/2013/03/hashtags-video-series/) | ☐ | ☐ | |
+| c01 | §8-2a | Perpetua "their aesthetic" | aesthetic 節 | 追記 | 6c | 1 | BuzzFeed 2012-11-12 | ☑ | ☐ | 文案 6c-1。Floral Shoppe 後に挿入 |
+| c02 | §8-2a | Bebe Zeva "the Aesthetic" | aesthetic 節 | 追記 | 6c | 1 | 同上 | ☑ | ☐ | 文案 6c-1 |
+| c03 | §9 | Ultrademon「ideology／not genre」 | aesthetic 節 | 追記 | 6c | 1 | [RBMA ep5](https://daily.redbullmusicacademy.com/2013/03/hashtags-tumblrwave/) | ☑ | ☐ | 文案 6c-2 |
+| c04 | §9 | Dodecahedron "aesthetics"・逆説 | aesthetic 節 | 追記 | 6c | 1〜2 | RBMA ep5, §2-8 timeline | ☑ | ☐ | 文案 6c-2 |
+| c05 | §9 | H∆SHTAG$ ep5（独立 #Seapunk なし） | aesthetic or 遺産 | 追記 | 6c | 1 | [RBMA シリーズ](https://daily.redbullmusicacademy.com/2013/03/hashtags-video-series/) | ☑ | ☐ | 文案 6c-2 |
 | d01 | §2-3 | Pictureplane Pitchfork 2009-12 | witch house 小節 | 最小限 | 6d | 0〜1 | [timeline](https://witch-house.com/thetimeline/) | ☐ | ☐ | 6a で A/B 決定 |
 | d02 | §2-8 | KingTreehouse Last.fm（2010-01-28） | witch house 小節 | 最小限 | 6d | 1 | timeline | ☐ | ☐ | c04 と接続 |
 | d03 | §2-1, §2-6 | LiveJournal／Mario Zoots | — | 参照のみ | — | 0 | timeline | — | — | 主役化しない |

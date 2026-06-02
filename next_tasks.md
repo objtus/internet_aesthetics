@@ -180,8 +180,12 @@
 
 **想定内容**：Perpetua／Bebe Zeva（§8-2a）／H∆SHTAG$ ep5・Dodecahedron（§9）
 
-**文案**：`Seapunk取込_6c_文案.md`  
+**文案**：[`Seapunk取込_6c_文案.md`](./Seapunk取込_6c_文案.md)（作成済み・2026-06-02）  
 **反映先**：草稿 `## 「aesthetic」という語——包含関係の逆転`
+
+- [x] 文案作成（6c-1, 6c-2 必須。6c-3 任意）  
+- [ ] 文案チェック・承認  
+- [ ] 草稿反映  
 
 **年表挿入位置**（文案段階で確定）：Cluster Mag 2011-12 → Perpetua/Bebe Zeva 2012-11 →（Floral Shoppe コメント 2012-02・既出）→ H∆SHTAG$ 2013-03 → Savvy J・FrankJavCee・KYM（既出）
 
@@ -263,7 +267,7 @@
 
 | 今 | 次の1手 |
 |---|---|
-| **今** | **6c**——aesthetic 節の文案作成 → 草稿反映 |
+| **今** | **6c**——[`Seapunk取込_6c_文案.md`](./Seapunk取込_6c_文案.md) チェック → 草稿反映 |
 | 6a | 計画書完成（承認待ち可） |
 | 6b 完了 | **6c** → **6b-reorg** → **6e** → **6d**（6d は最小限・最後でも可） |
 | 6b〜6e（＋reorg）完了 | **6f**（任意）——年表厚み・MASSAGE 9・slimepunk（reorg と統合可） |
