@@ -26,7 +26,7 @@
 | **6a** | Seapunk 調査ノート——影響評価（統合しない） | ☐ | [`Seapunk調査_取り込み計画.md`](./Seapunk調査_取り込み計画.md) |
 | **6b** | Seapunk 本体の段階取込 | ☑ | 文案→草稿 第2章 seapunk 節（2026-06-02） |
 | **6c** | aesthetic 年表——中間層の段階取込 | ☑ | 文案→草稿 第2章 aesthetic 節（2026-06-02） |
-| **6b-reorg** | seapunk 初期節の叙述順・節構成の整理 | ☐ | 文案改稿確定→**草稿再反映待ち**（2026-06-02 初回は旧版） |
+| **6b-reorg** | seapunk 初期節の叙述順・節構成の整理 | ☑ | 改稿版文案→草稿反映（2026-06-02） |
 | **6d** | witch house 前史——最小限取込 | ☐ | 文案 or 「調査ノート正本」決定 |
 | **6e** | vaporwave 接続——段階取込 | ☐ | 文案→草稿 seapunk 遺産／vaporwave 節 |
 | **6f** | Seapunk 後続（VICE 年表節・MASSAGE 9・slimepunk） | ☐ | **6b 外**。計画 f-vice／f-massage／f-slime |
@@ -164,7 +164,7 @@
 - [x] 6f f-vice との分担：reorg＝年表要約・節分割、f-vice＝厚い展開は後続  
 - [x] Detrick：年表の記述に合わせトーン調整（「嘘」表現を避ける）  
 - [x] 文案改稿・反映用確定（[`Seapunk取込_6b-reorg_文案.md`](./Seapunk取込_6b-reorg_文案.md)）  
-- [ ] **草稿再反映**（改稿版「反映用」。2026-06-02 初回は旧版のまま）  
+- [x] **草稿反映**（改稿版「反映用」。2026-06-02）  
 - [ ] **M.I.A.・Tim and Eric**：激怒記事段落の**後**に追記（反映用・三つの流れには含めない）  
 - [ ] **H∆SHTAG$ ep5（厚み）**：seapunk 節への再配置は任意（反映用から除外。aesthetic 6c-2 で ideology 等は済）  
 - [x] Jerome・Reblorg：次節 L238 付近（reorg では追記しない）  
@@ -325,9 +325,9 @@
 
 | 今 | 次の1手 |
 |---|---|
-| **今** | **6e**——vaporwave 接続（BuzzFeed cousin・r/vaporwave chillwave）。**並行可**：6b-reorg 改稿版→草稿再反映 |
+| **今** | **6e**——vaporwave 接続（BuzzFeed cousin・r/vaporwave chillwave） |
 | 6a | 計画書完成（承認待ち可） |
-| 6b 完了 | **6c** ☑ → **6b-reorg**（文案 ☑・草稿 ☐）→ **6e** → **6d**（6d は最小限・最後でも可） |
+| 6b 完了 | **6c** ☑ → **6b-reorg** ☑ → **6e** → **6d**（6d は最小限・最後でも可） |
 | 6b〜6e（＋reorg）完了 | **6f**（任意）——年表厚み・MASSAGE 9・slimepunk（reorg と統合可） |
 | 6b〜6e（＋任意6f）完了 | **7**——分割稿同期・後記 L772 |
 | 7 完了 | **§9 ＋ §9-man**——語法年表＋手動調査サマリー反映 → aesthetic 節改稿 |
@@ -352,4 +352,4 @@
 
 ---
 
-*更新：2026-06-02。6b-reorg 文案改稿確定・草稿再反映待ち。M.I.A.／ep5 厚みは 6b-reorg 後続。次は 6e（並行で reorg 草稿差し替え可）。*
+*更新：2026-06-02。6b-reorg 改稿版反映済み。M.I.A.／ep5 厚みは 6b-reorg 後続。次は 6e。*
