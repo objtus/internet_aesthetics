@@ -4,9 +4,11 @@
 **操作**：節全体の**差し替え**（叙述順・見出し分割）  
 **維持**：`## seapunkの死と遺産` 以降（6b-4 反映済み）は触らない
 
-**6f との分担**：VICE 年表の**全文展開・Fig. 解説・2011夏の厚い場面描写**は **6f-vice**。本 reorg は年表を**叙述の主軸**として要約し、Coral 側・witch-house.com・ep5 を相対化する。
+**6f との分担**：VICE 年表の**全文展開・Fig. 解説・2011夏の厚い場面描写**（CMJ・エコシステム段落含む）は **6f-vice**。本 reorg は年表を**叙述の主軸**として要約し、Coral 側・witch-house.com を相対化する。
 
-**6c との重複回避**：H∆SHTAG$ の ideology／Dodecahedron aesthetics／hyper-segmentation は **aesthetic 節に反映済み**。本節の ep5 は**プラットフォーム・Tumblr 起源・当事者の自己記述**のみ。
+**6c との重複回避**：H∆SHTAG$ の ideology／Dodecahedron aesthetics／hyper-segmentation は **aesthetic 節（6c-2）に反映済み**。**反映用には ep5 を入れない**（プラットフォーム厚みは下記「除外した段落」に退避。seapunk 節への再配置は [`next_tasks.md`](./next_tasks.md) 横断表参照）。
+
+**M.I.A.・Tim and Eric**：反映用・三つの流れには**入れない**。激怒記事（Perpetua）本文のあとに追記予定。文案は「除外した段落」L80。
 
 **Jerome LOL・Reblorg**：草稿 L230 済み。本 reorg では追記しない。
 
@@ -84,16 +86,19 @@ Lil InternetとLil Governmentの年表をみれば、確かにUltrademonとZombe
 
 ## 執筆メモ
 
-- 旧 L216〜L220（Facebook 口論＋年表＋Detrick の三段落）は **Lil Internet 側の年表** に統合。Detrick は「嘘」ではなく年表の記述に合わせた。
-- M.I.A.・Tim and Eric：三つの流れ末尾に1段落（激怒記事の前史）。Jerome・Reblorg は次節のみ。
+- 旧 L216〜L220（Facebook 口論＋年表＋Detrick の三段落）は **Lil Internet と Lil Government の年表** に統合。Detrick は「嘘」ではなく年表の記述に合わせた。
+- **M.I.A.・Tim and Eric**：当面スキップ。激怒記事段落の**後**に追記（`next_tasks.md` 横断表「BuzzFeed 激怒——M.I.A.・Tim and Eric」）。Jerome・Reblorg は次節のみ。
+- **H∆SHTAG$ ep5（厚み）**：反映用から除外。aesthetic 節 6c-2 のみ。seapunk 節への厚い記述は後続タスクまたは任意。
+- 草稿：2026-06-02 の初回反映は**旧版 reorg**のまま。**改稿版「反映用」**の再差し替え待ち。
 - 反映後：6f-vice で年表各節の厚みを検討。
 
 ---
 
 ## 反映チェックリスト
 
-- [x] L179〜L227 を上記「反映用」で差し替え（2026-06-02）
-- [x] `## seapunkの死と遺産` 以降が無変更
+- [x] 文案改稿・反映用確定（ユーザー改稿 2026-06-02）
+- [ ] [`草稿.md`](./草稿.md) L179〜（`## seapunkの死と遺産` 直前）を上記「反映用」で**再**差し替え（初回反映は旧版）
+- [ ] 差し替え後：`## seapunkの死と遺産` 以降が無変更（M.I.A. 段落は死の節内の現行位置を整理——激怒記事の**後**へ移すか要確認）
 - [x] aesthetic 節：ideology／Dodecahedron は reorg では触れず（6c-2 のみ）
-- [x] メタなし（「次節」は読者向け接続のみ）
-- [x] [`草稿_推敲メモ.md`](./草稿_推敲メモ.md) にログ
+- [x] 反映用に制作メタなし
+- [ ] 再反映後：[`草稿_推敲メモ.md`](./草稿_推敲メモ.md) にログ
