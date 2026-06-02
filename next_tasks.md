@@ -64,6 +64,8 @@
 | MASSAGE 9（VICE 年表・日訳・Lil Internet／Ultrademon 対談） | **6f** | [themassage.jp/archives/1](https://themassage.jp/archives/1) |
 | slimepunk（Zombelle 命名・seapunk 派生） | **6f** | [Wiki](https://aesthetics.fandom.com/wiki/Slimepunk)、ep22 podcast |
 | **seapunk 初期節の叙述順・節分割** | **6b-reorg** | 6c 後・6e 前。L220 付近のトーン含む。下記 §6b-reorg |
+| **aesthetic 節 L254「転機は…」** | **6b-reorg または §9** | **6c-3 却下**（2026-06-02）。6c は 6c-1/2 のみ反映。Cluster Mag 直後の接続文・年表順は後続フェーズで整理 |
+| **Floral Shoppe と "aesthetic" コメント** | **§9 またはファクト確認** | アルバム／再投稿は 2012-02-14。コメント欄への "aesthetic" 書き込み**開始時期は不明**（KYM は結びつきを述べるが日付なし）。6c-3 文案の月日指定は採用しない |
 
 ---
 
@@ -183,13 +185,14 @@
 **文案**：[`Seapunk取込_6c_文案.md`](./Seapunk取込_6c_文案.md)（作成済み・2026-06-02）  
 **反映先**：草稿 `## 「aesthetic」という語——包含関係の逆転`
 
-- [x] 文案作成（6c-1, 6c-2 必須。6c-3 任意）  
-- [ ] 文案チェック・承認  
-- [ ] 草稿反映  
+- [x] 文案作成（6c-1, 6c-2 必須）  
+- [x] 6c-3 却下（L254・Floral Shoppe コメント年代の理由は横断項目表）  
+- [x] 6c-1・6c-2 文案確定（2026-06-02）  
+- [ ] 草稿反映（**6c-1 → 6c-2 のみ**）  
 
-**年表挿入位置**（文案段階で確定）：Cluster Mag 2011-12 → Perpetua/Bebe Zeva 2012-11 →（Floral Shoppe コメント 2012-02・既出）→ H∆SHTAG$ 2013-03 → Savvy J・FrankJavCee・KYM（既出）
+**年表挿入位置**（確定）：Cluster Mag 2011-12（既出）→ L254 現状維持 → Floral Shoppe 段落（既出・**コメント aesthetic の開始時期は不明**）→ **6c-1** Perpetua/Bebe 2012-11 → **6c-2** H∆SHTAG$ 2013-03-06 → Savvy J・FrankJavCee・KYM（既出）
 
-**§9 へ委譲**（6c では決めない）：包含関係の逆転（L112）／FrankJavCee 系列の総合／vaporwave 起源説 vs 多系統収束
+**§9 へ委譲**（6c では決めない）：包含関係の逆転（L112）／FrankJavCee 系列の総合／vaporwave 起源説 vs 多系統収束／**L254 接続文の整理**
 
 ---
 
