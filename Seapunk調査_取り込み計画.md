@@ -36,7 +36,7 @@
 | d02 | §2-8 | KingTreehouse Last.fm（2010-01-28） | witch house 小節 | 最小限 | 6d | 1 | timeline | ☐ | ☐ | c04 と接続 |
 | d03 | §2-1, §2-6 | LiveJournal／Mario Zoots | — | 参照のみ | — | 0 | timeline | — | — | 主役化しない |
 | d04 | §12 | レーベル比較表 | — | 参照のみ | — | 0 | §12-6 | — | — | 本文に入れない |
-| e01 | §8-4 | BuzzFeed vaporwave cousin | seapunk 遺産 | 追記 | 6e | 1 | [BuzzFeed OK](https://www.buzzfeed.com/perpetua/why-rihanna-going-seapunk-is-totally-okay), [DMY Harper](https://dmy.co/news/adam-harper-vaporwave) | ☑ | ☐ | 文案 6e-1・6e-2。DMY 節はリンクのみ |
+| e01 | §8-4 | BuzzFeed vaporwave cousin | seapunk 遺産 | 追記 | 6e | 1 | [BuzzFeed OK](https://www.buzzfeed.com/perpetua/why-rihanna-going-seapunk-is-totally-okay), [DMY Harper](https://dmy.co/news/adam-harper-vaporwave) | ☑ | ☑ | 2026-06-02 |
 | e02 | §10 | 視覚継承対照 | seapunk 遺産 | 追記 or 参照 | 6e | 0〜1 | [Wiki Seapunk](https://aesthetics.fandom.com/wiki/Seapunk) | ☑ | — | 文案で見送り（L252 既出） |
 | e03 | §8-4 | Vatican Vibes／distroid | seapunk 遺産 | 6e-1 内1文 | 6e | 0〜1 | [Jones Distroid](https://dmy.co/features/distroid-gatekeeper-fatima-al-qadiri-adam-harper) | ☑ | ☐ | 文案 6e-1 末尾。詳述は DMY 節 |
 | ref05 | §9-5, §9-6 | H∆SHTAG$ S2（2017） | — | 参照のみ | — | 0 | §9 | — | — | |
