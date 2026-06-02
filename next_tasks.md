@@ -26,7 +26,7 @@
 | **6a** | Seapunk 調査ノート——影響評価（統合しない） | ☐ | [`Seapunk調査_取り込み計画.md`](./Seapunk調査_取り込み計画.md) |
 | **6b** | Seapunk 本体の段階取込 | ☑ | 文案→草稿 第2章 seapunk 節（2026-06-02） |
 | **6c** | aesthetic 年表——中間層の段階取込 | ☑ | 文案→草稿 第2章 aesthetic 節（2026-06-02） |
-| **6b-reorg** | seapunk 初期節の叙述順・節構成の整理 | ☐ | **6c 後**。VICE 年表軸→対立→Z/U 側→w-h→三流れ。文案→草稿 |
+| **6b-reorg** | seapunk 初期節の叙述順・節構成の整理 | ☑ | 文案→草稿反映（2026-06-02） |
 | **6d** | witch house 前史——最小限取込 | ☐ | 文案 or 「調査ノート正本」決定 |
 | **6e** | vaporwave 接続——段階取込 | ☐ | 文案→草稿 seapunk 遺産／vaporwave 節 |
 | **6f** | Seapunk 後続（VICE 年表節・MASSAGE 9・slimepunk） | ☐ | **6b 外**。計画 f-vice／f-massage／f-slime |
@@ -70,7 +70,8 @@
 | **aesthetic 手動調査（X・Wayback・Reddit）** | **§9-man** | **調査完了**（正本サマリー済み）。**草稿反映は未** → 下記 §9-man |
 | **Google Trends（aesthetic 等）** | **§9-man 追補** | 任意。手動調査「未着手」行と突合 |
 | **H∆SHTAG$ ep5（#Tumblrwave）の厚い記述** | **6b-reorg** | **6c-2** は初出・語彙・Zombelle Tumblr 起源1文のみ。Nate Auerbach・"We're not a web joke"・シリーズ紹介は reorg。正本：調査ノート §9・[`Seapunk取込_6c_文案.md`](./Seapunk取込_6c_文案.md) 執筆方針メモ |
-| **BuzzFeed 激怒——M.I.A.・Tim and Eric** | **6b-reorg**（推奨） | Perpetua §8-2a。`XXXO`（2010）・*Tim and Eric* の early Web graphics 前史。**Jerome LOL・Reblorg は草稿 L230 済み**（追記は任意） |
+| **BuzzFeed 激怒——M.I.A.・Tim and Eric** | **6b-reorg** ☑ | 三つの流れ末尾に反映（2026-06-02）。Jerome・Reblorg は L238 付近 |
+| **H∆SHTAG$ ep5（厚い記述）** | **6b-reorg** ☑ | レーベル節末（プラットフォーム軸）。aesthetic 節と役割分担 |
 | **BuzzFeed 激怒——Bebe 引用の読み順** | **6c** | aesthetic 節で Bebe↔激怒記事の引用関係を明示（6c-1）。前節（死）と接続 |
 
 ---
@@ -160,12 +161,12 @@
 
 **正本・出典**：[VICE](https://www.vice.com/en/article/r795xr/seapunk-washes-up)（[Wayback](https://web.archive.org/web/20201112024823/https://www.vice.com/en/article/r795xr/seapunk-washes-up)・Fig.）、[`vice_seapunkwashesup.md`](./vice_seapunkwashesup.md)、調査ノート §4・§5・§6・§7
 
-- [ ] 6c 完了を確認してから文案着手  
-- [ ] 6f f-vice との重複・統合方針を文案冒頭で決める  
-- [ ] L220 前後の Detrick／嘘の文はトーン調整または年表節へ移動  
-- [ ] **H∆SHTAG$**：`Seapunk取込_6b-reorg_文案.md` に ep5「Don't Call It #Tumblrwave」段落（2〜3段落）。RBMA シリーズ1文／独立 #Seapunk 回なし／Zombelle Tumblr 起源・"We're not a web joke"／Nate Auerbach（Tumblr）の seapunk 言及。6c-2 と重複しないよう aesthetic 節は触らない  
-- [ ] **BuzzFeed 激怒の残り**：M.I.A. `XXXO`（主流接触の前史）、Tim and Eric（early Web graphics の大衆化）を激怒記事文脈で1段落ずつ（調査ノート §8-2a）。Jerome LOL・Reblorg は L230 済みなら重複追記しない  
-- [ ] 草稿反映・目視照合  
+- [x] 6c 完了を確認してから文案着手（2026-06-02）  
+- [x] 6f f-vice との分担：reorg＝年表要約・節分割、f-vice＝厚い展開は後続  
+- [x] Detrick：年表の記述に合わせトーン調整（「嘘」表現を避ける）  
+- [x] **H∆SHTAG$** ep5（プラットフォーム・Zombelle・Nate Auerbach）。ideology は aesthetic 節のみ  
+- [x] **M.I.A.・Tim and Eric**：三つの流れ末尾1段落。Jerome・Reblorg は次節 L238 付近  
+- [x] 草稿反映・[`Seapunk取込_6b-reorg_文案.md`](./Seapunk取込_6b-reorg_文案.md)  
 
 **正本（6b-reorg 追記分）**：調査ノート §8-2a（Perpetua）、§9（H∆SHTAG$）、[RBMA ep5](https://daily.redbullmusicacademy.com/2013/03/hashtags-tumblrwave/)
 
@@ -323,7 +324,7 @@
 
 | 今 | 次の1手 |
 |---|---|
-| **今** | **6b-reorg**——seapunk 初期節の叙述順（6c 完了後・6e 前）。ep5 厚み・M.I.A.・Tim and Eric は reorg 文案へ |
+| **今** | **6e**——vaporwave 接続（BuzzFeed cousin・r/vaporwave chillwave） |
 | 6a | 計画書完成（承認待ち可） |
 | 6b 完了 | **6c** → **6b-reorg** → **6e** → **6d**（6d は最小限・最後でも可） |
 | 6b〜6e（＋reorg）完了 | **6f**（任意）——年表厚み・MASSAGE 9・slimepunk（reorg と統合可） |
@@ -350,4 +351,4 @@
 
 ---
 
-*更新：2026-06-02。6c 草稿反映済み。次は 6b-reorg。*
+*更新：2026-06-02。6b-reorg 反映済み。次は 6e。*
