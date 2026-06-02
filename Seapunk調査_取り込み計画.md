@@ -32,9 +32,9 @@
 | c03 | §9 | Ultrademon「ideology／not genre」 | aesthetic 節 | 追記 | 6c | 1 | [RBMA ep5](https://daily.redbullmusicacademy.com/2013/03/hashtags-tumblrwave/) | ☑ | ☑ | 文案 6c-2 |
 | c04 | §9 | Dodecahedron "aesthetics"・逆説 | aesthetic 節 | 追記 | 6c | 1〜2 | RBMA ep5, §2-8 timeline | ☑ | ☑ | 文案 6c-2 |
 | c05 | §9 | H∆SHTAG$ ep5（独立 #Seapunk なし） | aesthetic or 遺産 | 追記 | 6c | 1 | [RBMA シリーズ](https://daily.redbullmusicacademy.com/2013/03/hashtags-video-series/) | ☑ | ☑ | 文案 6c-2。厚みは 6b-reorg |
-| d01 | §2-3 | Pictureplane Pitchfork 2009-12 | witch house 小節 | 最小限 | 6d | 0〜1 | [timeline](https://witch-house.com/thetimeline/) | ☐ | ☐ | 6a で A/B 決定 |
-| d02 | §2-8 | KingTreehouse Last.fm（2010-01-28） | witch house 小節 | 最小限 | 6d | 1 | timeline | ☐ | ☐ | c04 と接続 |
-| d03 | §2-1, §2-6 | LiveJournal／Mario Zoots | — | 参照のみ | — | 0 | timeline | — | — | 主役化しない |
+| d01 | §2-3 | Pictureplane Pitchfork 2009-12 | witch house 小節 | 追記 | 6d | 1 | [timeline](https://witch-house.com/thetimeline/) | ☑ | ☑ | 2026-06-02 |
+| d02 | §2-8 | KingTreehouse Last.fm（2010-01-28） | witch house 小節 | 追記 | 6d | 1 | timeline | ☑ | ☑ | 2026-06-02 |
+| d03 | §2-1, §2-2, §2-6 | LiveJournal／Salem／Mario Zoots | witch house 小節 | 追記 | 6d | 2 | timeline | ☑ | ☑ | 2026-06-02 |
 | d04 | §12 | レーベル比較表 | — | 参照のみ | — | 0 | §12-6 | — | — | 本文に入れない |
 | e01 | §8-4 | BuzzFeed vaporwave cousin | seapunk 遺産 | 追記 | 6e | 1 | [BuzzFeed OK](https://www.buzzfeed.com/perpetua/why-rihanna-going-seapunk-is-totally-okay), [DMY Harper](https://dmy.co/news/adam-harper-vaporwave) | ☑ | ☑ | 2026-06-02 |
 | e02 | §10 | 視覚継承対照 | seapunk 遺産 | 追記 or 参照 | 6e | 0〜1 | [Wiki Seapunk](https://aesthetics.fandom.com/wiki/Seapunk) | ☑ | — | 文案で見送り（L252 既出） |
@@ -44,9 +44,9 @@
 | ref07 | §11 | 発生モデル六段階 | — | 参照のみ | — | 0 | §11 | — | — | 6b 完了時に矛盾確認のみ |
 | ref08 | §13 | 未解決課題 | — | 参照のみ | — | 0 | §13 | — | — | |
 | ref09 | §14 | 参照一覧 | — | 参照のみ | — | 0 | §14 | — | — | 脚注プール |
-| f-vice | VICE 年表全文 | Lil Internet＋Lil Government 作 | 第2章 seapunk（新節 or 小節） | 追記 | **6f** | 3〜6 | [掲載](https://www.vice.com/en/article/r795xr/seapunk-washes-up)／[Wayback](https://web.archive.org/web/20201112024823/https://www.vice.com/en/article/r795xr/seapunk-washes-up) | ☐ | ☐ | Fig. は Wayback。作業用 [`vice_seapunkwashesup.md`](./vice_seapunkwashesup.md)。**6b 外** |
-| f-massage | MASSAGE 9 誌面 | VICE 年表・日訳・対談並記 | 第2章 seapunk または遺産 | 追記 | **6f** | 1〜2 | [MASSAGE 9](https://themassage.jp/archives/1) | ☐ | ☐ | Lil Internet／Ultrademon インタビュー並置。**6b 外** |
-| f-slime | slimepunk | Zombelle 命名・seapunk 派生 | 第2章 seapunk 遺産付近 | 最小限 | **6f** | 0〜1 | [Aesthetics Wiki — Slimepunk](https://aesthetics.fandom.com/wiki/Slimepunk)、[Silent Generation ep22](https://www.iheart.com/podcast/1323-silent-generation-130572482/episode/ep-22-seapunk-2-w-zombelle-172547976/) | ☐ | ☐ | 細かく書かない。**6b 外** |
+| f-vice | VICE 年表全文 | Lil Internet＋Lil Government 作 | 第2章 seapunk（新節 or 小節） | 追記 | **6f** | 3〜6 | [掲載](https://www.vice.com/en/article/r795xr/seapunk-washes-up)／[Wayback](https://web.archive.org/web/20201112024823/https://www.vice.com/en/article/r795xr/seapunk-washes-up) | ☑ | ☐ | 文案 6f-1a/1b（方針 A＝reorg 補足）。厚い 6f-1B は見送り |
+| f-massage | MASSAGE 9 誌面 | VICE 年表・日訳・対談並置 | 第2章 seapunk または遺産 | 追記 | **6f** | 1〜2 | [MASSAGE 9](https://themassage.jp/archives/1) | ☑ | ☐ | 文案 6f-2。物理書籍確認済 |
+| f-slime | slimepunk | Zombelle 命名・seapunk 派生 | 第2章 seapunk 遺産付近 | 最小限 | **6f** | 0〜1 | [Aesthetics Wiki — Slimepunk](https://aesthetics.fandom.com/wiki/Slimepunk)、[Silent Generation ep22](https://www.iheart.com/podcast/1323-silent-generation-130572482/episode/ep-22-seapunk-2-w-zombelle-172547976/) | ☑ | ☐ | 文案 6f-3 |
 
 **未分類ゼロ**：調査ノート目次 §1〜14 は上表でカバー。VICE 年表の展開は **f-vice** で担当（調査ノートは作業用・草稿に引用しない）。
 
@@ -103,9 +103,9 @@
 | §8-1 メディア網羅列挙 | 過密 |
 | §2 LiveJournal 厚い追記 | witch house 小節を主役にしない |
 
-**6d の二択**（6a で方針のみ決定、文案は 6d フェーズ）：  
-- **A**：Pitchfork 日付＋Last.fm タグ各1文（推奨・最小限）  
-- **B**：調査ノート正本・草稿 witch house 小節は現状維持
+**6d の方針**（2026-06-02 改訂）：`### hypnagogic popとwitch house` の **L143 を差し替え**、調査ノート §2（2-1〜2-8）を日付付きで還流。§12 比較表全文は入れない。旧「最小限 A／正本維持 B」は廃止。
+
+**6d-review**（[`next_tasks.md`](./next_tasks.md)）：一次反映後の推敲。小節構成・第2章バランス・時系列・seapunk 節との接続を再検討。
 
 ---
 

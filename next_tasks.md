@@ -1,7 +1,7 @@
 # 次のタスク
 
 **正本**：[`草稿.md`](./草稿.md)  
-**次**：フェーズ **6c**——[`Seapunk取込_6c_文案.md`](./Seapunk取込_6c_文案.md) を草稿に反映（6c-1 → 6c-2）  
+**次**：フェーズ **6f** 反映、または **6d-review**（第2章 witch house 小節の推敲）  
 **使い方**：進捗サマリーの **次にやる1件** から着手。各フェーズ完了時に ☐→☑、[`草稿_推敲メモ.md`](./草稿_推敲メモ.md) に改稿ログを追記。
 
 **作業の型**（ファクト追記・Seapunk 取り込み共通）
@@ -27,9 +27,10 @@
 | **6b** | Seapunk 本体の段階取込 | ☑ | 文案→草稿 第2章 seapunk 節（2026-06-02） |
 | **6c** | aesthetic 年表——中間層の段階取込 | ☑ | 文案→草稿 第2章 aesthetic 節（2026-06-02） |
 | **6b-reorg** | seapunk 初期節の叙述順・節構成の整理 | ☑ | 改稿版文案→草稿反映（2026-06-02） |
-| **6d** | witch house 前史——最小限取込 | ☐ | 文案 or 「調査ノート正本」決定 |
+| **6d** | witch house 前史——§2 還流（hypnagogic 小節） | ☑ | 草稿 L143 差し替え（2026-06-02）。**本文は要再検討** → **6d-review** |
+| **6d-review** | 第2章 `### hypnagogic popとwitch house` の推敲 | ☐ | 構成・時系列・第2章バランス・seapunk 節との重複 |
 | **6e** | vaporwave 接続——段階取込 | ☑ | 文案→草稿 `## seapunkの死と遺産`（2026-06-02） |
-| **6f** | Seapunk 後続（VICE 年表節・MASSAGE 9・slimepunk） | ☐ | **6b 外**。計画 f-vice／f-massage／f-slime |
+| **6f** | Seapunk 後続（VICE 年表節・MASSAGE 9・slimepunk） | ☐ | 文案済（方針 A）→ 草稿反映待ち |
 | 7 | ドキュメント整理③（Seapunk 取込後） | ☐ | 第2章分割稿・調査ノート §5 還流 |
 | §8 | 序文改稿・Tumblr For You・KYM Wayback | ☑ | 草稿・分割稿一部（§8-1〜3、2026-06-01） |
 | **§9** | aesthetic 包含関係・語法分析 | ☐ | **6b〜6e（＋7）完了後** |
@@ -43,7 +44,7 @@
 1, 2 完了後 → 6a → 6b → 6c（＋手動調査の年表分）→ 6b-reorg
                     ↘ 6d（6b と並行可・最小限）
                     ↘ 6e（6b 後・手動調査の cousin／chillwave 分）
-6b〜6e（＋6b-reorg）完了後 → 6f（任意・6b外）→ 7 → §9 ＋ §9-man
+6b〜6e（＋6b-reorg）完了後 → 6f（任意・6b外）→ 6d-review（witch house 小節）→ 7 → §9 ＋ §9-man
 ```
 
 ---
@@ -72,6 +73,7 @@
 | **H∆SHTAG$ ep5（#Tumblrwave）の厚い記述** | **6b-reorg 後続** ☐ | **6c-2** で aesthetic 節に反映済み。seapunk 節への Nate Auerbach・"We're not a web joke" 等は reorg **反映用から除外**（文案除外箱）。任意で seapunk 節 or 6f 後 |
 | **BuzzFeed 激怒——M.I.A.・Tim and Eric** | **6b-reorg 後続** ☐ | 激怒記事（Perpetua）本文の**直後**に1段落追記。reorg 反映用には含めない（2026-06-02）。文案：[`Seapunk取込_6b-reorg_文案.md`](./Seapunk取込_6b-reorg_文案.md) 除外箱 L80。Jerome・Reblorg は L238 付近 |
 | **BuzzFeed 激怒——Bebe 引用の読み順** | **6c** | aesthetic 節で Bebe↔激怒記事の引用関係を明示（6c-1）。前節（死）と接続 |
+| **第2章 witch house 小節の推敲** | **6d-review** | 6d で §2 還流済みだが流れ・分量・時系列は未確定。下記 §6d-review |
 
 ---
 
@@ -183,8 +185,10 @@
 | f-massage | [MASSAGE 9](https://themassage.jp/archives/1) 誌面の VICE 年表日本語訳、Lil Internet／Ultrademon インタビュー並記 | 1〜2段落 | 公開誌面 URL。中立的な両者の立場 |
 | f-slime | Zombelle による **slimepunk** 命名（seapunk 派生・近い美学） | 1〜2文 | [Aesthetics Wiki — Slimepunk](https://aesthetics.fandom.com/wiki/Slimepunk)、[Silent Generation ep22](https://www.iheart.com/podcast/1323-silent-generation-130572482/episode/ep-22-seapunk-2-w-zombelle-172547976/) |
 
-- [ ] [`Seapunk調査_取り込み計画.md`](./Seapunk調査_取り込み計画.md) f-vice／f-massage／f-slime 行を参照して文案作成  
-- [ ] 草稿反映（`Seapunk取込_6f_文案.md` 等）  
+**文案**：[`Seapunk取込_6f_文案.md`](./Seapunk取込_6f_文案.md)（**方針 A**＝CMJ・Dazed 補足／MASSAGE 1段落／slimepunk 1段落。年表厚みの **B 案は見送り**）
+
+- [x] [`Seapunk調査_取り込み計画.md`](./Seapunk調査_取り込み計画.md) f-vice／f-massage／f-slime 行を参照して文案作成
+- [ ] 草稿反映（[`Seapunk取込_6f_文案.md`](./Seapunk取込_6f_文案.md)・方針 A 既定）
 
 ---
 
@@ -222,14 +226,34 @@
 
 ---
 
-### 6d. witch house 前史——最小限
+### 6d. witch house 前史——§2 還流（一次反映済み）
 
-**方針**：草稿 witch house 小節を第2章の主役にしない。
+**状態**：[`Seapunk取込_6d_文案.md`](./Seapunk取込_6d_文案.md) に基づき草稿 `### hypnagogic popとwitch house`（L143 付近）を差し替え済み（2026-06-02）。seapunk 節 `## witch-house.com` の開設日重複は圧縮済み。
 
-**6a で決める二択**：A. 最小追記（2〜3文＋リンク）／ B. 調査ノート正本・草稿現状維持
+**注意**：一次反映後、**小節全体の推敲は未完了**。続きは **§6d-review**。
 
-**文案**：`Seapunk取込_6d_文案.md`（A の場合のみ）  
-**反映先**：`### hypnagogic popとwitch house`
+- [x] 文案・§2 還流の草稿反映  
+- [ ] **6d-review**（下記）
+
+---
+
+### 6d-review. 第2章 witch house 小節の推敲
+
+**対象**：[`草稿.md`](./草稿.md) `### hypnagogic popとwitch house`（L141 hypnagogic pop ＋ witch house 段落群）。正本素材：[`Seapunk 詳細調査ノート.md`](./Seapunk%20詳細調査ノート.md) §2；反映ログ：[`Seapunk取込_6d_文案.md`](./Seapunk取込_6d_文案.md)
+
+**タイミング**：**6f 反映の前後どちらでも可**。第2章全体の語彙バランスを見るなら **7（分割稿同期）の直前**でもよい。§9-man とは独立（witch house は *aesthetic* 語法年表の主題ではない）。
+
+**検討論点（チェックリスト）**
+
+- [ ] **小節の役割**：chillwave／hypnagogic pop と同じ見出し下に置くか、witch house を独立小節（`### witch house`）に分けるか
+- [ ] **分量**：第2章序盤で seapunk 前史が長くなりすぎていないか（削る／移す候補：Salem 媒体列挙、Disaro／Tri Angle の詳しさ）
+- [ ] **時系列**：段落内の日付順（例：2008年 Salem の月次イベントと Mario Zoots 2008-03-29 の前後）
+- [ ] **語彙の重複**：*aesthetic* の一般用法（Cluster Mag 等）と internet aesthetics の用法の境界（後述 aesthetic 節との接続1文で足りるか）
+- [ ] **seapunk 節との接続**：末尾の seapunk 橋渡し文、前節 `## witch-house.com` との役割分担
+- [ ] **第2章分割稿**：[`第2章_命名の時代.md`](./第2章_命名の時代.md) への同期（フェーズ 7 と兼ねるか、先に差分メモだけ書くか）
+- [ ] 改稿後：[`草稿_推敲メモ.md`](./草稿_推敲メモ.md) に 6d-review ログ
+
+**成果物（想定）**：改稿文案 `Seapunk取込_6d-review_文案.md`（差分のみ）または `草稿_推敲メモ.md` の論点メモのみ
 
 ---
 
@@ -325,9 +349,9 @@
 
 | 今 | 次の1手 |
 |---|---|
-| **今** | **6d**（最小限）または **6f**（任意）——6e 反映済み |
+| **今** | **6f** 反映、または **6d-review**（witch house 小節推敲） |
 | 6a | 計画書完成（承認待ち可） |
-| 6b 完了 | **6c** ☑ → **6b-reorg** ☑ → **6e** ☑ → **6d**（6d は最小限・最後でも可） |
+| 6b 完了 | **6c** ☑ → **6b-reorg** ☑ → **6e** ☑ → **6d** ☑ → **6d-review** ☐ |
 | 6b〜6e（＋reorg）完了 | **6f**（任意）——年表厚み・MASSAGE 9・slimepunk（reorg と統合可） |
 | 6b〜6e（＋任意6f）完了 | **7**——分割稿同期・後記 L772 |
 | 7 完了 | **§9 ＋ §9-man**——語法年表＋手動調査サマリー反映 → aesthetic 節改稿 |
@@ -352,4 +376,4 @@
 
 ---
 
-*更新：2026-06-02。6e 反映済み。次は 6d（最小限）・6f（任意）・6b-reorg 後続（M.I.A.）。*
+*更新：2026-06-02。6d 一次反映済み。**6d-review**（第2章 witch house 小節推敲）を追加。次は 6f・6d-review・6b-reorg 後続（M.I.A.）。*
