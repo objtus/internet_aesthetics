@@ -28,7 +28,7 @@
 | **6c** | aesthetic 年表——中間層の段階取込 | ☑ | 文案→草稿 第2章 aesthetic 節（2026-06-02） |
 | **6b-reorg** | seapunk 初期節の叙述順・節構成の整理 | ☑ | 改稿版文案→草稿反映（2026-06-02） |
 | **6d** | witch house 前史——最小限取込 | ☐ | 文案 or 「調査ノート正本」決定 |
-| **6e** | vaporwave 接続——段階取込 | ☐ | 文案→草稿 seapunk 遺産／vaporwave 節 |
+| **6e** | vaporwave 接続——段階取込 | ☐ | [`Seapunk取込_6e_文案.md`](./Seapunk取込_6e_文案.md) 作成済み→草稿反映待ち |
 | **6f** | Seapunk 後続（VICE 年表節・MASSAGE 9・slimepunk） | ☐ | **6b 外**。計画 f-vice／f-massage／f-slime |
 | 7 | ドキュメント整理③（Seapunk 取込後） | ☐ | 第2章分割稿・調査ノート §5 還流 |
 | §8 | 序文改稿・Tumblr For You・KYM Wayback | ☑ | 草稿・分割稿一部（§8-1〜3、2026-06-01） |
@@ -239,7 +239,7 @@
 
 **想定内容**：BuzzFeed「more thematically coherent cousin」（§8-4）／seapunk→vaporwave 視覚継承（§10・補強のみ）／Vatican Vibes 等は射程外なら参照のみ
 
-**文案**：`Seapunk取込_6e_文案.md`  
+**文案**：[`Seapunk取込_6e_文案.md`](./Seapunk取込_6e_文案.md)（6e-1・6e-2。e02 見送り・e03 反映なし）  
 **反映先**：`## seapunkの死と遺産` 末尾 **または** DMY 節直前の橋渡し1段落
 
 **手動調査からの追記候補**（[`aestheticに関する手動調査.md`](./aestheticに関する手動調査.md) サマリー）：BuzzFeed 擁護の vaporwave cousin（11/17）／**r/vaporwave** 概要の chillwave 系譜（Wayback 2012-07-12）。§9-man 本体とは分担。
