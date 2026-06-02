@@ -69,6 +69,9 @@
 | **Floral Shoppe と "aesthetic" コメント** | **§9-man** | 調査完了（2026-06-02）。反映は §9-man 本体（L256 緩和・Wayback 否定的事実）。6c-3 却下の根拠 |
 | **aesthetic 手動調査（X・Wayback・Reddit）** | **§9-man** | **調査完了**（正本サマリー済み）。**草稿反映は未** → 下記 §9-man |
 | **Google Trends（aesthetic 等）** | **§9-man 追補** | 任意。手動調査「未着手」行と突合 |
+| **H∆SHTAG$ ep5（#Tumblrwave）の厚い記述** | **6b-reorg** | **6c-2** は初出・語彙・Zombelle Tumblr 起源1文のみ。Nate Auerbach・"We're not a web joke"・シリーズ紹介は reorg。正本：調査ノート §9・[`Seapunk取込_6c_文案.md`](./Seapunk取込_6c_文案.md) 執筆方針メモ |
+| **BuzzFeed 激怒——M.I.A.・Tim and Eric** | **6b-reorg**（推奨） | Perpetua §8-2a。`XXXO`（2010）・*Tim and Eric* の early Web graphics 前史。**Jerome LOL・Reblorg は草稿 L230 済み**（追記は任意） |
+| **BuzzFeed 激怒——Bebe 引用の読み順** | **6c** | aesthetic 節で Bebe↔激怒記事の引用関係を明示（6c-1）。前節（死）と接続 |
 
 ---
 
@@ -92,7 +95,7 @@
 | seapunk 三極・内部対立 | §4, §7 | 第2章 seapunk 節 | 叙述修正 | **6b** |
 | Tropicult／Tundra Dubs／w-h 接点 | §5, §6 | 第2章 seapunk（Tropicult 直後） | 追記 | **6b** |
 | BuzzFeed 激怒・擁護の詳細 | §8-2a, §8-4 | 第2章 seapunk の死 | 一部追記／参照 | **6b** |
-| H∆SHTAG$ ep5 発言 | §9 | 第2章 seapunk 遺産 or aesthetic | 追記 | **6c** |
+| H∆SHTAG$ ep5 発言 | §9 | aesthetic 節＝語彙・年表（**6c-2**）；seapunk 節＝#Tumblrwave 厚み（**6b-reorg**） | 追記・分割 | **6c**＋**6b-reorg** |
 | Perpetua／Bebe Zeva の aesthetic | §8-2a | 第2章 aesthetic 節 | 年表に挿入 | **6c** |
 | Dodecahedron「aesthetics」 | §9 | 第2章 aesthetic 節 | 追記 | **6c** |
 | witch house 前史・レーベル | §2, §12 | 第2章 witch house 小節 | 最小限 or 正本維持 | **6d** |
@@ -146,7 +149,7 @@
 | 順 | 内容 | トーン |
 |---|---|---|
 | 1 | VICE 年表（@LILGOVERNMENT／@LILINTERNET 作）を軸に 2011夏〜2012春 | 一次叙述の主語はふたり側。対立は「あった」と伝える |
-| 2 | Zombelle／Ultrademon：Tropicult（Tundra Dubs）・Coral・Volume 1 | 善悪ではなく**制度化の第二の流れ** |
+| 2 | Zombelle／Ultrademon：Tropicult（Tundra Dubs）・Coral・Volume 1 | 善悪ではなく**制度化の第二の流れ**。**H∆SHTAG$ ep5（#Tumblrwave）**の当事者発言（Tumblr 起源・"We're not a web joke"）は Lil Internet 年表偏重の補正としてここが本丸（aesthetic 節 6c-2 は語彙・年表のみ） |
 | 3 | witch-house.com：懐疑と受容 | 隣接シーンの距離 |
 | 4 | 三つの流れのまとめ（現 6b-1 末尾相当） | 節末または独立小見出し |
 
@@ -160,7 +163,11 @@
 - [ ] 6c 完了を確認してから文案着手  
 - [ ] 6f f-vice との重複・統合方針を文案冒頭で決める  
 - [ ] L220 前後の Detrick／嘘の文はトーン調整または年表節へ移動  
+- [ ] **H∆SHTAG$**：`Seapunk取込_6b-reorg_文案.md` に ep5「Don't Call It #Tumblrwave」段落（2〜3段落）。RBMA シリーズ1文／独立 #Seapunk 回なし／Zombelle Tumblr 起源・"We're not a web joke"／Nate Auerbach（Tumblr）の seapunk 言及。6c-2 と重複しないよう aesthetic 節は触らない  
+- [ ] **BuzzFeed 激怒の残り**：M.I.A. `XXXO`（主流接触の前史）、Tim and Eric（early Web graphics の大衆化）を激怒記事文脈で1段落ずつ（調査ノート §8-2a）。Jerome LOL・Reblorg は L230 済みなら重複追記しない  
 - [ ] 草稿反映・目視照合  
+
+**正本（6b-reorg 追記分）**：調査ノート §8-2a（Perpetua）、§9（H∆SHTAG$）、[RBMA ep5](https://daily.redbullmusicacademy.com/2013/03/hashtags-tumblrwave/)
 
 ---
 
@@ -190,8 +197,22 @@
 
 - [x] 文案作成（6c-1, 6c-2 必須）  
 - [x] 6c-3 却下（L254・Floral Shoppe コメント年代の理由は横断項目表）  
-- [x] 6c-1・6c-2 文案確定（2026-06-02）  
-- [ ] 草稿反映（**6c-1 → 6c-2 のみ**）  
+- [x] 6c-1・6c-2 文案確定（2026-06-02。Bebe↔BuzzFeed・H∆SHTAG$ 書き分け）  
+- [ ] 草稿反映（**6c-1 → 6c-2 のみ**）← **推奨：今すぐ可**（下記）
+
+**6c 反映の判断（2026-06-02）**
+
+- **進めてよい**：6c-1/2 は確定。Jerome LOL・Reblorg は**前節 L230 済み**で 6c と矛盾しない。M.I.A.・Tim and Eric・ep5 の厚みは **6b-reorg** にタスク化済み（本節に入れない）。
+- **反映後に確認**：年表順（Floral Shoppe → 6c-1 → 6c-2 → Savvy J）、L254 は現状維持、前節 BuzzFeed と 6c-1 の Bebe 引用が読めるか。
+
+**6c で書かないもの（後続タスク）**
+
+| 素材 | 担当 |
+|---|---|
+| H∆SHTAG$ ep5 の厚い記述（#Tumblrwave 全体） | **6b-reorg** |
+| M.I.A. `XXXO`、Tim and Eric | **6b-reorg** |
+| Jerome LOL・Reblorg の追記 | 任意（**L230 済み**なら省略可） |
+| BuzzFeed 擁護・vaporwave cousin | **6e** |
 
 **年表挿入位置**（確定）：Cluster Mag 2011-12（既出）→ L254 現状維持 → Floral Shoppe 段落（既出・**コメント aesthetic の開始時期は不明**）→ **6c-1** Perpetua/Bebe 2012-11 → **6c-2** H∆SHTAG$ 2013-03-06 → Savvy J・FrankJavCee・KYM（既出）
 
@@ -302,7 +323,7 @@
 
 | 今 | 次の1手 |
 |---|---|
-| **今** | **6c**——[`Seapunk取込_6c_文案.md`](./Seapunk取込_6c_文案.md) チェック → 草稿反映 |
+| **今** | **6c 草稿反映**——6c-1 → 6c-2（[`Seapunk取込_6c_文案.md`](./Seapunk取込_6c_文案.md)）。M.I.A.・ep5 厚みは 6b-reorg 待ち |
 | 6a | 計画書完成（承認待ち可） |
 | 6b 完了 | **6c** → **6b-reorg** → **6e** → **6d**（6d は最小限・最後でも可） |
 | 6b〜6e（＋reorg）完了 | **6f**（任意）——年表厚み・MASSAGE 9・slimepunk（reorg と統合可） |
@@ -329,4 +350,4 @@
 
 ---
 
-*更新：2026-06-02。§9-man（aesthetic 手動調査の草稿反映）追加。手動調査は調査完了・反映は 6c／6e／§9 に分割。*
+*更新：2026-06-02。H∆SHTAG$／BuzzFeed（M.I.A.・Tim and Eric）を 6b-reorg にタスク化。6c 反映推奨を明記。Jerome・Reblorg は L230 済み。*
