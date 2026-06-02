@@ -1,7 +1,7 @@
 # 次のタスク
 
 **正本**：[`草稿.md`](./草稿.md)  
-**次**：フェーズ **6a**（[`Seapunk調査_取り込み計画.md`](./Seapunk調査_取り込み計画.md) の表を完成）  
+**次**：フェーズ **6c**——[`Seapunk取込_6c_文案.md`](./Seapunk取込_6c_文案.md) を草稿に反映（6c-1 → 6c-2）  
 **使い方**：進捗サマリーの **次にやる1件** から着手。各フェーズ完了時に ☐→☑、[`草稿_推敲メモ.md`](./草稿_推敲メモ.md) に改稿ログを追記。
 
 **作業の型**（ファクト追記・Seapunk 取り込み共通）
@@ -32,17 +32,18 @@
 | **6f** | Seapunk 後続（VICE 年表節・MASSAGE 9・slimepunk） | ☐ | **6b 外**。計画 f-vice／f-massage／f-slime |
 | 7 | ドキュメント整理③（Seapunk 取込後） | ☐ | 第2章分割稿・調査ノート §5 還流 |
 | §8 | 序文改稿・Tumblr For You・KYM Wayback | ☑ | 草稿・分割稿一部（§8-1〜3、2026-06-01） |
-| §9 | aesthetic 包含関係・語法分析 | ☐ | **6b〜6e（＋7）完了後** |
+| **§9** | aesthetic 包含関係・語法分析 | ☐ | **6b〜6e（＋7）完了後** |
+| **§9-man** | [`aestheticに関する手動調査.md`](./aestheticに関する手動調査.md)——草稿反映 | ☐ | **§9 の文案・改稿と一体**（下記タイミング表） |
 
 **依存関係**
 
 ```
 1 → 2 → 3 ─────────────────────────→ 5
               4（第3〜5章）──────────↗
-1, 2 完了後 → 6a → 6b → 6c → 6b-reorg
+1, 2 完了後 → 6a → 6b → 6c（＋手動調査の年表分）→ 6b-reorg
                     ↘ 6d（6b と並行可・最小限）
-                    ↘ 6e（6b 後・DMY 節との前後を確認）
-6b〜6e（＋6b-reorg）完了後 → 6f（任意・6b外）→ 7 → §9
+                    ↘ 6e（6b 後・手動調査の cousin／chillwave 分）
+6b〜6e（＋6b-reorg）完了後 → 6f（任意・6b外）→ 7 → §9 ＋ §9-man
 ```
 
 ---
@@ -65,9 +66,9 @@
 | slimepunk（Zombelle 命名・seapunk 派生） | **6f** | [Wiki](https://aesthetics.fandom.com/wiki/Slimepunk)、ep22 podcast |
 | **seapunk 初期節の叙述順・節分割** | **6b-reorg** | 6c 後・6e 前。L220 付近のトーン含む。下記 §6b-reorg |
 | **aesthetic 節 L254「転機は…」** | **6b-reorg または §9** | **6c-3 却下**（2026-06-02）。6c は 6c-1/2 のみ反映。Cluster Mag 直後の接続文・年表順は後続フェーズで整理 |
-| **Floral Shoppe と "aesthetic" コメント** | **§9 またはファクト確認** | アルバム／再投稿は 2012-02-14。コメント欄への "aesthetic" 書き込み**開始時期は不明**（KYM は結びつきを述べるが日付なし）。**手動調査**（[`aestheticに関する手動調査.md`](./aestheticに関する手動調査.md)）：Wayback 2013-06 の保存コメントに "aesthetic" なし。X `"floral shoppe" AND "aesthetic"` 最古は **2014-05** 付近。6c-3 却下の根拠を補強 |
-| **aesthetic 手動調査（X・Wayback・Reddit）** | **§9／6c 後** | 正本：[`aestheticに関する手動調査.md`](./aestheticに関する手動調査.md)。リサフランク420：2013-06 Wayback でコメント232・閲覧分に aesthetic なし／Reddit 三サブ作成日・NA リンク収集済み |
-| **Google Trends（aesthetic 等）** | **§9 追補** | vaporwave／internet aesthetic／seapunk 等。再生数推移と突合 |
+| **Floral Shoppe と "aesthetic" コメント** | **§9-man** | 調査完了（2026-06-02）。反映は §9-man 本体（L256 緩和・Wayback 否定的事実）。6c-3 却下の根拠 |
+| **aesthetic 手動調査（X・Wayback・Reddit）** | **§9-man** | **調査完了**（正本サマリー済み）。**草稿反映は未** → 下記 §9-man |
+| **Google Trends（aesthetic 等）** | **§9-man 追補** | 任意。手動調査「未着手」行と突合 |
 
 ---
 
@@ -218,6 +219,34 @@
 **文案**：`Seapunk取込_6e_文案.md`  
 **反映先**：`## seapunkの死と遺産` 末尾 **または** DMY 節直前の橋渡し1段落
 
+**手動調査からの追記候補**（[`aestheticに関する手動調査.md`](./aestheticに関する手動調査.md) サマリー）：BuzzFeed 擁護の vaporwave cousin（11/17）／**r/vaporwave** 概要の chillwave 系譜（Wayback 2012-07-12）。§9-man 本体とは分担。
+
+---
+
+### aesthetic 手動調査——草稿反映（**§9-man**）
+
+**背景（2026-06-02）**  
+[`aestheticに関する手動調査.md`](./aestheticに関する手動調査.md) の**調査・サマリーは完了**。以降の追記（Google Trends 等）は任意。**草稿への反映**は、既存フェーズと重ならないよう**タイミングを分割**する。
+
+| タイミング | 反映する内容 | 草稿の行先 |
+|---|---|---|
+| **6c 反映（今）** | [`Seapunk取込_6c_文案.md`](./Seapunk取込_6c_文案.md) 6c-1・6c-2 のみ。手動調査は**裏付け**（Bebe・Perpetua・ep5）— 重複追記は不要 | `## 「aesthetic」という語` 年表（L256 直後） |
+| **6e** | BuzzFeed cousin・seapunk 以降の vaporwave 言語化；r/vaporwave **chillwave 系譜**（1〜2文＋Wayback） | `## seapunkの死と遺産` 末尾 or DMY 節橋渡し |
+| **§9 ＋ §9-man（本体）** | L256 Floral Shoppe／**KYM 叙述の緩和**；YouTube Wayback（2013-06・aesthetic なしの限定否定）；X 検索（2026-06-02 手動・限定付き）；Reddit 三サブ・NA（Furtherfield）；11月騒動と事後知名度のずれ；Bebe を aesthetic 節の**叙述軸** | aesthetic 節全体・図式 L112–117 |
+| **§9-man 追補（任意）** | Google Trends；削除動画の代替 URL 整理 | 同節または脚注 |
+
+**成果物**：§9 文案 `aesthetic_語法年表_文案.md` 作成時に、手動調査**冒頭サマリー**を一次素材とする（調査ノート § 参照は文案の執筆メモのみ）。
+
+**チェックリスト**
+
+- [ ] **6c**：6c-1 → 6c-2 を草稿反映（手動調査と矛盾しないか目視）  
+- [ ] **6e**：上表「6e」行の追記候補を文案に落とす  
+- [ ] **§9-man**：上表「§9 本体」行を `aesthetic_語法年表_文案.md` に落とし → 草稿改稿  
+- [ ] 正文に「調査サマリー §…」等を入れていないか（公開 URL・限定日付の操作記録のみ）  
+- [ ] [`草稿_推敲メモ.md`](./草稿_推敲メモ.md) に §9-man 完了ログ  
+
+**ブロック**：§9-man 本体 4〜6時間（§9 節と同時進行可）。6c・6e 分は各フェーズの文案時間に含む。
+
 ---
 
 ### 7. ドキュメント整理③（Seapunk 取込後）
@@ -233,19 +262,20 @@
 
 ## 9. aesthetic 包含関係（**6b〜6e＋7 完了後**）
 
-**前提**：6c（Perpetua 等）・6e（seapunk→vaporwave）を草稿に入れたうえで、L112 付近の**叙述骨格**を再確定する。
+**前提**：6c（Perpetua 等）・6e（seapunk→vaporwave）を草稿に入れたうえで、L112 付近の**叙述骨格**を再確定する。**§9-man**（手動調査の草稿反映）と**同一文案**で進めるのが推奨。
 
-**論点**：KYM 2015（aesthetic＝vaporwave 下位）と CARI/Wiki 2020年代（aesthetic＝上位）を同一節で扱う際の時制・因果。包含関係の「逆転」を **KYM サイト分類**／**語彙の汎化**／**CARI/Wiki 制度化**の三段に分けるか。
+**論点**：KYM 2015（aesthetic＝vaporwave 下位）と CARI/Wiki 2020年代（aesthetic＝上位）を同一節で扱う際の時制・因果。包含関係の「逆転」を **KYM サイト分類**／**語彙の汎化**／**CARI/Wiki 制度化**の三段に分けるか。Floral Shoppe コメント起源説は手動調査で**弱め**（§9-man）。
 
 **正本・素材**
 
 - 保留論点・KYM 年表：[`序文_改稿.md`](./序文_改稿.md)  
 - FrankJavCee 系列：[`FrankJavCee文字起こし.md`](./FrankJavCee文字起こし.md)  
+- **手動調査サマリー**：[`aestheticに関する手動調査.md`](./aestheticに関する手動調査.md)（調査完了・反映は §9-man）  
 - 成果物（作成予定）：`aesthetic_語法年表_文案.md`
 
-**完了時**
+**完了時**（§9-man チェックリストと兼ねる）
 
-- [ ] 草稿 第2章 aesthetic 節（KYM 段落〜分析末尾）を §9 文案で改稿  
+- [ ] 草稿 第2章 aesthetic 節（KYM 段落〜分析末尾）を §9 文案で改稿（**§9-man 素材を反映**）  
 - [ ] 図式キャプション（L114–117）と本文の時制・因果を一致  
 - [ ] [`草稿_推敲メモ.md`](./草稿_推敲メモ.md) に改稿ログ  
 
@@ -277,7 +307,9 @@
 | 6b 完了 | **6c** → **6b-reorg** → **6e** → **6d**（6d は最小限・最後でも可） |
 | 6b〜6e（＋reorg）完了 | **6f**（任意）——年表厚み・MASSAGE 9・slimepunk（reorg と統合可） |
 | 6b〜6e（＋任意6f）完了 | **7**——分割稿同期・後記 L772 |
-| 7 完了 | **§9**——語法年表＋包含関係確定 → 草稿 aesthetic 節改稿 |
+| 7 完了 | **§9 ＋ §9-man**——語法年表＋手動調査サマリー反映 → aesthetic 節改稿 |
+
+**§9-man の分割（再掲）**：6c＝年表のみ／6e＝cousin・chillwave／§9＝L256・KYM・Wayback・X・Reddit・包含関係
 
 ---
 
@@ -297,4 +329,4 @@
 
 ---
 
-*更新：2026-06-02。6b-reorg タスク追加（6c 後・6e 前）。*
+*更新：2026-06-02。§9-man（aesthetic 手動調査の草稿反映）追加。手動調査は調査完了・反映は 6c／6e／§9 に分割。*
