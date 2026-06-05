@@ -88,6 +88,7 @@
 | **草稿バグ L564・L512** | **rev-11** ☑ | 2026-06-02 修正・推敲メモ 続39 |
 | **musicplusghost.md 参考箇所の洗い出し** | **src-1** ☐ | 憑在論・Ghost Box・郊区派／90年代ゲーム再読・日本憑在ガイド。草稿 L173 に MUSIC+GHOST は既出——**追記候補のマッピング**が本体 |
 | **supersuper.md → SuperSuper! Magazine 追記** | **src-2** ☐ | Vol 1 #22 Real Beyond・号別年表・PC Music 前史（AG Cook 等）。草稿 L258 は1段落のみ |
+| **r/witchhouse 歴史スレッドの参照追記** | **src-3** ☐ | [Witch House Music History](https://www.reddit.com/r/witchhouse/comments/1pe4re5/witch_house_music_history/?tl=ja)（日本語訳）を草稿に「詳しい」参照として追記 |
 
 ---
 
@@ -122,6 +123,7 @@
 |---|---|---|---|
 | src-1 | [`musicplusghost.md`](./musicplusghost.md) から参考箇所を洗い出し、草稿への接点をマッピング | ☐ | `第2章取込_musicplusghost_文案.md`（作成予定） |
 | src-2 | [`supersuper.md`](./supersuper.md) に基づき SuperSuper! Magazine を追記 | ☐ | `第2章取込_SuperSuper_文案.md`（作成予定） |
+| src-3 | [r/witchhouse「Witch House Music History」](https://www.reddit.com/r/witchhouse/comments/1pe4re5/witch_house_music_history/?tl=ja) を参照として追記 | ☐ | `第2章取込_witchhouse歴史参照_文案.md`（作成予定） |
 
 ### src-1. musicplusghost.md——参考箇所の洗い出し
 
@@ -168,6 +170,27 @@
 3. [`草稿.md`](./草稿.md) L258 付近（および行先候補節）に反映 → 分割稿同期  
 
 **正本 URL 例**：seapunk 特集 [Wayback](https://web.archive.org/web/20111010162542/http://www.thesupersuper.com/featured/seapunk/)／Megazord flickr [#22 誌面](https://www.flickr.com/photos/megazord/5095163987/in/photostream/)／[witch-house.com タイムライン](https://witch-house.com/thetimeline/)
+
+---
+
+### src-3. r/witchhouse——「Witch House Music History」参照追記
+
+**背景**  
+[r/witchhouse のスレッド「Witch House Music History」](https://www.reddit.com/r/witchhouse/comments/1pe4re5/witch_house_music_history/?tl=ja)（日本語訳表示可）は、コミュニティによる witch house 音楽史の整理として詳しい。草稿の `### witch house` 小節（6d-review 反映済み）や `## witch-house.com` には、現時点で当該スレッドへの言及はない。
+
+**追記方針（案）**
+
+- 本文に長文要約は入れず、**「詳しい歴史はこのサブレディットのスレッドが参照になる」**程度の1文＋URL
+- 行先候補：`### witch house` 末尾、`## witch-house.com` 冒頭、または脚注／後記の参照リスト
+- **rev-9**（witch house 匿名性）・**src-1**（musicplusghost Ch2）と重複しないよう、参照先としての位置づけに留める
+
+**手順**
+
+1. スレッド本文を読み、草稿既述事項との重複を確認  
+2. 文案 `第2章取込_witchhouse歴史参照_文案.md`（1段落以内）  
+3. [`草稿.md`](./草稿.md) 反映 → 分割稿同期  
+
+**正本 URL**：[https://www.reddit.com/r/witchhouse/comments/1pe4re5/witch_house_music_history/?tl=ja](https://www.reddit.com/r/witchhouse/comments/1pe4re5/witch_house_music_history/?tl=ja)
 
 ---
 
@@ -384,7 +407,7 @@
 | **今** | **rev-7**（三読み＋2016 vaporwave 政治化） |
 | 6a〜6f・6d-review・7・§9 | ☑ |
 | rev-*（レビュー論点） | ☐——[`草稿_レビュー論点メモ`](./草稿_レビュー論点メモ.md) §13 |
-| src-*（外部調査ノート） | ☐——[`musicplusghost.md`](./musicplusghost.md)／[`supersuper.md`](./supersuper.md) |
+| src-*（外部調査ノート） | ☐——[`musicplusghost.md`](./musicplusghost.md)／[`supersuper.md`](./supersuper.md)／[r/witchhouse 歴史スレ](https://www.reddit.com/r/witchhouse/comments/1pe4re5/witch_house_music_history/?tl=ja) |
 | 任意 | 6b-reorg 後続（M.I.A.）／L254 接続文／rev-12 Caretaker |
 
 **§9-man の分割（再掲）**：6c＝年表のみ／6e＝cousin・chillwave／§9＝L256・KYM・Wayback・X・Reddit・包含関係
@@ -414,4 +437,4 @@
 
 ---
 
-*更新：2026-06-02。フェーズ7・§9 完了。次は rev-7。src-1／src-2 を追加。*
+*更新：2026-06-02。フェーズ7・§9 完了。次は rev-7。src-1／src-2／src-3（r/witchhouse 歴史スレ参照）を追加。*
