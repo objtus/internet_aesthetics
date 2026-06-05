@@ -197,8 +197,10 @@ Giolo & Berghman（2023）"The aesthetics of the self"（_First Monday_）が現
 
 - **発生**：2011年6月1日、Twitter
 - **発生パターン**：ジョーク・ミーム → ラベル先行 → 実体後追い（音楽・ファッション・ビジュアルが後から構築）→ **パターンB**（§9参照）
-- **消滅**：2012年11月のRihanna SNL事件後に急速に衰退
-- **遺産**：視覚的語彙がvaporwaveに吸収・継承された
+- **三極構造**（2011年夏〜秋）：① Lil Internet 側の意図なきジョーク ② Zombelle／Ultrademon 側のレーベル制度化 ③ witch-house.com 側の隣接受容と懐疑——収束せず並走（詳細：[`Seapunk 詳細調査ノート.md`](./Seapunk%20詳細調査ノート.md) §4）
+- **音楽的前史**：witch house シーン（Coral Records 出身者・Tropicult 等）を媒介として音楽性が形成
+- **消滅**：2012年11月10日 Rihanna SNL（シーズン38第7話）後にコアコミュニティが離散。「死」より衰退と変容
+- **遺産**：視覚的語彙がvaporwaveに吸収・継承。BuzzFeed 擁護記事（2012-11-17）が vaporwave を seapunk の「thematically coherent cousin」と位置づけ
 
 ### 5-2. 発生の詳細
 
@@ -282,6 +284,27 @@ Seapunkは**internet aestheticの発生モデルの原型**を示している：
 2. **ラベルに実体が後付けされる**（音楽・ビジュアル・ファッションが同時並行で構築）
 3. **主流に接触した瞬間にオリジナルコミュニティが離散する**
 4. **視覚的遺産は次のaestheticに引き継がれる**
+
+### 5-8. 草稿反映済みファクトの還流（2026-06-02）
+
+Seapunk 取込（6b〜6f）で [`草稿.md`](./草稿.md) に採用した要点。詳細・一次引用は [`Seapunk 詳細調査ノート.md`](./Seapunk%20詳細調査ノート.md) を正本とする。
+
+| 項目 | 要点 |
+|---|---|
+| **Tropicult** | 2011-07-26、Zombelle／Myrrh Ka Ba EP。カタログ **TNDSEAPUNK666**（witch house 圏との接点） |
+| **witch-house.com** | 2011年秋 #seapunk スレッド。懐疑と受容の同居 |
+| **ビジュアル** | Kevin Heckart（Coral Records）が中心的。Cluster Mag（2011-12-05）が artwork クレジット |
+| **BuzzFeed 論争** | 激怒（2012-11-12）／擁護（2012-11-17）。Jerome LOL 流用、Reblorg（2012-08） |
+| **slimepunk** | NYT（2012-03-04）で Chino Amobi が言及。Zombelle が後に命名者と振り返り（ep22） |
+| **vaporwave 接続** | r/vaporwave（2012-07-07 作成）。7月時点の自己記述＝chillwave サブジャンル。Blank Banshee 0（2012-09-01）のタグ付け |
+| **MASSAGE 9** | 2014-01-10 刊行。internet culture 特集。Blank Banshee 0 を seapunk 枠でレビュー。Lil Internet／Ultrademon インタビュー、VICE 年表日訳 |
+| **VICE 年表** | 「Seapunk Washes Up」（2012-03-09）。掲載 URL＋[Wayback](https://web.archive.org/web/20201112024823/https://www.vice.com/en/article/r795xr/seapunk-washes-up)（Fig. 画像） |
+
+**【URL】**
+
+- Seapunk 詳細調査ノート（正本）：[`Seapunk 詳細調査ノート.md`](./Seapunk%20詳細調査ノート.md)
+- VICE 年表（掲載）：https://www.vice.com/en/article/r795xr/seapunk-washes-up
+- MASSAGE 9：https://themassage.jp/archives/1
 
 ---
 
