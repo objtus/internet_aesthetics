@@ -1,7 +1,8 @@
 # 次のタスク
 
 **正本**：[`草稿.md`](./草稿.md)  
-**次**：§9 完了。**任意**：6b-reorg 後続・第4章 Caretaker×liminal・L254 接続文整理  
+**論点バックログ**：[`草稿_レビュー論点メモ.md`](./草稿_レビュー論点メモ.md)（2026-06-02 同期済）  
+**次**：**rev-11**（L564・L512）→ **rev-1**（第1章 Reblorg）→ rev-2/3（第1章土壌）——下記 §レビュー論点  
 **使い方**：進捗サマリーの **次にやる1件** から着手。各フェーズ完了時に ☐→☑、[`草稿_推敲メモ.md`](./草稿_推敲メモ.md) に改稿ログを追記。
 
 **作業の型**（ファクト追記・Seapunk 取り込み共通）
@@ -70,12 +71,44 @@
 | **seapunk 初期節の叙述順・節分割** | **6b-reorg** ☑ | 反映済（2026-06-02）。残りは M.I.A.・ep5 厚み（下記 §6b-reorg 後続） |
 | **aesthetic 節 L254「転機は…」** | **6b-reorg または §9** | **6c-3 却下**（2026-06-02）。6c は 6c-1/2 のみ反映。Cluster Mag 直後の接続文・年表順は後続フェーズで整理 |
 | **Floral Shoppe と "aesthetic" コメント** | **§9-man** | 調査完了（2026-06-02）。反映は §9-man 本体（L256 緩和・Wayback 否定的事実）。6c-3 却下の根拠 |
-| **aesthetic 手動調査（X・Wayback・Reddit）** | **§9-man** | **調査完了**（正本サマリー済み）。**草稿反映は未** → 下記 §9-man |
+| **aesthetic 手動調査（X・Wayback・Reddit）** | **§9-man** ☑ | §9 に統合反映（2026-06-02） |
 | **Google Trends（aesthetic 等）** | **§9-man 追補** | 任意。手動調査「未着手」行と突合 |
 | **H∆SHTAG$ ep5（#Tumblrwave）の厚い記述** | **6b-reorg 後続** ☐ | **6c-2** で aesthetic 節に反映済み。seapunk 節への Nate Auerbach・"We're not a web joke" 等は reorg **反映用から除外**（文案除外箱）。任意で seapunk 節 or 6f 後 |
 | **BuzzFeed 激怒——M.I.A.・Tim and Eric** | **6b-reorg 後続** ☐ | 激怒記事（Perpetua）本文の**直後**に1段落追記。reorg 反映用には含めない（2026-06-02）。文案：[`Seapunk取込_6b-reorg_文案.md`](./Seapunk取込_6b-reorg_文案.md) 除外箱 L80。Jerome・Reblorg は L238 付近 |
 | **BuzzFeed 激怒——Bebe 引用の読み順** | **6c** | aesthetic 節で Bebe↔激怒記事の引用関係を明示（6c-1）。前節（死）と接続 |
-| **第2章 witch house 小節の推敲** | **6d-review** | 文案 ☑。6d-review-1（機械反映）から。下記 §6d-review |
+| **第2章 witch house 小節の推敲** | **6d-review** ☑ | 匿名性の美学は **rev-9** 残 |
+| **第1章 Reblorg 節** | **rev-1** ☐ | 2008–11 感触不足の当面対応。限界明記。[`草稿_レビュー論点メモ`](./草稿_レビュー論点メモ.md) §2・§12 |
+| **第1章土壌（Internet Archaeology・One Terabyte・dump.fm・Jogging・流れ2）** | **rev-2/3** ☐ | GeoCities 節拡張。Internet Archaeology 最優先 |
+| **ムードボード対比** | **rev-4** ☐ | 序文 or 第1章。レビュー §9 |
+| **Megazord 作風修正・再強調** | **rev-5** ☐ | 第1章＋第2章。石膏像一面的記述の解消 |
+| **aesthetic 大仰さ総括＋リサフランク420補足** | **rev-6** ☐ | §9 節内。要素は散在、総括段落なし |
+| **三読み＋2016 vaporwave 政治化** | **rev-7** ☐ | Harper 節延長。`vaporwave とオルタナ右翼` と統合可 |
+| **Eccojams vs Far Side Virtual** | **rev-8** ☐ | 第2章 distroid 付近 |
+| **Jon Rafman 9 Eyes → liminal 前史** | **rev-10** ☐ | 第4章。Caretaker（rev-12）は先送り |
+| **草稿バグ L564・L512** | **rev-11** ☐ | 未完成文・（要検証。） |
+
+---
+
+## レビュー論点メモ由来（rev-*）
+
+正本：[`草稿_レビュー論点メモ.md`](./草稿_レビュー論点メモ.md) §13。§9・6d-review 完了後の改稿バックログ。
+
+| ID | 内容 | 状態 | 文案（案） |
+|---|---|---|---|
+| rev-11 | L564 未完成文・L512 要検証 | ☐ | 直接修正 |
+| rev-1 | 第1章 Reblorg 節 | ☐ | `第1章取込_Reblorg_文案.md` |
+| rev-2 | Internet Archaeology＋One Terabyte | ☐ | `第1章取込_GeoCities土壌_文案.md` |
+| rev-3 | dump.fm／Jogging／流れ2 | ☐ | 上記に統合可 |
+| rev-4 | ムードボード対比 | ☐ | `第1章取込_ムードボード対比_文案.md` |
+| rev-5 | Megazord 修正 | ☐ | `第1章取込_Megazord_文案.md` |
+| rev-6 | aesthetic 大仰さ総括 | ☐ | `第2章取込_aesthetic大仰さ_文案.md` |
+| rev-7 | 三読み＋2016 政治化 | ☐ | `第2章取込_vaporwave政治化_文案.md` |
+| rev-8 | Eccojams vs FSV | ☐ | `第2章取込_FSV対比_文案.md` |
+| rev-9 | witch house 匿名性 | ☐ | `第2章取込_witchhouse匿名性_文案.md` |
+| rev-10 | 9 Eyes → liminal | ☐ | `第4章取込_9eyes前史_文案.md` |
+| rev-12 | Caretaker × liminal／Backrooms | ☐ 先送り | 上記「第4章 Caretaker×liminal」と同一 |
+
+**推奨着手順**：rev-11 → rev-1 → rev-2/3 → rev-5 → rev-6 → rev-7
 
 ---
 
@@ -289,9 +322,10 @@
 
 | 今 | 次の1手 |
 |---|---|
-| **今** | **任意**：6b-reorg 後続（M.I.A.）／L254 接続文／第4章 Caretaker×liminal |
+| **今** | **rev-11**（L564・L512）→ **rev-1**（Reblorg 節） |
 | 6a〜6f・6d-review・7・§9 | ☑ |
-| §9-man | ☑（§9 に統合） |
+| rev-*（レビュー論点） | ☐——[`草稿_レビュー論点メモ`](./草稿_レビュー論点メモ.md) §13 |
+| 任意 | 6b-reorg 後続（M.I.A.）／L254 接続文／rev-12 Caretaker |
 
 **§9-man の分割（再掲）**：6c＝年表のみ／6e＝cousin・chillwave／§9＝L256・KYM・Wayback・X・Reddit・包含関係
 
@@ -314,7 +348,8 @@
 | [`6d-review_aesthetic論点整理.md`](./6d-review_aesthetic論点整理.md) | aesthetic 零れ落ち・層A–E |
 | [`6d-review_第2章構成案.md`](./6d-review_第2章構成案.md) | #### 案・フェーズ分割 |
 | [`witchhouse-chillwave調査メモ.md`](./witchhouse-chillwave調査メモ.md) | witch house／chillwave 調査 |
+| [`草稿_レビュー論点メモ.md`](./草稿_レビュー論点メモ.md) | レビュー論点の正本・rev-* ロードマップ |
 
 ---
 
-*更新：2026-06-02。フェーズ7・§9・§9-man 完了。次は任意横断項目。*
+*更新：2026-06-02。フェーズ7・§9 完了。次は rev-*（レビュー論点メモ由来）。*
