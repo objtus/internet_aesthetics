@@ -86,6 +86,8 @@
 | **Eccojams vs Far Side Virtual** | **rev-8** ☐ | 第2章 distroid 付近 |
 | **Jon Rafman 9 Eyes → liminal 前史** | **rev-10** ☐ | 第4章。Caretaker（rev-12）は先送り |
 | **草稿バグ L564・L512** | **rev-11** ☑ | 2026-06-02 修正・推敲メモ 続39 |
+| **musicplusghost.md 参考箇所の洗い出し** | **src-1** ☐ | 憑在論・Ghost Box・郊区派／90年代ゲーム再読・日本憑在ガイド。草稿 L173 に MUSIC+GHOST は既出——**追記候補のマッピング**が本体 |
+| **supersuper.md → SuperSuper! Magazine 追記** | **src-2** ☐ | Vol 1 #22 Real Beyond・号別年表・PC Music 前史（AG Cook 等）。草稿 L258 は1段落のみ |
 
 ---
 
@@ -109,6 +111,63 @@
 | rev-12 | Caretaker × liminal／Backrooms | ☐ 先送り | 上記「第4章 Caretaker×liminal」と同一 |
 
 **推奨着手順**：rev-11 → rev-1 → rev-2/3 → rev-5 → rev-6 → rev-7
+
+---
+
+## 外部調査ノート由来（src-*）
+
+正本：[`musicplusghost.md`](./musicplusghost.md)（FEECO *MUSIC + GHOST* extra issue 全文テキスト）、[`supersuper.md`](./supersuper.md)（SuperSuper! 号別調査）。**rev-7 完了後**、または rev-4/8 と並行可。
+
+| ID | 内容 | 状態 | 文案（案） |
+|---|---|---|---|
+| src-1 | [`musicplusghost.md`](./musicplusghost.md) から参考箇所を洗い出し、草稿への接点をマッピング | ☐ | `第2章取込_musicplusghost_文案.md`（作成予定） |
+| src-2 | [`supersuper.md`](./supersuper.md) に基づき SuperSuper! Magazine を追記 | ☐ | `第2章取込_SuperSuper_文案.md`（作成予定） |
+
+### src-1. musicplusghost.md——参考箇所の洗い出し
+
+**背景**  
+平山悠編『MUSIC + GHOST : FEECO Magazine extra issue』（憑在論・Ghost Box・英国郊区派）。草稿 `#### 憑在論と郷愁の言語`（L173）で ZINE 名と [atochietebura リンク](https://atochietebura.com/HD/h024.html) は**既出**。本タスクは全文（[`musicplusghost.md`](./musicplusghost.md)）から**追記に値する箇所を選別**する。
+
+**洗い出し候補（優先度順）**
+
+| 調査ノート § | 内容 | 草稿の行先候補 |
+|---|---|---|
+| 序文・Ch1 Twisted Memories | Ghost Box／郊区派 hauntology（Burial 偏重の補正） | 憑在論小節 L173 付近 |
+| Ch2 Memory Digger | Jim Jupp（Ghost Box）インタビュー | 同上 or witch house 前史 |
+| Ch5 Beyond the Dead Future | 90年代後半ビデオゲーム再読 | vaporwave 前史・Megazord 文脈 |
+| Extra / Ch6 | 日本の憑在論受容・個人的郷愁の限界 | 憑在論小節（短い注記に留めるか判断） |
+
+**手順**
+
+1. [`musicplusghost.md`](./musicplusghost.md) を章単位で読み、上表に**採用／保留／射程外**を付ける  
+2. 採用候補ごとに公開 URL・部分引用を文案に整理（正文は URL のみ）  
+3. [`草稿.md`](./草稿.md) 反映 → 分割稿同期  
+
+**注意**：FEECO 誌面の長文引用は避け、既出の MUSIC+GHOST 言及と**重複しない**範囲で足す。
+
+---
+
+### src-2. supersuper.md——SuperSuper! Magazine 追記
+
+**背景**  
+[`supersuper.md`](./supersuper.md) は 2006 nu rave 創刊から 2012 slimepunk までの号別記録・PC Music 前史・witch-house.com タイムライン対応表を整理済み。草稿 seapunk 節（L258 付近）では SuperSuper! Vol 2 #001 の seapunk 特集と PC Music への一言があるが、**Vol 1 #22「Real Beyond」**（Megazord・ONEOHTRIX・DIS・LIL B 同列）や **Vol 2 号別の連続**、**AG Cook／Hannah Diamond** 接続は未反映。
+
+**追記候補**
+
+| supersuper.md § | 内容 | 草稿の行先候補 |
+|---|---|---|
+| §2-1 Vol 1 #22 | 「Real Beyond」インターネット・アーティスト同列（2010年9月） | `## vaporwaveという名前以前に`／Megazord 節 |
+| §3 | nu rave→witch house→seapunk→slimepunk の連続 | seapunk 節 L258 または Lil Internet 年表 |
+| §4 | PC Music 前史（Roy＝AG Cook、Hannah Diamond インターン） | seapunk 節末尾 or 第3章 PC Music（要判断） |
+| §5 | slimepunk（Vol 2 #004） | seapunk 遺産節（6f 方針 A と重複確認） |
+
+**手順**
+
+1. 上表の**採用行**を確定（VICE 年表・6f 反映済み箇所との重複を避ける）  
+2. 文案 `第2章取込_SuperSuper_文案.md` を作成  
+3. [`草稿.md`](./草稿.md) L258 付近（および行先候補節）に反映 → 分割稿同期  
+
+**正本 URL 例**：seapunk 特集 [Wayback](https://web.archive.org/web/20111010162542/http://www.thesupersuper.com/featured/seapunk/)／Megazord flickr [#22 誌面](https://www.flickr.com/photos/megazord/5095163987/in/photostream/)／[witch-house.com タイムライン](https://witch-house.com/thetimeline/)
 
 ---
 
@@ -325,6 +384,7 @@
 | **今** | **rev-7**（三読み＋2016 vaporwave 政治化） |
 | 6a〜6f・6d-review・7・§9 | ☑ |
 | rev-*（レビュー論点） | ☐——[`草稿_レビュー論点メモ`](./草稿_レビュー論点メモ.md) §13 |
+| src-*（外部調査ノート） | ☐——[`musicplusghost.md`](./musicplusghost.md)／[`supersuper.md`](./supersuper.md) |
 | 任意 | 6b-reorg 後続（M.I.A.）／L254 接続文／rev-12 Caretaker |
 
 **§9-man の分割（再掲）**：6c＝年表のみ／6e＝cousin・chillwave／§9＝L256・KYM・Wayback・X・Reddit・包含関係
@@ -349,7 +409,9 @@
 | [`6d-review_第2章構成案.md`](./6d-review_第2章構成案.md) | #### 案・フェーズ分割 |
 | [`witchhouse-chillwave調査メモ.md`](./witchhouse-chillwave調査メモ.md) | witch house／chillwave 調査 |
 | [`草稿_レビュー論点メモ.md`](./草稿_レビュー論点メモ.md) | レビュー論点の正本・rev-* ロードマップ |
+| [`musicplusghost.md`](./musicplusghost.md) | FEECO *MUSIC + GHOST* 全文テキスト（src-1 正本） |
+| [`supersuper.md`](./supersuper.md) | SuperSuper! 号別調査・PC Music 前史（src-2 正本） |
 
 ---
 
-*更新：2026-06-02。フェーズ7・§9 完了。次は rev-*（レビュー論点メモ由来）。*
+*更新：2026-06-02。フェーズ7・§9 完了。次は rev-7。src-1／src-2 を追加。*
