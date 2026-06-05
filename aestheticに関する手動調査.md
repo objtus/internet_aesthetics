@@ -1068,6 +1068,9 @@ Show more
 以降のwayback machineのバージョンではコメント欄は取得できなかった。
 
 ## http://www.youtube.com/watch?v=cU8HrO7XuiE再生数の推移
+
+**グラフ：** [リサフランク420_再生数推移.html](./リサフランク420_再生数推移.html)（スクリーンショット用）
+
 2013 jun 07 https://web.archive.org/web/20130607225546/http://www.youtube.com/watch?v=cU8HrO7XuiE
  70,800
 2014 feb 06 https://web.archive.org/web/20140206095425/http://www.youtube.com/watch?v=cU8HrO7XuiE

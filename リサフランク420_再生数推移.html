@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>リサフランク420 — Wayback 再生数推移</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@3.0.0/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+  <style>
+    body {
+      margin: 2rem auto;
+      max-width: 900px;
+      font: 18px/1.5 "Hiragino Sans", "Yu Gothic", sans-serif;
+      font-weight: 600;
+      color: #111;
+      background: #fff;
+    }
+    h1 {
+      font-size: 22px;
+      font-weight: 700;
+      margin: 0 0 0.5rem;
+    }
+    p {
+      margin: 0 0 1.5rem;
+      font-size: 16px;
+      font-weight: 600;
+      color: #333;
+    }
+    .chart {
+      height: 420px;
+    }
+  </style>
+</head>
+<body>
+  <h1>リサフランク420 / 現代のコンピュー（cU8HrO7XuiE）— Wayback 再生数</h1>
+  <p>2012-02-14 アップロード。2017-04-12 は未取得。2018-04-28 著作権削除。</p>
+  <div class="chart"><canvas id="chart"></canvas></div>
+  <script>
+    const points = [
+      ["2013-06-07", 70800], ["2014-02-06", 164421], ["2014-06-06", 240318],
+      ["2014-08-08", 380285], ["2014-09-07", 435406], ["2014-10-08", 492436],
+      ["2014-11-11", 562131], ["2014-12-12", 625535], ["2015-01-08", 689834],
+      ["2015-02-20", 795134], ["2015-03-18", 858044], ["2015-04-29", 968387],
+      ["2015-05-24", 1038637], ["2015-06-10", 1089226], ["2015-07-06", 1172058],
+      ["2015-08-14", 1323477], ["2015-09-09", 1482998], ["2015-10-16", 1824489],
+      ["2015-12-11", 2556535], ["2016-01-09", 2983981], ["2016-02-17", 3943985],
+      ["2016-03-09", 4638273], ["2016-04-26", 6261307], ["2016-05-05", 6682051],
+      ["2016-06-09", 8181240], ["2016-07-08", 9384581], ["2016-08-12", 10803638],
+      ["2016-09-09", 12200396], ["2016-10-06", 13645089], ["2016-11-08", 15351753],
+      ["2016-12-09", 16928187], ["2017-01-05", 18423937], ["2017-02-07", 20184497],
+      ["2017-03-06", 21611792], ["2017-05-04", 24419498], ["2017-06-07", 25993847],
+      ["2017-07-12", 27712561], ["2017-08-10", 29078282], ["2017-09-05", 30466113],
+      ["2017-10-11", 32662534], ["2017-11-09", 34104095], ["2017-12-06", 35388418],
+      ["2018-01-13", 37059727], ["2018-02-08", 38107143], ["2018-03-07", 39177277],
+      ["2018-04-04", 40222234], ["2018-04-25", 41061742],
+    ];
+
+    Chart.defaults.font.family = '"Hiragino Sans", "Yu Gothic", sans-serif';
+    Chart.defaults.font.size = 16;
+    Chart.defaults.font.weight = "bold";
+
+    const tickFont = { size: 16, weight: "bold" };
+
+    new Chart(document.getElementById("chart"), {
+      type: "line",
+      data: {
+        datasets: [{
+          data: points.map(([d, v]) => ({ x: d, y: v })),
+          borderColor: "#111",
+          borderWidth: 2.5,
+          pointRadius: 3,
+          pointBackgroundColor: "#111",
+          fill: false,
+          tension: 0,
+        }]
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: {
+          legend: { display: false },
+          tooltip: {
+            titleFont: { size: 16, weight: "bold" },
+            bodyFont: { size: 16, weight: "bold" },
+            callbacks: {
+              label: (item) => " " + item.parsed.y.toLocaleString("ja-JP") + " 回"
+            }
+          }
+        },
+        scales: {
+          x: {
+            type: "time",
+            time: { unit: "year", displayFormats: { year: "yyyy" } },
+            grid: { color: "#ddd" },
+            ticks: { color: "#111", font: tickFont, maxTicksLimit: 8 },
+          },
+          y: {
+            grid: { color: "#ddd" },
+            ticks: {
+              color: "#111",
+              font: tickFont,
+              callback: (v) => v >= 1e6 ? (v / 1e6) + "M" : v >= 1e3 ? (v / 1e3) + "K" : v
+            }
+          }
+        }
+      }
+    });
+  </script>
+</body>
+</html>
