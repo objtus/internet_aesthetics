@@ -44,9 +44,9 @@
 | ref07 | §11 | 発生モデル六段階 | — | 参照のみ | — | 0 | §11 | — | — | 6b 完了時に矛盾確認のみ |
 | ref08 | §13 | 未解決課題 | — | 参照のみ | — | 0 | §13 | — | — | |
 | ref09 | §14 | 参照一覧 | — | 参照のみ | — | 0 | §14 | — | — | 脚注プール |
-| f-vice | VICE 年表全文 | Lil Internet＋Lil Government 作 | 第2章 seapunk（新節 or 小節） | 追記 | **6f** | 3〜6 | [掲載](https://www.vice.com/en/article/r795xr/seapunk-washes-up)／[Wayback](https://web.archive.org/web/20201112024823/https://www.vice.com/en/article/r795xr/seapunk-washes-up) | ☑ | ☐ | 文案 6f-1a/1b（方針 A＝reorg 補足）。厚い 6f-1B は見送り |
-| f-massage | MASSAGE 9 誌面 | VICE 年表・日訳・対談並置 | 第2章 seapunk または遺産 | 追記 | **6f** | 1〜2 | [MASSAGE 9](https://themassage.jp/archives/1) | ☑ | ☐ | 文案 6f-2。物理書籍確認済 |
-| f-slime | slimepunk | Zombelle 命名・seapunk 派生 | 第2章 seapunk 遺産付近 | 最小限 | **6f** | 0〜1 | [Aesthetics Wiki — Slimepunk](https://aesthetics.fandom.com/wiki/Slimepunk)、[Silent Generation ep22](https://www.iheart.com/podcast/1323-silent-generation-130572482/episode/ep-22-seapunk-2-w-zombelle-172547976/) | ☑ | ☐ | 文案 6f-3 |
+| f-vice | VICE 年表全文 | Lil Internet＋Lil Government 作 | 第2章 seapunk（新節 or 小節） | 追記 | **6f** | 3〜6 | [掲載](https://www.vice.com/en/article/r795xr/seapunk-washes-up)／[Wayback](https://web.archive.org/web/20201112024823/https://www.vice.com/en/article/r795xr/seapunk-washes-up) | ☑ | ☑ | 6f-1a/1b 2026-06-02 |
+| f-massage | MASSAGE 9 誌面 | VICE 年表・日訳・対談並置 | 第2章 seapunk または遺産 | 追記 | **6f** | 1〜2 | [MASSAGE 9](https://themassage.jp/archives/1) | ☑ | ☑ | 6f-2 2026-06-02 |
+| f-slime | slimepunk | Zombelle 命名・seapunk 派生 | 第2章 seapunk 遺産付近 | 最小限 | **6f** | 0〜1 | [Aesthetics Wiki — Slimepunk](https://aesthetics.fandom.com/wiki/Slimepunk)、[Silent Generation ep22](https://www.iheart.com/podcast/1323-silent-generation-130572482/episode/ep-22-seapunk-2-w-zombelle-172547976/) | ☑ | ☑ | 6f-3 2026-06-02 |
 
 **未分類ゼロ**：調査ノート目次 §1〜14 は上表でカバー。VICE 年表の展開は **f-vice** で担当（調査ノートは作業用・草稿に引用しない）。
 

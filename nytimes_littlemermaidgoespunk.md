@@ -1,4 +1,6 @@
-source: https://web.archive.org/web/20120303234129/http://www.nytimes.com/2012/03/04/fashion/Seapunk-a-Web-Joke-With-Music-Has-Its-Moment.html
+source（Wayback・草稿引用用）: https://web.archive.org/web/20120303234129/http://www.nytimes.com/2012/03/04/fashion/Seapunk-a-Web-Joke-With-Music-Has-Its-Moment.html  
+現行 URL（2026-06-02 確認・**アクセス不可**）: https://www.nytimes.com/2012/11/11/fashion/little-mermaid-goes-punk.html  
+掲載: 2012年3月2日（オンライン）／紙面 2012年3月4日（Sunday Styles・ST10）
 
 Noticed
 Little Mermaid Goes Punk

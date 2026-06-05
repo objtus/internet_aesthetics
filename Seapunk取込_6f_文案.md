@@ -90,12 +90,12 @@
 
 **文案（反映用）**
 
-同じ [MASSAGE 9: INTERNET CULTURE](https://themassage.jp/archives/1)（2014年1月10日刊・MASSAGE編集部・庄野祐輔・高岡謙太郎 編）は、ディスクレビュー以外にも、vaporwave・witch house・cloud rap／trillwave などを横断する音楽特集と、Internet Club、Lil Internet、Ultrademon、Kevin Heckart らへのインタビューを収めた（物理書籍・手元確認済み）。2012年3月に VICE が掲載した Lil Internet／Lil Government の年表の日本語訳も誌面に含まれ、英語圏で断片として流通していた「ジョーク派」と「制度化派」の対立を、日本語圏の読者に同じ冊子のなかで並置した。Lil Internet と Ultrademon のインタビューは、命名者側と Coral Records 側の立場を、同時期のまとめとして対照する材料になる。
+同じ [MASSAGE 9: INTERNET CULTURE](https://themassage.jp/archives/1) は、特集全体を **internet culture** と銘打ち、音楽以前に別の編集順を取っている。最初のインタビューは Megazord から始まり、その後 Fourfiv EX、Feréstec、Joe Hamilton、Luke Wyatt、Enrico Boccioletti、Kim Asendorf、Subtrança、Kevin Heckart、Killian Loddo、James Howard、Thereisamajorprobleminaustralia、Ryder Ripps、Manuel Fernandez など、視覚表現を手がけるアーティストやコレクティブへのインタビューが続く。ファッション、メディアの各特集を経て、最後に音楽特集が置かれる。音楽特集では seapunk のほか vaporwave、witch house、gorge、cloud rap／trillwave を扱い、ジャンルごとにレーベルやアーティストのインタビュー、ディスクレビューなどが並ぶ。Lil Internet と Ultrademon のインタビュー、および 2012年3月に VICE が掲載した Lil Internet／Lil Government の年表の日本語訳は、いずれも音楽特集のなかの **seapunk 企画**に収められている。冊子全体が対照表のように見える一方で、ふたりのインタビューと年表訳は seapunk 特集の内部構成の一部だ。視覚・ファッション・メディア・音楽を横断して当時のネットカルチャーを束ねる編集姿勢は、のちに語られる *aesthetic* と通じる面があるかもしれない。
 
 **執筆メモ**
 
-- **誌面**：物理書籍で内容確認済み（2026-06-02・ユーザー確認）。VICE 年表訳・Lil Internet／Ultrademon インタビューの存在は文案に反映済み。
-- Kevin Heckart インタビューは Heckart 段落（L217 付近）と接続するが、**本文では重複クレジットを避け**、上記は「並置」のみ。
+- **誌面構造**（物理書籍・手元確認）：特集＝internet culture。Megazord 先頭 → 視覚系インタビュー列 → ファッション・メディア → 音楽特集（seapunk／vaporwave／witch house／gorge／cloud rap・trillwave）。Lil Internet／Ultrademon／VICE 年表訳は**音楽特集内の seapunk 企画**（冊子全体の並置ではない）。
+- Kevin Heckart は視覚インタビュー列にも、seapunk 文脈（L217 付近）にも登場。本段落は誌面順の説明に留める。
 - Blank Banshee／Yung Lean の DISC REVIEW は **L256 で既述**。触れない。
 
 ---
@@ -153,11 +153,11 @@
 
 ## 反映チェックリスト
 
-- [ ] 方針 A／B／C を決定（未決なら **A を既定**）
-- [ ] 6f-1a CMJ（L195 付近）
-- [ ] 6f-1b Dazed 引用（任意：トーンが強い場合は 6f-1a のみでも可）
-- [ ] 6f-2 MASSAGE（L258 直後）— **誌面目視**（Lil Internet／Ultrademon 見出し、VICE 訳の有無）
-- [ ] 6f-3 slimepunk（L244 直後）
+- [x] 方針 A 採用・草稿反映（2026-06-02）
+- [x] 6f-1a CMJ（年表節・DMCA 直後）
+- [x] 6f-1b Dazed 引用
+- [x] 6f-2 MASSAGE（Blank Banshee／RYM 段落直後）
+- [x] 6f-3 slimepunk（NYT ヘッドライン直後）
 - [ ] reorg 年表節と**事実の矛盾**がないか（CMJ・NYT 日付）
 - [ ] 反映用に「調査ノート」「6f」「§…」等のメタがないか
 - [ ] 反映後：[`草稿_推敲メモ.md`](./草稿_推敲メモ.md) ログ・[`next_tasks.md`](./next_tasks.md) 6f ☐→☑
@@ -177,4 +177,4 @@
 
 ---
 
-*作成：2026-06-02。既定方針 A（補足中心）。6b-reorg との統合は「年表を厚くしない」前提。反映待ち。*
+*更新：2026-06-02。方針 A 草稿反映済み。次は 6d-review。*

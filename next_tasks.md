@@ -1,7 +1,7 @@
 # 次のタスク
 
 **正本**：[`草稿.md`](./草稿.md)  
-**次**：フェーズ **6f** 反映、または **6d-review**（第2章 witch house 小節の推敲）  
+**次**：フェーズ **6d-review**（第2章 witch house 小節の推敲）  
 **使い方**：進捗サマリーの **次にやる1件** から着手。各フェーズ完了時に ☐→☑、[`草稿_推敲メモ.md`](./草稿_推敲メモ.md) に改稿ログを追記。
 
 **作業の型**（ファクト追記・Seapunk 取り込み共通）
@@ -30,7 +30,7 @@
 | **6d** | witch house 前史——§2 還流（hypnagogic 小節） | ☑ | 草稿 L143 差し替え（2026-06-02）。**本文は要再検討** → **6d-review** |
 | **6d-review** | 第2章 `### hypnagogic popとwitch house` の推敲 | ☐ | 構成・時系列・第2章バランス・seapunk 節との重複 |
 | **6e** | vaporwave 接続——段階取込 | ☑ | 文案→草稿 `## seapunkの死と遺産`（2026-06-02） |
-| **6f** | Seapunk 後続（VICE 年表節・MASSAGE 9・slimepunk） | ☐ | 文案済（方針 A）→ 草稿反映待ち |
+| **6f** | Seapunk 後続（VICE 年表節・MASSAGE 9・slimepunk） | ☑ | 方針 A 反映済（2026-06-02） |
 | 7 | ドキュメント整理③（Seapunk 取込後） | ☐ | 第2章分割稿・調査ノート §5 還流 |
 | §8 | 序文改稿・Tumblr For You・KYM Wayback | ☑ | 草稿・分割稿一部（§8-1〜3、2026-06-01） |
 | **§9** | aesthetic 包含関係・語法分析 | ☐ | **6b〜6e（＋7）完了後** |
@@ -188,7 +188,7 @@
 **文案**：[`Seapunk取込_6f_文案.md`](./Seapunk取込_6f_文案.md)（**方針 A**＝CMJ・Dazed 補足／MASSAGE 1段落／slimepunk 1段落。年表厚みの **B 案は見送り**）
 
 - [x] [`Seapunk調査_取り込み計画.md`](./Seapunk調査_取り込み計画.md) f-vice／f-massage／f-slime 行を参照して文案作成
-- [ ] 草稿反映（[`Seapunk取込_6f_文案.md`](./Seapunk取込_6f_文案.md)・方針 A 既定）
+- [x] 草稿反映（[`Seapunk取込_6f_文案.md`](./Seapunk取込_6f_文案.md)・方針 A）（2026-06-02）
 
 ---
 
@@ -349,7 +349,7 @@
 
 | 今 | 次の1手 |
 |---|---|
-| **今** | **6f** 反映、または **6d-review**（witch house 小節推敲） |
+| **今** | **6d-review**（witch house 小節推敲） |
 | 6a | 計画書完成（承認待ち可） |
 | 6b 完了 | **6c** ☑ → **6b-reorg** ☑ → **6e** ☑ → **6d** ☑ → **6d-review** ☐ |
 | 6b〜6e（＋reorg）完了 | **6f**（任意）——年表厚み・MASSAGE 9・slimepunk（reorg と統合可） |
@@ -376,4 +376,4 @@
 
 ---
 
-*更新：2026-06-02。6d 一次反映済み。**6d-review**（第2章 witch house 小節推敲）を追加。次は 6f・6d-review・6b-reorg 後続（M.I.A.）。*
+*更新：2026-06-02。6f 反映済み。次は **6d-review**・6b-reorg 後続（M.I.A.）・7。*
