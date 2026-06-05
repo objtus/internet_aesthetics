@@ -2,7 +2,7 @@
 
 **正本**：[`草稿.md`](./草稿.md)  
 **論点バックログ**：[`草稿_レビュー論点メモ.md`](./草稿_レビュー論点メモ.md)（2026-06-02 同期済）  
-**次**：**rev-1**（第1章 Reblorg）→ rev-2/3（第1章土壌）——下記 §レビュー論点（rev-11 ☑）  
+**次**：**rev-6**（aesthetic 大仰さ総括）——下記 §レビュー論点（rev-11・rev-1・rev-2/3・rev-5 ☑）  
 **使い方**：進捗サマリーの **次にやる1件** から着手。各フェーズ完了時に ☐→☑、[`草稿_推敲メモ.md`](./草稿_推敲メモ.md) に改稿ログを追記。
 
 **作業の型**（ファクト追記・Seapunk 取り込み共通）
@@ -77,10 +77,10 @@
 | **BuzzFeed 激怒——M.I.A.・Tim and Eric** | **6b-reorg 後続** ☐ | 激怒記事（Perpetua）本文の**直後**に1段落追記。reorg 反映用には含めない（2026-06-02）。文案：[`Seapunk取込_6b-reorg_文案.md`](./Seapunk取込_6b-reorg_文案.md) 除外箱 L80。Jerome・Reblorg は L238 付近 |
 | **BuzzFeed 激怒——Bebe 引用の読み順** | **6c** | aesthetic 節で Bebe↔激怒記事の引用関係を明示（6c-1）。前節（死）と接続 |
 | **第2章 witch house 小節の推敲** | **6d-review** ☑ | 匿名性の美学は **rev-9** 残 |
-| **第1章 Reblorg 節** | **rev-1** ☐ | 2008–11 感触不足の当面対応。限界明記。[`草稿_レビュー論点メモ`](./草稿_レビュー論点メモ.md) §2・§12 |
-| **第1章土壌（Internet Archaeology・One Terabyte・dump.fm・Jogging・流れ2）** | **rev-2/3** ☐ | GeoCities 節拡張。Internet Archaeology 最優先 |
+| **第1章 Reblorg 節** | **rev-1** ☑ | 2026-06-02。文案→草稿・推敲メモ 続40 |
+| **第1章土壌（Internet Archaeology・One Terabyte・dump.fm・Jogging・流れ2）** | **rev-2/3** ☑ | 2026-06-02。文案→草稿・推敲メモ 続41 |
 | **ムードボード対比** | **rev-4** ☐ | 序文 or 第1章。レビュー §9 |
-| **Megazord 作風修正・再強調** | **rev-5** ☐ | 第1章＋第2章。石膏像一面的記述の解消 |
+| **Megazord 作風修正・再強調** | **rev-5** ☑ | 2026-06-02。文案→草稿・推敲メモ 続42 |
 | **aesthetic 大仰さ総括＋リサフランク420補足** | **rev-6** ☐ | §9 節内。要素は散在、総括段落なし |
 | **三読み＋2016 vaporwave 政治化** | **rev-7** ☐ | Harper 節延長。`vaporwave とオルタナ右翼` と統合可 |
 | **Eccojams vs Far Side Virtual** | **rev-8** ☐ | 第2章 distroid 付近 |
@@ -96,11 +96,11 @@
 | ID | 内容 | 状態 | 文案（案） |
 |---|---|---|---|
 | rev-11 | L564 未完成文・L512 要検証 | ☑ | 推敲メモ 続39 |
-| rev-1 | 第1章 Reblorg 節 | ☐ | `第1章取込_Reblorg_文案.md` |
-| rev-2 | Internet Archaeology＋One Terabyte | ☐ | `第1章取込_GeoCities土壌_文案.md` |
-| rev-3 | dump.fm／Jogging／流れ2 | ☐ | 上記に統合可 |
+| rev-1 | 第1章 Reblorg 節 | ☑ | `第1章取込_Reblorg_文案.md` |
+| rev-2 | Internet Archaeology＋One Terabyte | ☑ | `第1章取込_GeoCities土壌_文案.md` |
+| rev-3 | dump.fm／Jogging／流れ2 | ☑ | 上記に統合 |
 | rev-4 | ムードボード対比 | ☐ | `第1章取込_ムードボード対比_文案.md` |
-| rev-5 | Megazord 修正 | ☐ | `第1章取込_Megazord_文案.md` |
+| rev-5 | Megazord 修正 | ☑ | `第1章取込_Megazord_文案.md` |
 | rev-6 | aesthetic 大仰さ総括 | ☐ | `第2章取込_aesthetic大仰さ_文案.md` |
 | rev-7 | 三読み＋2016 政治化 | ☐ | `第2章取込_vaporwave政治化_文案.md` |
 | rev-8 | Eccojams vs FSV | ☐ | `第2章取込_FSV対比_文案.md` |
@@ -322,7 +322,7 @@
 
 | 今 | 次の1手 |
 |---|---|
-| **今** | **rev-1**（Reblorg 節）→ rev-2/3（第1章土壌） |
+| **今** | **rev-6**（aesthetic 大仰さ総括＋リサフランク420補足） |
 | 6a〜6f・6d-review・7・§9 | ☑ |
 | rev-*（レビュー論点） | ☐——[`草稿_レビュー論点メモ`](./草稿_レビュー論点メモ.md) §13 |
 | 任意 | 6b-reorg 後続（M.I.A.）／L254 接続文／rev-12 Caretaker |
