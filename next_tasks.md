@@ -2,16 +2,116 @@
 
 **正本**：[`草稿.md`](./草稿.md)  
 **論点バックログ**：[`草稿_レビュー論点メモ.md`](./草稿_レビュー論点メモ.md)（2026-06-02 同期済）  
-**次**：**rev-7**（三読み＋2016 政治化）——下記 §レビュー論点（rev-6 ☑）  
-**使い方**：進捗サマリーの **次にやる1件** から着手。各フェーズ完了時に ☐→☑、[`草稿_推敲メモ.md`](./草稿_推敲メモ.md) に改稿ログを追記。
+**編集方針**：[`編集方針.md`](./編集方針.md)（政治化・日本語圏射程・seapunk 読み道）
 
-**作業の型**（ファクト追記・Seapunk 取り込み共通）
+**次にやる1件**：**rev-7** 調査完了（[`vaporwave政治化_調査ノート.md`](./vaporwave政治化_調査ノート.md) §6 確認）→ 文案 → 草稿反映（＝**ed-1**）
+
+**使い方**
+
+1. 下記 **§アクティブ・パイプライン** で依存関係を確認  
+2. **§タスク索引** から ID を選び、該当セクション（rev／src／cari／concl／ed）の手順に従う  
+3. 完了時に ☐→☑、[`草稿_推敲メモ.md`](./草稿_推敲メモ.md) に改稿ログ  
+
+**作業の型**（3層を混同しない）
+
+| 層 | 意味 | 例 |
+|---|---|---|
+| **調査** | ノートに事実を溜める。正文を止めない | `cari-inv`、`rev-7` 調査段階 |
+| **文案** | 反映用段落を別ファイルに書く | `第2章取込_*_文案.md` |
+| **反映** | [`草稿.md`](./草稿.md) へ貼り付け・分割稿同期 | rev-7 反映、cari-draft |
 
 1. 調査ノート／[`草稿_ファクト補強調査.md`](./草稿_ファクト補強調査.md) から候補を選ぶ  
-2. **文案ファイル**を作成（例：`Seapunk取込_6b_文案.md`）  
-3. [`草稿.md`](./草稿.md) に反映 → 目視照合  
-4. 調査メモ・分割稿・本ファイルのステータスを更新  
-5. 反映済み文案は削除またはアーカイブ  
+2. **文案ファイル**を作成  
+3. 草稿に反映 → 目視照合  
+4. 本ファイル・分割稿のステータスを更新  
+5. 反映済み文案は [`archive/`](./archive/) へ  
+
+---
+
+## アクティブ・パイプライン（2026-06-02 時点）
+
+**第2章・PC Music 系の土台づくり → 第5章 CARI 接続 → 結論**
+
+```
+rev-7（ed-1）政治化 ─────────────────────────┐
+                                              ├→ rev-4 / rev-8 / rev-9（並行可）
+src-2 SuperSuper! ──→ src-4 ハイパーポップ ──┤
+                                              ↓
+                         cari-draft（第5章 1段落＋Facebook 補強）
+                                              ↓
+                         concl-1（Guardian 問いかけ・結論部）
+
+cari-inv（§8 要確認）──────── 並行。草稿反映のブロッカーではない
+ed-2 日本語圏射程外 ────────── 序文 or 後記・単独可
+ed-3 seapunk 読み道整備 ────── 第2章・単独可（圧縮以外の案A〜E）
+```
+
+**Guardian 2016 は2種類**（混同注意）
+
+| 記事 | タスク | 行先 |
+|---|---|---|
+| Leigh Alexander・Y2K aesthetic（2016-05-19） | cari-inv／cari-draft／concl-1 | 第5章 CARI・結論 |
+| Michael Hann・fashwave（2016-12-14） | rev-7（ed-1） | 第2章 Harper 節後 |
+
+---
+
+## タスク索引（未完了）
+
+凡例：☐ 未着手／進行中　☑ 完了　— 任意・低優先
+
+### 最優先（今週）
+
+| ID | 内容 | 状態 | 依存 | 正本・文案 |
+|---|---|---|---|---|
+| **rev-7** | 2016 vaporwave 政治化（コミュニティの応答） | ☐ 調査中 | — | [`vaporwave政治化_調査ノート.md`](./vaporwave政治化_調査ノート.md) → `第2章取込_vaporwave政治化_文案.md` |
+| **ed-1** | 編集方針 §1 政治化 | ☐ | **rev-7 と同一** | 上記 |
+
+### 第2章・外部ノート（rev-7 後 or 並行）
+
+| ID | 内容 | 状態 | 依存 | 正本・文案 |
+|---|---|---|---|---|
+| **src-2** | SuperSuper! Magazine 追記 | ☐ | rev-7 後推奨 | [`supersuper.md`](./supersuper.md) → `第2章取込_SuperSuper_文案.md` |
+| **src-4** | ハイパーポップの歴史（PC Music 2013–2016 厚み） | ☐ | **src-2 後** | [`ハイパーポップの歴史.md`](./ハイパーポップの歴史.md) → `第2章取込_ハイパーポップ_文案.md` |
+| **src-1** | musicplusghost 洗い出し | ☐ | 並行可 | [`musicplusghost.md`](./musicplusghost.md) |
+| **src-3** | r/witchhouse 歴史スレ参照 | ☐ | rev-9 と重複注意 | Reddit スレ URL |
+| **rev-8** | Eccojams vs Far Side Virtual | ☐ | 並行可 | `第2章取込_FSV対比_文案.md` |
+| **rev-9** | witch house 匿名性 | ☐ | 並行可 | `第2章取込_witchhouse匿名性_文案.md` |
+| **rev-4** | ムードボード対比 | ☐ | 並行可 | `第1章取込_ムードボード対比_文案.md` |
+| **ed-3** | seapunk 読み道整備（節頭地図等・圧縮以外） | ☐ | 並行可 | [`編集方針.md`](./編集方針.md) §3 |
+
+### 第5章・CARI・結論（第2章土台の後）
+
+| ID | 内容 | 状態 | 依存 | 正本・文案 |
+|---|---|---|---|---|
+| **cari-inv** | CARI 調査継続（§8 要確認・Global Village 等） | 進行中 | —（反映を止めない） | [`CARI_調査ノート.md`](./CARI_調査ノート.md) |
+| **cari-draft** | CARI 草稿反映（Guardian・Neo-Y2K 1段落、Facebook 補強） | ☐ | **src-2＋src-4 後** | 同上 → `第5章取込_CARI_文案.md` |
+| **concl-1** | Guardian 結論の時代診断問いかけ | ☐ | cari-draft 後推奨 | §2 → `第5章取込_結論_Guardian問いかけ_文案.md` |
+| **ed-2** | 日本語圏は射程外（1〜3文） | ☐ | 単独可 | [`編集方針.md`](./編集方針.md) §2 |
+
+### 第4章・その他
+
+| ID | 内容 | 状態 | 依存 | 備考 |
+|---|---|---|---|---|
+| **rev-10** | Jon Rafman 9 Eyes → liminal 前史 | ☐ | 並行可 | 第4章 |
+| **rev-12** | Caretaker × liminal／Backrooms | ☐ 先送り | rev-10 関連 | 第4章 |
+| — | 8番出口と liminal space 美学 | 判断待ち | — | 第4章追加可否 |
+| — | 第5章 Frutiger Aero 節との整合 | 任意 | cari-draft 後でも可 | 境界論・第2章フェーズ2 |
+| — | 第4章 L640 TikTok/Discord 文案 B | 任意 | — | §8 残 |
+| — | KYM 訂正ログ（ファクト補強調査） | 任意 | — | §8 残 |
+| — | Google Trends（aesthetic） | 任意 | — | §9-man 追補 |
+| — | ブロック F →「確定」 | 任意 | — | ファクト補強 §9 |
+
+### Seapunk 後続・第2章残（任意）
+
+| ID | 内容 | 状態 | 備考 |
+|---|---|---|---|
+| **6b-reorg 後続** | M.I.A.・Tim and Eric（激怒記事直後） | ☐ | 除外箱 L80 |
+| **6b-reorg 後続** | H∆SHTAG$ ep5 厚み（seapunk 節） | — 任意 | aesthetic 6c-2 ☑ |
+| **6c 残** | L254 接続文・年表順の整理 | ☐ | Cluster Mag 直後 |
+| **6d-review 残** | 分量・時系列、seapunk 節との接続 | ☐ | witch house 節 |
+| **6b 残** | 文案メタ混入チェック、VICE 年表著者明示 | ☐ | 完了済み節の品質確認 |
+
+**原則**：草稿に調査ノート § 参照は入れない（公開 URL のみ）。メタは文案の執筆メモ。
 
 ---
 
@@ -37,58 +137,19 @@
 | **§9** | aesthetic 包含関係・語法分析 | ☑ | 文案→草稿 aesthetic 節（2026-06-02） |
 | **§9-man** | [`aestheticに関する手動調査.md`](./aestheticに関する手動調査.md)——草稿反映 | ☑ | §9 文案に統合反映 |
 
-**依存関係**
+**依存関係（完了フェーズ・履歴）**
 
 ```
 1 → 2 → 3 ─────────────────────────→ 5
               4（第3〜5章）──────────↗
-1, 2 完了後 → 6a → 6b → 6c（＋手動調査の年表分）→ 6b-reorg
-                    ↘ 6d（6b と並行可・最小限）
-                    ↘ 6e（6b 後・手動調査の cousin／chillwave 分）
-6b〜6e（＋6b-reorg）完了後 → 6f（任意・6b外）→ 6d-review（witch house 小節）→ 7 → §9 ＋ §9-man
+1, 2 完了後 → 6a → 6b → 6c → 6b-reorg → 6f → 6d-review → 7 → §9 ＋ §9-man ☑
 ```
+
+**現行パイプライン**は §アクティブ・パイプライン を参照。
 
 ---
 
-## 未完了の横断項目
-
-| 項目 | フェーズ | 備考 |
-|---|---|---|
-| ブロック F →「確定」 | 1 | [`草稿_ファクト補強調査.md`](./草稿_ファクト補強調査.md) §9 |
-| 第5章 Frutiger Aero 節との整合 | 2 | デザインスタイル↔aesthetic 段落（任意・4後でも可） |
-| Global Village Coffeehouse と CARI | 4 | 一次資料確認後に判断 |
-| 8番出口と liminal space 美学 | 4 | 第4章追加可否を判断 |
-| **The Caretaker と liminal／Backrooms** | **第4章** | 憑在論×コロナ禍再評価×空間ミームの接続。6d-r0 で先取り済み。`インターネット美学調査ノート` §8・Dead Malls・`草稿_推敲メモ` 任意追記参照 |
-| **vaporwave とオルタナ右翼** | **第2章後半 or 独立節** | Nick Land 暗黒啓蒙（NRx）経由。Harper 2012（加速主義）、2016 政治化・コミュニティ拒否。`草稿_レビュー論点メモ` §6–7・L349 |
-| **L112 包含関係の叙述** | §9 ☑ | 三段レジスタ・図式更新（2026-06-02） |
-| 第4章 L640 TikTok/Discord 対照 | §8 残 | 文案 B・任意 |
-| 後記 L841「アルゴリズムなきタグ文化」 | 7 ☑ | 第4章 TikTok 節に合わせ修正（2026-06-02） |
-| KYM 訂正ログ（ファクト補強調査） | §8 残 | 任意 |
-| **草稿に調査ノートを引用しない** | 6b〜 | 正文は公開 URL のみ。メタ・§参照は文案の執筆メモ |
-| VICE 年表に基づく seapunk コミュニティ史 | **6f** | 掲載 [VICE](https://www.vice.com/en/article/r795xr/seapunk-washes-up)／Fig. は [Wayback](https://web.archive.org/web/20201112024823/https://www.vice.com/en/article/r795xr/seapunk-washes-up)／[`vice_seapunkwashesup.md`](./vice_seapunkwashesup.md) |
-| MASSAGE 9（VICE 年表・日訳・Lil Internet／Ultrademon 対談） | **6f** | [themassage.jp/archives/1](https://themassage.jp/archives/1) |
-| slimepunk（Zombelle 命名・seapunk 派生） | **6f** | [Wiki](https://aesthetics.fandom.com/wiki/Slimepunk)、ep22 podcast |
-| **seapunk 初期節の叙述順・節分割** | **6b-reorg** ☑ | 反映済（2026-06-02）。残りは M.I.A.・ep5 厚み（下記 §6b-reorg 後続） |
-| **aesthetic 節 L254「転機は…」** | **6b-reorg または §9** | **6c-3 却下**（2026-06-02）。6c は 6c-1/2 のみ反映。Cluster Mag 直後の接続文・年表順は後続フェーズで整理 |
-| **Floral Shoppe と "aesthetic" コメント** | **§9-man** | 調査完了（2026-06-02）。反映は §9-man 本体（L256 緩和・Wayback 否定的事実）。6c-3 却下の根拠 |
-| **aesthetic 手動調査（X・Wayback・Reddit）** | **§9-man** ☑ | §9 に統合反映（2026-06-02） |
-| **Google Trends（aesthetic 等）** | **§9-man 追補** | 任意。手動調査「未着手」行と突合 |
-| **H∆SHTAG$ ep5（#Tumblrwave）の厚い記述** | **6b-reorg 後続** ☐ | **6c-2** で aesthetic 節に反映済み。seapunk 節への Nate Auerbach・"We're not a web joke" 等は reorg **反映用から除外**（文案除外箱）。任意で seapunk 節 or 6f 後 |
-| **BuzzFeed 激怒——M.I.A.・Tim and Eric** | **6b-reorg 後続** ☐ | 激怒記事（Perpetua）本文の**直後**に1段落追記。reorg 反映用には含めない（2026-06-02）。文案：[`Seapunk取込_6b-reorg_文案.md`](./Seapunk取込_6b-reorg_文案.md) 除外箱 L80。Jerome・Reblorg は L238 付近 |
-| **BuzzFeed 激怒——Bebe 引用の読み順** | **6c** | aesthetic 節で Bebe↔激怒記事の引用関係を明示（6c-1）。前節（死）と接続 |
-| **第2章 witch house 小節の推敲** | **6d-review** ☑ | 匿名性の美学は **rev-9** 残 |
-| **第1章 Reblorg 節** | **rev-1** ☑ | 2026-06-02。文案→草稿・推敲メモ 続40 |
-| **第1章土壌（Internet Archaeology・One Terabyte・dump.fm・Jogging・流れ2）** | **rev-2/3** ☑ | 2026-06-02。文案→草稿・推敲メモ 続41 |
-| **ムードボード対比** | **rev-4** ☐ | 序文 or 第1章。レビュー §9 |
-| **Megazord 作風修正・再強調** | **rev-5** ☑ | 2026-06-02。文案→草稿・推敲メモ 続42 |
-| **aesthetic 大仰さ総括＋リサフランク420補足** | **rev-6** ☑ | 2026-06-02。文案→草稿・推敲メモ 続44 |
-| **三読み＋2016 vaporwave 政治化** | **rev-7** ☐ | Harper 節延長。`vaporwave とオルタナ右翼` と統合可 |
-| **Eccojams vs Far Side Virtual** | **rev-8** ☐ | 第2章 distroid 付近 |
-| **Jon Rafman 9 Eyes → liminal 前史** | **rev-10** ☐ | 第4章。Caretaker（rev-12）は先送り |
-| **草稿バグ L564・L512** | **rev-11** ☑ | 2026-06-02 修正・推敲メモ 続39 |
-| **musicplusghost.md 参考箇所の洗い出し** | **src-1** ☐ | 憑在論・Ghost Box・郊区派／90年代ゲーム再読・日本憑在ガイド。草稿 L173 に MUSIC+GHOST は既出——**追記候補のマッピング**が本体 |
-| **supersuper.md → SuperSuper! Magazine 追記** | **src-2** ☐ | Vol 1 #22 Real Beyond・号別年表・PC Music 前史（AG Cook 等）。草稿 L258 は1段落のみ |
-| **r/witchhouse 歴史スレッドの参照追記** | **src-3** ☐ | [Witch House Music History](https://www.reddit.com/r/witchhouse/comments/1pe4re5/witch_house_music_history/?tl=ja)（日本語訳）を草稿に「詳しい」参照として追記 |
+> **未完了タスクの一覧は §タスク索引 を正本とする。** 以下は ID ごとの手順書。
 
 ---
 
@@ -105,25 +166,35 @@
 | rev-4 | ムードボード対比 | ☐ | `第1章取込_ムードボード対比_文案.md` |
 | rev-5 | Megazord 修正 | ☑ | `第1章取込_Megazord_文案.md` |
 | rev-6 | aesthetic 大仰さ総括 | ☑ | `第2章取込_aesthetic大仰さ_文案.md` |
-| rev-7 | 三読み＋2016 政治化 | ☐ | `第2章取込_vaporwave政治化_文案.md` |
+| rev-7 | 三読み＋2016 政治化 | ☐ **調査中** | 調査：[`vaporwave政治化_調査ノート.md`](./vaporwave政治化_調査ノート.md) → 文案：`第2章取込_vaporwave政治化_文案.md`（未） |
 | rev-8 | Eccojams vs FSV | ☐ | `第2章取込_FSV対比_文案.md` |
 | rev-9 | witch house 匿名性 | ☐ | `第2章取込_witchhouse匿名性_文案.md` |
 | rev-10 | 9 Eyes → liminal | ☐ | `第4章取込_9eyes前史_文案.md` |
 | rev-12 | Caretaker × liminal／Backrooms | ☐ 先送り | 上記「第4章 Caretaker×liminal」と同一 |
 
-**推奨着手順**：rev-11 → rev-1 → rev-2/3 → rev-5 → rev-6 → rev-7
+**推奨着手順（2026-06-02 以降）**：**rev-7（ed-1）** → src-2 → src-4 → cari-draft → concl-1。並行：rev-4／8／9、ed-2／3、src-1／3、cari-inv
+
+### rev-7 進捗（2026-06-02）
+
+| 段階 | 状態 | 成果物 |
+|---|---|---|
+| 調査 | **進行中** | [`vaporwave政治化_調査ノート.md`](./vaporwave政治化_調査ノート.md)（311行。二次文献・コミュニティ応答・Boriswave まで整理済み） |
+| 要確認 | 未完了 | 調査ノート §6（Guardian 原文、@ccchristtt、Rave News URL、r/vaporwave 声明、McLeod 本文等） |
+| 文案 | 未着手 | `第2章取込_vaporwave政治化_文案.md` |
+| 草稿反映 | 未着手 | 行先：Harper 節直後（L420–421 付近）。1〜2段落（編集方針 §1） |
+
+**調査ノートの核**：Robert Parker・Ten S. の拒否表明／@ccchristtt 内部論争（要文言確認）／Boriswave は注・1文。Rave News 風刺は実話として使わない。
 
 ---
 
 ## 外部調査ノート由来（src-*）
 
-正本：[`musicplusghost.md`](./musicplusghost.md)（FEECO *MUSIC + GHOST* extra issue 全文テキスト）、[`supersuper.md`](./supersuper.md)（SuperSuper! 号別調査）。**rev-7 完了後**、または rev-4/8 と並行可。
-
-| ID | 内容 | 状態 | 文案（案） |
-|---|---|---|---|
-| src-1 | [`musicplusghost.md`](./musicplusghost.md) から参考箇所を洗い出し、草稿への接点をマッピング | ☐ | `第2章取込_musicplusghost_文案.md`（作成予定） |
-| src-2 | [`supersuper.md`](./supersuper.md) に基づき SuperSuper! Magazine を追記 | ☐ | `第2章取込_SuperSuper_文案.md`（作成予定） |
-| src-3 | [r/witchhouse「Witch House Music History」](https://www.reddit.com/r/witchhouse/comments/1pe4re5/witch_house_music_history/?tl=ja) を参照として追記 | ☐ | `第2章取込_witchhouse歴史参照_文案.md`（作成予定） |
+| ID | 内容 | 状態 | 文案（案） | 依存 |
+|---|---|---|---|---|
+| src-1 | musicplusghost 洗い出し | ☐ | `第2章取込_musicplusghost_文案.md` | 並行可 |
+| src-2 | SuperSuper! Magazine 追記 | ☐ | `第2章取込_SuperSuper_文案.md` | rev-7 後推奨 |
+| src-3 | r/witchhouse 歴史スレ参照 | ☐ | `第2章取込_witchhouse歴史参照_文案.md` | rev-9 と重複注意 |
+| src-4 | ハイパーポップの歴史（PC Music 厚み） | ☐ | `第2章取込_ハイパーポップ_文案.md` | **src-2 後**（cari-draft の前提） |
 
 ### src-1. musicplusghost.md——参考箇所の洗い出し
 
@@ -160,7 +231,7 @@
 |---|---|---|
 | §2-1 Vol 1 #22 | 「Real Beyond」インターネット・アーティスト同列（2010年9月） | `## vaporwaveという名前以前に`／Megazord 節 |
 | §3 | nu rave→witch house→seapunk→slimepunk の連続 | seapunk 節 L258 または Lil Internet 年表 |
-| §4 | PC Music 前史（Roy＝AG Cook、Hannah Diamond インターン） | seapunk 節末尾 or 第3章 PC Music（要判断） |
+| §4 | PC Music 前史（Roy＝AG Cook、Hannah Diamond インターン） | seapunk 節末尾 or `## PC Musicという継承`（L456 付近） |
 | §5 | slimepunk（Vol 2 #004） | seapunk 遺産節（6f 方針 A と重複確認） |
 
 **手順**
@@ -191,6 +262,125 @@
 3. [`草稿.md`](./草稿.md) 反映 → 分割稿同期  
 
 **正本 URL**：[https://www.reddit.com/r/witchhouse/comments/1pe4re5/witch_house_music_history/?tl=ja](https://www.reddit.com/r/witchhouse/comments/1pe4re5/witch_house_music_history/?tl=ja)
+
+---
+
+### src-4. ハイパーポップの歴史——PC Music 節の厚み
+
+**背景**  
+[`ハイパーポップの歴史.md`](./ハイパーポップの歴史.md) は PC Music 創設（2013）から SOPHIE／QT（2014–2015）、Charli『Vroom Vroom』（2016年2月）まで整理済み。草稿 `## PC Musicという継承`（L456–464）は要約1段落。第4章 L722 付近にも hyperpop 叙述あり——**重複を避け、章ごとに役割分担**する。
+
+**Guardian 2016（Leigh Alexander）との接続**  
+同記事は SOPHIE & QT を Neo-Y2K 音楽例として言及（[`CARI_調査ノート.md`](./CARI_調査ノート.md) §2）。第2章で PC Music／QT の層を厚くしてから **cari-draft** で「Collins 経由のメディア並置」を1文足すと、第5章で PC Music を再説明しなくて済む。
+
+**追記候補（優先度順）**
+
+| ハイパーポップ § | 内容 | 草稿の行先 |
+|---|---|---|
+| §1–2 | PC Music 創設、SOPHIE「Bipp」、Cook との接点 | `## PC Musicという継承` L456 付近 |
+| §2 | QT「Hey QT」（2014-08）、Y2K ポップの誇張 | 同上（Guardian 2016 の前提） |
+| §4 | Charli XCX『Vroom Vroom』（2016-02） | 同上 or 1文のみ（cari-draft へ委譲可） |
+| §8 以降 | 2020– COVID、TikTok、Dismiss Yourself | **第4章 L722 と重複確認**。追記不要ならスキップ |
+
+**手順**
+
+1. src-2 反映後、上表の**採用行**を確定（第4章既述との重複表を文案に書く）  
+2. 文案 `第2章取込_ハイパーポップ_文案.md`（**1〜2段落上限**）  
+3. [`草稿.md`](./草稿.md) L456 付近に反映 → 分割稿同期  
+
+**注意**：ハイパーポップ全史の取り込みは射程外。2013–2016 の **PC Music／Neo-Y2K 接続**に限定。
+
+---
+
+## CARI（cari-*）
+
+調査（cari-inv）と草稿反映（cari-draft）を**分離**する。調査ノート §8 の未確認は cari-draft の必須条件ではない（断定を避ける書き方で対応済み）。
+
+| ID | 内容 | 状態 | 成果物 |
+|---|---|---|---|
+| cari-inv | 調査継続 | 進行中 | [`CARI_調査ノート.md`](./CARI_調査ノート.md)（§8 要確認、Global Village Coffeehouse） |
+| cari-draft | 草稿反映 | ☐ | `第5章取込_CARI_文案.md` → 第5章 L780–807 付近 |
+
+### cari-inv. 調査継続
+
+- §8 要確認（Christmas 2.0 トラックリスト、Priz Tats 年、Collins ギャラリー照合等）  
+- [`CARIの歴史.md`](./CARIの歴史.md) との突合  
+- **正文は書かない**。ノート更新のみ  
+
+### cari-draft. 草稿反映
+
+**依存**：**src-2 → src-4 完了後**（Guardian の SOPHIE & QT・vaporwave 隙間論を第5章だけで説明しないため）
+
+**分量**：第5章 **1段落追記**＋既述（L803–807）への**Facebook 制度化**の短い補強が上限（[`CARI_調査ノート.md`](./CARI_調査ノート.md) §7）
+
+| ブロック | 内容 | src-2/4 後か | 単独可か |
+|---|---|---|---|
+| A | Guardian 2016：vaporwave 隙間論、Neo-Y2K、Aurora Memoria／Priz Tats | 推奨 | △（PC Music 文が浮く） |
+| B | Facebook 制度化（McBling 投票、Frutiger Aero グループ） | — | ○ |
+| C | Christmas 2.0／DV-i | 第2章 PC Music 末尾に入れる場合は cari-draft から除外 | 要判断 |
+
+**手順**
+
+1. 文案 `第5章取込_CARI_文案.md`（反映用＋執筆メモ。ブロック A/B の採否を明記）  
+2. [`草稿.md`](./草稿.md) `## CARIの起源`〜`## McBling と Frutiger Aero` に反映  
+3. L839「Discordが承認プロセス」は Aesthetics Wiki（2020）限定の但し書きを検討（§9 参照）  
+4. 分割稿・推敲メモ更新  
+
+**正本**：[`CARI_調査ノート.md`](./CARI_調査ノート.md) §2・§6・§7・§9
+
+---
+
+## 編集方針由来（ed-*）
+
+正本：[`編集方針.md`](./編集方針.md)
+
+| ID | 編集方針 | 対応タスク | 状態 | 行先 |
+|---|---|---|---|---|
+| ed-1 | §1 政治化（コミュニティの応答） | **rev-7** と同一 | ☐ | 第2章 L420–421 後、1〜2段落 |
+| ed-2 | §2 日本語圏は射程外 | 単独 | ☐ | 序文末尾 or `## ＜後記＞`、1〜3文 |
+| ed-3 | §3 seapunk 読み道整備 | 単独 | ☐ | 第2章 seapunk 節（節頭地図・#### ラベル等。全文圧縮以外） |
+
+**優先度（編集方針記載順）**：ed-1 → ed-2 → ed-3。ed-1 は rev-7 と一体。ed-2／3 はパイプラインと並行可。
+
+---
+
+## 結論部改稿（concl-*）
+
+正本：[`CARI_調査ノート.md`](./CARI_調査ノート.md) §2（Guardian 2016・Leigh Alexander）、§7 執筆メモ 2d。**cari-draft 後推奨**（同一記事の別端。rev-7 の fashwave 記事とは別）。
+
+| ID | 内容 | 状態 | 文案（案） |
+|---|---|---|---|
+| concl-1 | Guardian 2016 結論の**時代診断**問いかけを、本論考の結論に借用（記事をさらりと明示） | ☐ | `第5章取込_結論_Guardian問いかけ_文案.md`（作成予定） |
+
+### concl-1. 結論部——Guardian の時代診断問いかけ
+
+**背景**  
+[Guardian 2016-05-19（Leigh Alexander）](https://www.theguardian.com/technology/2016/may/19/year-2000-y2k-millennium-design-aesthetic) の末尾は、Y2K 美学の議論から**現在進行形の時代診断**へ視点を広げ、十年後の回望という問いで締める。調査ノート §2「結論部の問いかけ」に英文・編集含意を整理済み。
+
+**借用の核（Guardian 結論・要約）**
+
+> "What will the aesthetics of this period of time look like with a decade's hindsight – and what might they reveal about us that we can't see in the present?"
+
+記事はその直前に、2016 Met Gala の android 風ファッション、選挙不安、難民危機、シリコンバレー文化などを**今日の音楽・建築・デザインから読み解けるか**と問う。
+
+**追記方針（案）**
+
+| 項目 | 方針 |
+|---|---|
+| 行先 | `## クロニクルの終わりにあたって`（L883–893）の締め、または `## ＜後記＞`（L897–903）の最後1〜2文 |
+| トーン | 本論考全体の「分類への欲望」「制度化」の流れを受け、**未来の回望**へ開く問いかけ。説教調にしない |
+| 出典 | さらりと明示（例：「2016年、*The Guardian* は Y2K 美学を扱う記事の結びで、こう問った——」＋公開 URL）。英文の長引用は避け、日本語で要約可 |
+| 分量 | **1段落以内**（編集方針：結論は増やしすぎない） |
+| 接続 | CARI／Facebook グループの *discuss and define*、Aesthetics Wiki のカタログ化、TikTok 時代の美学流通——いずれか1つと短く接続すれば足りる |
+| 依存 | Guardian 原文の一字確認は [`CARI_調査ノート.md`](./CARI_調査ノート.md) §2 参照。第5章 CARI 節への Guardian 追記（Priz Tats 等）とは**別文案**（結論専用） |
+
+**手順**
+
+1. 文案 `第5章取込_結論_Guardian問いかけ_文案.md` を作成（反映用1段落＋執筆メモ）  
+2. [`草稿.md`](./草稿.md) L883 付近 or L897 付近に反映 → 分割稿・後記同期  
+3. [`草稿_推敲メモ.md`](./草稿_推敲メモ.md) に改稿ログ  
+
+**注意**：2016 年の具体例（Met Gala、VR ブーム等）を本文で検証展開する必要はない。問いの**型**の借用が本体。
 
 ---
 
@@ -278,7 +468,7 @@
 
 ---
 
-### 6d-review. 第2章 witch house 節の改稿（まとめ型）← **今ここ**
+### 6d-review. 第2章 witch house 節の改稿（まとめ型）——**一次反映済・残チェックあり**
 
 **方針（確定）**：節構成を **`### chillwaveとhypnagogic pop`（＋憑在論）→ `### witch house`** に再編。大見出し順序は変更しない（`## vaporwaveという名前以前に` → `## 2011年6月1日のツイート` は現状維持）。
 
@@ -402,15 +592,15 @@
 
 ## クイックリファレンス
 
-| 今 | 次の1手 |
+| 段階 | 次の1手 |
 |---|---|
-| **今** | **rev-7**（三読み＋2016 vaporwave 政治化） |
-| 6a〜6f・6d-review・7・§9 | ☑ |
-| rev-*（レビュー論点） | ☐——[`草稿_レビュー論点メモ`](./草稿_レビュー論点メモ.md) §13 |
-| src-*（外部調査ノート） | ☐——[`musicplusghost.md`](./musicplusghost.md)／[`supersuper.md`](./supersuper.md)／[r/witchhouse 歴史スレ](https://www.reddit.com/r/witchhouse/comments/1pe4re5/witch_house_music_history/?tl=ja) |
-| 任意 | 6b-reorg 後続（M.I.A.）／L254 接続文／rev-12 Caretaker |
+| **今** | **rev-7／ed-1**：[`vaporwave政治化_調査ノート.md`](./vaporwave政治化_調査ノート.md) §6 → 文案 → L420 後に反映 |
+| **その次** | **src-2** SuperSuper! → **src-4** ハイパーポップ → **cari-draft** → **concl-1** |
+| 並行可 | cari-inv、ed-2、ed-3、rev-4／8／9、src-1／3 |
+| 完了済み | 6a〜6f、6d-review 一次、7、§9、§9-man（進捗サマリー参照） |
+| 任意 | M.I.A. 段落、L254、rev-12 Caretaker、§8 残 |
 
-**§9-man の分割（再掲）**：6c＝年表のみ／6e＝cousin・chillwave／§9＝L256・KYM・Wayback・X・Reddit・包含関係
+**索引の正本**：§タスク索引（本ファイル上部）
 
 ---
 
@@ -434,7 +624,12 @@
 | [`草稿_レビュー論点メモ.md`](./草稿_レビュー論点メモ.md) | レビュー論点の正本・rev-* ロードマップ |
 | [`musicplusghost.md`](./musicplusghost.md) | FEECO *MUSIC + GHOST* 全文テキスト（src-1 正本） |
 | [`supersuper.md`](./supersuper.md) | SuperSuper! 号別調査・PC Music 前史（src-2 正本） |
+| [`vaporwave政治化_調査ノート.md`](./vaporwave政治化_調査ノート.md) | rev-7 正本（2016 fashwave・コミュニティ応答・Boriswave） |
+| [`CARI_調査ノート.md`](./CARI_調査ノート.md) | cari-inv／cari-draft 正本（Guardian・Facebook 制度化・Priz Tats） |
+| [`CARIの歴史.md`](./CARIの歴史.md) | CARI 公式年表の和訳 |
+| [`ハイパーポップの歴史.md`](./ハイパーポップの歴史.md) | src-4 正本（PC Music・SOPHIE・QT・2013–2016） |
+| [`編集方針.md`](./編集方針.md) | ed-1〜3 の根拠 |
 
 ---
 
-*更新：2026-06-02。フェーズ7・§9 完了。次は rev-7。src-1／src-2／src-3（r/witchhouse 歴史スレ参照）を追加。*
+*更新：2026-06-02。§タスク索引・§アクティブ・パイプライン再編。**cari-inv／cari-draft** 分割、**src-4**（ハイパーポップ）、**ed-1〜3**（編集方針）明示。*
