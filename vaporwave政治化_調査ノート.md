@@ -105,8 +105,8 @@
 |---|---|
 | URL | https://www.vice.com/en/article/fashwave-neo-nazi-music/ |
 | 別URL | https://www.vice.com/en/article/d7jw7v/fashwave-neo-nazi-music |
-| 著者 | 未確定（"Follow Alexander on Twitter" のクレジット行のみ確認、フルネーム不明） |
-| 日付 | 未確定（ページ上は2024年再掲示のタイムスタンプ。note.comの年表は2016年12月15日説——§4-d参照） |
+| 著者 | **Alexander Iadarola**（☑ 2026-06-02 確認） |
+| 日付 | **2016年12月14日 18:18**（EST 表記 6:18pm）（☑ 2026-06-02 確認）。BuzzFeed（12月13日）の翌日。日本語二次 [`note_極右の世界のBGM.md`](./note_極右の世界のBGM.md) は「12月15日」とするが、一次メタデータは14日 |
 
 > "As its name suggests, the 'genre' involves a crude combination of fascist ideology with the vintage electronic music of synthwave"
 
@@ -131,6 +131,8 @@
 
 #### (a) McLeod, Ken (2018)「Vaporwave: Politics, Protest, and Identity」
 
+**ローカル正本**：[`Vaporwave_Politics_Protest_and_Identity.pdf`](./Vaporwave_Politics_Protest_and_Identity.pdf)／[`Vaporwave_Politics_Protest_and_Identity.md`](./Vaporwave_Politics_Protest_and_Identity.md)（☑ 2026-06-02。pypdf 抽出）。fashwave／Trumpwave／alt-right 流用を後半で論じる。
+
 | 項目 | 内容 |
 |---|---|
 | 掲載誌 | Journal of Popular Music Studies, Vol. 30, Issue 4, pp. 123–142（オンライン公開：2018年12月4日、University of California Press） |
@@ -141,6 +143,8 @@
 > 「vaporwaveがいかに社会経済的批評の一形式として機能しつつ、アイデンティティの諸相を問題化するか」を検討。"there is much ambiguity in the overall attitude and message of vaporwave, [but] its main unifying ideology is the re-configuration of pop music from the 1970s and '80s in order to critique and parody consumerism and corporate culture"——テクノ・オリエンタリズムとの関係も論じる
 
 #### (b) Whelan, Andrew & Nowak, Raphaël (2018)「'Vaporwave Is (Not) a Critique of Capitalism': Genre Work in An Online Music Scene」
+
+**ローカル正本**：[`Vaporwave Is (Not) a Critique of Capitalism_Genre Work in An Online Music Scene.md`](./Vaporwave%20Is%20(Not)%20a%20Critique%20of%20Capitalism_Genre%20Work%20in%20An%20Online%20Music%20Scene.md)（☑ 2026-06-02 保存）。§3-3 @ccchristtt ツイート全文を本文・Works Cited で引用。
 
 | 項目 | 内容 |
 |---|---|
@@ -187,12 +191,16 @@
 | 項目 | 内容 |
 |---|---|
 | ツイートURL | https://twitter.com/ccchristtt/status/934884934187212800 |
-| 日付 | 2017年11月（ステータスIDから推定） |
+| 日付 | X 表示：**2017年11月27日** 12:41（**日本時間**）。Whelan & Nowak 2018 Works Cited：**26 Nov. 2017, 12:41 p.m.**（北米表記＝UTC-5 等。JST 27日午前は米国東部26日午後と整合） |
 | 人物 | John Zobele（Chris†††）、Pittsburgh拠点のvaporwave/future funkアーティスト、Business Casual主宰。[Vaporwave Wiki](https://vaporwave.fandom.com/wiki/Chris%E2%80%A0%E2%80%A0%E2%80%A0) |
 
-検索結果による要約（**注意：直接確認できておらず、正確な引用文ではない**）：vaporwaveに付与された「資本主義文化批判」というラベルが誠実なものか疑問視し、「初期のジャーナリストがジャンルに『深い意味』を与えるために使った便宜的な総称にすぎないのではないか」、そしてそのフレーミングを使い続けることが「ジャンルの足を引っ張っている」という趣旨。
+**原文（☑ 2026-06-02 確認）**：
 
-**要確認**：このツイートはWhelan & Nowak 2018（§2-5b）が「genre work」の係争点として参照する、コミュニティ内部の自己懐疑の象徴的事例と位置づけられる。ただし正確な文言は検索要約からの再構成であり、X上の原文（または Wayback 経由）での確認が必須——§6参照。
+> is it just me or is this 'critique of capitalist culture' thing associated with vaporwave a joke? like it's just a blanket term that early journalists used to give the genre a 'deeper meaning' in the beginning. people who still bring that shit up hold it back imo.
+
+Whelan & Nowak 2018 はこのツイートを本文で引用し、Sweetheart's Paradise Ltd.（Finley Michaels）との返信スレッドとして genre work の具体例にしている。正本テキスト：[`Vaporwave Is (Not) a Critique of Capitalism_Genre Work in An Online Music Scene.md`](./Vaporwave%20Is%20(Not)%20a%20Critique%20of%20Capitalism_Genre%20Work%20in%20An%20Online%20Music%20Scene.md)（DOI: https://doi.org/10.1515/culture-2018-0041 ）。
+
+**草稿での扱い**：☑ L447 直接引用反映（2017-11-27 JST）。政治的流用への拒否（Parker・Ten S.）とは別層の「内側から批評ラベルを問い直す」動き。
 
 ### 3-4. Rave News「モントリオール緊急サミット」記事（2016年2月9日）——**風刺記事であることに注意**
 
@@ -210,22 +218,54 @@
 
 ## 4. 日本語圏の言及
 
-### (a) 木澤佐登志「ミレニアル世代を魅了する奇妙な音楽『ヴェイパーウェイブ』とは何か」（現代ビジネス、2019年2月7日）
+### (a) 日本語圏への紹介（2017〜2019）——木澤・現代ビジネス論争ほか
+
+**草稿反映**：☑ L447–452（2026-06-02 改稿同期）。[`第2章_命名の時代.md`](./第2章_命名の時代.md)・[`第2章取込_vaporwave政治化_文案.md`](./第2章取込_vaporwave政治化_文案.md)・[`next_tasks.md`](./next_tasks.md) 同期済。L454「話を戻そう。」で distroid 節（2012-07-13）へ回帰。
+
+**論旨（草稿）**：英語圏の2016〜17 fashwave 報道は日本語圏では**直接的紹介なし**。Harper＝資本主義批判／加速主義の読みはショコラ訳・SR 系ブログ等で先行。2019年に vaporwave＋fashwave が一括紹介され、L452 で「2012年批評語彙＋2016年以降政治化」が結びつけて受容されたと締める。
+
+#### 先行経路（2019以前）
 
 | 項目 | 内容 |
 |---|---|
-| URL | https://gendai.media/articles/-/59738 |
-| 著者プロフィール | https://gendai.media/list/author/satoshikizawa |
+| ショコラ（Chocolat Heartnight） | ブログ [cahier de chocolat](https://ameblo.jp/chocolat-et-framboise/)。**2017年後半〜** vaporwave 関連翻訳を継続。2018-10-12 Harper 訳「[vaporwaveとヴァーチャルプラザのポップアート](https://ameblo.jp/chocolat-et-framboise/entry-12413541077.html)」 |
+| 仲山ひふみ／sensualempire | はてなID `sensualempire`（ニックネーム「ひふみ」）＝仲山ひふみ（☑ プロフィール確認）。X [@sensualempire](https://twitter.com/sensualempire)。2015-01-22「[哲学のホラー――思弁的実在論とその周辺](https://sensualempire.hatenablog.com/entry/20150122/1421959481)」——CCRU 系文脈 |
+| 2016〜17 fashwave | 日本語圏では**直接報道なし**（草稿 L449） |
 
-> 「ヴェイパーウェイヴはノスタルジアの魔力を持つ音楽で、その作り手は多くが80年代～90年代前半生まれのミレニアル世代に属しており、幼少時代に触れていたビデオゲーム、ダイヤルアップ接続のインターネット、TVコマーシャル、ショッピングモールなどの消費文化がそのまま彼らの作る音楽に反映されています」
+#### 2019年の一気通貫
 
-> 「一昔前の3Dグラフィックス、初期のインターネットやビデオゲームのイメージ、ニューエイジ、アニメ、ギリシャ彫刻、直訳調の奇妙な日本語などの80年代～90年代のノスタルジックなイメージが『AESTHETIC（美的）』と名付けられています」
+| 項目 | 内容 |
+|---|---|
+| 木澤『ダークウェブ・アンダーグラウンド』 | 2019年1月刊行。[Amazon](https://www.amazon.co.jp/dp/4781617417)。第5章：新反動主義・CCRU・Harper DUMMY・vaporwave |
+| Mal d'archive（木澤ブログ） | https://toshinoukyouko.hatenablog.com/ ／2018-08-24 [オルタナ右翼の源流ニック・ランドと新反動主義](https://toshinoukyouko.hatenablog.com/entry/2018/08/24/230418)——本論は OPN 等。脚注 *30 で Harper vaporwave・Grafton Tanner に言及 |
+| 現代ビジネス | https://gendai.media/articles/-/59738 ／著者 https://gendai.media/list/author/satoshikizawa |
+| 初出タイトル | 「オルタナ右翼を魅了する奇妙な音楽『ヴェイパーウェイブ』とは何か」（2019-02-07、[告知](https://x.com/gendai_biz/status/1093253154211225603)） |
+| 改題後 | 「ミレニアル世代を魅了する奇妙な音楽『ヴェイパーウェイブ』とは何か」（公開約10時間後、[@euthanasia_02](https://x.com/euthanasia_02/status/1093409976033337344) が編集交渉を報告） |
 
-Vektroid『Floral Shoppe』（2011）をジャンルの「金字塔」と位置づける。
+> **本文後半**（fashwave 言及）：「さらに憂慮すべきこととしては、ヴェイパーウェイヴが一部のオルタナ右翼までも魅了している点だ。ファッシュウェイヴ…は、ヴェイパーウェイヴやその周辺ジャンルのひとつシンセウェイヴ…の意匠を取り入れている（あるいは悪用しているというべきか）。」
 
-なお木澤氏には著書『ニック・ランドと新反動主義 現代世界を覆う〈ダーク〉な思想』（講談社、[出版社ページ](https://bookclub.kodansha.co.jp/product?item=0000322359)）があり、vaporwaveと加速主義を扱う節を含むとされる（検索結果によるが、書籍本文からの直接引用は未確認）。
+> **本文前半**（主題）：ノスタルジア・ミレニアル世代・AESTHETIC 等。Vektroid『Floral Shoppe』（2011）を「金字塔」と位置づける。
 
-**コメント**：草稿はすでにNick Land／加速主義の文脈でHarperを引いており（L420付近）、木澤氏のこの系列の論考は日本語圏での「vaporwave×加速主義」言説の代表例として参照可能——ただし§2政治化の節そのものではなく、Harper節の補強や脚注的な位置づけが妥当か。
+#### 2019-02-07 の反応（X）
+
+| アカウント | 人物 | URL | 要点 |
+|---|---|---|---|
+| @PerfectNISEMONO | にせもの＠えり天 | https://x.com/PerfectNISEMONO/status/1093327242287955968 | fashwave／trumpwave は亜種。「オルタナ右翼に人気！」見出しに違和感 |
+| @sute_aca_ | **捨て垢**（Local Visions 主宰） | https://x.com/sute_aca_/status/1093332999003721728 | 交友のなかにオルタナ右翼はいない。[Local Visions](https://sites.google.com/view/local-visions/)（[2018年設立](https://sites.google.com/view/local-visions/news?authuser=0)、vaporwave 影響） |
+| @someru | **さやわか**（ライター） | https://x.com/someru/status/1093373443309920256 | ノスタルジー固定化への留保。ネット的ミーム文化としての vaporwave → 政治運動と連結しうる |
+| @euthanasia_02 | kzwmn02 | https://x.com/euthanasia_02/status/1093409976033337344 | タイトル改題を報告 |
+
+**さやわか**：ユリイカ2019年12月号「身体に悪い蒸気の文化」（[青土社目次](https://www.seidosha.co.jp/book/index.php?id=3364)）。草稿 L451 では 2019-02-07 ツイートのみ引用。
+
+#### 続報・制度化
+
+| 項目 | 内容 |
+|---|---|
+| ykic note | 2019-02-10、木澤記事を受けて動物豆知識bot が「[極右の世界のBGM/スキンズ、RAC、Fashwave の話](https://note.com/ykic/n/n6590a1678623)」——[`note_極右の世界のBGM.md`](./note_極右の世界のBGM.md) |
+| 現代思想2019年6月号 | 加速主義特集（木澤 Mark Fisher 私論も収録）。[青土社](https://www.seidosha.co.jp/book/index.php?id=3300) |
+| ユリイカ2019年12月号 | vaporwave 特集。ショコラ訳 Harper 再掲。[青土社](https://www.seidosha.co.jp/book/index.php?id=3364) |
+
+なお木澤氏ののちの著書『ニック・ランドと新反動主義』（講談社、[出版社ページ](https://bookclub.kodansha.co.jp/product?item=0000322359)）も同系列。
 
 ### (b) obakeweb ブログ「Vaporwave A to Z：蒸気波仮想世界地図」
 
@@ -244,15 +284,18 @@ Vektroid『Floral Shoppe』（2011）をジャンルの「金字塔」と位置�
 
 ユーザー「pareorogas」によるX（Twitter）スレッドのアーカイブ。レイヴ・カルチャー→vaporwave→オルタナ右翼の流用という流れを、加速主義・暗黒啓蒙の影響とともに辿る。**直接の引用文は未確認**——§6へ。
 
-### (d) note.com「極右の世界のBGM/スキンズ、RAC、Fashwave の話」（ユーザー「ykic」）
+### (d) note.com「極右の世界のBGM」（ユーザー「ykic」／「動物豆知識bot」名義）
 
 | 項目 | 内容 |
 |---|---|
 | URL | https://note.com/ykic/n/n6590a1678623 |
+| ローカル転記 | [`note_極右の世界のBGM.md`](./note_極右の世界のBGM.md)（☑ 2026-06-02） |
 
-vaporwaveがオルタナ右翼を惹きつけた経緯、2016年に「シーン内のファシズムの台頭」についてアーティストたちが議論したこと、fashwaveを「武器化されたノスタルジア（weaponized nostalgia）」と評した（アーティスト Sleep ∞ Over に帰属とされる、ただし正確な引用文未確認）ことなどが要約されている。Daily Stormerの2016年8月13日の宣言、BuzzFeed（12月13日）、Vice（12月15日と推定——§2-4の(a)記事と同一の可能性）という時系列も提示。
+fashwave 年表（Daily Stormer 2016-08-13、BuzzFeed 2016-12-13、Vice 2016-12-**15** 表記）、4chan/pol 2014年の synthwave 言及、Ten S. の BuzzFeed 取材要約など。**二次資料**——正文の一次出典にしない。
 
-**コメント**：「2016年にアーティストたちがシーン内のファシズムの台頭について議論した」という記述は、Rave Newsの風刺記事（§3-4）と時期的に符合する——両者が同一の出来事を指している可能性、あるいは風刺記事がこの実際の議論を誇張・戯画化した可能性がある。直接訪問して時系列の整合性を確認する価値が高い。
+**要注意**：L27–28 は Rave News（2016-02）を「2016年にアーティストらによるディスカッション」と書くが、**追記でフェイクニュースと訂正**している（草稿 §3-4 と整合）。Vice (a) の日付は本文が「12月15日」だが、一次メタデータは **12月14日**（§2-4(a)）。
+
+**Sleep ∞ Over／「weaponized nostalgia」**：[`note_極右の世界のBGM.md`](./note_極右の世界のBGM.md) 転記内に当該語は**なし**（ykic 原文の別箇所か要約の可能性）。確認できたのは [Vice 2017-01 trumpwave](https://www.vice.com/en/article/trumpwave-fashwave-far-right-appropriation-vaporwave-synthwave/) が THUMP 取材の Stefanie Franciotti（Sleep ∞ Over）を引用し、fashwave を **"weaponized nostalgia"** と述べた、と報じる一文。直引用は *"By connecting an easily digestible message to the soundtrack of our youth, the alt-right seeks to subvert our critical thinking and directly appeal to our emotional selves."* ——「weaponized nostalgia」が本人の言葉か記者のラベルかは THUMP 原文未確認。SoundCloud 上の Sleep ∞ Over ページからは当該フレーズは検索でヒットせず。
 
 ---
 
@@ -283,16 +326,21 @@ WebFetchが本セッションで機能しない（全URLで403）ため、以下
 |---|---|
 | https://www.theguardian.com/music/musicblog/2016/dec/14/fashwave-synth-music-co-opted-by-the-far-right | ☑ 2026-06-02 Wayback 照合済み（Parker・Hann 結語は草稿反映済み） |
 | https://www.buzzfeednews.com/article/reggieugwu/fashwave | ☑ 2026-06-02 Wayback 照合済み（Ten S.・"young white nationalism" は草稿反映済み） |
-| https://twitter.com/ccchristtt/status/934884934187212800 （or Wayback経由） | @ccchristttツイートの正確な文言。現状は検索要約による再構成のみ |
+| https://twitter.com/ccchristtt/status/934884934187212800 | ☑ 2026-06-02 原文確認。§3-3 反映。Whelan & Nowak 2018 が全文引用 |
+| https://www.degruyterbrill.com/document/doi/10.1515/culture-2018-0041/html | ☑ ローカル MD 保存済み（[`Vaporwave Is (Not) a Critique...md`](./Vaporwave%20Is%20(Not)%20a%20Critique%20of%20Capitalism_Genre%20Work%20in%20An%20Online%20Music%20Scene.md)）。@ccchristtt ☑ 草稿 L447 |
+| https://gendai.media/articles/-/59738 | ☑ 木澤 2019-02-07。タイトル改題・fashwave は本文後半。草稿 L451 |
+| https://toshinoukyouko.hatenablog.com/entry/2018/08/24/230418 | ☑ Mal d'archive。草稿 L451 |
+| https://ameblo.jp/chocolat-et-framboise/entry-12413541077.html | ☑ ショコラ訳 Harper。2017後半〜継続翻訳。草稿 L449 |
+| https://sensualempire.hatenablog.com/entry/20150122/1421959481 | ☑ 仲山ひふみ（はてな sensualempire）。草稿 L449 |
+| https://sites.google.com/view/local-visions/ | ☑ Local Visions。捨て垢（@sute_aca_）2018設立。草稿 L451 |
+| https://www.vice.com/en/article/fashwave-neo-nazi-music/ | ☑ 2026-06-02。**Alexander Iadarola**、**2016-12-14 18:18** |
+| https://www.ravenews.ca/en/read/2016/february/09/ | ☑ 2026-06-02 確認済み。風刺・実在集会なし。草稿 L439–445 反映済み |
+| https://note.com/ykic/n/n6590a1678623 | ☑ 転記 [`note_極右の世界のBGM.md`](./note_極右の世界のBGM.md)。weaponized nostalgia は Vice 2017-01 経由のみ（§3-4 要注意） |
+| https://online.ucpress.edu/jpms/article/30/4/123/106377/VaporwavePolitics-Protest-and-Identity | ☑ PDF＋MD（[`Vaporwave_Politics_Protest_and_Identity.md`](./Vaporwave_Politics_Protest_and_Identity.md)） |
 | https://obakeweb.hatenablog.com/entry/vaporwave_worldmap | 政治化に関する直接の言及・引用可能な一文があるか |
 | https://togetter.com/li/2029593 （ミラー：https://posfie.com/@pareorogas/p/9d8Aq4H?page=2 ） | スレッドの正確な引用文・時系列の出典 |
-| https://note.com/ykic/n/n6590a1678623 | 「2016年にアーティストたちが議論した」という記述の出典・Sleep ∞ Overの「weaponized nostalgia」発言の正確な文言と帰属 |
-| https://www.vice.com/en/article/fashwave-neo-nazi-music/ | 著者名・初出日の確定（現在「2024年再掲」の表示のみ） |
-| https://www.ravenews.ca/en/read/2016/february/09/ | ☑ 2026-06-02 確認済み。「Vaporwave Artists Mad That Their Music Is Popular With Fascists」（2016-02-09）。風刺・実在集会なし。Vice 2017-01・SPLC・KYM が二次引用。草稿反映済み |
-| r/vaporwave （Wayback Machine／Pushshiftで2016年12月〜2017年1月のサイドバー・告知投稿を確認） | モデレーターによる公式な反応・声明があるか。本調査では一次資料を発見できず |
-| https://www.newstatesman.com/politics/uk-politics/2019/11/lo-fi-boriswave-why-are-conservatives-posting-71-minute-hypnotic-videos-youtube | Boriswave記事の正確な引用・#boriswaveツイートの内容 |
-| https://online.ucpress.edu/jpms/article/30/4/123/106377/VaporwavePolitics-Protest-and-Identity （または[ResearchGate版](https://www.researchgate.net/publication/335667343_Vaporwave_Politics_Protest_and_Identity)） | McLeod 2018の本文（現状アブストラクトの要約のみ） |
-| https://www.degruyterbrill.com/document/doi/10.1515/culture-2018-0041/html | Whelan & Nowak 2018の本文（@ccchristtt言及箇所の有無を確認したい） |
+| r/vaporwave モデレーター声明 | ☒ 2026-06-02 **未発見**。サブreddit https://www.reddit.com/r/vaporwave/ および Wayback（2016-12〜2017-01）を調べても、政治的流用への**公式声明URLは特定できず**。存在しない可能性が高い——正文には書かない |
+| https://www.newstatesman.com/politics/uk-politics/2019/11/lo-fi-boriswave-why-are-conservatives-posting-71-minute-hypnotic-videos-youtube | Boriswave記事の正確な引用・#boriswaveツイートの内容（任意） |
 
 ---
 
@@ -301,10 +349,11 @@ WebFetchが本セッションで機能しない（全URLで403）ため、以下
 編集方針 §1 の指示「政治化は『コミュニティの応答』として短く（1〜2段落）入れる」を踏まえると：
 
 1. **核となる引用候補**：Robert Parker「I do not use any language or imagery that can be connected with it」（§3-1）——最も直接的で短い拒否表明。Ten S.の「We do not approve of bigotry or hate」（§3-2）と合わせて、「アーティストが流用を拒否した」という最小限の事実として使える
-2. **内部論争の補強**：@ccchristttの一件（§3-3）は、政治的流用そのものへの応答ではなく「批評の語り（資本主義批判という規定）への自己懐疑」だが、これは編集方針が seapunk と対比して述べる「美学がどのように防衛されるか」の一形態として——「外からの政治化」だけでなく「内側からラベルを問い直す」動きとして言及する余地がある（要・正確な文言確認後に判断）
-3. **Rave News（§3-4）は実話として使わない**——「2016年初頭にはすでに、こうした懸念が風刺の対象になるほど共有されていた」という状況証拠としてなら使えるが、優先度は低い
-4. **Boriswave（§5）**は「もう一つの、メカニズムの異なる流用」として短く触れる価値があるが、分量バランス上は注・1文に留めるのが妥当
-5. **Harper引用との接続**：草稿L420は「この形容（Nick Landの加速主義のサウンドトラック）は後に議論を呼ぶことになる」とすでに伏線を張っている——この一文を受ける形で、2016年の politicization → コミュニティの応答、という流れに自然に接続できる
+2. **内部論争の補強**：☑ @ccchristtt（§3-3）草稿 L447 反映済み
+3. **日本語圏（2019）**：☑ §4-(a) 草稿 L449–452 反映済み（木澤・現代ビジネス論争・Local Visions／捨て垢・さやわか・ykic・雑誌特集）
+4. **Rave News（§3-4）は実話として使わない**——☑ 草稿 L439–445 反映済み（風刺・Vice 二次）
+5. **Boriswave（§5）**——草稿では未反映（任意・脚注向き）
+6. **Harper引用との接続**：☑ L437–452 で Harper → 2016政治化 → 応答 → 日本語圏2019 まで接続済み
 
 ---
 

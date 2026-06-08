@@ -4,7 +4,7 @@
 **論点バックログ**：[`草稿_レビュー論点メモ.md`](./草稿_レビュー論点メモ.md)（2026-06-02 同期済）  
 **編集方針**：[`編集方針.md`](./編集方針.md)（政治化・日本語圏射程・seapunk 読み道）
 
-**次にやる1件**：**src-2**（SuperSuper! Magazine 追記）→ **src-4**（ハイパーポップ）——rev-7／ed-1 ☑（2026-06-02）
+**次にやる1件**：**src-5**（vaporwave前史／Hippos In Tanks）——src-2 ☑（2026-06-02）の直後。**src-4**（ハイパーポップ）は並行可／rev-7／ed-1 ☑
 
 **使い方**
 
@@ -35,7 +35,7 @@
 ```
 rev-7（ed-1）政治化 ─────────────────────────┐
                                               ├→ rev-4 / rev-8 / rev-9（並行可）
-src-2 SuperSuper! ──→ src-4 ハイパーポップ ──┤
+src-2 SuperSuper! ──→ src-5 vaporwave前史（HIT）──→ src-4 ハイパーポップ ──┤
                                               ↓
                          cari-draft（第5章 1段落＋Facebook 補強）
                                               ↓
@@ -70,8 +70,9 @@ ed-3 seapunk 読み道整備 ────── 第2章・単独可（圧縮以�
 
 | ID | 内容 | 状態 | 依存 | 正本・文案 |
 |---|---|---|---|---|
-| **src-2** | SuperSuper! Magazine 追記 | ☐ | rev-7 後推奨 | [`supersuper.md`](./supersuper.md) → `第2章取込_SuperSuper_文案.md` |
-| **src-4** | ハイパーポップの歴史（PC Music 2013–2016 厚み） | ☐ | **src-2 後** | [`ハイパーポップの歴史.md`](./ハイパーポップの歴史.md) → `第2章取込_ハイパーポップ_文案.md` |
+| **src-2** | SuperSuper! Magazine 追記 | ☑ | rev-7 後推奨 | [`supersuper.md`](./supersuper.md) → [`第2章取込_SuperSuper_文案.md`](./第2章取込_SuperSuper_文案.md) |
+| **src-5** | vaporwave前史見直し（Hippos In Tanks） | ☐ | **src-2 直後** | [`HipposInTanks_調査ノート.md`](./HipposInTanks_調査ノート.md) → `第2章取込_vaporwave前史_文案.md` |
+| **src-4** | ハイパーポップの歴史（PC Music 2013–2016 厚み） | ☐ | src-2 後（src-5 と並行可） | [`ハイパーポップの歴史.md`](./ハイパーポップの歴史.md) → `第2章取込_ハイパーポップ_文案.md` |
 | **src-1** | musicplusghost 洗い出し | ☐ | 並行可 | [`musicplusghost.md`](./musicplusghost.md) |
 | **src-3** | r/witchhouse 歴史スレ参照 | ☐ | rev-9 と重複注意 | Reddit スレ URL |
 | **rev-8** | Eccojams vs Far Side Virtual | ☐ | 並行可 | `第2章取込_FSV対比_文案.md` |
@@ -172,18 +173,40 @@ ed-3 seapunk 読み道整備 ────── 第2章・単独可（圧縮以�
 | rev-10 | 9 Eyes → liminal | ☐ | `第4章取込_9eyes前史_文案.md` |
 | rev-12 | Caretaker × liminal／Backrooms | ☐ 先送り | 上記「第4章 Caretaker×liminal」と同一 |
 
-**推奨着手順（2026-06-02 以降）**：**rev-7（ed-1）** → src-2 → src-4 → cari-draft → concl-1。並行：rev-4／8／9、ed-2／3、src-1／3、cari-inv
+**推奨着手順（2026-06-02 以降）**：**rev-7（ed-1）** → src-2 ☑ → **src-5** → src-4 → cari-draft → concl-1。並行：rev-4／8／9、ed-2／3、src-1／3、cari-inv
 
-### rev-7 進捗——**完了（2026-06-02）**
+### rev-7 進捗——**完了（2026-06-02 拡張反映）**
 
 | 段階 | 状態 | 成果物 |
 |---|---|---|
-| 調査 | ☑ | [`vaporwave政治化_調査ノート.md`](./vaporwave政治化_調査ノート.md)。Guardian・BuzzFeed は Wayback 照合済み |
-| 要確認（残） | 任意 | §6：@ccchristtt 原文、Rave News URL、r/vaporwave 声明、McLeod 本文等（正文未反映分） |
-| 文案 | ☑ | [`第2章取込_vaporwave政治化_文案.md`](./第2章取込_vaporwave政治化_文案.md) |
-| 草稿反映 | ☑ | DMY 節 Harper 直後、2段落。分割稿同期 |
+| 調査 | ☑ | [`vaporwave政治化_調査ノート.md`](./vaporwave政治化_調査ノート.md) §4-(a) 含む。Guardian・BuzzFeed Wayback ☑。McLeod 2018 MD ☑ |
+| 要確認（残） | 任意 | obakeweb／togetter、Boriswave（脚注向き）。r/vaporwave 声明・weaponized nostalgia は打ち切り ☒ |
+| 文案 | ☑ | [`第2章取込_vaporwave政治化_文案.md`](./第2章取込_vaporwave政治化_文案.md)（2026-06-02 拡張版） |
+| 草稿反映 | ☑ | DMY 節 **L426–452**：英語圏政治化＋@ccchristtt＋**日本語圏 2017–2019**（L449–452）。L454「話を戻そう。」→ distroid |
+| 分割稿 | ☑ | [`第2章_命名の時代.md`](./第2章_命名の時代.md) DMY 節同期（2026-06-02） |
 
-**調査ノートの核**：Robert Parker・Ten S. の拒否表明／@ccchristtt 内部論争（要文言確認）／Boriswave は注・1文。Rave News 風刺は実話として使わない。
+**調査ノートの核**：Parker・Ten S. ☑／@ccchristtt ☑（L447）／木澤・現代ビジネス・捨て垢／Local Visions・さやわか ☑（§4-(a)）／Boriswave 任意未反映。
+
+**ed-2 との住み分け**：L449–452 は「英語圏批評語彙と 2016 政治化が日本語圏でいつ・どう結びつけられたか」の**受容の橋**（記録）。編集方針 §2 の「日本語圏独自系譜（カオスラウンジ・especia 等）は射程外」——**ed-2 は未着手**（序文／後記 1〜3文）。
+
+**rev-7 §6 残・確認用 URL**（2026-06-02 更新）
+
+| 状態 | 確認したいこと | URL／ローカル正本 |
+|---|---|---|
+| ☑ | @ccchristtt ツイート（2017-11-27） | https://twitter.com/ccchristtt/status/934884934187212800 → §3-3 |
+| ☑ | Whelan & Nowak 2018 | [`Vaporwave Is (Not) a Critique...md`](./Vaporwave%20Is%20(Not)%20a%20Critique%20of%20Capitalism_Genre%20Work%20in%20An%20Online%20Music%20Scene.md) |
+| ☑ | Vice fashwave（Iadarola、2016-12-14） | https://www.vice.com/en/article/fashwave-neo-nazi-music/ |
+| ☑ | McLeod 2018 PDF＋MD | [`Vaporwave_Politics_Protest_and_Identity.md`](./Vaporwave_Politics_Protest_and_Identity.md) |
+| ☑ | ykic ノート転記 | [`note_極右の世界のBGM.md`](./note_極右の世界のBGM.md) |
+| ☒ | r/vaporwave 声明 | **未発見**（URL 特定不可。Wayback でも公式声明なし） |
+| ☒ | Sleep ∞ Over「weaponized nostalgia」 | Vice 2017-01 経由の THUMP 引用のみ。SoundCloud・全文検索でフレーズ未確認 |
+| ☑ | 日本語圏 2019（木澤・現代ビジネス・ykic 等） | 草稿 L449–452／調査ノート §4-(a) |
+| ☑ | Mal d'archive・Chocolat・仲山ひふみ（sensualempire） | 草稿 L449–451 |
+| ☑ | Local Visions／捨て垢（@sute_aca_） | 草稿 L451 |
+| ☐ | obakeweb／togetter | 調査ノート §6 |
+| ☐ | Boriswave（任意） | New Statesman 2019-11 |
+
+**確認済み（§6）**：Guardian・BuzzFeed fashwave、[Rave News](https://www.ravenews.ca/en/read/2016/february/09/)、[Vice 2017-01 trumpwave](https://www.vice.com/en/article/trumpwave-fashwave-far-right-appropriation-vaporwave-synthwave/)、[gendai.media](https://gendai.media/articles/-/59738)
 
 ---
 
@@ -192,9 +215,10 @@ ed-3 seapunk 読み道整備 ────── 第2章・単独可（圧縮以�
 | ID | 内容 | 状態 | 文案（案） | 依存 |
 |---|---|---|---|---|
 | src-1 | musicplusghost 洗い出し | ☐ | `第2章取込_musicplusghost_文案.md` | 並行可 |
-| src-2 | SuperSuper! Magazine 追記 | ☐ | `第2章取込_SuperSuper_文案.md` | rev-7 後推奨 |
+| src-2 | SuperSuper! Magazine 追記 | ☑ | [`第2章取込_SuperSuper_文案.md`](./第2章取込_SuperSuper_文案.md) | rev-7 後推奨（2026-06-02 反映） |
+| src-5 | vaporwave前史見直し（Hippos In Tanks） | ☐ | `第2章取込_vaporwave前史_文案.md` | **src-2 直後** |
 | src-3 | r/witchhouse 歴史スレ参照 | ☐ | `第2章取込_witchhouse歴史参照_文案.md` | rev-9 と重複注意 |
-| src-4 | ハイパーポップの歴史（PC Music 厚み） | ☐ | `第2章取込_ハイパーポップ_文案.md` | **src-2 後**（cari-draft の前提） |
+| src-4 | ハイパーポップの歴史（PC Music 厚み） | ☐ | `第2章取込_ハイパーポップ_文案.md` | src-2 後（src-5 と並行可。cari-draft の前提） |
 
 ### src-1. musicplusghost.md——参考箇所の洗い出し
 
@@ -241,6 +265,40 @@ ed-3 seapunk 読み道整備 ────── 第2章・単独可（圧縮以�
 3. [`草稿.md`](./草稿.md) L258 付近（および行先候補節）に反映 → 分割稿同期  
 
 **正本 URL 例**：seapunk 特集 [Wayback](https://web.archive.org/web/20111010162542/http://www.thesupersuper.com/featured/seapunk/)／Megazord flickr [#22 誌面](https://www.flickr.com/photos/megazord/5095163987/in/photostream/)／[witch-house.com タイムライン](https://witch-house.com/thetimeline/)
+
+**追記（2026-06-02）**：作業の流れで [`草稿.md`](./草稿.md) `## vaporwaveという名前以前に`（GATEKEEPER／HIT 等）へ手入れあり。**節の見直し・誤記修正・HIT カタログ補強は src-5 に回す**。SuperSuper 分割稿同期は src-2 完了時 or src-5 完了時にまとめて可。
+
+---
+
+### src-5. vaporwave前史見直し——Hippos In Tanks
+
+**背景**  
+**src-2** 作業中に vaporwave 前史節へ GATEKEEPER（『Giza』VHS、Thunder Horse Video）、Hippos In Tanks 経由の Games／OPN、2008 MySpace 交流などを追記した。**Hippos In Tanks** はこの接点だけでなく、James Ferraro（*Condo Pets*、*Far Side Virtual*）、Nguzunguzu、GATEKEEPER *Exo*（USB）、Body Guard、Bebetune$、Arca、Grimes 等を輩出する重要レーベル。2016 年には Yung Lean の HIT 予定アルバムが父親によって無断リリースされた、とのエピソードも調査対象（要ファクト確認）。
+
+**正本**  
+[`HipposInTanks_調査ノート.md`](./HipposInTanks_調査ノート.md)（骨子のみ。2026-06-02 作成）
+
+**見直し対象（草稿）**
+
+| 箇所 | 内容 |
+|---|---|
+| `## vaporwaveという名前以前に` L225–258 付近 | GATEKEEPER ブロックの推敲、HIT レーベル文脈、段落整理 |
+| 誤記・体裁 | `Lopatin` 誤記、`switch house`（witch house 節）、MySpace 段落の重複、リンク付け |
+
+**他タスクとの接続**
+
+| タスク | 接続 |
+|---|---|
+| **src-2** | Thunder Horse（Giza）↔ SuperSuper Vol 2 #001 |
+| **rev-8** | *Far Side Virtual* の厚みは Eccojams 対比と役割分担 |
+| **src-4** | Arca／Grimes の HIT 初期と hyperpop 節の重複回避 |
+
+**手順**
+
+1. [`HipposInTanks_調査ノート.md`](./HipposInTanks_調査ノート.md) でカタログ・年表・Yung Lean エピソードをファクト補強（Discogs・Wayback・報道）  
+2. 文案 `第2章取込_vaporwave前史_文案.md` を作成  
+3. [`草稿.md`](./草稿.md) `## vaporwaveという名前以前に` を反映 → 分割稿同期  
+4. 推敲メモに改稿ログ  
 
 ---
 
@@ -336,8 +394,8 @@ ed-3 seapunk 読み道整備 ────── 第2章・単独可（圧縮以�
 
 | ID | 編集方針 | 対応タスク | 状態 | 行先 |
 |---|---|---|---|---|
-| ed-1 | §1 政治化（コミュニティの応答） | **rev-7** と同一 | ☐ | 第2章 L420–421 後、1〜2段落 |
-| ed-2 | §2 日本語圏は射程外 | 単独 | ☐ | 序文末尾 or `## ＜後記＞`、1〜3文 |
+| ed-1 | §1 政治化（コミュニティの応答） | **rev-7** と同一 | ☑ | 第2章 DMY 節 L426–452（英語圏＋受容の橋。2026-06-02） |
+| ed-2 | §2 日本語圏は射程外 | 単独 | ☐ | 序文末尾 or `## ＜後記＞`、1〜3文（L449–452 とは別：独自系譜の射程明示） |
 | ed-3 | §3 seapunk 読み道整備 | 単独 | ☐ | 第2章 seapunk 節（節頭地図・#### ラベル等。全文圧縮以外） |
 
 **優先度（編集方針記載順）**：ed-1 → ed-2 → ed-3。ed-1 は rev-7 と一体。ed-2／3 はパイプラインと並行可。
@@ -594,9 +652,9 @@ ed-3 seapunk 読み道整備 ────── 第2章・単独可（圧縮以�
 
 | 段階 | 次の1手 |
 |---|---|
-| **今** | **src-2** SuperSuper! → **src-4** ハイパーポップ |
-| **その次** | **cari-draft** → **concl-1**（rev-7／ed-1 ☑） |
-| 並行可 | cari-inv、ed-2、ed-3、rev-4／8／9、src-1／3 |
+| **今** | **src-5** vaporwave前史（Hippos In Tanks）——src-2 ☑ 直後 |
+| **その次** | **src-4** ハイパーポップ → **cari-draft** → **concl-1**（rev-7／ed-1 ☑） |
+| 並行可 | cari-inv、ed-2、ed-3、rev-4／8／9、src-1／3／4 |
 | 完了済み | 6a〜6f、6d-review 一次、7、§9、§9-man（進捗サマリー参照） |
 | 任意 | M.I.A. 段落、L254、rev-12 Caretaker、§8 残 |
 
@@ -624,7 +682,11 @@ ed-3 seapunk 読み道整備 ────── 第2章・単独可（圧縮以�
 | [`草稿_レビュー論点メモ.md`](./草稿_レビュー論点メモ.md) | レビュー論点の正本・rev-* ロードマップ |
 | [`musicplusghost.md`](./musicplusghost.md) | FEECO *MUSIC + GHOST* 全文テキスト（src-1 正本） |
 | [`supersuper.md`](./supersuper.md) | SuperSuper! 号別調査・PC Music 前史（src-2 正本） |
+| [`HipposInTanks_調査ノート.md`](./HipposInTanks_調査ノート.md) | HIT カタログ・vaporwave 前史（src-5 正本） |
 | [`vaporwave政治化_調査ノート.md`](./vaporwave政治化_調査ノート.md) | rev-7 正本（2016 fashwave・コミュニティ応答・Boriswave） |
+| [`Vaporwave Is (Not) a Critique of Capitalism_Genre Work in An Online Music Scene.md`](./Vaporwave%20Is%20(Not)%20a%20Critique%20of%20Capitalism_Genre%20Work%20in%20An%20Online%20Music%20Scene.md) | Whelan & Nowak 2018 全文（@ccchristtt 引用含む） |
+| [`Vaporwave_Politics_Protest_and_Identity.md`](./Vaporwave_Politics_Protest_and_Identity.md) | McLeod 2018 全文（PDF 抽出） |
+| [`note_極右の世界のBGM.md`](./note_極右の世界のBGM.md) | ykic 二次・fashwave 年表（Vice 日付は14日に訂正） |
 | [`CARI_調査ノート.md`](./CARI_調査ノート.md) | cari-inv／cari-draft 正本（Guardian・Facebook 制度化・Priz Tats） |
 | [`CARIの歴史.md`](./CARIの歴史.md) | CARI 公式年表の和訳 |
 | [`ハイパーポップの歴史.md`](./ハイパーポップの歴史.md) | src-4 正本（PC Music・SOPHIE・QT・2013–2016） |
@@ -632,4 +694,4 @@ ed-3 seapunk 読み道整備 ────── 第2章・単独可（圧縮以�
 
 ---
 
-*更新：2026-06-02。**rev-7／ed-1** ☑。次は **src-2** → **src-4**。*
+*更新：2026-06-02。**src-2** ☑。**src-5**（vaporwave前史／HIT）を src-2 直後に追加。**rev-7／ed-1** ☑。次は **src-5** → **src-4** → **cari-draft**。*
