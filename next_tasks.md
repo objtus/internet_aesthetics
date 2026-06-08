@@ -4,7 +4,7 @@
 **論点バックログ**：[`草稿_レビュー論点メモ.md`](./草稿_レビュー論点メモ.md)（2026-06-02 同期済）  
 **編集方針**：[`編集方針.md`](./編集方針.md)（政治化・日本語圏射程・seapunk 読み道）
 
-**次にやる1件**：**rev-7** 調査完了（[`vaporwave政治化_調査ノート.md`](./vaporwave政治化_調査ノート.md) §6 確認）→ 文案 → 草稿反映（＝**ed-1**）
+**次にやる1件**：**src-2**（SuperSuper! Magazine 追記）→ **src-4**（ハイパーポップ）——rev-7／ed-1 ☑（2026-06-02）
 
 **使い方**
 
@@ -63,8 +63,8 @@ ed-3 seapunk 読み道整備 ────── 第2章・単独可（圧縮以�
 
 | ID | 内容 | 状態 | 依存 | 正本・文案 |
 |---|---|---|---|---|
-| **rev-7** | 2016 vaporwave 政治化（コミュニティの応答） | ☐ 調査中 | — | [`vaporwave政治化_調査ノート.md`](./vaporwave政治化_調査ノート.md) → `第2章取込_vaporwave政治化_文案.md` |
-| **ed-1** | 編集方針 §1 政治化 | ☐ | **rev-7 と同一** | 上記 |
+| **rev-7** | 2016 vaporwave 政治化（コミュニティの応答） | ☑ | — | [`vaporwave政治化_調査ノート.md`](./vaporwave政治化_調査ノート.md) → [`第2章取込_vaporwave政治化_文案.md`](./第2章取込_vaporwave政治化_文案.md) |
+| **ed-1** | 編集方針 §1 政治化 | ☑ | rev-7 と同一 | 上記（2026-06-02 反映） |
 
 ### 第2章・外部ノート（rev-7 後 or 並行）
 
@@ -166,7 +166,7 @@ ed-3 seapunk 読み道整備 ────── 第2章・単独可（圧縮以�
 | rev-4 | ムードボード対比 | ☐ | `第1章取込_ムードボード対比_文案.md` |
 | rev-5 | Megazord 修正 | ☑ | `第1章取込_Megazord_文案.md` |
 | rev-6 | aesthetic 大仰さ総括 | ☑ | `第2章取込_aesthetic大仰さ_文案.md` |
-| rev-7 | 三読み＋2016 政治化 | ☐ **調査中** | 調査：[`vaporwave政治化_調査ノート.md`](./vaporwave政治化_調査ノート.md) → 文案：`第2章取込_vaporwave政治化_文案.md`（未） |
+| rev-7 | 三読み＋2016 政治化 | ☑ | 文案・草稿反映（2026-06-02）。推敲メモ 続45 |
 | rev-8 | Eccojams vs FSV | ☐ | `第2章取込_FSV対比_文案.md` |
 | rev-9 | witch house 匿名性 | ☐ | `第2章取込_witchhouse匿名性_文案.md` |
 | rev-10 | 9 Eyes → liminal | ☐ | `第4章取込_9eyes前史_文案.md` |
@@ -174,14 +174,14 @@ ed-3 seapunk 読み道整備 ────── 第2章・単独可（圧縮以�
 
 **推奨着手順（2026-06-02 以降）**：**rev-7（ed-1）** → src-2 → src-4 → cari-draft → concl-1。並行：rev-4／8／9、ed-2／3、src-1／3、cari-inv
 
-### rev-7 進捗（2026-06-02）
+### rev-7 進捗——**完了（2026-06-02）**
 
 | 段階 | 状態 | 成果物 |
 |---|---|---|
-| 調査 | **進行中** | [`vaporwave政治化_調査ノート.md`](./vaporwave政治化_調査ノート.md)（311行。二次文献・コミュニティ応答・Boriswave まで整理済み） |
-| 要確認 | 未完了 | 調査ノート §6（Guardian 原文、@ccchristtt、Rave News URL、r/vaporwave 声明、McLeod 本文等） |
-| 文案 | 未着手 | `第2章取込_vaporwave政治化_文案.md` |
-| 草稿反映 | 未着手 | 行先：Harper 節直後（L420–421 付近）。1〜2段落（編集方針 §1） |
+| 調査 | ☑ | [`vaporwave政治化_調査ノート.md`](./vaporwave政治化_調査ノート.md)。Guardian・BuzzFeed は Wayback 照合済み |
+| 要確認（残） | 任意 | §6：@ccchristtt 原文、Rave News URL、r/vaporwave 声明、McLeod 本文等（正文未反映分） |
+| 文案 | ☑ | [`第2章取込_vaporwave政治化_文案.md`](./第2章取込_vaporwave政治化_文案.md) |
+| 草稿反映 | ☑ | DMY 節 Harper 直後、2段落。分割稿同期 |
 
 **調査ノートの核**：Robert Parker・Ten S. の拒否表明／@ccchristtt 内部論争（要文言確認）／Boriswave は注・1文。Rave News 風刺は実話として使わない。
 
@@ -594,8 +594,8 @@ ed-3 seapunk 読み道整備 ────── 第2章・単独可（圧縮以�
 
 | 段階 | 次の1手 |
 |---|---|
-| **今** | **rev-7／ed-1**：[`vaporwave政治化_調査ノート.md`](./vaporwave政治化_調査ノート.md) §6 → 文案 → L420 後に反映 |
-| **その次** | **src-2** SuperSuper! → **src-4** ハイパーポップ → **cari-draft** → **concl-1** |
+| **今** | **src-2** SuperSuper! → **src-4** ハイパーポップ |
+| **その次** | **cari-draft** → **concl-1**（rev-7／ed-1 ☑） |
 | 並行可 | cari-inv、ed-2、ed-3、rev-4／8／9、src-1／3 |
 | 完了済み | 6a〜6f、6d-review 一次、7、§9、§9-man（進捗サマリー参照） |
 | 任意 | M.I.A. 段落、L254、rev-12 Caretaker、§8 残 |
@@ -632,4 +632,4 @@ ed-3 seapunk 読み道整備 ────── 第2章・単独可（圧縮以�
 
 ---
 
-*更新：2026-06-02。§タスク索引・§アクティブ・パイプライン再編。**cari-inv／cari-draft** 分割、**src-4**（ハイパーポップ）、**ed-1〜3**（編集方針）明示。*
+*更新：2026-06-02。**rev-7／ed-1** ☑。次は **src-2** → **src-4**。*

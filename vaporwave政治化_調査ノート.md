@@ -74,7 +74,7 @@
 
 > （記事の結語として、SPLC等が二次引用する形でしばしば参照される）"Its compatibility with the mainstream is the potentially poisonous thing"／fashwaveを "the first pop music of the far right that doesn't sound like it was made by and for people who had chosen to completely alienate themselves from the world" と評する
 
-**要注意**：上記Guardian引用の正確な文言は、SPLC等による孫引きを介して確認したものであり、Guardian原文を直接確認できていない（WebFetchが本セッションで機能しないため）。**草稿に引用する前に原文ページで一字一句確認すること**——§6参照。
+**一次確認済み（2026-06-02）**：Wayback（2017-01-01 キャプチャ）で原文を照合。Robert Parker 発言および Hann の結語（"potentially poisonous thing"／"first pop music of the far right"）は本文反映済み（[`第2章取込_vaporwave政治化_文案.md`](./第2章取込_vaporwave政治化_文案.md)）。
 
 ---
 
@@ -198,9 +198,13 @@
 
 風刺サイト Rave News が、vaporwaveプロデューサーたちが「シーン内に忍び寄るファシズム」を議論する緊急サミットをモントリオールで開催した、という**架空の**記事を掲載。「DJ Karoda Night」なる人物の発言として引用されている文言は**すべて創作**であり、実在の発言ではない。
 
-ただし——この記事自体が**2016年2月という早い段階で、コミュニティ内に「政治的流用への警戒」というテーマがすでに話題として流通していたことの状況証拠**にはなる（風刺が成立するには、ネタ元となる現実の懸念が前提として共有されている必要がある）。記事のコメント欄には実際にオルタナ右翼系統と見られる投稿者が反応したとも言われる。
+ただし——この記事自体が**2016年2月という早い段階で、コミュニティ内に「政治的流用への警戒」というテーマがすでに話題として流通していたことの状況証拠**にはなる（風刺が成立するには、ネタ元となる現実の懸念が前提として共有されている必要がある）。
 
-**草稿での扱い**：実話として引用することは厳禁。「コミュニティの応答」の記録として使うなら、「2016年2月の時点で、すでに風刺の対象になるほど話題になっていた」という形でのみ言及可能。Rave NewsのURL自体は本調査では確認できておらず、§6に回す。
+**コメント欄のネオナジ反応**：出典は [Vice 2017-01](https://www.vice.com/en/article/trumpwave-fashwave-far-right-appropriation-vaporwave-synthwave/) の二次報道のみ。「The article's comments section was quickly swarmed by neo-Nazis…」およびワーグナー／現代音楽への言い換え引用。続く "The point of The Onion-like satire wasn't clear. But knowingly or not, Rave News had hit on a real trend." に対応する一文を Vice 帰属で記載。**「自己正当化の場になってしまった副次効果」は草稿側の読み**（Vice 原文に同語なし）。Rave News 現行ページにコメント欄なし・Wayback 2016年保存も未確認。
+
+**Vice 記事の本論（§2-4）**：Trumpwave 節の "stripping it of irony and playfulness—by taking it literally, as a glorification of capitalism"（L89 付近）が「流用の論理」の原文根拠。Rave News パートとは記事内で別段落。
+
+**草稿での扱い**：実話として引用することは厳禁。Vice 帰属（fake news・コメント欄・hit on a real trend・流用の論理の指摘）と本稿評価（副次効果・メディアとしての可視化・「重要だった」）を分離（L443–445 反映済み）。
 
 ---
 
@@ -277,13 +281,14 @@ WebFetchが本セッションで機能しない（全URLで403）ため、以下
 
 | URL | 確認したいこと |
 |---|---|
-| https://www.theguardian.com/music/musicblog/2016/dec/14/fashwave-synth-music-co-opted-by-the-far-right | Hann記事の正確な文言（特にRobert Parkerの発言の前後文脈と、記事末尾の評言の一字一句）——SPLC等の孫引きとの異同 |
+| https://www.theguardian.com/music/musicblog/2016/dec/14/fashwave-synth-music-co-opted-by-the-far-right | ☑ 2026-06-02 Wayback 照合済み（Parker・Hann 結語は草稿反映済み） |
+| https://www.buzzfeednews.com/article/reggieugwu/fashwave | ☑ 2026-06-02 Wayback 照合済み（Ten S.・"young white nationalism" は草稿反映済み） |
 | https://twitter.com/ccchristtt/status/934884934187212800 （or Wayback経由） | @ccchristttツイートの正確な文言。現状は検索要約による再構成のみ |
 | https://obakeweb.hatenablog.com/entry/vaporwave_worldmap | 政治化に関する直接の言及・引用可能な一文があるか |
 | https://togetter.com/li/2029593 （ミラー：https://posfie.com/@pareorogas/p/9d8Aq4H?page=2 ） | スレッドの正確な引用文・時系列の出典 |
 | https://note.com/ykic/n/n6590a1678623 | 「2016年にアーティストたちが議論した」という記述の出典・Sleep ∞ Overの「weaponized nostalgia」発言の正確な文言と帰属 |
 | https://www.vice.com/en/article/fashwave-neo-nazi-music/ | 著者名・初出日の確定（現在「2024年再掲」の表示のみ） |
-| Rave News「モントリオール緊急サミット」記事（URL未特定——"Rave News emergency summit Montreal creeping fascism vaporwave"等で再検索要） | 風刺であることの確認、掲載日（2016年2月9日説）の検証、コメント欄の実際の反応 |
+| https://www.ravenews.ca/en/read/2016/february/09/ | ☑ 2026-06-02 確認済み。「Vaporwave Artists Mad That Their Music Is Popular With Fascists」（2016-02-09）。風刺・実在集会なし。Vice 2017-01・SPLC・KYM が二次引用。草稿反映済み |
 | r/vaporwave （Wayback Machine／Pushshiftで2016年12月〜2017年1月のサイドバー・告知投稿を確認） | モデレーターによる公式な反応・声明があるか。本調査では一次資料を発見できず |
 | https://www.newstatesman.com/politics/uk-politics/2019/11/lo-fi-boriswave-why-are-conservatives-posting-71-minute-hypnotic-videos-youtube | Boriswave記事の正確な引用・#boriswaveツイートの内容 |
 | https://online.ucpress.edu/jpms/article/30/4/123/106377/VaporwavePolitics-Protest-and-Identity （または[ResearchGate版](https://www.researchgate.net/publication/335667343_Vaporwave_Politics_Protest_and_Identity)） | McLeod 2018の本文（現状アブストラクトの要約のみ） |
