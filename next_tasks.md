@@ -73,6 +73,7 @@ ed-3 seapunk 読み道整備 ────── 第2章・単独可（圧縮以�
 | **src-2** | SuperSuper! Magazine 追記 | ☑ | rev-7 後推奨 | [`supersuper.md`](./supersuper.md) → [`第2章取込_SuperSuper_文案.md`](./第2章取込_SuperSuper_文案.md) |
 | **src-5** | vaporwave前史見直し（Hippos In Tanks） | ☐ | **src-2 直後** | [`HipposInTanks_調査ノート.md`](./HipposInTanks_調査ノート.md) → `第2章取込_vaporwave前史_文案.md` |
 | **src-6** | MP3ブログ時代とエクスペリメンタル・シーン——仕分けと複数挿入箇所の検討 | ☐ | src-5 と重複整理が必要。仕分け自体は単独着手可 | [`MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md`](./MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md) → 複数文案（章別） |
+| **inv-vektroid** | Vektroidの名義増殖とシーン形成——調査（src-6 スレッドB由来） | ☐ | 並行可。正文は書かない | 調査のみ。結果は src-6 スレッドB／vaporwave前史節へ還流 |
 | **src-4** | ハイパーポップの歴史（PC Music 2013–2016 厚み） | ☐ | src-2 後（src-5 と並行可） | [`ハイパーポップの歴史.md`](./ハイパーポップの歴史.md) → `第2章取込_ハイパーポップ_文案.md` |
 | **src-1** | musicplusghost 洗い出し | ☐ | 並行可 | [`musicplusghost.md`](./musicplusghost.md) |
 | **src-3** | r/witchhouse 歴史スレ参照 | ☐ | rev-9 と重複注意 | Reddit スレ URL |
@@ -356,6 +357,28 @@ ed-3 seapunk 読み道整備 ────── 第2章・単独可（圧縮以�
 4. [`草稿.md`](./草稿.md) へ反映 → 分割稿同期 → 推敲メモに改稿ログ
 
 **注意**：本ノートは分量が大きく、**全節を反映する必要はない**。§3・§6・§7・§10・§12・§17 が特に優先度高（草稿の薄い部分を補う、または既存テーマと共鳴する）と思われるが、最終判断は仕分け時に行う。
+
+---
+
+### inv-vektroid. Vektroidの名義増殖とシーン形成——調査（src-6 スレッドB由来）
+
+**背景**  
+src-6 スレッドB（匿名性の美学）の検討中に浮上した仮説：Vektroid（Ramona Andra Xavier）が2011年に複数名義（Laserdisc Visions、Macintosh Plus、PrismCorp Virtual Enterprises、New Dreams Ltd. 等）で短期間に大量リリースしたことが、外部から見ると「一人のアーティスト」ではなく「複数アーティストによるシーン・ムーブメント」のように映り、vaporwaveという語の認知・定着を後押しした可能性がある。事実なら、「個人の希薄化」（匿名性）だけでなく「ジャンルの可視化・実体化」という第2章の中心テーマにも接続できる。
+
+**調査事項**
+
+- Vektroidの2011年の各名義（Laserdisc Visions、Macintosh Plus、PrismCorp Virtual Enterprises、New Dreams Ltd.、Sandtimer 等）のリリース時期・本数を時系列で整理（Bandcamp・Discogs・Wayback）
+- 当時のリスナー・フォーラム（witch-house.com、Beer on the Rugコミュニティ等）が、これらを「同一人物」と認識していたか、「複数アーティスト」と誤認していたかの記録の有無
+- Beer on the Rug（草稿の行先候補：vaporwave前史 L254 直後、src-6 §3 とも関連）のカタログにおける、これらの名義の並び方・紹介のされ方
+- 既存の `Seapunk 詳細調査ノート.md`・`vaporwave政治化_調査ノート.md` 等に関連記述がないか確認
+
+**ステータス**：調査のみ。**正文は書かない**。
+
+**手順**
+
+1. 上記調査事項をWayback・Discogs・Bandcamp等で確認し、ノート（新規 `Vektroid_調査ノート.md` または既存ノートへの追記）にまとめる  
+2. 結果を src-6 スレッドBへ還流。仮説が裏付けられればvaporwave前史節（L254付近）への追記候補として src-6 の仕分け表に反映  
+3. 裏付けが取れない場合は src-6 スレッドBから当該観察を除外し、Vektroidの2名義併記（L254/L365）への軽い接続のみ残す
 
 ---
 
