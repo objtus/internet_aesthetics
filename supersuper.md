@@ -15,7 +15,8 @@
 4. [PC Music前史との接続](#4-pc-music前史)
 5. [seapunk→slimepunkの継承記録](#5-seapunk-slimepunk)
 6. [ブログアーカイブの性格](#6-アーカイブ)
-7. [参照資料一覧](#7-参照資料)
+7. [「New Ugly」（2007年）とのデザイン的文脈](#7-new-ugly)
+8. [参照資料一覧](#8-参照資料)
 
 ---
 
@@ -365,7 +366,39 @@ URL：https://web.archive.org/web/2012*/http://www.thesupersuper.com/
 
 ---
 
-## 7. 参照資料一覧
+## 7. 「New Ugly」（2007年）とのデザイン的文脈
+
+SuperSuper!が2009年以降にwitch house・seapunkの記録媒体として機能する以前から、誌面デザインそのものがUKのグラフィックデザイン言説で注目されていた。これはwitch house/seapunk文脈の「aesthetic」とは別系統の、より早い時期のデザイン業界内の議論である。
+
+### 7-1. Patrick Burgoyne「The New Ugly」（Creative Review、2007年8月30日）
+
+Creative Review編集長Patrick Burgoyneが2007年8月30日に発表した記事。SuperSuper!（創刊者Steve Slocombe）と、ドイツのデザイン誌**032c**（Mike Meiréによる2007年リデザイン）の2誌を題材に、「意図的にルールを破壊する」グラフィックデザインの潮流を論じた。
+
+特徴として挙げられているのは：
+
+- 歪んだ・引き伸ばされたタイポグラフィ
+- デイグロー（蛍光色）と配色の衝突
+- 余白の過剰または不足
+
+Burgoyneはこれを「洗練されたデザインの均質化への反動（knee-jerk reaction）」なのか、「（ネットで情報消費する）若い読者層の変化に応じた本物の文化的転換」なのかという問いとして提示した。
+
+**注意**：creativereview.co.uk の原文（[the-new-ugly](https://www.creativereview.co.uk/the-new-ugly/)）はWebFetchで403のため未確認。内容はWeb検索結果のスニペットおよび転載先（[Aesthetics of Risk](https://aestheticsofrisk.wordpress.com/2012/09/13/the-new-ugly-by-patrick-burgoyne-cr/)）からの再構成であり、直接の引用確認が必要。
+
+### 7-2. 続編「Pretty Ugly or plain ugly?」（Creative Review、2012年）
+
+5年後の2012年、Burgoyneは続編記事「Pretty Ugly or plain ugly?」（[Aesthetics of Risk転載](https://aestheticsofrisk.wordpress.com/2012/09/13/pretty-ugly-or-plain-ugly-by-patrick-burgoyne-cr/)）で「New Ugly」論を再訪した。これはGestalten刊『Pretty Ugly: Visual Rebellion in Design』（TwoPoints.Net編）の書評で、SuperSuper!・032cに見られた傾向が、より広い「ヴィジュアル・リベリオン」のデザイン潮流として書籍化されたことを扱う。タイトルの「Pretty Ugly」は「かなり醜い」と「魅力的に醜い」の両義。
+
+032cについては、2022年の[AIGA Eye on Design記事](https://eyeondesign.aiga.org/how-germanys-032c-magazine-is-still-pioneering-the-new-ugly-15-years-in/)が「New Ugly」を15年経っても牽引し続けるメディアとして再評価している。
+
+### 7-3. 草稿との関係についてのメモ
+
+「New Ugly」（2007年）は、本ノート §1-3 以降で扱うwitch house/seapunk取材（2009年〜）より2〜3年早い。SuperSuper!は、witch house/seapunkを「拾った」のではなく、**もともとUKのデザイン業界内で「ルール破壊・反"洗練"」の代表格として知られていた媒体**だった、という背景情報になる。誌面の視覚的な過剰さ・乱雑さが、後にwitch house/seapunk/slimepunkといった「ノイズの多い」インターネット系サブカルチャーと親和的だった理由の一端を、このデザイン史的文脈が説明しうる。
+
+草稿324行目（SuperSuper!の創刊経緯の説明）に軽く接続できる可能性があるが、追加するかどうか・重みづけは未定。
+
+---
+
+## 8. 参照資料一覧
 
 | 資料名 | 種別 | URL |
 |---|---|---|
@@ -392,6 +425,12 @@ URL：https://web.archive.org/web/2012*/http://www.thesupersuper.com/
 | Depop SuperSuper! issue #22出品 | 参考資料 | https://www.depop.com/sianamber/supersuper-magazine-issue-22-weirdo |
 | SuperSuper! Facebook page | 一次資料 | https://www.facebook.com/SuperSuperMagazine |
 | Internet Archive thesupersuper.com snapshot | 一次資料（アーカイブ） | https://web.archive.org/web/2012*/http://www.thesupersuper.com/ |
+| Patrick Burgoyne "The New Ugly" (Creative Review, 2007/08/30) | 一次資料（未確認・403） | https://www.creativereview.co.uk/the-new-ugly/ |
+| "The New Ugly" 転載 (Aesthetics of Risk) | 二次資料（転載） | https://aestheticsofrisk.wordpress.com/2012/09/13/the-new-ugly-by-patrick-burgoyne-cr/ |
+| Patrick Burgoyne "Pretty Ugly or plain ugly?" (Creative Review, 2012) | 一次資料（未確認・403） | https://www.creativereview.co.uk/pretty-ugly-or-plain-ugly/ |
+| "Pretty Ugly or plain ugly?" 転載 (Aesthetics of Risk) | 二次資料（転載） | https://aestheticsofrisk.wordpress.com/2012/09/13/pretty-ugly-or-plain-ugly-by-patrick-burgoyne-cr/ |
+| "How Germany's 032c Magazine is Still Pioneering the New Ugly After 15 Years" (AIGA Eye on Design) | 二次資料 | https://eyeondesign.aiga.org/how-germanys-032c-magazine-is-still-pioneering-the-new-ugly-15-years-in/ |
+| "The New Ugly" (ensala.fr ミラー) | 二次資料（未確認・403） | https://ensala.fr/NewUgly.html |
 
 ---
 
