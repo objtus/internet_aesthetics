@@ -382,13 +382,15 @@ Creative Review編集長Patrick Burgoyneが2007年8月30日に発表した記事
 
 Burgoyneはこれを「洗練されたデザインの均質化への反動（knee-jerk reaction）」なのか、「（ネットで情報消費する）若い読者層の変化に応じた本物の文化的転換」なのかという問いとして提示した。
 
-**注意**：creativereview.co.uk の原文（[the-new-ugly](https://www.creativereview.co.uk/the-new-ugly/)）はWebFetchで403のため未確認。内容はWeb検索結果のスニペットおよび転載先（[Aesthetics of Risk](https://aestheticsofrisk.wordpress.com/2012/09/13/the-new-ugly-by-patrick-burgoyne-cr/)）からの再構成であり、直接の引用確認が必要。
+**【未確認】**：creativereview.co.uk の原文（[the-new-ugly](https://www.creativereview.co.uk/the-new-ugly/)）も、転載先の[Aesthetics of Risk](https://aestheticsofrisk.wordpress.com/2012/09/13/the-new-ugly-by-patrick-burgoyne-cr/)も、いずれもWebFetchで403となり**直接確認できていない**。上記の内容はすべてWeb検索結果のスニペットからの再構成であり、原文での引用確認が必要。
 
 ### 7-2. 続編「Pretty Ugly or plain ugly?」（Creative Review、2012年）
 
-5年後の2012年、Burgoyneは続編記事「Pretty Ugly or plain ugly?」（[Aesthetics of Risk転載](https://aestheticsofrisk.wordpress.com/2012/09/13/pretty-ugly-or-plain-ugly-by-patrick-burgoyne-cr/)）で「New Ugly」論を再訪した。これはGestalten刊『Pretty Ugly: Visual Rebellion in Design』（TwoPoints.Net編）の書評で、SuperSuper!・032cに見られた傾向が、より広い「ヴィジュアル・リベリオン」のデザイン潮流として書籍化されたことを扱う。タイトルの「Pretty Ugly」は「かなり醜い」と「魅力的に醜い」の両義。
+5年後の2012年、Burgoyneは続編記事「Pretty Ugly or plain ugly?」を発表し、「New Ugly」論を再訪したとされる。これはGestalten刊『Pretty Ugly: Visual Rebellion in Design』（TwoPoints.Net編）の書評で、SuperSuper!・032cに見られた傾向が、より広い「ヴィジュアル・リベリオン」のデザイン潮流として書籍化されたことを扱う、とされる。タイトルの「Pretty Ugly」は「かなり醜い」と「魅力的に醜い」の両義。
 
-032cについては、2022年の[AIGA Eye on Design記事](https://eyeondesign.aiga.org/how-germanys-032c-magazine-is-still-pioneering-the-new-ugly-15-years-in/)が「New Ugly」を15年経っても牽引し続けるメディアとして再評価している。
+**【未確認】**：原文（[creativereview.co.uk](https://www.creativereview.co.uk/pretty-ugly-or-plain-ugly/)）・転載先（[Aesthetics of Risk](https://aestheticsofrisk.wordpress.com/2012/09/13/pretty-ugly-or-plain-ugly-by-patrick-burgoyne-cr/)）ともにWebFetchで403。本節の内容もWeb検索結果のスニペットのみに基づく。
+
+032cについては、2022年の[AIGA Eye on Design記事](https://eyeondesign.aiga.org/how-germanys-032c-magazine-is-still-pioneering-the-new-ugly-15-years-in/)が「New Ugly」を15年経っても牽引し続けるメディアとして再評価している、とされる（**【未確認】**：このページもWebFetch未取得、検索スニペットのみ）。
 
 ### 7-3. 草稿との関係についてのメモ
 
@@ -425,12 +427,12 @@ Burgoyneはこれを「洗練されたデザインの均質化への反動（kne
 | Depop SuperSuper! issue #22出品 | 参考資料 | https://www.depop.com/sianamber/supersuper-magazine-issue-22-weirdo |
 | SuperSuper! Facebook page | 一次資料 | https://www.facebook.com/SuperSuperMagazine |
 | Internet Archive thesupersuper.com snapshot | 一次資料（アーカイブ） | https://web.archive.org/web/2012*/http://www.thesupersuper.com/ |
-| Patrick Burgoyne "The New Ugly" (Creative Review, 2007/08/30) | 一次資料（未確認・403） | https://www.creativereview.co.uk/the-new-ugly/ |
-| "The New Ugly" 転載 (Aesthetics of Risk) | 二次資料（転載） | https://aestheticsofrisk.wordpress.com/2012/09/13/the-new-ugly-by-patrick-burgoyne-cr/ |
-| Patrick Burgoyne "Pretty Ugly or plain ugly?" (Creative Review, 2012) | 一次資料（未確認・403） | https://www.creativereview.co.uk/pretty-ugly-or-plain-ugly/ |
-| "Pretty Ugly or plain ugly?" 転載 (Aesthetics of Risk) | 二次資料（転載） | https://aestheticsofrisk.wordpress.com/2012/09/13/pretty-ugly-or-plain-ugly-by-patrick-burgoyne-cr/ |
-| "How Germany's 032c Magazine is Still Pioneering the New Ugly After 15 Years" (AIGA Eye on Design) | 二次資料 | https://eyeondesign.aiga.org/how-germanys-032c-magazine-is-still-pioneering-the-new-ugly-15-years-in/ |
-| "The New Ugly" (ensala.fr ミラー) | 二次資料（未確認・403） | https://ensala.fr/NewUgly.html |
+| Patrick Burgoyne "The New Ugly" (Creative Review, 2007/08/30) | 一次資料（未確認・WebFetch 403） | https://www.creativereview.co.uk/the-new-ugly/ |
+| "The New Ugly" 転載 (Aesthetics of Risk) | 二次資料（未確認・WebFetch 403） | https://aestheticsofrisk.wordpress.com/2012/09/13/the-new-ugly-by-patrick-burgoyne-cr/ |
+| Patrick Burgoyne "Pretty Ugly or plain ugly?" (Creative Review, 2012) | 一次資料（未確認・WebFetch 403） | https://www.creativereview.co.uk/pretty-ugly-or-plain-ugly/ |
+| "Pretty Ugly or plain ugly?" 転載 (Aesthetics of Risk) | 二次資料（未確認・WebFetch 403） | https://aestheticsofrisk.wordpress.com/2012/09/13/pretty-ugly-or-plain-ugly-by-patrick-burgoyne-cr/ |
+| "How Germany's 032c Magazine is Still Pioneering the New Ugly After 15 Years" (AIGA Eye on Design) | 二次資料（未確認・未取得） | https://eyeondesign.aiga.org/how-germanys-032c-magazine-is-still-pioneering-the-new-ugly-15-years-in/ |
+| "The New Ugly" (ensala.fr ミラー) | 二次資料（未確認・WebFetch 403） | https://ensala.fr/NewUgly.html |
 
 ---
 
