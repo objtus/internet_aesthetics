@@ -480,7 +480,7 @@ HIT・OESB・Tri Angle・RVNG Intl.という四レーベルが横並びで言及
 | [`supersuper.md`](./supersuper.md) | Thunder Horse／Nguzunguzu（Vol 2 #001） |
 | [`next_tasks.md`](./next_tasks.md) §src-5 | タスク手順 |
 | rev-8 | Eccojams vs Far Side Virtual |
-| `mp3blog_experimental_notes.md` | HITの既述あり（§4）。本ノートとの重複整理が必要 |
+| [`MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md`](./MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md) | HITの既述あり（§4）。本ノートとの重複整理が必要（→ src-6） |
 
 ---
 
