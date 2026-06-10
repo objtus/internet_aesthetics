@@ -314,6 +314,16 @@ ed-3 seapunk 読み道整備 ────── 第2章・単独可（圧縮以�
 **正本**  
 [`MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md`](./MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md)
 
+**クロスカッティング・スレッド（追加検討、2026-06-10）**
+
+節ごとの仕分けとは別に、複数節をまたいで一本の線として書ける／書くべきテーマが3つ浮上している。仕分け時にはこれらを優先的な「軸」として意識する。
+
+| スレッド | 関連する節・既存記述 | 行先候補 | 優先度 | メモ |
+|---|---|---|---|---|
+| **A. ノイズ／インダストリアル→ポストパンク→憑在論・witch houseの系譜** | 本ノート §12（20jfgの命名＝Throbbing Gristle『20 Jazz Funk Greats』の皮肉なタイトル由来）、§13（OPN・Ferraroのノイズシーン出身と離脱）。既存の `#### 憑在論と郷愁の言語`（L174）、witch house節（L180–223）、`## 名前は冗談から生まれる`（L160） | `## 名前は冗談から生まれる` 冒頭でTGの先例として触れ、§13の伝記情報を vaporwave前史のOPN/Ferraro言及（L229）か憑在論小節への前史補強として接続 | **高** | Industrial Recordsの自主リリース・カセット郵送網は、後のMP3ブログ／カセット文化の先行形態としても読める（§10と接続可） |
+| **B. 匿名性の美学** | 本ノート §7（GATEKEEPER ADRの「観客を考慮しない」「技法を意図的に隠す」発言）、§18（Tumblrの匿名性と親密性の共存）。HITノート §4（James Ferraroのエイリアス連鎖 Bebetune$/Bodyguard）、§9B（Dean Blunt/Hype Williams）。rev-9（witch house匿名性）と直結 | 横断節を新設するか、各章の該当箇所に分散して接続文だけ入れるか要判断。新設する場合は第2章 witch house節の後 or `## アーキテクチャ：この時代の問い`（L532）が候補 | 中〜高 | 範囲が広いため、まず「新設節にするか／分散させるか」の構成判断を最初に行う必要がある |
+| **C. MySpace——対Facebookという軸** | 本ノート §17（MySpace基本史：Top 8、プロフィールカスタマイズ、Arctic Monkeys/Lily Allen/Adeleの発見、2019年データ消失）、§18（Karpの発言：MySpaceのカスタマイズ性を評価しつつFacebookの均質性を否定） | 第1章 GeoCities（L33–）とTumblr（L51–）の間に新設小節。「カスタマイズ可能な個性の場 vs Facebookの均質化」を軸に、2019年データ消失をGeoCities消滅と並ぶ「プラットフォームにアーカイブを委ねる危険性」の二例目として配置 | **最高** | 本論のアーキテクチャ論の根幹に関わる。第1章の構成変更を伴うため、**早めに着手判断する価値がある**（他のsrc-6項目と切り離して先行着手も可） |
+
 **仕分け候補（節→草稿の行先候補）**
 
 | ノート § | 内容 | 草稿の行先候補 | 優先度 | 備考 |
@@ -324,18 +334,18 @@ ed-3 seapunk 読み道整備 ────── 第2章・単独可（圧縮以�
 | §4 Hippos in Tanks | src-5 と完全重複 | — | — | **src-5 へ譲渡** |
 | §5 Olde English Spelling Bee（OESB） | HIT・Tri Angle と並ぶ「あいまいな中間地帯」レーベルの一つ | `## vaporwaveという名前以前に` または「レーベルと正史」節での横並び言及 | 低 | src-5 の HIT 比較記述と重複しないよう要調整 |
 | §6 Tri Angle Records（ブログ→レーベル転身） | 20jfg ライター Robin Carolan が設立した好例。「ブログ→レーベル」転身の典型 | 20jazzfunkgreats 初出箇所（L241/247）の近傍、または「名前は冗談から生まれる」節 | **高** | §1 のブログ→レーベル一般論と合わせて1パラグラフ化できる |
-| §7 Gatekeeper：VHS・映像・初期史（ADR の persona/匿名化発言） | 「観客を考慮しない」「技法を意図的に隠した」という ADR の発言は、witch house の匿名性（rev-9）と直結する核心的引用 | **rev-9**（witch house 匿名性）の文案、または vaporwave前史 GATEKEEPER ブロック末尾 | **高** | rev-9 と統合検討。重複注意 |
+| §7 Gatekeeper：VHS・映像・初期史（ADR の persona/匿名化発言） | 「観客を考慮しない」「技法を意図的に隠した」という ADR の発言は、witch house の匿名性（rev-9）と直結する核心的引用 | **スレッドB**（匿名性の美学）の核となる引用。rev-9 と統合検討 | **高** | rev-9 と統合検討。重複注意 |
 | §8 OPN *Memory Vague* と Root Strata | Root Strata（レーベル）の詳細・Paul Clipson との DVD-R 協働 | `## vaporwaveという名前以前に` L229 の Memory Vague 言及への注記 | 低 | 1〜2文の補足程度 |
 | §9 Hundebiss Records（VHSレーベル、イタリア） | Ferraro *Rapture Adrenaline* VHS、Hype Williams *2008/2011* VHS。物質性の事例として新規 | `## vaporwaveという名前以前に` のVHS言及（L240–241）の周辺、または§10とセットで | 中 | 新規情報。GATEKEEPER VHS事例と並べると文脈が厚くなる |
 | §10 横断的考察：物質性・映像・プロモーションの曖昧化 | 「物質性の回帰」「音楽と映像の不分離」「プロモーションと作品の境界消去」という総括 | 第2章末尾 `## アーキテクチャ：この時代の問い`（L532） | **高** | 第2章の総括節と相性が良い。§7・§9・§16 の素材を束ねる役割 |
 | §11 関連レーベル一覧 | 参照表 | 反映なし（執筆メモ・脚注用） | — | — |
-| §12 ノイズ・インダストリアル系譜：20jfgの命名（Throbbing Gristle由来） | ブログ名がTGの皮肉なアルバムタイトル由来——「名前は冗談から生まれる」というテーマと直接共鳴 | `## 名前は冗談から生まれる`（L160）冒頭、第2章の歴史的先例として | **高** | 第2章のテーマ提示に厚みを加える好材料 |
-| §13 ノイズシーンからの離脱：OPNとFerraro | OPNの改名由来・No Fun経由のノイズシーン参加・Editions Mego移行、FerraroのSkaters期 | vaporwave前史 OPN/Ferraro 言及（L229、HIT note FSV節）への伝記的補足 | 中 | src-5（Far Side Virtual）・rev-8（Eccojams対比）と調整 |
+| §12 ノイズ・インダストリアル系譜：20jfgの命名（Throbbing Gristle由来） | ブログ名がTGの皮肉なアルバムタイトル由来——「名前は冗談から生まれる」というテーマと直接共鳴 | **スレッドA** の起点。`## 名前は冗談から生まれる`（L160）冒頭、第2章の歴史的先例として | **高** | 第2章のテーマ提示に厚みを加える好材料 |
+| §13 ノイズシーンからの離脱：OPNとFerraro | OPNの改名由来・No Fun経由のノイズシーン参加・Editions Mego移行、FerraroのSkaters期 | **スレッドA**（§12）と接続。vaporwave前史 OPN/Ferraro 言及（L229、HIT note FSV節）への伝記的補足 | 中 | src-5（Far Side Virtual）・rev-8（Eccojams対比）と調整 |
 | §14 ポストインターネット・アートとの接続：Tabor Robak（HDBOYZ） | src-5 と重複（GATEKEEPER *Exo*）。HDBOYZ（Robak＋ADR＋Ryder Ripps＋Colin Self）は第1章「ポストインターネットアートという土壌」(L91) との接続が新規 | 第1章 L91 `## ポストインターネットアートという土壌`、または src-5 文案に統合 | 中 | HDBOYZ／DIS Magazine接続は第1章向き。Exo詳細はsrc-5へ |
 | §15 「HD」という共通言語 | lo-fi（ノイズ／hypnagogic）vs HD（Robak/GATEKEEPER）の対比という分析視点 | §10 と合わせて `## アーキテクチャ：この時代の問い`、または vaporwave前史の lo-fi/HD 対比に1段落 | 中 | §10 と統合可能 |
 | §16 Gatekeeper *Young Chronos*：Pirate Bay／USB（2013） | 「The medium is definitely the message」発言、フォーマット実験の継続。src-5 の Arca *&&&&&* （デジタル無料→限定盤）と同じ論理 | src-5 文案（HIT note §3 がすでに *&&&&&* と並べて言及）に統合、または vaporwave前史 GATEKEEPER ブロック末尾 | 中 | **src-5 と統合推奨** |
-| §17 MySpace：基本史 | 創設・Top 8・プロフィールカスタマイズ・Arctic Monkeys/Lily Allen/Adele 発見・2019年データ消失 | 第1章 GeoCities（L33）→Tumblr（L51）の間に新設小節として、または既存 GATEKEEPER/OPN MySpace アーカイブ言及（L249–250）への一般史補足 | **高** | 草稿は MySpace を「個別アーティストの実例」としてのみ扱っており、プラットフォーム史としての扱いが欠落。第1章の構造に関わる判断が必要 |
-| §18 Tumblr：設計思想・MySpaceとの継承関係 | Karp発言（MySpace称賛とFacebook批判）、匿名性と親密性の共存。第1章 Tumblr節（L51–）への補強候補 | 第1章 `## Tumblrというアーキテクチャ`（L51） | 中 | 既存節との重複確認が必要（リブログ・タグ等は既述） |
+| §17 MySpace：基本史 | 創設・Top 8・プロフィールカスタマイズ・Arctic Monkeys/Lily Allen/Adele 発見・2019年データ消失 | **スレッドC** の中核。第1章 GeoCities（L33）→Tumblr（L51）の間に新設小節 | **最高** | 草稿は MySpace を「個別アーティストの実例」としてのみ扱っており、プラットフォーム史としての扱いが欠落。第1章の構造に関わる判断が必要 |
+| §18 Tumblr：設計思想・MySpaceとの継承関係 | Karp発言（MySpace称賛とFacebook批判）、匿名性と親密性の共存。第1章 Tumblr節（L51–）への補強候補 | **スレッドC** と一体。第1章 `## Tumblrというアーキテクチャ`（L51）。匿名性の記述はスレッドBとも関連 | **高** | 既存節との重複確認が必要（リブログ・タグ等は既述） |
 | §19 プラットフォーム変遷の全体図 | MySpace→Tumblr／Bandcamp／SoundCloud／MP3ブログの並走図 | 反映なし（仕分け作業時の地図として使用） | — | §17・§18 の挿入判断に使う |
 
 **手順**
