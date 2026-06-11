@@ -4,7 +4,7 @@
 **論点バックログ**：[`草稿_レビュー論点メモ.md`](./草稿_レビュー論点メモ.md)（2026-06-02 同期済）  
 **編集方針**：[`編集方針.md`](./編集方針.md)（政治化・日本語圏射程・seapunk 読み道）
 
-**次にやる1件**：**src-5**（vaporwave前史／Hippos In Tanks）——src-2 ☑（2026-06-02）の直後。**src-4**（ハイパーポップ）は並行可／rev-7／ed-1 ☑
+**次にやる1件**：**src-5**（vaporwave前史／Hippos In Tanks）——src-2 ☑（2026-06-11 構成改稿・分割稿同期完了）の直後。**src-4**（ハイパーポップ）は並行可／rev-7／ed-1 ☑
 
 **使い方**
 
@@ -219,7 +219,7 @@ ed-4 本稿の制度化（後記メタ）── 後記・単独可（concl-1 と
 | ID | 内容 | 状態 | 文案（案） | 依存 |
 |---|---|---|---|---|
 | src-1 | musicplusghost 洗い出し | ☐ | `第2章取込_musicplusghost_文案.md` | 並行可 |
-| src-2 | SuperSuper! Magazine 追記 | ☑ | [`第2章取込_SuperSuper_文案.md`](./第2章取込_SuperSuper_文案.md) | rev-7 後推奨（2026-06-02 反映） |
+| src-2 | SuperSuper! Magazine 追記 | ☑ | [`第2章取込_SuperSuper_文案.md`](./第2章取込_SuperSuper_文案.md) | 草稿・分割稿反映済（2026-06-11） |
 | src-5 | vaporwave前史見直し（Hippos In Tanks） | ☐ | `第2章取込_vaporwave前史_文案.md` | **src-2 直後** |
 | src-6 | MP3ブログ時代とエクスペリメンタル・シーン——仕分け | ☐ | 複数文案（章別、仕分け後に確定） | src-5 と重複整理。仕分けは単独着手可 |
 | src-3 | r/witchhouse 歴史スレ参照 | ☐ | `第2章取込_witchhouse歴史参照_文案.md` | rev-9 と重複注意 |
@@ -249,29 +249,29 @@ ed-4 本稿の制度化（後記メタ）── 後記・単独可（concl-1 と
 
 ---
 
-### src-2. supersuper.md——SuperSuper! Magazine 追記
+### src-2. supersuper.md——SuperSuper! Magazine 追記——**完了（2026-06-11）**
 
 **背景**  
-[`supersuper.md`](./supersuper.md) は 2006 nu rave 創刊から 2012 slimepunk までの号別記録・PC Music 前史・witch-house.com タイムライン対応表を整理済み。草稿 seapunk 節（L258 付近）では SuperSuper! Vol 2 #001 の seapunk 特集と PC Music への一言があるが、**Vol 1 #22「Real Beyond」**（Megazord・ONEOHTRIX・DIS・LIL B 同列）や **Vol 2 号別の連続**、**AG Cook／Hannah Diamond** 接続は未反映。
+[`supersuper.md`](./supersuper.md) は 2006 nu rave 創刊から 2012 slimepunk までの号別記録・PC Music 前史・witch-house.com タイムライン対応表を整理済み。2026-06-02 に初回反映（続50）後、2026-06-11 に構成改稿を完了した。
 
-**追記候補**
+**草稿反映済み（正本行番号）**
 
-| supersuper.md § | 内容 | 草稿の行先候補 |
+| 節 | 草稿行 | 内容 |
 |---|---|---|
-| §2-1 Vol 1 #22 | 「Real Beyond」インターネット・アーティスト同列（2010年9月） | `## vaporwaveという名前以前に`／Megazord 節 |
-| §3 | nu rave→witch house→seapunk→slimepunk の連続 | seapunk 節 L258 または Lil Internet 年表 |
-| §4 | PC Music 前史（Roy＝AG Cook、Hannah Diamond インターン） | seapunk 節末尾 or `## PC Musicという継承`（L456 付近） |
-| §5 | slimepunk（Vol 2 #004） | seapunk 遺産節（6f 方針 A と重複確認） |
+| `## SuperSuper! Magazineという記録媒体` | L324–344 | Vol 1 #22、Vol 2 連続、slimepunk＋NYT 同時期、Dux Content 予告、MASSAGE 9 対比（メタ文維持） |
+| `## seapunkの死と遺産` | L348–387 | `### seapunkの「死」`／`### seapunk と vaporwave` 小見出し化。激怒→擁護順。NYT「再び引き合い」削除→8か月前の時間のずれ。r/vaporwave を擁護記事直後へ。遺産節から MASSAGE 誌面構造長文を削除 |
+| `## PC Musicという継承` | L534–548 | Polly Salmon＝GFOTY、Hannah Diamond（Loud and Quiet）、Roy／Novatel Allegro、SoundCloud ミックス URL |
 
-**手順**
+**成果物**
 
-1. 上表の**採用行**を確定（VICE 年表・6f 反映済み箇所との重複を避ける）  
-2. 文案 `第2章取込_SuperSuper_文案.md` を作成  
-3. [`草稿.md`](./草稿.md) L258 付近（および行先候補節）に反映 → 分割稿同期  
+- 文案：[`第2章取込_SuperSuper_文案.md`](./第2章取込_SuperSuper_文案.md)
+- 分割稿：[`第2章_命名の時代.md`](./第2章_命名の時代.md)（2026-06-11 同期）
+- 推敲ログ：[`草稿_推敲メモ.md`](./草稿_推敲メモ.md) 続50・続51
 
-**正本 URL 例**：seapunk 特集 [Wayback](https://web.archive.org/web/20111010162542/http://www.thesupersuper.com/featured/seapunk/)／Megazord flickr [#22 誌面](https://www.flickr.com/photos/megazord/5095163987/in/photostream/)／[witch-house.com タイムライン](https://witch-house.com/thetimeline/)
+**残作業（src-2 外）**
 
-**追記（2026-06-02）**：作業の流れで [`草稿.md`](./草稿.md) `## vaporwaveという名前以前に`（GATEKEEPER／HIT 等）へ手入れあり。**節の見直し・誤記修正・HIT カタログ補強は src-5 に回す**。SuperSuper 分割稿同期は src-2 完了時 or src-5 完了時にまとめて可。
+- [`草稿.md`](./草稿.md) `## vaporwaveという名前以前に`（GATEKEEPER／HIT 等）の節見直し・HIT カタログ補強 → **src-5**
+- PC Music 節の Polly 時制・Dux Content 二重記述の圧縮 → 任意（src-4 と重複整理時）
 
 ---
 
@@ -775,7 +775,7 @@ src-6 スレッドB（匿名性の美学）の検討中に浮上した仮説：V
 
 | 段階 | 次の1手 |
 |---|---|
-| **今** | **src-5** vaporwave前史（Hippos In Tanks）——src-2 ☑ 直後 |
+| **今** | **src-5** vaporwave前史（Hippos In Tanks）——src-2 ☑（2026-06-11 分割稿同期済）直後 |
 | **その次** | **src-4** ハイパーポップ → **cari-draft** → **concl-1**（rev-7／ed-1 ☑） |
 | 重要・要仕分け | **src-6** MP3ブログ時代とエクスペリメンタル・シーン——節ごとの仕分けは単独着手可。src-5・rev-9 と重複調整 |
 | 並行可 | cari-inv、ed-2、ed-3、**ed-4**、rev-4／8／9、src-1／3／4 |
@@ -819,4 +819,4 @@ src-6 スレッドB（匿名性の美学）の検討中に浮上した仮説：V
 
 ---
 
-*更新：2026-06-11。**ed-4**（後記・本稿の制度化メタ）を追加。**src-2** ☑。**rev-7／ed-1** ☑。次は **src-5** → **src-4** → **cari-draft**。*
+*更新：2026-06-11。**src-2** 構成改稿・分割稿同期完了（続51）。**ed-4** 追加。**rev-7／ed-1** ☑。次は **src-5** → **src-4** → **cari-draft**。*

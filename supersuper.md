@@ -310,12 +310,29 @@ URL：https://witch-house.com/thetimeline/
 
 ## 4. PC Music前史との接続
 
-Redditのr/pcmusicスレッド（kumachan3000投稿）およびユーザーbrndnshvの補足から確認できた事実：
+### 4-1. Dux Contentインタビュー（一次資料）
 
-- SuperSuper!に「Roy」名義で寄稿していた人物が**AG Cook**（PC Musicの創設者）のblogspotペンネームだった
+**2011年**、SuperSuper! ウェブ版に **Dux Content**（A. G. Cook・Danny L Harle）のインタビューとミックスが掲載された（Polly Salmon 取材）。
+
+参照：Wayback（2011-11-06キャプチャ）
+URL：https://web.archive.org/web/20111106092958/http://www.thesupersuper.com/featured/dux-content-mix-and-interview/
+
+**Roy名義との接続**（インタビュー本文）：
+
+> SS: What is Business Boys?
+> AC: "Business Boys, Business Boys, one's called Mike and one's called Roy…". It was an early track.
+
+ページ末尾のクレジットは **「by Roy」**。Cook（AC）が「Roy」を自身のキャラクター名として語り、同ページを Roy 名義で掲出している。
+
+**その他の記述**（草稿反映の参考）：インタビュー内で Nightcore を「sped-up, incredibly emotional Euro-pop」と紹介（Vol 2 #002 の Nightcore 特集と同時期）。Chiptune・Ratboy Genius 等への言及あり。
+
+### 4-2. Reddit補足（二次）
+
+Redditのr/pcmusicスレッド（kumachan3000投稿）およびユーザーbrndnshvの補足：
+
+- 「Roy」名義の寄稿者は **A. G. Cook** の blogspot ペンネームだった（上記インタビューの Business Boys 発言と整合）
 - **Hannah Diamond**がSuperSuper!のインターンで、そこでGFOTYと知り合い後にPC Musicクルーとなった
 - Serious Thugsの他の2名（Alis・Will）もSuperSuper!で働いていた（Alisが写真、Willが編集・アートディレクター）
-- **Dux Content**（AG Cook・Danny L Harleの初期プロジェクト）のインタビューが掲載（Polly Salmonによるインタビュー）
 
 > "Fun fact, the articles authored by 'Roy' are by A. G. Cook; It's his Blogspot pen name. He alludes to it in the Dux Content interview with 'Business Boys'. Those early GFOTY tracks are in fact produced by him."
 
@@ -742,6 +759,7 @@ URL：http://www.qdaily.com/articles/56434.html **【全文確認済み】**
 | "MUSIC: BUTTERCLOCK INTERVIEW (VOL 1 #24)" | https://charlottemcmanus.wordpress.com/2012/03/09/music-butterclock-interview-supersuper-vol-1-24/ |
 | "FASHION/TECHNOLOGY: FUTURE THREADZ (VOL 2 #004)" | https://charlottemcmanus.wordpress.com/2012/03/15/fashiontechnology-future-threadz-supersuper-vol-2-004/ |
 | "MUSIC: TEARIST INTERVIEW (SUPERSUPER! ONLINE)" | https://charlottemcmanus.wordpress.com/2012/03/14/music-tearist-interview-supersuper-online/ |
+| "DUX CONTENT: MIX AND INTERVIEW"（Polly Salmon、by Roy） | https://web.archive.org/web/20111106092958/http://www.thesupersuper.com/featured/dux-content-mix-and-interview/ |
 | witch-house.com forum "SuperSuper! Vol 2 #002" | https://witch-house.com/forum/viewtopic.php?f=15&t=8357 |
 | witch-house.com forum "SuperSuper! Vol 2 #003 CRIM3S" | https://witch-house.com/forum/viewtopic.php?t=7170 |
 | witch-house.com forum "SuperSuper! Vol 2 #004 o F F Love" | https://witch-house.com/forum/viewtopic.php?t=8356 |
