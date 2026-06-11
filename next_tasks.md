@@ -4,7 +4,7 @@
 **論点バックログ**：[`草稿_レビュー論点メモ.md`](./草稿_レビュー論点メモ.md)（2026-06-02 同期済）  
 **編集方針**：[`編集方針.md`](./編集方針.md)（政治化・日本語圏射程・seapunk 読み道）
 
-**次にやる1件**：**src-5**（vaporwave前史／Hippos In Tanks）——src-2 ☑（2026-06-11 構成改稿・分割稿同期完了）の直後。**src-4**（ハイパーポップ）は並行可／rev-7／ed-1 ☑
+**次にやる1件**：**src-4**（ハイパーポップ／PC Music 2013–2016 厚み）——src-5 ☑（2026-06-11 コア反映・分割稿同期）の直後。**src-6**（MP3ブログ仕分け）は並行可／rev-7／ed-1 ☑
 
 **使い方**
 
@@ -72,7 +72,7 @@ ed-4 本稿の制度化（後記メタ）── 後記・単独可（concl-1 と
 | ID | 内容 | 状態 | 依存 | 正本・文案 |
 |---|---|---|---|---|
 | **src-2** | SuperSuper! Magazine 追記 | ☑ | rev-7 後推奨 | [`supersuper.md`](./supersuper.md) → [`第2章取込_SuperSuper_文案.md`](./第2章取込_SuperSuper_文案.md) |
-| **src-5** | vaporwave前史見直し（Hippos In Tanks） | 進行中 | **src-2 直後** | [`HipposInTanks_調査ノート.md`](./HipposInTanks_調査ノート.md) → [`第2章取込_vaporwave前史_文案.md`](./第2章取込_vaporwave前史_文案.md) |
+| **src-5** | vaporwave前史見直し（Hippos In Tanks） | ☑ | **src-2 直後** | [`HipposInTanks_調査ノート.md`](./HipposInTanks_調査ノート.md) → [`第2章取込_vaporwave前史_文案.md`](./第2章取込_vaporwave前史_文案.md) |
 | **src-6** | MP3ブログ時代とエクスペリメンタル・シーン——仕分けと複数挿入箇所の検討 | ☐ | src-5 と重複整理が必要。仕分け自体は単独着手可 | [`MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md`](./MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md) → 複数文案（章別） |
 | **inv-vektroid** | Vektroidの名義増殖とシーン形成——調査（src-6 スレッドB由来） | ☐ | 並行可。正文は書かない | 調査のみ。結果は src-6 スレッドB／vaporwave前史節へ還流 |
 | **src-4** | ハイパーポップの歴史（PC Music 2013–2016 厚み） | ☐ | src-2 後（src-5 と並行可） | [`ハイパーポップの歴史.md`](./ハイパーポップの歴史.md) → `第2章取込_ハイパーポップ_文案.md` |
@@ -220,7 +220,7 @@ ed-4 本稿の制度化（後記メタ）── 後記・単独可（concl-1 と
 |---|---|---|---|---|
 | src-1 | musicplusghost 洗い出し | ☐ | `第2章取込_musicplusghost_文案.md` | 並行可 |
 | src-2 | SuperSuper! Magazine 追記 | ☑ | [`第2章取込_SuperSuper_文案.md`](./第2章取込_SuperSuper_文案.md) | 草稿・分割稿反映済（2026-06-11） |
-| src-5 | vaporwave前史見直し（Hippos In Tanks） | 進行中 | [`第2章取込_vaporwave前史_文案.md`](./第2章取込_vaporwave前史_文案.md) | HIT 初回反映（2026-06-11） |
+| src-5 | vaporwave前史見直し（Hippos In Tanks） | ☑ | [`第2章取込_vaporwave前史_文案.md`](./第2章取込_vaporwave前史_文案.md) | コア反映・分割稿同期（2026-06-11） |
 | src-6 | MP3ブログ時代とエクスペリメンタル・シーン——仕分け | ☐ | 複数文案（章別、仕分け後に確定） | src-5 と重複整理。仕分けは単独着手可 |
 | src-3 | r/witchhouse 歴史スレ参照 | ☐ | `第2章取込_witchhouse歴史参照_文案.md` | rev-9 と重複注意 |
 | src-4 | ハイパーポップの歴史（PC Music 厚み） | ☐ | `第2章取込_ハイパーポップ_文案.md` | src-2 後（src-5 と並行可。cari-draft の前提） |
@@ -275,35 +275,34 @@ ed-4 本稿の制度化（後記メタ）── 後記・単独可（concl-1 と
 
 ---
 
-### src-5. vaporwave前史見直し——Hippos In Tanks
+### src-5. vaporwave前史見直し——Hippos In Tanks——**完了（2026-06-11）**
 
 **背景**  
-**src-2** 作業中に vaporwave 前史節へ GATEKEEPER（『Giza』VHS、Thunder Horse Video）、Hippos In Tanks 経由の Games／OPN、2008 MySpace 交流などを追記した。**Hippos In Tanks** はこの接点だけでなく、James Ferraro（*Condo Pets*、*Far Side Virtual*）、Nguzunguzu、GATEKEEPER *Exo*（USB）、Body Guard、Bebetune$、Arca、Grimes 等を輩出する重要レーベル。2016 年には Yung Lean の HIT 予定アルバムが父親によって無断リリースされた、とのエピソードも調査対象（要ファクト確認）。
+[`HipposInTanks_調査ノート.md`](./HipposInTanks_調査ノート.md) に基づき、草稿 `## vaporwaveという名前以前に` の GATEKEEPER／HIT ブロックを改稿した。
 
-**正本**  
-[`HipposInTanks_調査ノート.md`](./HipposInTanks_調査ノート.md)（骨子のみ。2026-06-02 作成）
+**反映済み（草稿 L239–249）**
 
-**見直し対象（草稿）**
-
-| 箇所 | 内容 |
+| ブロック | 内容 |
 |---|---|
-| `## vaporwaveという名前以前に` L225–258 付近 | GATEKEEPER ブロックの推敲、HIT レーベル文脈、段落整理 |
-| 誤記・体裁 | `Lopatin` 誤記、`switch house`（witch house 節）、MySpace 段落の重複、リンク付け |
+| Giza（作品） | Merok EP、Thunder Horse MV（Web 公開）。HIT 不出 |
+| HIT（レーベル） | 設立・Sony RED・Fact 2011、Fader／Impose 引用、Giza VHS を典型例として1回のみ |
+| HIT カタログ | Games EP、Megazord アートワーク、Ford & Lopatin 改名 |
+| 2008 ネットワーク | 20jazzfunkgreats、MySpace（witch house 節への前方参照） |
 
-**他タスクとの接続**
+**成果物**
 
-| タスク | 接続 |
+- 文案：[`第2章取込_vaporwave前史_文案.md`](./第2章取込_vaporwave前史_文案.md)
+- 分割稿：[`第2章_命名の時代.md`](./第2章_命名の時代.md)（2026-06-11 同期）
+- 推敲ログ：続52・続53
+
+**他タスクへ譲渡（src-5 外）**
+
+| 項目 | 譲渡先 |
 |---|---|
-| **src-2** | Thunder Horse（Giza）↔ SuperSuper Vol 2 #001 |
-| **rev-8** | *Far Side Virtual* の厚みは Eccojams 対比と役割分担 |
-| **src-4** | Arca／Grimes の HIT 初期と hyperpop 節の重複回避 |
-
-**手順**
-
-1. [`HipposInTanks_調査ノート.md`](./HipposInTanks_調査ノート.md) でカタログ・年表・Yung Lean エピソードをファクト補強（Discogs・Wayback・報道）  
-2. 文案 `第2章取込_vaporwave前史_文案.md` を作成  
-3. [`草稿.md`](./草稿.md) `## vaporwaveという名前以前に` を反映 → 分割稿同期  
-4. 推敲メモに改稿ログ  
+| *Condo Pets*／*Far Side Virtual* | rev-8 |
+| Arca *&&&&&*／Grimes *Darkbloom* | 第4章・src-4 |
+| Yung Lean *Warlord* 無断リリース | 第4章 cloud rap 節 |
+| Gatekeeper *Exo*／Nguzunguzu | src-6 または第4章（任意） |
 
 ---
 
@@ -775,7 +774,7 @@ src-6 スレッドB（匿名性の美学）の検討中に浮上した仮説：V
 
 | 段階 | 次の1手 |
 |---|---|
-| **今** | **src-5** vaporwave前史（Hippos In Tanks）——src-2 ☑（2026-06-11 分割稿同期済）直後 |
+| **今** | **src-4** ハイパーポップ（PC Music 厚み）——src-5 ☑ 直後 |
 | **その次** | **src-4** ハイパーポップ → **cari-draft** → **concl-1**（rev-7／ed-1 ☑） |
 | 重要・要仕分け | **src-6** MP3ブログ時代とエクスペリメンタル・シーン——節ごとの仕分けは単独着手可。src-5・rev-9 と重複調整 |
 | 並行可 | cari-inv、ed-2、ed-3、**ed-4**、rev-4／8／9、src-1／3／4 |
@@ -819,4 +818,4 @@ src-6 スレッドB（匿名性の美学）の検討中に浮上した仮説：V
 
 ---
 
-*更新：2026-06-11。**src-2** 構成改稿・分割稿同期完了（続51）。**ed-4** 追加。**rev-7／ed-1** ☑。次は **src-5** → **src-4** → **cari-draft**。*
+*更新：2026-06-11。**src-5** ☑（vaporwave前史コア反映）。**src-2** ☑。次は **src-4** → **cari-draft**。*
