@@ -72,7 +72,7 @@ ed-4 本稿の制度化（後記メタ）── 後記・単独可（concl-1 と
 | ID | 内容 | 状態 | 依存 | 正本・文案 |
 |---|---|---|---|---|
 | **src-2** | SuperSuper! Magazine 追記 | ☑ | rev-7 後推奨 | [`supersuper.md`](./supersuper.md) → [`第2章取込_SuperSuper_文案.md`](./第2章取込_SuperSuper_文案.md) |
-| **src-5** | vaporwave前史見直し（Hippos In Tanks） | ☐ | **src-2 直後** | [`HipposInTanks_調査ノート.md`](./HipposInTanks_調査ノート.md) → `第2章取込_vaporwave前史_文案.md` |
+| **src-5** | vaporwave前史見直し（Hippos In Tanks） | 進行中 | **src-2 直後** | [`HipposInTanks_調査ノート.md`](./HipposInTanks_調査ノート.md) → [`第2章取込_vaporwave前史_文案.md`](./第2章取込_vaporwave前史_文案.md) |
 | **src-6** | MP3ブログ時代とエクスペリメンタル・シーン——仕分けと複数挿入箇所の検討 | ☐ | src-5 と重複整理が必要。仕分け自体は単独着手可 | [`MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md`](./MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md) → 複数文案（章別） |
 | **inv-vektroid** | Vektroidの名義増殖とシーン形成——調査（src-6 スレッドB由来） | ☐ | 並行可。正文は書かない | 調査のみ。結果は src-6 スレッドB／vaporwave前史節へ還流 |
 | **src-4** | ハイパーポップの歴史（PC Music 2013–2016 厚み） | ☐ | src-2 後（src-5 と並行可） | [`ハイパーポップの歴史.md`](./ハイパーポップの歴史.md) → `第2章取込_ハイパーポップ_文案.md` |
@@ -220,7 +220,7 @@ ed-4 本稿の制度化（後記メタ）── 後記・単独可（concl-1 と
 |---|---|---|---|---|
 | src-1 | musicplusghost 洗い出し | ☐ | `第2章取込_musicplusghost_文案.md` | 並行可 |
 | src-2 | SuperSuper! Magazine 追記 | ☑ | [`第2章取込_SuperSuper_文案.md`](./第2章取込_SuperSuper_文案.md) | 草稿・分割稿反映済（2026-06-11） |
-| src-5 | vaporwave前史見直し（Hippos In Tanks） | ☐ | `第2章取込_vaporwave前史_文案.md` | **src-2 直後** |
+| src-5 | vaporwave前史見直し（Hippos In Tanks） | 進行中 | [`第2章取込_vaporwave前史_文案.md`](./第2章取込_vaporwave前史_文案.md) | HIT 初回反映（2026-06-11） |
 | src-6 | MP3ブログ時代とエクスペリメンタル・シーン——仕分け | ☐ | 複数文案（章別、仕分け後に確定） | src-5 と重複整理。仕分けは単独着手可 |
 | src-3 | r/witchhouse 歴史スレ参照 | ☐ | `第2章取込_witchhouse歴史参照_文案.md` | rev-9 と重複注意 |
 | src-4 | ハイパーポップの歴史（PC Music 厚み） | ☐ | `第2章取込_ハイパーポップ_文案.md` | src-2 後（src-5 と並行可。cari-draft の前提） |
