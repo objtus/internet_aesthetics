@@ -4,7 +4,7 @@
 **論点バックログ**：[`草稿_レビュー論点メモ.md`](./草稿_レビュー論点メモ.md)（2026-06-02 同期済）  
 **編集方針**：[`編集方針.md`](./編集方針.md)（政治化・日本語圏射程・seapunk 読み道）
 
-**次にやる1件**：**src-6**（MP3ブログ仕分け）等——**ed-2** ☑（2026-06-11 序文反映）
+**次にやる1件**：**src-6a**（仕分け確定）→ **src-6b** or **src-6c**（文案）——**ed-2** ☑（2026-06-11）
 
 **使い方**
 
@@ -73,8 +73,13 @@ ed-4 本稿の制度化（後記メタ）── 後記・単独可（concl-1 と
 |---|---|---|---|---|
 | **src-2** | SuperSuper! Magazine 追記 | ☑ | rev-7 後推奨 | [`supersuper.md`](./supersuper.md) → [`第2章取込_SuperSuper_文案.md`](./第2章取込_SuperSuper_文案.md) |
 | **src-5** | vaporwave前史見直し（Hippos In Tanks） | ☑ | **src-2 直後** | [`HipposInTanks_調査ノート.md`](./HipposInTanks_調査ノート.md) → [`第2章取込_vaporwave前史_文案.md`](./第2章取込_vaporwave前史_文案.md) |
-| **src-6** | MP3ブログ時代とエクスペリメンタル・シーン——仕分けと複数挿入箇所の検討 | ☐ | src-5 と重複整理が必要。仕分け自体は単独着手可 | [`MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md`](./MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md) → 複数文案（章別） |
-| **inv-vektroid** | Vektroidの名義増殖とシーン形成——調査（src-6 スレッドB由来） | ☐ | 並行可。正文は書かない | 調査のみ。結果は src-6 スレッドB／vaporwave前史節へ還流 |
+| **src-6a** | MP3ブログ調査ノート——仕分け確定 | 進行中 | §1–§4 確定済 | [`src-6_仕分け.md`](./src-6_仕分け.md) |
+| **src-6b** | 第2章・前史（§1–§3・§6） | ☐ | 6a 後 | `第2章取込_mp3blog前史_文案.md` |
+| **src-6c** | 第1章・MySpace（§17–§18） | ☐ | 6a 後・**単独先行可** | `第1章取込_MySpace_文案.md` |
+| **src-6d** | 第2章・命名系譜（§12–§13） | ☐ | 6b 後推奨 | `第2章取込_命名系譜_文案.md` |
+| **src-6e** | 第2章・アーキテクチャ総括（§10） | ☐ | 6d 後推奨 | `第2章取込_アーキテクチャ総括_文案.md` |
+| **src-6f** | 匿名性（§7）——rev-9 と統合 | ☐ | inv-vektroid と同批 | rev-9 文案 |
+| **inv-vektroid** | Vektroid名義増殖——調査（src-6f 派生） | ☐ | 並行可。正文は書かない | 調査のみ → [`src-6_仕分け.md`](./src-6_仕分け.md) スレッドB |
 | **src-4** | ハイパーポップの歴史（PC Music 2013–2016 厚み） | ☑ | src-2 後（src-5 と並行可） | [`ハイパーポップの歴史.md`](./ハイパーポップの歴史.md) → `第2章取込_ハイパーポップ_文案.md` |
 | **src-1** | musicplusghost 洗い出し | ☐ | 並行可 | [`musicplusghost.md`](./musicplusghost.md) |
 | **src-3** | r/witchhouse 歴史スレ参照 | ☐ | rev-9 と重複注意 | Reddit スレ URL |
@@ -221,7 +226,7 @@ ed-4 本稿の制度化（後記メタ）── 後記・単独可（concl-1 と
 | src-1 | musicplusghost 洗い出し | ☐ | `第2章取込_musicplusghost_文案.md` | 並行可 |
 | src-2 | SuperSuper! Magazine 追記 | ☑ | [`第2章取込_SuperSuper_文案.md`](./第2章取込_SuperSuper_文案.md) | 草稿・分割稿反映済（2026-06-11） |
 | src-5 | vaporwave前史見直し（Hippos In Tanks） | ☑ | [`第2章取込_vaporwave前史_文案.md`](./第2章取込_vaporwave前史_文案.md) | コア反映・分割稿同期（2026-06-11） |
-| src-6 | MP3ブログ時代とエクスペリメンタル・シーン——仕分け | ☐ | 複数文案（章別、仕分け後に確定） | src-5 と重複整理。仕分けは単独着手可 |
+| src-6a–f | MP3ブログ調査ノート——仕分けと段階取込 | 6a 進行中 | [`src-6_仕分け.md`](./src-6_仕分け.md) → 章別文案 | §4・§16 は src-5 ☑ 済。正本は仕分け表 |
 | src-3 | r/witchhouse 歴史スレ参照 | ☐ | `第2章取込_witchhouse歴史参照_文案.md` | rev-9 と重複注意 |
 | src-4 | ハイパーポップの歴史（PC Music 厚み） | ☑ | `第2章取込_ハイパーポップ_文案.md` | src-2 後（src-5 と並行可。cari-draft の前提） |
 
@@ -302,84 +307,58 @@ ed-4 本稿の制度化（後記メタ）── 後記・単独可（concl-1 と
 | *Condo Pets*／*Far Side Virtual* | rev-8 |
 | Arca *&&&&&*／Grimes *Darkbloom* | 第4章・src-4 |
 | Yung Lean *Warlord* 無断リリース | 第4章 cloud rap 節 |
-| Gatekeeper *Exo*／Nguzunguzu | src-6 または第4章（任意） |
+| Gatekeeper *Exo*／Nguzunguzu | src-6 §14 or 第4章（[`src-6_仕分け.md`](./src-6_仕分け.md) 委譲表） |
 
 ---
 
-### src-6. MP3ブログ時代とエクスペリメンタル・シーン調査ノート——仕分けと複数挿入箇所の検討
+### src-6. MP3ブログ時代とエクスペリメンタル・シーン——段階取込
 
-**背景**  
-[`MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md`](./MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md)（2026-06-09 作成、全19節）は、20jazzfunkgreats・Beer on the Rug・Tri Angle・OESB・Hundebiss・Presto!?・Root Strata といったレーベル史、OPN／Ferraro のノイズシーン離脱、Tabor Robak とポストインターネット・アート（HDBOYZ）、GATEKEEPER *Young Chronos*（Pirate Bay／USB）、MySpace・Tumblr の設計史とプラットフォーム変遷図まで、**第1章〜第2章にまたがる広い射程**を持つ。重要度が高い一方、**1箇所にまとめて挿入できる分量・粒度ではない**ため、最初の作業は**節ごとの仕分け（採用／保留／射程外と行先候補の確定）**とする。挿入箇所は本タスク内で確定する（現時点では未定）。
+**正本（仕分け・フェーズ）**：[`src-6_仕分け.md`](./src-6_仕分け.md)  
+**調査資料**：[`MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md`](./MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md)
 
-**src-5（Hippos In Tanks）との重複**：本ノート §4（Hippos in Tanks）、§14（Tabor Robak／GATEKEEPER *Exo*）、§16（*Young Chronos*）は src-5 の対象と重なる。src-6 ではこれらの節を**src-5 へ譲る（src-6 側では扱わない）**か、**src-5 の文案に統合する**かを仕分け時に決める。
+第1章〜第2章にまたがる19節＋スレッド3本。**1文案にまとめられない**ため Seapunk 6a 型で段階化。
 
-**正本**  
-[`MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md`](./MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md)
+| ID | 内容 | 状態 |
+|---|---|---|
+| **src-6a** | 仕分け確定（§1–§19、委譲表、スレッドA/B/C） | 進行中（§1–§4 確定済） |
+| **src-6b** | 第2章・前史 §1–§3・§6 | ☐ |
+| **src-6c** | 第1章・MySpace §17–§18（**優先度最高**・先行可） | ☐ |
+| **src-6d** | 第2章・命名系譜 §12–§13 | ☐ |
+| **src-6e** | 第2章・アーキテクチャ §10 | ☐ |
+| **src-6f** | 匿名性 §7 → **rev-9** と統合 | ☐ |
 
-**クロスカッティング・スレッド（追加検討、2026-06-10）**
+**src-5 との重複**：§4 HIT・§16 *Young Chronos* は **射程外**（src-5 ☑）。§14 *Exo* は第4章 or 第1章 L91。詳細は仕分け表の委譲表。
 
-節ごとの仕分けとは別に、複数節をまたいで一本の線として書ける／書くべきテーマが3つ浮上している。仕分け時にはこれらを優先的な「軸」として意識する。
+**手順**（各フェーズ共通）
 
-| スレッド | 関連する節・既存記述 | 行先候補 | 優先度 | メモ |
-|---|---|---|---|---|
-| **A. ノイズ／インダストリアル→ポストパンク→憑在論・witch houseの系譜** | 本ノート §12（20jfgの命名＝Throbbing Gristle『20 Jazz Funk Greats』の皮肉なタイトル由来）、§13（OPN・Ferraroのノイズシーン出身と離脱）。既存の `#### 憑在論と郷愁の言語`（L174）、witch house節（L180–223）、`## 名前は冗談から生まれる`（L160） | `## 名前は冗談から生まれる` 冒頭でTGの先例として触れ、§13の伝記情報を vaporwave前史のOPN/Ferraro言及（L229）か憑在論小節への前史補強として接続 | **高** | Industrial Recordsの自主リリース・カセット郵送網は、後のMP3ブログ／カセット文化の先行形態としても読める（§10と接続可）。**接続点（追加発見）**：草稿 L196 はすでに Pictureplane の2009年ベストに Genesis P-Orridge のコラージュ画集『30 Years Of Being Cut Up』が挙がっていることに言及（L188 の TOPY/Psychic TV＝Siepmann 2018とも接続済み）。Genesis P-OrridgeはTG共同創設者——「TG→P-Orridge→TOPY/Psychic TV（witch house前史、既出）」と「TG→皮肉なアルバムタイトル→20jfgの命名（§12、新規）」が同じ結節点（TG）から伸びる。L196付近への軽い接続も検討に値する |
-| **B. 匿名性の美学** | 本ノート §7（GATEKEEPER ADRの「観客を考慮しない」「技法を意図的に隠す」発言）、§18（Tumblrの匿名性と親密性の共存）。HITノート §4（James Ferraroのエイリアス連鎖 Bebetune$/Bodyguard）、§9B（Dean Blunt/Hype Williams）。rev-9（witch house匿名性）と直結 | 横断節を新設するか、各章の該当箇所に分散して接続文だけ入れるか要判断。新設する場合は第2章 witch house節の後 or `## アーキテクチャ：この時代の問い`（L532）が候補 | 中〜高 | 範囲が広いため、まず「新設節にするか／分散させるか」の構成判断を最初に行う必要がある。**追加観察**：vaporwave〜hyperpopのアーティストは複数名義を多用する傾向があり、これも「匿名性」の一形態（作者個人の希薄化・キャラクター化）として束ねられる。草稿には**未指摘のまま**Vektroid/Ramona Andra Xavierが L254「Laserdisc Visions」、L365/395「Macintosh Plus」と**別名義で2回登場**している。OPN＝Chuck Person/KGB Man（L237既出）、Ferraro＝Bebetune$/Bodyguard（HITノート§4）、Yabujin＝30以上の別名義（`ハイパーポップの歴史.md`）も同系列。Vektroidの2名義併記はvaporwave前史節内で完結する最小コストの接続点になりうる。**【要検証】**：Vektroidが2011年に複数名義（Laserdisc Visions、Macintosh Plus、PrismCorp Virtual Enterprises、New Dreams Ltd. 等）で短期間に大量リリースしたことが、外部から見て「一人」ではなく「複数アーティストによるシーン・ムーブメント」のように映り、vaporwaveという語の認知・定着を後押しした可能性がある（ユーザー指摘）。事実なら「個人の希薄化」だけでなく「ジャンルの可視化・実体化」にも§16以降の論点として接続できる。リリース時期・本数・当時の受容（フォーラム等での反応）の確認が必要 |
-| **C. MySpace——対Facebookという軸** | 本ノート §17（MySpace基本史：Top 8、プロフィールカスタマイズ、Arctic Monkeys/Lily Allen/Adeleの発見、2019年データ消失）、§18（Karpの発言：MySpaceのカスタマイズ性を評価しつつFacebookの均質性を否定） | 第1章 GeoCities（L33–）とTumblr（L51–）の間に新設小節。「カスタマイズ可能な個性の場 vs Facebookの均質化」を軸に、2019年データ消失をGeoCities消滅と並ぶ「プラットフォームにアーカイブを委ねる危険性」の二例目として配置 | **最高** | 本論のアーキテクチャ論の根幹に関わる。第1章の構成変更を伴うため、**早めに着手判断する価値がある**（他のsrc-6項目と切り離して先行着手も可） |
+1. [`src-6_仕分け.md`](./src-6_仕分け.md) で対象節・行先を確認  
+2. 文案 `第*章取込_*_文案.md` を作成  
+3. [`草稿.md`](./草稿.md) 反映 → 分割稿同期 → 推敲メモ  
+4. 仕分け表の「文案／草稿反映」列と本ファイル索引を ☑ 更新  
 
-**仕分け候補（節→草稿の行先候補）**
-
-| ノート § | 内容 | 草稿の行先候補 | 優先度 | 備考 |
-|---|---|---|---|---|
-| §1 MP3ブログとは何だったか | MP3ブログの定義・先駆ブログ・ブログ→レーベル移行の一般論 | `## vaporwaveという名前以前に` 冒頭 or 20jazzfunkgreats 初出箇所（L241/247）への前置き | 中 | 既存の「mp3ブログ20jazzfunkgreats」の語に解説を足す程度 |
-| §2 20jazzfunkgreats（Brighton、Salem 紹介文体） | 既存記述の補強。Salem紹介の中英語風文体は witch house の美学的基調を示す一次資料 | witch house 節（L180–223）または vaporwave前史 GATEKEEPER ブロック | 中 | §12 と合わせて検討 |
-| §3 Beer on the Rug | Macintosh Plus *Floral Shoppe*（2011.12）、vaporwave命名（Will/Robin Burnett）、Type IIカセットへのこだわり | `## vaporwaveという名前以前に` L254 直後（Laserdisc Visions/New Dreams Ltd. の段落） | **高** | 草稿 L256 の Robin Burnett 表記との整合確認（ノートでは Will Burnett） |
-| §4 Hippos in Tanks | src-5 と完全重複 | — | — | **src-5 へ譲渡** |
-| §5 Olde English Spelling Bee（OESB） | HIT・Tri Angle と並ぶ「あいまいな中間地帯」レーベルの一つ | `## vaporwaveという名前以前に` または「レーベルと正史」節での横並び言及 | 低 | src-5 の HIT 比較記述と重複しないよう要調整 |
-| §6 Tri Angle Records（ブログ→レーベル転身） | 20jfg ライター Robin Carolan が設立した好例。「ブログ→レーベル」転身の典型 | 20jazzfunkgreats 初出箇所（L241/247）の近傍、または「名前は冗談から生まれる」節 | **高** | §1 のブログ→レーベル一般論と合わせて1パラグラフ化できる |
-| §7 Gatekeeper：VHS・映像・初期史（ADR の persona/匿名化発言） | 「観客を考慮しない」「技法を意図的に隠した」という ADR の発言は、witch house の匿名性（rev-9）と直結する核心的引用 | **スレッドB**（匿名性の美学）の核となる引用。rev-9 と統合検討 | **高** | rev-9 と統合検討。重複注意 |
-| §8 OPN *Memory Vague* と Root Strata | Root Strata（レーベル）の詳細・Paul Clipson との DVD-R 協働 | `## vaporwaveという名前以前に` L229 の Memory Vague 言及への注記 | 低 | 1〜2文の補足程度 |
-| §9 Hundebiss Records（VHSレーベル、イタリア） | Ferraro *Rapture Adrenaline* VHS、Hype Williams *2008/2011* VHS。物質性の事例として新規 | `## vaporwaveという名前以前に` のVHS言及（L240–241）の周辺、または§10とセットで | 中 | 新規情報。GATEKEEPER VHS事例と並べると文脈が厚くなる |
-| §10 横断的考察：物質性・映像・プロモーションの曖昧化 | 「物質性の回帰」「音楽と映像の不分離」「プロモーションと作品の境界消去」という総括 | 第2章末尾 `## アーキテクチャ：この時代の問い`（L532） | **高** | 第2章の総括節と相性が良い。§7・§9・§16 の素材を束ねる役割 |
-| §11 関連レーベル一覧 | 参照表 | 反映なし（執筆メモ・脚注用） | — | — |
-| §12 ノイズ・インダストリアル系譜：20jfgの命名（Throbbing Gristle由来） | ブログ名がTGの皮肉なアルバムタイトル由来——「名前は冗談から生まれる」というテーマと直接共鳴 | **スレッドA** の起点。`## 名前は冗談から生まれる`（L160）冒頭、第2章の歴史的先例として | **高** | 第2章のテーマ提示に厚みを加える好材料 |
-| §13 ノイズシーンからの離脱：OPNとFerraro | OPNの改名由来・No Fun経由のノイズシーン参加・Editions Mego移行、FerraroのSkaters期 | **スレッドA**（§12）と接続。vaporwave前史 OPN/Ferraro 言及（L229、HIT note FSV節）への伝記的補足 | 中 | src-5（Far Side Virtual）・rev-8（Eccojams対比）と調整 |
-| §14 ポストインターネット・アートとの接続：Tabor Robak（HDBOYZ） | src-5 と重複（GATEKEEPER *Exo*）。HDBOYZ（Robak＋ADR＋Ryder Ripps＋Colin Self）は第1章「ポストインターネットアートという土壌」(L91) との接続が新規 | 第1章 L91 `## ポストインターネットアートという土壌`、または src-5 文案に統合 | 中 | HDBOYZ／DIS Magazine接続は第1章向き。Exo詳細はsrc-5へ |
-| §15 「HD」という共通言語 | lo-fi（ノイズ／hypnagogic）vs HD（Robak/GATEKEEPER）の対比という分析視点 | §10 と合わせて `## アーキテクチャ：この時代の問い`、または vaporwave前史の lo-fi/HD 対比に1段落 | 中 | §10 と統合可能 |
-| §16 Gatekeeper *Young Chronos*：Pirate Bay／USB（2013） | 「The medium is definitely the message」発言、フォーマット実験の継続。src-5 の Arca *&&&&&* （デジタル無料→限定盤）と同じ論理 | src-5 文案（HIT note §3 がすでに *&&&&&* と並べて言及）に統合、または vaporwave前史 GATEKEEPER ブロック末尾 | 中 | **src-5 と統合推奨** |
-| §17 MySpace：基本史 | 創設・Top 8・プロフィールカスタマイズ・Arctic Monkeys/Lily Allen/Adele 発見・2019年データ消失 | **スレッドC** の中核。第1章 GeoCities（L33）→Tumblr（L51）の間に新設小節 | **最高** | 草稿は MySpace を「個別アーティストの実例」としてのみ扱っており、プラットフォーム史としての扱いが欠落。第1章の構造に関わる判断が必要 |
-| §18 Tumblr：設計思想・MySpaceとの継承関係 | Karp発言（MySpace称賛とFacebook批判）、匿名性と親密性の共存。第1章 Tumblr節（L51–）への補強候補 | **スレッドC** と一体。第1章 `## Tumblrというアーキテクチャ`（L51）。匿名性の記述はスレッドBとも関連 | **高** | 既存節との重複確認が必要（リブログ・タグ等は既述） |
-| §19 プラットフォーム変遷の全体図 | MySpace→Tumblr／Bandcamp／SoundCloud／MP3ブログの並走図 | 反映なし（仕分け作業時の地図として使用） | — | §17・§18 の挿入判断に使う |
-
-**手順**
-
-1. 上表をたたき台に、各節を**採用／保留／射程外**で確定する（特に §4・§14・§16 の src-5 への譲渡可否）  
-2. 採用節を**章別・節別にグルーピング**し、必要な文案ファイルを列挙する（例：`第1章取込_MySpace_文案.md`、`第2章取込_mp3blog前史_文案.md`、`第2章取込_アーキテクチャ総括_文案.md` 等）  
-3. rev-9（witch house 匿名性）・src-5（HIT）・rev-8（Eccojams対比）と**重複しない役割分担**を明記してから個別の文案作成に着手する  
-4. [`草稿.md`](./草稿.md) へ反映 → 分割稿同期 → 推敲メモに改稿ログ
-
-**注意**：本ノートは分量が大きく、**全節を反映する必要はない**。§3・§6・§7・§10・§12・§17 が特に優先度高（草稿の薄い部分を補う、または既存テーマと共鳴する）と思われるが、最終判断は仕分け時に行う。
+**次の1手**：6a の §5–§19 最終承認 → **6c**（MySpace）または **6b**（L247 前史）の文案着手。
 
 ---
 
-### inv-vektroid. Vektroidの名義増殖とシーン形成——調査（src-6 スレッドB由来）
+### inv-vektroid. Vektroidの名義増殖とシーン形成——調査（src-6f 派生）
 
 **背景**  
-src-6 スレッドB（匿名性の美学）の検討中に浮上した仮説：Vektroid（Ramona Andra Xavier）が2011年に複数名義（Laserdisc Visions、Macintosh Plus、PrismCorp Virtual Enterprises、New Dreams Ltd. 等）で短期間に大量リリースしたことが、外部から見ると「一人のアーティスト」ではなく「複数アーティストによるシーン・ムーブメント」のように映り、vaporwaveという語の認知・定着を後押しした可能性がある。事実なら、「個人の希薄化」（匿名性）だけでなく「ジャンルの可視化・実体化」という第2章の中心テーマにも接続できる。
+[`src-6_仕分け.md`](./src-6_仕分け.md) スレッドBで浮上した仮説：Vektroid（Ramona Andra Xavier）が2011年に複数名義で短期間に大量リリースしたことが、外部から「複数アーティストによるシーン」のように映り、vaporwave の認知・定着を後押しした可能性。
 
 **調査事項**
 
-- Vektroidの2011年の各名義（Laserdisc Visions、Macintosh Plus、PrismCorp Virtual Enterprises、New Dreams Ltd.、Sandtimer 等）のリリース時期・本数を時系列で整理（Bandcamp・Discogs・Wayback）
-- 当時のリスナー・フォーラム（witch-house.com、Beer on the Rugコミュニティ等）が、これらを「同一人物」と認識していたか、「複数アーティスト」と誤認していたかの記録の有無
-- Beer on the Rug（草稿の行先候補：vaporwave前史 L254 直後、src-6 §3 とも関連）のカタログにおける、これらの名義の並び方・紹介のされ方
-- 既存の `Seapunk 詳細調査ノート.md`・`vaporwave政治化_調査ノート.md` 等に関連記述がないか確認
+- Vektroid 2011 各名義のリリース時期・本数（Bandcamp・Discogs・Wayback）
+- 当時のフォーラム等で「同一人物」と認識されていたかの記録
+- Beer on the Rug カタログにおける名義の並び（src-6b §3 と関連）
+- 既存 Seapunk／vaporwave政治化ノートへの関連記述
 
 **ステータス**：調査のみ。**正文は書かない**。
 
 **手順**
 
-1. 上記調査事項をWayback・Discogs・Bandcamp等で確認し、ノート（新規 `Vektroid_調査ノート.md` または既存ノートへの追記）にまとめる  
-2. 結果を src-6 スレッドBへ還流。仮説が裏付けられればvaporwave前史節（L254付近）への追記候補として src-6 の仕分け表に反映  
-3. 裏付けが取れない場合は src-6 スレッドBから当該観察を除外し、Vektroidの2名義併記（L254/L365）への軽い接続のみ残す
+1. 調査結果をノートにまとめる（`Vektroid_調査ノート.md` または既存追記）  
+2. 結果を [`src-6_仕分け.md`](./src-6_仕分け.md) スレッドB／6b（L254）へ還流  
+3. 裏付けなしの場合は Vektroid 2名義併記への軽い接続のみ残す
 
 ---
 
@@ -779,9 +758,9 @@ src-6 スレッドB（匿名性の美学）の検討中に浮上した仮説：V
 
 | 段階 | 次の1手 |
 |---|---|
-| **今** | **ed-2**／**src-6** 等（concl-1・ed-4 ☑） |
-| **その次** | rev-4／8／9、ed-3、cari-inv |
-| 重要・要仕分け | **src-6** MP3ブログ時代とエクスペリメンタル・シーン——節ごとの仕分けは単独着手可。src-5・rev-9 と重複調整 |
+| **今** | **src-6a**（§5–§19 最終承認）→ **src-6c** or **src-6b** 文案 |
+| **その次** | src-6d–f、rev-4／8／9、ed-3、cari-inv |
+| 重要・段階取込 | **src-6** 全般——正本 [`src-6_仕分け.md`](./src-6_仕分け.md)。6c MySpace は単独先行可 |
 | 並行可 | cari-inv、ed-2、ed-3、**ed-4**、rev-4／8／9、src-1／3／4 |
 | 完了済み | 6a〜6f、6d-review 一次、7、§9、§9-man（進捗サマリー参照） |
 | 任意 | M.I.A. 段落、L254、rev-12 Caretaker、§8 残 |
@@ -811,7 +790,8 @@ src-6 スレッドB（匿名性の美学）の検討中に浮上した仮説：V
 | [`musicplusghost.md`](./musicplusghost.md) | FEECO *MUSIC + GHOST* 全文テキスト（src-1 正本） |
 | [`supersuper.md`](./supersuper.md) | SuperSuper! 号別調査・PC Music 前史（src-2 正本） |
 | [`HipposInTanks_調査ノート.md`](./HipposInTanks_調査ノート.md) | HIT カタログ・vaporwave 前史（src-5 正本） |
-| [`MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md`](./MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md) | MP3ブログ・レーベル史・MySpace/Tumblr設計史（src-6 正本） |
+| [`MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md`](./MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md) | MP3ブログ・レーベル史・MySpace/Tumblr設計史（src-6 調査正本） |
+| [`src-6_仕分け.md`](./src-6_仕分け.md) | src-6a 成果物——節別仕分け・フェーズ6b–6f・委譲表 |
 | [`vaporwave政治化_調査ノート.md`](./vaporwave政治化_調査ノート.md) | rev-7 正本（2016 fashwave・コミュニティ応答・Boriswave） |
 | [`Vaporwave Is (Not) a Critique of Capitalism_Genre Work in An Online Music Scene.md`](./Vaporwave%20Is%20(Not)%20a%20Critique%20of%20Capitalism_Genre%20Work%20in%20An%20Online%20Music%20Scene.md) | Whelan & Nowak 2018 全文（@ccchristtt 引用含む） |
 | [`Vaporwave_Politics_Protest_and_Identity.md`](./Vaporwave_Politics_Protest_and_Identity.md) | McLeod 2018 全文（PDF 抽出） |
