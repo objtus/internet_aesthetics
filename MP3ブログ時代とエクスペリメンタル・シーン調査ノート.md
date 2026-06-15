@@ -58,10 +58,40 @@ Pitchforkが2010年7月に立ち上げたAlterd Zonesというスーパーブロ
 
 ### レコード会社との関係
 
+#### 敵対期（2000年代前半〜中盤）
+
+mp3ブログは初期から著作権上のグレーゾーンに位置し、レコード会社から cease-and-desist レターや DMCA テイクダウン通知を受けることがあった。
+
+> "From a legal standpoint, early MP3 blogs were treading in uncharted waters. Consequences for posting leaks and ripped tracks were rare, but not non-existent."
+>
+> — The FADER "Confessions Of An MP3 Blogger"（2017年）  
+> https://www.thefader.com/2017/05/22/mp3-blogs-oral-history-illroots-cocaine-blunts-transparent-visitation-rites
+
+> "I got cease and desists. There was a point, in 2009 maybe, when Warner people circumvented me and sent a cease and desist to my web host over Gucci Mane songs. They swept the whole web for Gucci songs, which is absurd because it's Gucci. It knocked my website offline for five days, but that was the worst consequences I faced in that whole run."
+>
+> — NOSNITSKY（同上）
+
+#### #Musicblogocide2k10（2010年2月）
+
+2010年2月11日、Google が Blogger 上の多数の音楽ブログを DMCA 申請に基づいて一斉削除した。Twitter で **#Musicblogocide2k10** と呼ばれる事態となった。
+
+> "On Thursday, February 11, 2010, Internet users the world over woke to a dire new reality. Many of the World Wide Web's favourite music blogs had been slain by their seemingly benevolent guardian, Google, under Digital Millennium Copyright Act (DMCA) orders from the US Copyright Office. [...] Quickly branded #Musicblogocide2k10 on Twitter, their anger was palpable. Mp3 blogs, long the quiet, well-behaving younger sibling to the brash Peer-2-Peer networks that were so hammered by legislators in the early 2000s, now found themselves on the receiving end of industry backlash."
+>
+> — SSRN "The Right to Copyright?: Mp3 Blogs and the Rise of the Online Taste-Makers"  
+> https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1615887
+
+#### 関係の正常化（2000年代後半）
+
 > "You never hear nowadays about labels trying to shut down blogs unless they're posting full-album zip files. The labels are pals"
 >
 > — Said the Gramophoneのライター、NPRのインタビューより（2009年）  
 > https://www.npr.org/2009/12/25/121861409/2004-the-year-of-the-music-blog
+
+「nowadays（今や）」という表現が、かつて shut down の試みがあったことを前提にしている。2000年代後半にかけて、レーベルがブログをプロモーションとして活用できると認識するにつれ、関係が変化した。
+
+> "By the end of the decade, music business folks had begun to realize there was money to be made here. That changed the relationship between MP3 blogs, artists, and the industry forever."
+>
+> — The FADER（前掲）
 
 ---
 
