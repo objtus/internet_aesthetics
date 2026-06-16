@@ -4,7 +4,7 @@
 **論点バックログ**：[`草稿_レビュー論点メモ.md`](./草稿_レビュー論点メモ.md)（2026-06-02 同期済）  
 **編集方針**：[`編集方針.md`](./編集方針.md)（政治化・日本語圏射程・seapunk 読み道）
 
-**次にやる1件**：**cari-inv**（§8 要確認・Global Village 等）。並行候補：inv-vektroid／src-1／src-3／ed-3。後回し：**meta-1**／**meta-2**
+**次にやる1件**：**cari-inv**（§8 要確認・Global Village 等）。並行候補：inv-vektroid／inv-msv／inv-oesb／inv-frkwys／src-1／ed-3。後回し：**meta-1**／**meta-2**
 
 **使い方**
 
@@ -80,9 +80,13 @@ meta-2 振り返りパート新設 ──── 草稿**末尾**・単独可（�
 | **src-6e** | 第2章・アーキテクチャ総括（§10） | ☑ | 草稿反映済（2026-06-16） | [`第2章取込_アーキテクチャ総括_文案.md`](./第2章取込_アーキテクチャ総括_文案.md) |
 | **src-6f** | 匿名性（§7）——rev-9 と統合 | ☑ | 草稿反映済（2026-06-16）。「匿名性の美学」主題化＋後記 callback | [`第2章取込_witchhouse匿名性_文案.md`](./第2章取込_witchhouse匿名性_文案.md) |
 | **inv-vektroid** | Vektroid名義増殖——調査（src-6f 派生） | ☐ | 並行可。正文は書かない | 調査のみ → [`src-6_仕分け.md`](./src-6_仕分け.md) スレッドB |
+| **inv-msv** | Mater Suspiria Vision / Cosmotropia de Xam / AAVV 調査 | ☐ | 並行可 | [AAVV Discogs](https://www.discogs.com/ja/label/235050-AAVV)・[AAVV Vimeo](https://vimeo.com/aavv)・[Cosmotropia ブログ](https://cosmotropia-de-xam.blogspot.com/) |
+| **inv-tabor** | Tabor Robak ネットワーク整理・BrandNewPaintJob.exe（Jon Rafman との共作） | ☐ | 並行可 | [taborrobak.com](https://www.taborrobak.com/) / 草稿 L318・L439・L598・L994 既出 |
+| **inv-oesb** | OESB（Todd Ledford）× OPN「Time Decanted」MV 接点 | ☐ | 並行可 | [Vimeo](https://vimeo.com/7616034) / 草稿 L314 OESB 既出 |
+| **inv-frkwys** | FRKWYS Vol.7（RVNG Intl.）——Ferraro・OPN・Laurel Halo 同席の記録 | ☐ | 並行可 | [Discogs](https://www.discogs.com/ja/master/353721-Borden-Ferraro-Godin-Halo-Lopatin-FRKWYS-7-) / 2011年7月 |
 | **src-4** | ハイパーポップの歴史（PC Music 2013–2016 厚み） | ☑ | src-2 後（src-5 と並行可） | [`ハイパーポップの歴史.md`](./ハイパーポップの歴史.md) → `第2章取込_ハイパーポップ_文案.md` |
 | **src-1** | musicplusghost 洗い出し | ☐ | 並行可 | [`musicplusghost.md`](./musicplusghost.md) |
-| **src-3** | r/witchhouse 歴史スレ参照 | ☐ | rev-9 と重複注意 | Reddit スレ URL |
+| **src-3** | r/witchhouse 歴史スレ参照 | ☑ | rev-9 と重複なし | `#### コミュニティの正史` 末尾1文+URL（2026-06-17 反映済） |
 | **rev-8** | Eccojams vs Far Side Virtual | ☑ | 草稿反映済（2026-06-16） | [`第2章取込_FSV対比_文案.md`](./第2章取込_FSV対比_文案.md) |
 | **rev-9** | witch house 匿名性 | ☑ | src-6f に統合済（2026-06-16） | [`第2章取込_witchhouse匿名性_文案.md`](./第2章取込_witchhouse匿名性_文案.md) |
 | **rev-4** | ムードボード対比 | ☐ | 並行可 | `第1章取込_ムードボード対比_文案.md` |
@@ -235,7 +239,7 @@ meta-2 振り返りパート新設 ──── 草稿**末尾**・単独可（�
 | src-2 | SuperSuper! Magazine 追記 | ☑ | [`第2章取込_SuperSuper_文案.md`](./第2章取込_SuperSuper_文案.md) | 草稿・分割稿反映済（2026-06-11） |
 | src-5 | vaporwave前史見直し（Hippos In Tanks） | ☑ | [`第2章取込_vaporwave前史_文案.md`](./第2章取込_vaporwave前史_文案.md) | コア反映・分割稿同期（2026-06-11） |
 | src-6a–f | MP3ブログ調査ノート——仕分けと段階取込 | ☑ | [`src-6_仕分け.md`](./src-6_仕分け.md) → 章別文案 | 6a–6f 完了（2026-06-16） |
-| src-3 | r/witchhouse 歴史スレ参照 | ☐ | `第2章取込_witchhouse歴史参照_文案.md` | rev-9 と重複注意 |
+| src-3 | r/witchhouse 歴史スレ参照 | ☑ | 草稿・分割稿反映済（2026-06-17）。`#### コミュニティの正史` 末尾に1文+URL | rev-9 と重複注意 |
 | src-4 | ハイパーポップの歴史（PC Music 厚み） | ☑ | `第2章取込_ハイパーポップ_文案.md` | src-2 後（src-5 と並行可。cari-draft の前提） |
 
 ### src-1. musicplusghost.md——参考箇所の洗い出し
@@ -369,6 +373,104 @@ meta-2 振り返りパート新設 ──── 草稿**末尾**・単独可（�
 1. 調査結果をノートにまとめる（`Vektroid_調査ノート.md` または既存追記）  
 2. 結果を [`src-6_仕分け.md`](./src-6_仕分け.md) スレッドB／6b（L254）へ還流  
 3. 裏付けなしの場合は Vektroid 2名義併記への軽い接続のみ残す
+
+---
+
+### inv-msv. Mater Suspiria Vision（Cosmotropia de Xam）/ AAVV——調査
+
+**背景**  
+草稿 L239 は **Phantasma Disques**（Mater Suspiria Vision 関連）を witch house レーベルのひとつとして挙げている。その Mater Suspiria Vision のビジュアル担当が **Cosmotropia de Xam**（CDX）であり、ローマを拠点とする DVD-r / VHS レーベル **[AAVV](https://vimeo.com/aavv)**（[Discogs](https://www.discogs.com/ja/label/235050-AAVV)）から *Visual Ecstasy*（AAVV 003）をリリースしている。同レーベルには **Luke Wyatt**（Torn Hawk）の *Sad Stonewash — A Video Mulch*（AAVV 004）もある。Wyatt は VCR を物理的に破損させ再デジタル化する「Video Mulch」技法を用いており、手法はローファイだが、その立ち位置は witch house より vaporwave・ポストインターネットアート寄りに近い。音楽名義 Torn Hawk の作品（*UNION & RETURN* など）は HD 美学に接近する側面もあり、lo-fi 技法と HD 感覚の混在がある。AAVV での CDX との並置は偶発的な接触かもしれず、witch house と直接結びつけることには注意が必要。  
+
+**参照 URL**  
+- [AAVV Vimeo](https://vimeo.com/aavv)  
+- [AAVV ウェブアーカイブ（2011年）](https://web.archive.org/web/20111005003242/http://www.aavv-videos.com/)  
+- [AAVV Discogs レーベルページ](https://www.discogs.com/ja/label/235050-AAVV)  
+- [Cosmotropia de Xam ブログ](https://cosmotropia-de-xam.blogspot.com/)  
+
+**調査事項**
+
+- Cosmotropia de Xam の活動概要と Mater Suspiria Vision との関係（制作クレジット確認）
+- AAVV のレーベル性格——witch house ビジュアル系との接点、欧州側の物理メディア流通
+- Luke Wyatt（Torn Hawk）の立ち位置：vaporwave・ポストインターネットアート寄り。「Video Mulch」技法（VHS ローファイ）と Torn Hawk 音楽の HD 美学的側面（*UNION & RETURN* など）の関係を整理
+- Phantasma Disques と AAVV の関係（同一人物 or 別個のネットワーク）
+- 草稿接続候補：Cosmotropia de Xam は L226「VHS の劣化・コラージュ」節 or L239 Phantasma Disques 付近。Luke Wyatt は草稿の lo-fi vs HD の軸（src-6e §15 由来）や vaporwave 前史との接続を検討。GATEKEEPER VHS（L310）との照合は限定的に
+
+**ステータス**：調査のみ。正文が書けると判断した場合のみ文案を作成する。
+
+**手順**
+
+1. AAVV アーカイブ・Discogs・Cosmotropia ブログを確認し、調査ノート（新規 `MSV_AAVV_調査ノート.md` または既存追記）にまとめる
+2. 草稿の既述箇所との重複・接続可能性を評価
+3. 接続できる場合のみ文案を作成し、タスクを `src-` に格上げ
+
+---
+
+### inv-tabor. Tabor Robak——ネットワーク節点の整理
+
+**背景**  
+Tabor Robak（ポートランド出身、のちにニューヨーク移住）は草稿に断片的に登場するが、複数の章にまたがる接続点として機能している。以下の接続が確認されており、草稿には括弧注として2点反映済み（2026-06-17）。
+
+**確認済み接続（草稿反映状況）**
+
+| 作品・活動 | 年 | 反映状況 |
+|---|---|---|
+| **Jon Rafman** と *BrandNewPaintJob.exe*（*BNPJ-EXE*）共作 | 〜2009（GATEKEEPER MySpace 出会い以前） | 未反映 |
+| Fatima Al Qadiri「**Vatican Vibes**」MV 監督 | 2011 | 草稿 L439・分割稿に括弧注追記済み |
+| Ford & Lopatin「**World of Regret**」MV CGI・アニメーション | 2011 | 草稿 L318・分割稿に反映済み |
+| **#HDBOYZ** メンバー（ADR・Ryder Ripps ら） | 2011 | 草稿 L598 既出 |
+| **GATEKEEPER *Exo*** アートワーク + Unity ゲーム環境デザイン | 2012 | 草稿 L598・分割稿に括弧注追記済み |
+| **ADR *Deceptionista*** ビデオゲームデザイン | 2016 | 草稿 L994 既出 |
+
+**重要な未反映事項**  
+- **Rafman ↔ Robak**（*BrandNewPaintJob.exe*）: GATEKEEPER は MySpace で Robak に出会い、当時の Robak の唯一の実績が Jon Rafman との共作だった（[Wikipedia Gatekeeper](https://en.m.wikipedia.org/wiki/Gatekeeper_(band))）。Rafman は第4章（9 Eyes・DREAM JOURNAL）に既出——第2章と第4章が Robak を介して接続する。
+- Vatican Vibes は **New Museum 個展**（2011年10月21日、Genre-Specific Xperience）で上映され、2014年には Barbican Centre「Digital Revolution」にも出展。
+
+**調査事項**
+
+- *BrandNewPaintJob.exe* の内容・公開経緯を確認し、Rafman ↔ Robak 接続を草稿のどこかに記録できるか検討
+- Robak の活動の章をまたいだ位置づけを整理し、必要なら脚注 or 短い注記として正文に追記
+
+**ステータス**：部分反映済み。*BrandNewPaintJob.exe* 接続（Rafman↔Robak↔GATEKEEPER）が主な未タスク部分。
+
+---
+
+### inv-oesb. OESB（Todd Ledford）× OPN「Time Decanted」MV——接点調査
+
+**背景**  
+草稿 L314 は **Olde English Spelling Bee（OESB）** を Tri Angle・HIT と並ぶ実験音楽横断レーベルとして言及しているが、OESB 自体の具体的な記述はない。OESB ファウンダーの **Todd Ledford** が OPN の「**Time Decanted**」MV を監督しており（[Vimeo](https://vimeo.com/7616034)）、OPN とレーベル側の人物が映像で直接交わった記録になっている。OPN 作品は OESB からリリースされていないため音源面の接続ではないが、同じ圏の人物が映像で協働した事実として機能する。
+
+**調査事項**
+
+- 「Time Decanted」の制作年・リリース文脈の確認（Vimeo 投稿日・OPN アルバム文脈）
+- Todd Ledford / OESB の活動概要（レーベル設立時期・主要リリース）
+- 草稿 L314 OESB 言及箇所への接続可能性（1文追加 or 注記レベル）
+
+**正本 URL**  
+- [「Time Decanted」Vimeo](https://vimeo.com/7616034)
+
+**ステータス**：調査・1文追加レベル。文案は別ファイル不要。
+
+---
+
+### inv-frkwys. FRKWYS Vol.7（RVNG Intl.）——同席の記録
+
+**背景**  
+2011年7月17日に **RVNG Intl.** からリリースされた *[FRKWYS Vol. 7](https://www.discogs.com/ja/master/353721-Borden-Ferraro-Godin-Halo-Lopatin-FRKWYS-7-)* は、**David Borden**（Mother Mallard's Portable Masterpiece Co.）、**James Ferraro**、Samuel Godin、**Laurel Halo**、**Daniel Lopatin**（OPN）の5人によるセッション録音盤。2010年8月にブルックリン DUMBO の Atlantic Sound Studios で録音。企画は Lopatin と RVNG が Borden のミニマリスト・シンセ作品への共鳴から立ち上げ、Ferraro・Halo らを加えた。トラック名は "People of the Wind"・"**Internet Gospel**" など。  
+
+草稿 L314 末尾で「Laurel Halo や James Ferraro らの作品が音楽批評の場で注目を集めるようになった」と記しており、まさにその同じ年（2011年）に Ferraro・OPN・Laurel Halo が同じスタジオにいたという具体例になる。RVNG Intl. は現時点で草稿未登場。FRKWYS シリーズのコンセプトは「世代をまたいだ協働（intergenerational collaboration）」——Borden の 1970年代シンセ・ミニマリズムと 2010年代のネット音楽世代の接続という構図でもある。
+
+**参照 URL**  
+- [Discogs](https://www.discogs.com/ja/master/353721-Borden-Ferraro-Godin-Halo-Lopatin-FRKWYS-7-)  
+- [Pitchfork リリースノート](https://pitchfork.com/news/42880-new-release-borden-ferraro-godin-halo-lopatin-frkwys-vol-7/)  
+
+**調査事項**
+
+- RVNG Intl. のレーベル性格・設立時期（FRKWYS シリーズの位置づけ含む）
+- Borden（Mother Mallard）→ Lopatin/Ferraro という系譜の草稿文脈での意味
+- 草稿接続候補：L314 Laurel Halo / Ferraro 言及の直後 or HIT 節のコンテキスト補強として1〜2文
+- "Internet Gospel" というトラック名の文脈的意味（任意）
+
+**ステータス**：調査・1〜2文追加レベル。
 
 ---
 
@@ -816,7 +918,7 @@ meta-2 振り返りパート新設 ──── 草稿**末尾**・単独可（�
 | 段階 | 次の1手 |
 |---|---|
 | **今** | **cari-inv**（§8 要確認・Global Village 等） |
-| **その次** | inv-vektroid／src-1／src-3／ed-3（並行可） |
+| **その次** | inv-vektroid／inv-msv／inv-oesb／inv-frkwys／src-1／ed-3（並行可） |
 | 後回し | **meta-1**（執筆動機ツイート）→ **meta-2**（振り返り・**草稿末尾・最後**） |
 | 並行可 | rev-4、6b-reorg 後続、6c 残 |
 | 完了済み（直近） | rev-8／9／10 ☑、ed-5 ☑、src-6 全般 ☑、concl-1／ed-2／ed-4 ☑ |
