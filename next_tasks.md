@@ -4,7 +4,7 @@
 **論点バックログ**：[`草稿_レビュー論点メモ.md`](./草稿_レビュー論点メモ.md)（2026-06-02 同期済）  
 **編集方針**：[`編集方針.md`](./編集方針.md)（政治化・日本語圏射程・seapunk 読み道）
 
-**次にやる1件**：**src-6 全フェーズ完了（2026-06-16）**。次は並行タスク（rev-8 FSV／inv-vektroid／src-1／src-3 等）から選択
+**次にやる1件**：**rev-10 完了（2026-06-16）**。次の候補：inv-vektroid／src-1／src-3／ed-3 等
 
 **使い方**
 
@@ -83,7 +83,7 @@ ed-4 本稿の制度化（後記メタ）── 後記・単独可（concl-1 と
 | **src-4** | ハイパーポップの歴史（PC Music 2013–2016 厚み） | ☑ | src-2 後（src-5 と並行可） | [`ハイパーポップの歴史.md`](./ハイパーポップの歴史.md) → `第2章取込_ハイパーポップ_文案.md` |
 | **src-1** | musicplusghost 洗い出し | ☐ | 並行可 | [`musicplusghost.md`](./musicplusghost.md) |
 | **src-3** | r/witchhouse 歴史スレ参照 | ☐ | rev-9 と重複注意 | Reddit スレ URL |
-| **rev-8** | Eccojams vs Far Side Virtual | ☐ | 並行可 | `第2章取込_FSV対比_文案.md` |
+| **rev-8** | Eccojams vs Far Side Virtual | ☑ | 草稿反映済（2026-06-16） | [`第2章取込_FSV対比_文案.md`](./第2章取込_FSV対比_文案.md) |
 | **rev-9** | witch house 匿名性 | ☑ | src-6f に統合済（2026-06-16） | [`第2章取込_witchhouse匿名性_文案.md`](./第2章取込_witchhouse匿名性_文案.md) |
 | **rev-4** | ムードボード対比 | ☐ | 並行可 | `第1章取込_ムードボード対比_文案.md` |
 | **ed-3** | seapunk 読み道整備（節頭地図等・圧縮以外） | ☐ | 並行可 | [`編集方針.md`](./編集方針.md) §3 |
@@ -102,7 +102,7 @@ ed-4 本稿の制度化（後記メタ）── 後記・単独可（concl-1 と
 
 | ID | 内容 | 状態 | 依存 | 備考 |
 |---|---|---|---|---|
-| **rev-10** | Jon Rafman 9 Eyes → liminal 前史 | ☐ | 並行可 | 第4章 |
+| **rev-10** | Jon Rafman 9 Eyes → liminal 前史 | ☑ | 草稿反映済（2026-06-16） | 第4章 |
 | **rev-12** | Caretaker × liminal／Backrooms | ☐ 先送り | rev-10 関連 | 第4章 |
 | — | 8番出口と liminal space 美学 | 判断待ち | — | 第4章追加可否 |
 | — | 第5章 Frutiger Aero 節との整合 | 任意 | cari-draft 後でも可 | 境界論・第2章フェーズ2 |
@@ -177,9 +177,9 @@ ed-4 本稿の制度化（後記メタ）── 後記・単独可（concl-1 と
 | rev-5 | Megazord 修正 | ☑ | `第1章取込_Megazord_文案.md` |
 | rev-6 | aesthetic 大仰さ総括 | ☑ | `第2章取込_aesthetic大仰さ_文案.md` |
 | rev-7 | 三読み＋2016 政治化 | ☑ | 文案・草稿反映（2026-06-02）。推敲メモ 続45 |
-| rev-8 | Eccojams vs FSV | ☐ | `第2章取込_FSV対比_文案.md` |
+| rev-8 | Eccojams vs FSV | ☑ | [`第2章取込_FSV対比_文案.md`](./第2章取込_FSV対比_文案.md)（2026-06-16 反映済） |
 | rev-9 | witch house 匿名性 | ☑ | src-6f に統合・反映済（2026-06-16）。[`第2章取込_witchhouse匿名性_文案.md`](./第2章取込_witchhouse匿名性_文案.md) |
-| rev-10 | 9 Eyes → liminal | ☐ | `第4章取込_9eyes前史_文案.md` |
+| rev-10 | 9 Eyes → liminal | ☑ | 草稿・分割稿反映済（2026-06-16）。文案なし（直書き） |
 | rev-12 | Caretaker × liminal／Backrooms | ☐ 先送り | 上記「第4章 Caretaker×liminal」と同一 |
 
 **推奨着手順（2026-06-02 以降）**：**rev-7（ed-1）** → src-2 ☑ → **src-5** → src-4 → cari-draft → concl-1。並行：rev-4／8／9、ed-2／3、src-1／3、cari-inv
