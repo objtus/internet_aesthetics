@@ -319,18 +319,18 @@ flowchart LR
 
 ---
 
-## 8. 要確認
+## 8. 要確認（2026-06-17 更新）
 
-| 項目 | 確認方法 |
-|---|---|
-| Christmas 2.0 の**正式トラックリスト**（Shenzhen Miracle の表記・他参加者） | [DIS 掲載ページ](https://dismagazine.com/disco/56660/christmas-2-0/)／[Wayback](https://web.archive.org/web/20140207233137/http://dismagazine.com/disco/mixes/56660/christmas-2-0/)／SoundCloud |
-| Priz Tats の**開始・終了年** | priztats.itch.io／SoundCloud アーカイブ／DIS 著者ページ |
-| PC Music レーベル設立日（2013-06-25 説の一次ソース） | PC Music 公式／既存調査メモ |
-| Guardian 記事が借用と述べる **Collins ギャラリーの具体的 URL** | Collins Tumblr／Imgur アルバムとトレーラー映像の照合 |
-| トレーラー映像内の **Collins 由来画像**の特定 | [YouTube](https://www.youtube.com/watch?v=FV4RxtxVOEk) フレーム確認 |
-| Collins と Terrell Davis（Y2K Facebook グループ）の関係 | Guardian 記事・Collins ギャラリー |
-| Valeris Media（Guardian が Neo-Y2K 例として並記） | 記事内リンク・ポートフォリオ |
-| DV-i と D.V. Caputo の同一人物か | Lemma Soft フォーラム・Discogs |
+| 項目 | 状態 | 確認内容 |
+|---|---|---|
+| Christmas 2.0 の DV-i トラック名 | **☑ 確認済** | **「Shenzhen Miracle」**。FADER 2014-10-02 が明記（[The FADER](https://www.thefader.com/2014/10/02/system-focus-high-speed-internet-hardcore-cuteness-cloud)）。草稿 L992 に反映済 |
+| Priz Tats の拠点・性格 | **☑ 一部確認** | Vice 2013 記事で **「Chicago の cultural producers」** と紹介。開始年は 2013年以前（Aurora Memoria は 2013年に告知、2015年リリース）。終了年は未確認 |
+| PC Music レーベル設立日 | **△ 不一致** | Wikipedia infobox「**June 25, 2013**」、本文「June 2013」、A.G. Cook 記事本文「August 2013」。草稿は infobox 準拠で「2013年6月25日」 |
+| DV-i と D.V. Caputo | **☑ 確認済** | **同一人物。Valerie Caputo**（DV-i = Valerie Caputo）。FLOOD 2024 / Substack 2023 / ポートフォリオサイト dv.dvihypermedia.net で確認。草稿 L992 に反映済 |
+| Collins ギャラリーの具体的 URL | ☐ 未確認 | Collins Tumblr／Imgur アルバムとトレーラー映像の照合が必要 |
+| トレーラー映像内の Collins 由来画像の特定 | ☐ 未確認 | [YouTube](https://www.youtube.com/watch?v=FV4RxtxVOEk) フレーム確認が必要 |
+| Collins と Terrell Davis の関係 | ☐ 未確認 | Guardian 記事本文のみ（Facebook グループメンバーと記述） |
+| Valeris Media（Neo-Y2K 例） | **☑ 参照済** | Instagram/Vimeo 確認。草稿 L994 で既述 |
 
 ---
 

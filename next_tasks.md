@@ -92,7 +92,7 @@ meta-2 振り返りパート新設 ──── 草稿**末尾**・単独可（�
 
 | ID | 内容 | 状態 | 依存 | 正本・文案 |
 |---|---|---|---|---|
-| **cari-inv** | CARI 調査継続（§8 要確認・Global Village 等） | 進行中 | —（反映を止めない） | [`CARI_調査ノート.md`](./CARI_調査ノート.md) |
+| **cari-inv** | CARI 調査継続（§8 要確認・Global Village 等） | 進行中 | —（反映を止めない） | [`CARI_調査ノート.md`](./CARI_調査ノート.md)。2026-06-17 部分確認済：DV-i＝Valerie Caputo ☑、Shenzhen Miracle ☑、GVC ☑ |
 | **cari-draft** | CARI 草稿反映（Guardian・Neo-Y2K 1段落、Facebook 補強） | ☑ | **src-2＋src-4 後** | 同上 → `第5章取込_CARI_文案.md` |
 | **concl-1** | Guardian 2016 結論の時代診断問いかけ（ユーザー改稿・案A） | ☑ | cari-draft ☑ | [`第5章取込_結論_Guardian問いかけ_文案.md`](./第5章取込_結論_Guardian問いかけ_文案.md) |
 | **ed-2** | 日本語圏は射程外（1〜3文） | ☑ | 単独可 | [`序文取込_ed2_日本語圏射程_文案.md`](./序文取込_ed2_日本語圏射程_文案.md) |
