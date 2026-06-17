@@ -4,7 +4,7 @@
 **論点バックログ**：[`草稿_レビュー論点メモ.md`](./草稿_レビュー論点メモ.md)（2026-06-02 同期済）  
 **編集方針**：[`編集方針.md`](./編集方針.md)（政治化・日本語圏射程・seapunk 読み道）
 
-**次にやる1件**：**cari-inv**（§8 要確認・Global Village 等）。並行候補：inv-vektroid／inv-msv／inv-oesb／inv-frkwys／src-1／ed-3。後回し：**meta-1**／**meta-2**
+**次にやる1件**：**inv-vektroid** または **src-1**／**ed-3**（並行可）。**inv-msv** 調査完了——正文反映は文案先行。後回し：**meta-1**／**meta-2**
 
 **使い方**
 
@@ -41,7 +41,7 @@ src-2 SuperSuper! ──→ src-5 vaporwave前史（HIT）──→ src-4 ハイ
                                               ↓
                          concl-1（Guardian 問い・クロニクル末尾）→ ed-4（後記・Cook／歴史化）
 
-cari-inv（§8 要確認）──────── 並行。草稿反映のブロッカーではない
+cari-inv ☑（§8 残3件は任意）──── 草稿反映のブロッカーではない
 ed-3 seapunk 読み道整備 ────── 第2章・単独可（圧縮以外の案A〜E）
 meta-1 執筆動機ツイート ────── 序文 or 後記・単独可
 meta-2 振り返りパート新設 ──── 草稿**末尾**・単独可（優先度低・最後に）
@@ -80,10 +80,12 @@ meta-2 振り返りパート新設 ──── 草稿**末尾**・単独可（�
 | **src-6e** | 第2章・アーキテクチャ総括（§10） | ☑ | 草稿反映済（2026-06-16） | [`第2章取込_アーキテクチャ総括_文案.md`](./第2章取込_アーキテクチャ総括_文案.md) |
 | **src-6f** | 匿名性（§7）——rev-9 と統合 | ☑ | 草稿反映済（2026-06-16）。「匿名性の美学」主題化＋後記 callback | [`第2章取込_witchhouse匿名性_文案.md`](./第2章取込_witchhouse匿名性_文案.md) |
 | **inv-vektroid** | Vektroid名義増殖——調査（src-6f 派生） | ☐ | 並行可。正文は書かない | 調査のみ → [`src-6_仕分け.md`](./src-6_仕分け.md) スレッドB |
-| **inv-msv** | Mater Suspiria Vision / Cosmotropia de Xam / AAVV 調査 | ☐ | 並行可 | [AAVV Discogs](https://www.discogs.com/ja/label/235050-AAVV)・[AAVV Vimeo](https://vimeo.com/aavv)・[Cosmotropia ブログ](https://cosmotropia-de-xam.blogspot.com/) |
+| **inv-msv** | Mater Suspiria Vision / Cosmotropia de Xam / AAVV 調査 | ☑ | 並行可 | [`witchhouse-chillwave調査メモ.md`](./witchhouse-chillwave調査メモ.md) §5.4（2026-06-17）。正文反映は [`第2章取込_lofi映像Post-TV_文案.md`](./第2章取込_lofi映像Post-TV_文案.md)（承認待ち） |
+| **inv-swan** | Daniel Swan の軌跡（lo-fi→HD美学・PC Music・Ecco2k） | ☐ | 並行可。Post TV 文案で起点に言及済 | Lux Laze(2010)→DIS Mag 2012→Jam City/Dux Content/Lifesim→Ecco2k「GT-R」(2017)。下記詳細節 |
+| **inv-dclub** | Night Slugs / Fade To Mind（deconstructed club・HD美学）と PC Music の応答 | ☐ | 並行可。書き方検討中 | Jam City『Classical Curves』/ Future Brown「Vernáculo」MV。下記詳細節 |
 | **inv-tabor** | Tabor Robak ネットワーク整理・BrandNewPaintJob.exe（Jon Rafman との共作） | ☐ | 並行可 | [taborrobak.com](https://www.taborrobak.com/) / 草稿 L318・L439・L598・L994 既出 |
-| **inv-oesb** | OESB（Todd Ledford）× OPN「Time Decanted」MV 接点 | ☐ | 並行可 | [Vimeo](https://vimeo.com/7616034) / 草稿 L314 OESB 既出 |
-| **inv-frkwys** | FRKWYS Vol.7（RVNG Intl.）——Ferraro・OPN・Laurel Halo 同席の記録 | ☐ | 並行可 | [Discogs](https://www.discogs.com/ja/master/353721-Borden-Ferraro-Godin-Halo-Lopatin-FRKWYS-7-) / 2011年7月 |
+| **inv-oesb** | OESB（Todd Ledford）× OPN「Time Decanted」MV 接点 | ☑ | 草稿反映済（2026-06-17） | [Vimeo](https://vimeo.com/7616034) / 草稿 L314 |
+| **inv-frkwys** | FRKWYS Vol.7（RVNG Intl.）——Ferraro・OPN・Laurel Halo 同席の記録 | ☑ | 草稿反映済（2026-06-17） | [Discogs](https://www.discogs.com/ja/master/353721-Borden-Ferraro-Godin-Halo-Lopatin-FRKWYS-7-) / 2011年7月 |
 | **src-4** | ハイパーポップの歴史（PC Music 2013–2016 厚み） | ☑ | src-2 後（src-5 と並行可） | [`ハイパーポップの歴史.md`](./ハイパーポップの歴史.md) → `第2章取込_ハイパーポップ_文案.md` |
 | **src-1** | musicplusghost 洗い出し | ☐ | 並行可 | [`musicplusghost.md`](./musicplusghost.md) |
 | **src-3** | r/witchhouse 歴史スレ参照 | ☑ | rev-9 と重複なし | `#### コミュニティの正史` 末尾1文+URL（2026-06-17 反映済） |
@@ -96,7 +98,7 @@ meta-2 振り返りパート新設 ──── 草稿**末尾**・単独可（�
 
 | ID | 内容 | 状態 | 依存 | 正本・文案 |
 |---|---|---|---|---|
-| **cari-inv** | CARI 調査継続（§8 要確認・Global Village 等） | 進行中 | —（反映を止めない） | [`CARI_調査ノート.md`](./CARI_調査ノート.md)。2026-06-17 部分確認済：DV-i＝Valerie Caputo ☑、Shenzhen Miracle ☑、GVC ☑ |
+| **cari-inv** | CARI 調査（§8 要確認・Global Village 等） | ☑ | — | [`CARI_調査ノート.md`](./CARI_調査ノート.md)。2026-06-17 完了判定：DV-i ☑、Shenzhen Miracle ☑、GVC ☑。§8 残3件（Collins URL・トレーラー照合・Terrell Davis）は**任意** |
 | **cari-draft** | CARI 草稿反映（Guardian・Neo-Y2K 1段落、Facebook 補強） | ☑ | **src-2＋src-4 後** | 同上 → `第5章取込_CARI_文案.md` |
 | **concl-1** | Guardian 2016 結論の時代診断問いかけ（ユーザー改稿・案A） | ☑ | cari-draft ☑ | [`第5章取込_結論_Guardian問いかけ_文案.md`](./第5章取込_結論_Guardian問いかけ_文案.md) |
 | **ed-2** | 日本語圏は射程外（1〜3文） | ☑ | 単独可 | [`序文取込_ed2_日本語圏射程_文案.md`](./序文取込_ed2_日本語圏射程_文案.md) |
@@ -194,7 +196,7 @@ meta-2 振り返りパート新設 ──── 草稿**末尾**・単独可（�
 | rev-10 | 9 Eyes → liminal | ☑ | 草稿・分割稿反映済（2026-06-16–17）。9 Eyes＋Still Life/DREAM JOURNAL＋Ch2 協働接続。文案なし（直書き） |
 | rev-12 | Caretaker × liminal／Backrooms | ☐ 先送り | 上記「第4章 Caretaker×liminal」と同一 |
 
-**推奨着手順（2026-06-17 以降）**：**cari-inv** → inv-vektroid／src-1／src-3／ed-3（並行可）。**meta-1**／**meta-2** は後回し（meta-2 は草稿末尾・最後）
+**推奨着手順（2026-06-17 以降）**：**inv-frkwys**／**inv-oesb** → inv-msv／inv-vektroid／src-1／ed-3（並行可）。**meta-1**／**meta-2** は後回し（meta-2 は草稿末尾・最後）
 
 ### rev-7 進捗——**完了（2026-06-02 拡張反映）**
 
@@ -395,13 +397,59 @@ meta-2 振り返りパート新設 ──── 草稿**末尾**・単独可（�
 - Phantasma Disques と AAVV の関係（同一人物 or 別個のネットワーク）
 - 草稿接続候補：Cosmotropia de Xam は L226「VHS の劣化・コラージュ」節 or L239 Phantasma Disques 付近。Luke Wyatt は草稿の lo-fi vs HD の軸（src-6e §15 由来）や vaporwave 前史との接続を検討。GATEKEEPER VHS（L310）との照合は限定的に
 
-**ステータス**：調査のみ。正文が書けると判断した場合のみ文案を作成する。
+**ステータス**：☑ 調査完了（2026-06-17）。[`witchhouse-chillwave調査メモ.md`](./witchhouse-chillwave調査メモ.md) §5.4 追記。**文案作成済**：[`第2章取込_lofi映像Post-TV_文案.md`](./第2章取込_lofi映像Post-TV_文案.md)——OESB「Post T.V.」（2010、ローマ国際映画祭・AAVV 企画）を起点に「lo-fi映像のブーム」新規節を第2章 GATEKEEPER 節後に挿入する案。**ユーザー承認待ち**。
 
 **手順**
 
-1. AAVV アーカイブ・Discogs・Cosmotropia ブログを確認し、調査ノート（新規 `MSV_AAVV_調査ノート.md` または既存追記）にまとめる
+1. AAVV アーカイブ・Discogs・Cosmotropia ブログを確認し、[`witchhouse-chillwave調査メモ.md`](./witchhouse-chillwave調査メモ.md) §5.4 にまとめる
 2. 草稿の既述箇所との重複・接続可能性を評価
 3. 接続できる場合のみ文案を作成し、タスクを `src-` に格上げ
+
+---
+
+### inv-swan. Daniel Swan——lo-fi から HD 美学への軌跡
+
+**背景**  
+Daniel Swan は inv-msv で扱う「Post T.V. - Lo-Fi For The Eyes」（2010, ローマ国際映画祭）の参加者の一人。出発点は lo-fi 寄りで、2010年の短編映画『[Lux Laze](https://u-t-t-e-r.bandcamp.com/album/lux-laze)』は全編 VHS 撮影、サウンドトラックを **Jack Latham（Jam City）** が担当し、VHS＋コミック＋DVD-R のセット＋50本限定カセットという物理形態で自主リリースされた。その後 Swan は高精細・CGI 寄りの HD 美学へ転回し、PC Music 周辺の主要な映像作家になる。Post-TV 文案（[`第2章取込_lofi映像Post-TV_文案.md`](./第2章取込_lofi映像Post-TV_文案.md)）では「転回の起点」として軽く前振りするにとどめ、軌跡の本格的整理はここで行う。
+
+**確認済み事実（要草稿位置検討）**
+
+| 事項 | 年 | 典拠 |
+|---|---|---|
+| 『Lux Laze』（全編VHS・Jack Latham サントラ・VHS/コミック/DVD-R/50本カセット） | 2010 | [Utter Bandcamp](https://u-t-t-e-r.bandcamp.com/album/lux-laze) |
+| DIS Magazine が特集（"I'm in love, his name, Daniel Swan"） | 2012 | [DIS Magazine](https://dismagazine.com/blog/29818/im-in-love-his-name-daniel-swan/) |
+| A.G. Cook が声がけ、PC Music 関与開始 | 2012〜 | [Dazed 100](https://www.dazeddigital.com/projects/article/22392/1/daniel-swan-interview) |
+| Dux Content「Lifestyle」MV | 2013 | [Vimeo](https://vimeo.com/80669303) |
+| Jam City・Rustie・RL Grime 等の MV、Thy Slaughter カバー、PC Music 用ループ映像 | 2012〜 | [Dazed 100](https://www.dazeddigital.com/projects/article/22392/1/daniel-swan-interview)・[dmy.co](https://dmy.co/features/music-visual-artist-interview-gallery-feature-2014) |
+| Lifesim「IDL」MV | 2015 | [YouTube](https://www.youtube.com/watch?v=SySgCOwaeLk) |
+| Ecco2k「GT-R」MV（Dir/VFX、Drain Gang） | 2017 | [YouTube](https://www.youtube.com/watch?v=raLQWq_PRIE) |
+
+**論点**  
+- 「lo-fi の質感から出発した作家が HD 美学へ転回する」という個人史が、シーン全体の lo-fi → HD/distroid/PC Music の流れを縮図的に示す好例。distroid 節・PC Music 節との接続を検討。
+- Jam City（Jack Latham）経由で inv-dclub（Night Slugs / deconstructed club）と連結。
+- Ecco2k / Drain Gang への接続は本書の射程（時期・主題）を超える可能性があり、どこまで触れるか要判断。
+
+**ステータス**：☐ 調査メモ作成・草稿接続検討から（計画先行）。
+
+---
+
+### inv-dclub. Night Slugs / Fade To Mind——deconstructed club・HD 美学と PC Music の応答
+
+**背景**  
+草稿は **Night Slugs / Fade To Mind** 勢にたびたび触れるが、まとまった記述がない。両レーベルは HD 美学を引き継ぎつつ **deconstructed club** を推し進めた点で重要。**Jam City（Jack Latham）**『[Classical Curves](https://nightslugs.net/releases/nslp002-jam-city-classical-curves/)』（2012, Night Slugs）は deconstructed club の起点とされ（[Wikipedia](https://en.wikipedia.org/wiki/Classical_Curves)）、artifice・富・テクノロジーを主題にした高光沢のサウンドデザインを持つ。Fade To Mind 側では **Fatima Al Qadiri**（草稿に Vatican Vibes MV 等で既出）が関与する **Future Brown**（Fatima Al Qadiri / Nguzunguzu の Asma Maroof・Daniel Pineda / J-Cush）の「**Vernáculo」feat. Maluca** MV が、Pérez Art Museum Miami 委嘱の**架空の美容ブランド広告**（L'Oréal・Revlon の広告言語を流用した "capitalist surrealism"、カバーアートは **DIS Magazine**）として制作された（[The FADER](https://www.thefader.com/2014/12/17/watch-future-browns-dewy-vernaculo-video)）。これは PC Music 的なハイパー消費の美学に対する deconstructed club 側からの応答とも読める。
+
+**論点**  
+- PC Music（ハイパーポップ）と deconstructed club を「ハイパー消費・広告美学・HD 仕上げ」という共通基盤で並べ、応答関係として書けるか。書き方は検討中（独立節 or PC Music 節への補足）。
+- Fatima Al Qadiri を介して既出ネットワーク（Vatican Vibes、Tabor Robak、Shanzhai Biennial、GCC、DIS Magazine）と接続。
+- Daniel Swan（inv-swan）が Jam City の MV を手がけている点で両タスクは連結。
+
+**参照 URL**  
+- [Night Slugs NSLP002 – Classical Curves](https://nightslugs.net/releases/nslp002-jam-city-classical-curves/)
+- [Future Brown「Vernáculo」MV（The FADER）](https://www.thefader.com/2014/12/17/watch-future-browns-dewy-vernaculo-video)
+- [Future Brown インタビュー（The Quietus）](https://thequietus.com/interviews/future-brown-interview/)
+- [Aesthetic: Future Brown（Crack Magazine）](https://crackmagazine.net/article/aesthetic/aesthetic-future-brown/)
+
+**ステータス**：☐ 書き方検討中。調査メモ作成から（計画先行）。
 
 ---
 
@@ -448,7 +496,7 @@ Tabor Robak（ポートランド出身、のちにニューヨーク移住）は
 **正本 URL**  
 - [「Time Decanted」Vimeo](https://vimeo.com/7616034)
 
-**ステータス**：調査・1文追加レベル。文案は別ファイル不要。
+**ステータス**：☑ 完了（2026-06-17）。草稿 L314 の OESB 言及直後・分割稿に1文追記。
 
 ---
 
@@ -470,7 +518,7 @@ Tabor Robak（ポートランド出身、のちにニューヨーク移住）は
 - 草稿接続候補：L314 Laurel Halo / Ferraro 言及の直後 or HIT 節のコンテキスト補強として1〜2文
 - "Internet Gospel" というトラック名の文脈的意味（任意）
 
-**ステータス**：調査・1〜2文追加レベル。
+**ステータス**：☑ 完了（2026-06-17）。草稿 L314 末尾・分割稿に2文追記。
 
 ---
 
@@ -528,14 +576,26 @@ Tabor Robak（ポートランド出身、のちにニューヨーク移住）は
 
 | ID | 内容 | 状態 | 成果物 |
 |---|---|---|---|
-| cari-inv | 調査継続 | 進行中 | [`CARI_調査ノート.md`](./CARI_調査ノート.md)（§8 要確認、Global Village Coffeehouse） |
+| cari-inv | 調査 | ☑ | [`CARI_調査ノート.md`](./CARI_調査ノート.md)。2026-06-17 完了判定。§8 残3件は任意 |
 | cari-draft | 草稿反映 | ☑ | `第5章取込_CARI_文案.md` → 第5章 L780–807 付近 |
 
-### cari-inv. 調査継続
+### cari-inv. 調査——**完了（2026-06-17）**
 
-- §8 要確認（Christmas 2.0 トラックリスト、Priz Tats 年、Collins ギャラリー照合等）  
-- [`CARIの歴史.md`](./CARIの歴史.md) との突合  
-- **正文は書かない**。ノート更新のみ  
+**完了判定**：cari-draft ☑ 済み。草稿第5章 CARI 節（L978–992 付近）に Guardian・Facebook・Neo-Y2K・Priz Tats／DV-i・GVC が反映済み。正文を止める未確認事項はない。
+
+**§8 確認済み**
+- Christmas 2.0 DV-i トラック名「Shenzhen Miracle」☑
+- DV-i ＝ Valerie Caputo ☑
+- Global Village Coffeehouse ☑
+- Priz Tats 拠点（Chicago）☑ 一部
+- Valeris Media ☑
+
+**任意残（必要なら後日）**
+- Collins ギャラリー URL・トレーラー映像フレーム照合
+- Collins と Terrell Davis の関係（Guardian「Facebook グループメンバー」で足りる）
+- PC Music 設立日 △（Wikipedia infobox 6/25 vs 本文 6月 vs Cook 8月——草稿は infobox 準拠で固定済み）
+
+**正文は書かない**。上記任意残はノート更新のみ。
 
 ### cari-draft. 草稿反映
 
@@ -621,7 +681,7 @@ Tabor Robak（ポートランド出身、のちにニューヨーク移住）は
 
 ## メタ・著者性（meta-*）
 
-正本：[`草稿_推敲メモ.md`](./草稿_推敲メモ.md) 続8（編集方針確認）。**cari-inv 等の正文作業の後**に着手。meta-2 は草稿**末尾**に置き、他タスクより後回し。
+正本：[`草稿_推敲メモ.md`](./草稿_推敲メモ.md) 続8（編集方針確認）。**ed-3・inv-* 等の正文作業の後**に着手。meta-2 は草稿**末尾**に置き、他タスクより後回し。
 
 | ID | 内容 | 状態 | 行先 | 備考 |
 |---|---|---|---|---|
@@ -651,7 +711,7 @@ Tabor Robak（ポートランド出身、のちにニューヨーク移住）は
 | 項目 | 方針 |
 |---|---|
 | 行先 | 草稿**最末尾**（後記の後）。新設 `##` 節 |
-| 優先 | **低**。cari-inv・ed-3・meta-1 等の後 |
+| 優先 | **低**。ed-3・meta-1 等の後 |
 | 分量 | 文案で決定（短い総括から着手可） |
 | トーン | クロニクル全体の読み返し。ed-4 の「わたしにはわからない」と重複しないよう住み分け |
 
@@ -917,8 +977,8 @@ Tabor Robak（ポートランド出身、のちにニューヨーク移住）は
 
 | 段階 | 次の1手 |
 |---|---|
-| **今** | **cari-inv**（§8 要確認・Global Village 等） |
-| **その次** | inv-vektroid／inv-msv／inv-oesb／inv-frkwys／src-1／ed-3（並行可） |
+| **今** | **inv-frkwys**（FRKWYS Vol.7 → L314）／**inv-oesb**（Time Decanted MV） |
+| **その次** | inv-msv／inv-vektroid／src-1／ed-3（並行可） |
 | 後回し | **meta-1**（執筆動機ツイート）→ **meta-2**（振り返り・**草稿末尾・最後**） |
 | 並行可 | rev-4、6b-reorg 後続、6c 残 |
 | 完了済み（直近） | rev-8／9／10 ☑、ed-5 ☑、src-6 全般 ☑、concl-1／ed-2／ed-4 ☑ |
@@ -962,5 +1022,6 @@ Tabor Robak（ポートランド出身、のちにニューヨーク移住）は
 
 ---
 
-*更新：2026-06-17。**ed-5** ☑（r/AestheticWiki）。**meta-1**／**meta-2** タスク化。rev-10 追記（Still Life/DREAM JOURNAL）反映。次の1手＝**cari-inv**。*
+*更新：2026-06-17（続15）。**cari-inv** ☑ 完了判定（§8 残3件・PC Music 日付は任意）。次の1手＝**inv-frkwys**。*
+*更新：2026-06-17。**ed-5** ☑（r/AestheticWiki）。**meta-1**／**meta-2** タスク化。rev-10 追記（Still Life/DREAM JOURNAL）反映。*
 *更新：2026-06-11。**ed-2** ☑ 序文反映。**concl-1**・**ed-4** ☑。*

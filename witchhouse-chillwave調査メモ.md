@@ -21,6 +21,7 @@
    - 5.1 Unicodeと難読化タイポグラフィ
    - 5.2 ホラー・オカルト参照
    - 5.3 Mater Suspiria Vision と視覚的実践
+   - 5.4 AAVV（ローマ）——DVD-r/VHS と witch house ビジュアルの物理流通
 6. [後継・派生ジャンルとの関係](#6-後継派生ジャンルとの関係)
    - 6.1 Seapunk
    - 6.2 Vaporwave
@@ -341,6 +342,164 @@ richreviewz.wordpressのレビューは、MSVがSalemやoOoOOよりもThrobbing 
 > 出典：richreviewz.wordpress「Mater Suspiria Vision – HOLLYWOOD NECRONOMICON Review」（二次資料・ブログレビュー）  
 > URL: https://richreviewz.wordpress.com/2013/08/03/mater-suspiria-vision-hollywood-necronomicon-review/  
 > 引用箇所：*"they seem to have more disturbing and avant-garde similarities to Throbbing Gristle than the likes of Salem or oOoOO."*
+
+**Phantasma Disques と Cosmotropia de Xam の関係**  
+Cosmotropia de Xam（CDX）は **Mater Suspiria Vision** の主宰者に加え、**Phantasma Disques** の設立者でもある。レーベルは2010年以降、CD・カセット・DVD-r など物理フォーマットで witch house / drag 系の音源を大量にリリースしてきた（[Phantasma Disques](https://phantasmadisques.bigcartel.com/)）。MSV のデビュー *Second Coming* は2010年2月に Disaro から出ており（[Wikipedia](https://en.wikipedia.org/wiki/Mater_Suspiria_Vision)）、音源面ではヒューストンの Disaro と欧州側レーベルが並走する構図だった。CDX 自身のブログ（[cosmotropia-de-xam.blogspot.com](https://cosmotropia-de-xam.blogspot.com/)）では、MSV の「VIDEO OCCULT TRILOGY」や Disaro 向け CDR の告知、PWIN ▲▲ TEAKS など hypnagogic / chillwave 系プロジェクトの紹介も行っており、witch house 単独の視覚言語というより、Giallo・イタロ・VHS・hypnagogic を横断するハブとして機能していた。
+
+---
+
+### 5.4 AAVV（ローマ）——DVD-r/VHS と witch house ビジュアルの物理流通
+
+> **inv-msv 調査（2026-06-17）**。一次資料優先。草稿接続評価は §5.4.5 参照。
+
+#### 5.4.1 レーベル概要
+
+**AAVV** は2010年、ローマで **Valerio Mattioli** と **Egisto Sopor** により設立された **DVD-r / VHS 専門**の映像レーベルである。Phantasma Disques とは別法人・別ネットワークだが、同一人物（CDX）の作品をリリースするなど接点がある。
+
+| 項目 | 内容 |
+|---|---|
+| 拠点 | ローマ |
+| 設立 | 2010年 |
+| 運営 | Valerio Mattioli（Thalido／Thetlvmth の一翼、グラフィック担当）＋ Egisto Sopor（Cadeo／Polysick／TheAwayTeam、映像担当） |
+| 方針 | 現代の video artist 一人につき1リリース。scanimate・アナログ・ビデオプロセッサ系の旧作 *Hi-Fi for the Eyes* の再発も構想 |
+| 流通 | 各10ユーロ、メールオーダー（[witch-house.com フォーラム告知](https://witch-house.com/forum/viewtopic.php?t=9002)） |
+| 正本 URL | [Vimeo](https://vimeo.com/aavv)／[Discogs](https://www.discogs.com/ja/label/235050-AAVV)／[ウェブアーカイブ（2011）](https://web.archive.org/web/20111005003242/http://www.aavv-videos.com/) |
+
+> 出典：witch-house.com フォーラム「AAVV」スレッド（2020年頃の告知再掲）  
+> URL: https://witch-house.com/forum/viewtopic.php?t=9002  
+> 引用箇所：*"AAVV is a Rome-based DVD-r and VHS label founded in 2010 by Valerio Mattioli and Egisto Sopor."*
+
+> 出典：VICE Italia「Le Venerdì Mixtape Vol. 22 - True Italian Black Vacuum, la mixtape di AAVV」（二次資料）  
+> URL: https://www.vice.com/it/article/le-venerdi-mixtape-vol-22-true-italian-black-vacuum-la-mixtape-di-aavv/  
+> 引用箇所：*"La AAVV è una DVD-r e VHS label di Roma [...] l'idea è quella di dedicare un'uscita ad ogni videoartista contemporaneo"*
+
+> 出典：Planet Mu「Polysick」アーティストページ（二次資料・レーベル公式）  
+> URL: https://planet.mu/artists/polysick/  
+> 引用箇所：*"He is also one half of the low key video unit AAVV, whose work has graced many of the important releases of new lofi electronic movement."*
+
+AAVV は音楽コンピの略称 **Aa.Vv.**（vari artisti）と混同されやすい。**本稿で扱う AAVV はローマの映像レーベル**に限定する。
+
+#### 5.4.2 初期カタログ（2010–2011）
+
+witch-house.com フォーラム告知（[t=9002](https://witch-house.com/forum/viewtopic.php?t=9002)）に掲載された初期4タイトル：
+
+| 番号 | アーティスト | タイトル | 内容 |
+|---|---|---|---|
+| AAVV 001 | Harappian Night Recordings | *I Was Born With 7 Clits* | 各国 B 級ホラー映像のコラージュ（Sayed Kamran Ali） |
+| AAVV 002 | **Cadeo** | *Coloratissimo Megabazar* | 1980–87年イタリア commercial TV の VHS サンプリング（soft porn 枠・CM・ジングル等） |
+| AAVV 003 | **Cosmotropia de Xam** | *Visual Ecstasy* | 17本の visual reconstruction（MSV 関連ビジュアル） |
+| AAVV 004 | **Luke Wyatt** | *Sad Stonewash — A Video Mulch* | Video Mulch 技法による40分の analog 映像作品（2010年） |
+
+*Visual Ecstasy* は AAVV 003 として流通したほか、のち **Phantasma Disques** からも別 SKU（PD-VOGUE-BOX-018、2012年 DVDr）で出ている（Discogs 記録）。**同一作品の二系統流通**（イタリア映像レーベル ↔ witch house 音源レーベル）の例。
+
+#### 5.4.3 「Post T.V. - Lo-Fi For The Eyes」——ローマ国際映画祭2010（重点資料）
+
+> **追加調査（2026-06-17）**。一次資料：①公式映画祭カタログ（英・伊）②公式プログラムブログ ③OESB ブログ ④Taxidrivers 告知。
+
+##### 開催詳細（公式確認）
+
+| 項目 | 内容 |
+|---|---|
+| 正式名 | **POST TV – Lo-Fi for the Eyes**（AA.VV., Italia, 2010, 60分） |
+| 副題 | 「Nuovi percorsi video nell'era della YouTube Generation」（YouTube 世代における新しい映像の道筋） |
+| 枠 | 第5回 Festival Internazionale del Film di Roma、セクション **L'Altro Cinema | Extra**（セクション統括：Mario Sesti）内の **Post TV** 部門 |
+| 日時・会場 | **2010年11月4日 22:30**／Teatro Studio – Auditorium Parco della Musica, Roma |
+| キュレーション | **Lorenzo Gigotti** と **Valerio Mattioli** |
+| メディアパートナー | **NERO Magazine**（ローマの現代アート/批評誌、2004年創刊。Gigotti・Mattioli が在籍） |
+| 協力 | **AAVV VIDEOS** |
+
+> 出典：Rome Film Festival 2010 公式カタログ（英語版、**カタログ p.190**＝PDF p.97。L'Altro Cinema | Extra / Post TV）  
+> URL: https://www.romacinemafest.it/wp-content/uploads/2016/09/Catalogue-Rome-Film-Fest-2010-eng.pdf  
+> 引用箇所：*"Post TV – Lo-Fi for the Eyes brings together the work of artists forming a vital network among underground artists from the United States and Europe. This new generation has invented a unique collection of visual imagery that takes in reflections on the past, manipulates collective memories and revokes eras (the 80s and 90s), all filtered through dreamlike recollections and perceived as the origin of the information society. [...] extremely versed in the internet and visual search, halfway between video-art and a precursor to the short video, refracted through its most amateurial forms. [...] (curated by Lorenzo Gigotti and Valerio Mattioli)"*
+
+> **ページ注記**：Post TV の紹介はカタログ **p.190 のみ**。見開きの **p.191 は別内容の「SHORT FILMS」**節（3D ナラティブ短編 *Salve Regina*・*Victims*・*Apollo & Daphne Reloaded in the 4th Dimension*・*Home*・*Breve Film d'Amore e Libertà* など）で、Post TV とは無関係。PDF 上は見開きが1ページに対応し、p.190–191 はともに **PDF p.97**。
+
+> 出典：Taxidrivers.it 告知（2010年10月20日）  
+> URL: https://www.taxidrivers.it/12303/latest-news/la-sezione-laltro-cinema-extra-del-festival-di-roma-presenta-lopera-collettiva-post-tv-lo-fi-for-the-eyes.html  
+> 引用箇所：*"grazie a NERO MAGAZINE, Lorenzo Gigotti e Valerio Mattioli [...] a cura di Mario Sesti"*
+
+##### 公式プログラムノートの枠組み（本書テーマに直結）
+
+公式ブログ（[lofifortheeyes.blogspot.com](https://lofifortheeyes.blogspot.com/)）のプログラムノートは、この動きを単なる作家群ではなく**「真の意味での一つのシーン（una vera e propria scena）」**と明言している。本書の「lo-fi映像がブーム/シーンとして認知された」という論点の直接の裏づけになる。
+
+枠組みの要点：
+- **ルーツ**：2000年代初頭アメリカの **Forcefield** と **Paper Rad** が「低忠実度（lo-fi）の形式的価値を再発見」した collective として前史に置かれる。
+- **YouTube 世代**：作家たちはネット（SNS・ウェブサイト）に複数の役割を投じる。**オンライン画像の粗い粒状感（pixel・involuntary glitch）が「エラー」から「美学的な刻印（cifra estetica）」へ転じる**。ウェブは拡散・共有の手段であり、作品に「共同体的（comunitario）」性格を与える。ネットは現在・過去の経験を汲む「無限のアーカイブ」。
+- **両義的ノスタルジア**：80s・90s を「考古学と夢の幻覚のあいだ」で掘る。ポストモダンの冷たい pastiche とは異なり、引用は「自然発生的な眩惑」「太古の共有記憶」として立ち上がる。
+- **メディアの宙吊り**：ビデオは TV（過去）と情報化経験（現在）のあいだに置かれ、「ビデオアートに見えて実は奇妙な音楽の MV」「古い観光スポットに見えて実は偽の psychedelic commercial」という形態の混乱を起こす。
+
+> 出典：公式ブログ「POST TV - LO-FI FOR THE EYES」プログラムノート  
+> URL: https://lofifortheeyes.blogspot.com/  
+> 引用箇所：*"Di questo percorso, che negli anni ha assunto i connotati di una vera e propria scena [...] la stessa grana dell'immagine on line, coi suoi pixel sgraziati e i suoi glitch involontari, da errore si trasforma in vera e propria cifra estetica"*
+
+##### 参加アーティスト全16組（公式リスト）と第2章接点
+
+| アーティスト | 国 | 第2章での既出/接点・公式bioの要点 |
+|---|---|---|
+| **Daniel Lopatin**（OPN） | USA | 既出。公式bio：2009年 DVD *Memory Vague*（YouTube から拾った80s CM を Windows Movie Maker で再構成）が「新世代アンダーグラウンドに計り知れない影響、ひとつの傾向を実質的に開始」と評価 |
+| **James Ferraro** | USA | 既出。公式bio：David Keenan が **hypnagogic pop** と名づけた現象は「主に彼に由来」。多名義、self-described "virtual atmospherist"、The Skaters（with Spencer Clark） |
+| **Megazord**（Christian Oldham, b.1992） | USA | 既出（L87 節）。公式bio：ネット上に存在する包括ブランド。Lopatin・Stellar Om Source・**Games** が彼のビジョンに依拠 |
+| **Todd Ledford**（OESB創設） | USA | inv-oesb で既出（L314）。公式bio：**OESB はリリースごとに outsider 映像作家の MV を付ける慣行を始め、「一つの言語を実質的にコード化」**——本プログラム参加者の多くが参照する |
+| **Luke Wyatt** | USA | inv-msv。公式bio：TeamFILO 創設、Keenan の「記憶の記憶（ricordo del ricordo）」、80s 黒人 dance show 素材、OPN・Matrix Metals・Autre Ne Veut に映像提供 |
+| **Cosmotropia de Xam** | Germania | inv-msv。公式bio：**Witch House 運動に属する**「あの世のダンス音楽」、ホラー/秘教的シンボル、ipnagogic 系シーンが彼のビジュアルを参照 |
+| **Takeshi Murata** | USA | RISD 卒。**datamoshing**（圧縮エラー）の先駆者の一人 |
+| **Paper Rad** | USA | Ben Jones + Jacob & Jessica Ciocci。90s〜のnet art/cartoon collective。「TV で育ったヒッピーの子」 |
+| **Forcefield** | USA | Providence（Fort Thunder 圏）1996結成。アナログ信号処理機材。lo-fi前史の核 |
+| **Kevin DiTrapano** | USA | IMSOSORRYDAD（with Zak Mering）。Yoga・Raw Thrills・**James Ferraro** の MV |
+| **Cadeo** | Italia | AAVV の映像担当（= Egisto Sopor 側）。AAVV 002 *Coloratissimo Megabazar* |
+| **Michele Manfellotto** | Italia | 作家/アーティスト |
+| **Daniel Swan** | Inghilterra | ロンドン Brixton。*Lux Laze*（2010, 全編 VHS 撮影。サントラは **Jack Latham＝Jam City**。VHS＋コミック＋DVD-R＋50本限定カセットで自主リリース、2015 Utter 再発）。**その後 HD 美学へ転回し PC Music 周辺の主要映像作家に**（→ inv-swan / inv-dclub） |
+| **Sunset Television** | USA | NY の実験的コメディ番組 |
+| **TV Carnage** | Canada | 1996〜、found footage の DVD シリーズ |
+| **Alivia Zivich** | USA | noise 圏、Demons（Nate Young/Wolf Eyes 圏）の映像、AA ブランド創設 |
+
+OESB ブログは特に Luke Wyatt が当夜の上映でトークに招かれたと記す。
+
+> 出典：Olde English Spelling Bee Blog「POST T.V. - LO-FI FOR THE EYES ...」（2010年11月4日）  
+> URL: http://oesbee.blogspot.com/2010/11/post-tv-lo-fi-for-eyes-today-at-rome.html  
+> 引用箇所：*"OESB video artists like Luke Wyatt, Megazord, James Ferraro, and Kevin DiTrapani featured alongside Paper Rad, Alizia Zivich (of Demons), Dan Lopatin (OPN/Games), and the mighty Forcefield. [...] Luke Wyatt was specially invited to speak at tonite's screening"*
+
+##### AAVV による他アーティストの MV
+
+AAVV（Mattioli + Sopor）は上映企画だけでなく、**Com Truise**（chillwave/synthwave 系）、**Sleep ∞ Over**（HIT 所属。*Casual Diamond*・*Forever*＝HIT 012, 2011）、**Stellar OM Source** の MV も制作（[VICE Italia](https://www.vice.com/it/article/le-venerdi-mixtape-vol-22-true-italian-black-vacuum-la-mixtape-di-aavv/)）。
+
+##### 意義の整理
+
+このプログラムは、(a) **主要国際映画祭の制度的枠**で、(b) **「scena」という自己規定**のもと、(c) **hypnagogic pop / glow-fi という批評語彙**を伴って、(d) 第2章の重要人物（OPN・Ferraro・Megazord・Ledford・Wyatt・CDX）を**一堂に集めた**——lo-fi 映像が2010年時点で「ブーム/シーン」として認知されていた最強の単一資料。草稿 L314（OESB×OPN）・L87（Megazord）・L107（Thunder Horse Video / GATEKEEPER）を束ねる。
+
+#### 5.4.4 Luke Wyatt（Torn Hawk）と Video Mulch——立ち位置の整理
+
+**Luke Wyatt** は AAVV 004 *Sad Stonewash*（2010年）で **Video Mulch** 技法を提示した映像作家。VCR を意図的に物理破損させ、デジタル取り込み時のエラーを再利用する analog-digital ループである。
+
+> 出典：The Verge「Dive into the hallucinatory analog visions of a damaged VCR」（2013年、Sci-Fi-O-Rama 経由）  
+> URL: https://www.theverge.com/2013/10/27/5031628/luke-wyatt-hallucinatory-analog-visions-video-art-made-by-damaged-vcr  
+> 引用箇所：*"The process involves whacking a VCR with a 'docksider' shoe while Wyatt digitally records the results [...] repeating this process until things attain an anti-sheen"*
+
+> 出典：Sci-Fi-O-Rama「Luke Wyatt – Sad Stonewash (a Video Mulch)」（2013年）  
+> URL: https://www.sci-fi-o-rama.com/2013/10/25/luke-wyatt-sad-stonewash-a-video-mulch/  
+> 引用箇所：*"40-minute sojourn into the abyss of VHS [...] Refreshingly far-out and very raw I highly recommend checking out his Torn Hawk project"*
+
+**草稿での扱い上の注意**（next_tasks inv-msv 方針）：
+
+| 次元 | 位置づけ |
+|---|---|
+| 映像（Video Mulch） | VHS 劣化・lo-fi コラージュ——§2.3 の VHS 美学、草稿 L226「VHS の劣化」と接続可能 |
+| 音楽（Torn Hawk） | witch house より **vaporwave・ポストインターネットアート**寄り。*UNION & RETURN* などは HD 美学に接近する側面も |
+| AAVV 上の並置 | CDX（witch house ビジュアル）と Wyatt（post-TV / vaporwave 系）が**同一レーベル**に並ぶ——lo-fi 技法と HD 感覚の混在 |
+
+Wyatt を witch house の中心人物として書くのは不適切。AAVV を通じた **「欧州側・映像専門レーベルによる VHS/DVD-r 流通」**として書くのが妥当。
+
+#### 5.4.5 草稿接続評価（2026-06-17）
+
+| 草稿箇所 | 接続可能性 | 推奨 |
+|---|---|---|
+| **L226**（VHS 劣化・MSV 言及） | 高。AAVV 003 *Visual Ecstasy* を「MSV ビジュアルの物理流通」の具体例として1文追加可能 | 文案検討可 |
+| **L239**（Phantasma Disques） | 中。Phantasma と AAVV の関係（別レーベル、CDX が両方に接続）を注記レベルで | 1文 or 脚注 |
+| **L314**（HIT VHS） | 低〜中。HIT *Giza* VHS との**対比**（米国 vs 欧州、音源一体 vs 映像専門）として後段 L644 付近の方が自然 | L644 優先 |
+| **L644**（物理メディア回帰） | 中。AAVV を欧州側の VHS/DVD-r 例として列挙 | 1文追加候補 |
+| Luke Wyatt / Torn Hawk | 低（第2章 witch house 節）。vaporwave 前史・lo-fi vs HD 軸（src-6e §15）で扱う方が適切 | 今回は見送り |
+
+**結論**：調査段階完了。**正文反映は文案を先に作成**（inv-tabor と同様の方針推奨）。最も自然な接続は L226（MSV + AAVV）または L644（物理メディアの欧州例）。
 
 ---
 
@@ -719,8 +878,19 @@ vaporwaveはwitch houseとは独立した系譜を持ちながら、同じ「流
 | Grokipedia「Hauntology (music)」 | 百科事典的サイト | https://grokipedia.com/page/Hauntology_(music) |
 | de Gruyter「'Vaporwave Is (Not) a Critique of Capitalism': Genre Work in Music Press and Social Media」 | 査読付き学術論文 | https://www.degruyterbrill.com/document/doi/10.1515/culture-2018-0041/pdf |
 | ResearchGate「Vaporwave Aesthetics: Internet Nostalgia and the Utopian Impulse」 | 学術論文（査読確認要） | https://www.researchgate.net/publication/343060059_Vaporwave_A_e_s_t_h_e_t_i_c_s_Internet_Nostalgia_and_the_Utopian_Impulse |
-| Aesthetics Wiki「Analog Horror」 | Fandomウィキ | https://aesthetics.fandom.com/wiki/Analog_Horror |
-
----
+| **（inv-msv 追加分）** | | |
+| AAVV — witch-house.com フォーラム告知 | フォーラム記録 | https://witch-house.com/forum/viewtopic.php?t=9002 |
+| VICE Italia「True Italian Black Vacuum, la mixtape di AAVV」 | 音楽メディア | https://www.vice.com/it/article/le-venerdi-mixtape-vol-22-true-italian-black-vacuum-la-mixtape-di-aavv/ |
+| Planet Mu「Polysick」（AAVV / Egisto Sopor） | レーベル公式 | https://planet.mu/artists/polysick/ |
+| OESB Blog「Post T.V. - Lo-Fi For The Eyes」（2010年11月） | レーベルブログ | http://oesbee.blogspot.com/2010/11/post-tv-lo-fi-for-eyes-today-at-rome.html |
+| Post TV 公式プログラムブログ（プログラムノート・全16組 bio） | 一次資料（主催） | https://lofifortheeyes.blogspot.com/ |
+| Rome Film Festival 2010 公式カタログ（英・カタログ p.190＝PDF p.97。Post TV 本体は p.190 のみ、p.191 は別の SHORT FILMS 節） | 一次資料（映画祭公式） | https://www.romacinemafest.it/wp-content/uploads/2016/09/Catalogue-Rome-Film-Fest-2010-eng.pdf |
+| Rome Film Festival 2010 公式カタログ（伊） | 一次資料（映画祭公式） | https://www.romacinemafest.it/wp-content/uploads/2016/09/Catalogo-Festa-del-Cinema-2010-ita.pdf |
+| Taxidrivers.it「Post TV - Lo-Fi for the Eyes」告知（2010-10-20） | 映画メディア | https://www.taxidrivers.it/12303/latest-news/la-sezione-laltro-cinema-extra-del-festival-di-roma-presenta-lopera-collettiva-post-tv-lo-fi-for-the-eyes.html |
+| The Verge「Luke Wyatt video mulch」（2013年） | テックメディア | https://www.theverge.com/2013/10/27/5031628/luke-wyatt-hallucinatory-analog-visions-video-art-made-by-damaged-vcr |
+| Sci-Fi-O-Rama「Sad Stonewash (a Video Mulch)」 | ブログ | https://www.sci-fi-o-rama.com/2013/10/25/luke-wyatt-sad-stonewash-a-video-mulch/ |
+| Cosmotropia de Xam ブログ | 一次資料（アーティスト） | https://cosmotropia-de-xam.blogspot.com/ |
+| AAVV Discogs | 音楽データベース | https://www.discogs.com/ja/label/235050-AAVV |
+| AAVV Vimeo | 映像アーカイブ | https://vimeo.com/aavv |
 
 *注：本メモは2026年6月時点での調査に基づく。特に Wikipedia の各ページは編集内容が変動するため、引用箇所の確認は取得日に依存する。学術論文（Siepmann 2018）はペイウォール後ろのため要旨のみ確認。*
