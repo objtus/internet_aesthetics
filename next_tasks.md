@@ -82,7 +82,7 @@ meta-2 振り返りパート新設 ──── 草稿**末尾**・単独可（�
 | **inv-vektroid** | Vektroid名義増殖——調査（src-6f 派生） | ☐ | 並行可。正文は書かない | 調査のみ → [`src-6_仕分け.md`](./src-6_仕分け.md) スレッドB |
 | **inv-msv** | Mater Suspiria Vision / Cosmotropia de Xam / AAVV 調査 | ☑ | 並行可 | 調査＋草稿反映済（2026-06-17）。第2章に「Post T.V.」節を新設 → [`第2章取込_lofi映像Post-TV_文案.md`](./第2章取込_lofi映像Post-TV_文案.md)／§5.4 |
 | **inv-swan** | Daniel Swan の軌跡（lo-fi→HD美学・PC Music・Ecco2k） | ☐ | 並行可。Post TV 文案で起点に言及済 | Lux Laze(2010)→DIS Mag 2012→Jam City/Dux Content/Lifesim→Ecco2k「GT-R」(2017)。下記詳細節 |
-| **inv-dclub** | Night Slugs / Fade To Mind（deconstructed club・HD美学）と PC Music の応答 | ☐ | 並行可。書き方検討中 | Jam City『Classical Curves』/ Future Brown「Vernáculo」MV。下記詳細節 |
+| **inv-dclub** | Night Slugs / Fade To Mind（deconstructed club・HD美学）と PC Music の応答 | ☑ | 並行可。草稿反映済（2026-06-17） | [`第2章取込_deconstructedclub_文案.md`](./第2章取込_deconstructedclub_文案.md)（PC Music 節の後に「並走」節）。下記詳細節 |
 | **inv-tabor** | Tabor Robak ネットワーク整理・BrandNewPaintJob.exe（Jon Rafman との共作） | ☐ | 並行可 | [taborrobak.com](https://www.taborrobak.com/) / 草稿 L318・L439・L598・L994 既出 |
 | **inv-oesb** | OESB（Todd Ledford）× OPN「Time Decanted」MV 接点 | ☑ | 草稿反映済（2026-06-17） | [Vimeo](https://vimeo.com/7616034) / 草稿 L314 |
 | **inv-frkwys** | FRKWYS Vol.7（RVNG Intl.）——Ferraro・OPN・Laurel Halo 同席の記録 | ☑ | 草稿反映済（2026-06-17） | [Discogs](https://www.discogs.com/ja/master/353721-Borden-Ferraro-Godin-Halo-Lopatin-FRKWYS-7-) / 2011年7月 |
@@ -449,7 +449,7 @@ Daniel Swan は inv-msv で扱う「Post T.V. - Lo-Fi For The Eyes」（2010, �
 - [Future Brown インタビュー（The Quietus）](https://thequietus.com/interviews/future-brown-interview/)
 - [Aesthetic: Future Brown（Crack Magazine）](https://crackmagazine.net/article/aesthetic/aesthetic-future-brown/)
 
-**ステータス**：☐ 書き方検討中。調査メモ作成から（計画先行）。
+**ステータス**：☑ 草稿反映完了（2026-06-17）。[`第2章取込_deconstructedclub_文案.md`](./第2章取込_deconstructedclub_文案.md) を `## deconstructed clubという並走` として PC Music 節の後・章末総括の前に挿入（`####` 4小節：Night Slugs / Future Brown / Daniel Swan / IDL 補遺）。草稿.md・[`第2章_命名の時代.md`](./第2章_命名の時代.md) 同期済。派生：inv-swan（Daniel Swan 軌跡の本格整理は別途）。
 
 ---
 
