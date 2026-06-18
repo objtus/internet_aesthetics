@@ -4,7 +4,7 @@
 **論点バックログ**：[`草稿_レビュー論点メモ.md`](./草稿_レビュー論点メモ.md)（2026-06-02 同期済）  
 **編集方針**：[`編集方針.md`](./編集方針.md)（政治化・日本語圏射程・seapunk 読み道）
 
-**次にやる1件**：**inv-vektroid**／**src-1**／**ed-3**（並行可）。後回し：**meta-1**／**meta-2**
+**次にやる1件**：**inv-vektroid**／**src-1**／**ed-3**／**ed-6**（並行可）。後回し：**meta-1**／**meta-2**
 
 **使い方**
 
@@ -105,6 +105,7 @@ meta-3 遡行的確定・本稿の自己言及 ─ 後記追記・単独可（me
 | **cari-draft** | CARI 草稿反映（Guardian・Neo-Y2K 1段落、Facebook 補強） | ☑ | **src-2＋src-4 後** | 同上 → `第5章取込_CARI_文案.md` |
 | **concl-1** | Guardian 2016 結論の時代診断問いかけ（ユーザー改稿・案A） | ☑ | cari-draft ☑ | [`第5章取込_結論_Guardian問いかけ_文案.md`](./第5章取込_結論_Guardian問いかけ_文案.md) |
 | **ed-2** | 日本語圏は射程外（1〜3文） | ☑ | 単独可 | [`序文取込_ed2_日本語圏射程_文案.md`](./序文取込_ed2_日本語圏射程_文案.md) |
+| **ed-6** | 序文——「インターネット美学」と「制度化」の説明節 | ☐ | 単独可 | [`internet_aesthetic語と制度化_調査ノート.md`](./internet_aesthetic語と制度化_調査ノート.md) → 下記詳細節 |
 | **ed-4** | 本稿の制度化・Cook 歴史化・著者の不确定性（後記） | ☑ | concl-1 と同批 | [`後記取込_制度化ループ_文案.md`](./後記取込_制度化ループ_文案.md) |
 | **ed-5** | r/AestheticWiki 制度化追記（what aesthetic is this?） | ☑ | 単独可 | 第5章「分類する欲望」節（2026-06-17 反映済） |
 
@@ -726,8 +727,9 @@ Tabor Robak（ポートランド出身、のちにニューヨーク移住）は
 | ed-3 | §3 seapunk 読み道整備 | 単独 | ☐ | 第2章 seapunk 節（節頭地図・#### ラベル等。全文圧縮以外） |
 | ed-4 | §4 本稿の制度化への寄与（メタ自己言及） | 単独 | ☑ | `## ＜後記＞` L1028 直後（2026-06-11） |
 | ed-5 | r/AestheticWiki 制度化追記 | 単独 | ☑ | 第5章「分類する欲望」節 L1109 付近（2026-06-17） |
+| ed-6 | 序文——「インターネット美学」と「制度化」の説明節 | 単独 | ☐ | 序文 L9 直後（新 `###`）。下記詳細節 |
 
-**優先度（編集方針記載順）**：ed-1 → ed-2 → ed-3 → ed-4 → ed-5。ed-1 は rev-7 と一体。ed-2／3／4／5 はパイプラインと並行可。
+**優先度（編集方針記載順）**：ed-1 → ed-2 → **ed-6** → ed-3 → ed-4 → ed-5。ed-1 は rev-7 と一体。ed-2／**ed-6**／3／4／5 はパイプラインと並行可。**ed-6** は序盤用語の穴埋め——読者が第5章「制度化」に到達する前の伏線。
 
 ### ed-4. 本稿自身の制度化への寄与——後記メタ段落
 
@@ -771,6 +773,53 @@ Tabor Robak（ポートランド出身、のちにニューヨーク移住）は
 3. 分割稿・推敲メモ更新  
 
 **依存**：concl-1 と**同批**反映推奨（後記段落順の一体確認）
+
+### ed-6. 序文——「インターネット美学」と「制度化」の説明節
+
+**背景（ユーザー指示・2026-06-17）**  
+草稿は序文 L9・第5章題で「**制度化**」を使うが、読者向けの定義節がない。同様に「**インターネット美学**」カテゴリの来歴も序盤で説明されていない。序盤に説明節を設けたい。
+
+**調査の結論（暫定）**  
+[`internet_aesthetic語と制度化_調査ノート.md`](./internet_aesthetic語と制度化_調査ノート.md) に整理済。
+
+| 論点 | 要点 |
+|---|---|
+| **語の二層** | 「internet aesthetic」は古く口語的（古いネットの質感・比喩）に使われていた。今日的カテゴリ用法は **2016〜2018** 頃から（Twitter 所感）、**2019〜2020** に定着 |
+| **2020** | [Washington Post cottagecore 記事](https://web.archive.org/web/20200911061944/https://www.washingtonpost.com/lifestyle/travel/how-the-cottagecore-internet-aesthetic-dovetails-with-pandemic-travel/2020/09/10/3ae54032-ed39-11ea-99a1-71343d03bc29_story.html) 等——大手メディアでの今日的用法の初期例 |
+| **2022＝制度化** | Aesthetics Wiki **Category:Internet Aesthetics**（2022-06-29）、英語 Wikipedia 草稿（2022-08-05） |
+| **Wikipedia** | 立項＝特筆性の関門。**英語**：AfD 脱落→2025 復帰（[Internet aesthetic](https://en.wikipedia.org/wiki/Internet_aesthetic)）。**日本語**：[インターネット・エスセティック](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%83%BB%E3%82%A8%E3%82%B9%E3%82%BB%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF) **2023-10-11** 英訳立項 |
+| **EBSCO** | [Research Starters: Internet aesthetic](https://www.ebsco.com/research-starters/social-sciences-and-humanities/internet-aesthetic)（**2025**・図書館リファレンス）。§7.5 |
+
+**他タスクとの住み分け**
+
+| 既出 | ed-6 で書くこと | 書かないこと |
+|---|---|---|
+| 序文 L19〜29（aesthetic 語史） | **internet aesthetic** カテゴリ語の来歴・2020/2022 | aesthetic 哲学史の再掲 |
+| 序文 L9（制度化の予告） | **制度化**の本稿内定義＋Wikipedia 例 | 第5章 CARI の詳細 |
+| **ed-2**（日本語圏射程外） | 英語圏語史が主 | 日本語圏受容史 |
+| 第5章 | 伏線のみ | Wiki・Discord の実務 |
+| **meta-3**（遡行的確定） | Wikipedia 定義＝過去の整理、と1文触れてもよい | 後記の自己言及の本体 |
+
+**挿入位置（推奨）**
+
+序文 **L9 直後**（「CARIやAesthetics Wikiによる制度化」の直後）に新設 `### インターネット美学と制度化`（または `####`）。L11「各章はプラットフォームの…」の前。
+
+**分量・トーン**
+
+- **2〜3段落**上限
+- 年表の羅列ではなく：**今日のカテゴリ語**／**語の古い用法との違い**／**制度化（本稿の意味＋Wikipedia 例）**の3点
+- HBR 2013 は口語用法の1例として短く；Washington Post 2020 と Wiki/Wikipedia 2022 が主役
+
+**手順**
+
+1. 調査ノート §9 チェックリストに沿って `序文取込_ed6_インターネット美学と制度化_文案.md` を作成  
+2. ユーザー承認 → [`草稿.md`](./草稿.md) 序文に反映  
+3. [`第1章_土壌.md`](./第1章_土壌.md) 等の分割稿は序文があれば同期要否を判断  
+4. 本ファイル・[`草稿_推敲メモ.md`](./草稿_推敲メモ.md) 更新  
+
+**正本**：[`internet_aesthetic語と制度化_調査ノート.md`](./internet_aesthetic語と制度化_調査ノート.md)
+
+**ステータス**：☐ 調査ノート ☑。文案作成 → 承認 → 序文反映。
 
 ---
 
@@ -1084,6 +1133,7 @@ Tabor Robak（ポートランド出身、のちにニューヨーク移住）は
 
 - [x] [`第2章_命名の時代.md`](./第2章_命名の時代.md) を草稿に追従（2026-06-02。6d-review・TOPY 含む。画像コメント5件維持）  
 - [x] [`第4章_爆発.md`](./第4章_爆発.md) を草稿 `## TikTokというアーキテクチャの転換` に追従（2026-06-02）  
+- [x] [`internet_aesthetic語と制度化_調査ノート.md`](./internet_aesthetic語と制度化_調査ノート.md) 新設（ed-6 正本・2020広がり／2022制度化・Wikipedia 立項）
 - [x] [`インターネット美学（Internet Aesthetics）調査ノート.md`](./インターネット美学（Internet%20Aesthetics）調査ノート.md) §5 へ採用ファクト還流（5-1 更新・5-8 追加）  
 - [x] `Seapunk取込_6*_文案.md` → [`archive/Seapunk取込文案/`](./archive/Seapunk取込文案/) に移動（2026-06-02）  
 - [x] 後記 L841 修正（「アルゴリズムなき」→ クラスタ内発見／横断配信。草稿・第5章分割稿）  
@@ -1133,7 +1183,7 @@ Tabor Robak（ポートランド出身、のちにニューヨーク移住）は
 
 | 段階 | 次の1手 |
 |---|---|
-| **今** | **inv-vektroid**／**src-1**／**ed-3**（並行可） |
+| **今** | **inv-vektroid**／**src-1**／**ed-3**／**ed-6**（並行可） |
 | **その次** | inv-swan／inv-tabor／rev-4 |
 | 後回し | **meta-1** → **meta-3**（遡行的確定・後記）→ **meta-2**（振り返り・**草稿末尾・最後**） |
 | 並行可 | 6b-reorg 後続、6c 残 |
@@ -1172,12 +1222,14 @@ Tabor Robak（ポートランド出身、のちにニューヨーク移住）は
 | [`Vaporwave_Politics_Protest_and_Identity.md`](./Vaporwave_Politics_Protest_and_Identity.md) | McLeod 2018 全文（PDF 抽出） |
 | [`note_極右の世界のBGM.md`](./note_極右の世界のBGM.md) | ykic 二次・fashwave 年表（Vice 日付は14日に訂正） |
 | [`CARI_調査ノート.md`](./CARI_調査ノート.md) | cari-inv／cari-draft 正本（Guardian・Facebook 制度化・Priz Tats） |
+| [`internet_aesthetic語と制度化_調査ノート.md`](./internet_aesthetic語と制度化_調査ノート.md) | **ed-6** 正本（語史・Wikipedia 立項・制度化の説明例） |
 | [`CARIの歴史.md`](./CARIの歴史.md) | CARI 公式年表の和訳 |
 | [`ハイパーポップの歴史.md`](./ハイパーポップの歴史.md) | src-4 正本（PC Music・SOPHIE・QT・2013–2016） |
 | [`編集方針.md`](./編集方針.md) | ed-1〜3 の根拠 |
 
 ---
 
+*更新：2026-06-17（続28）。**ed-6** タスク追加（序文・インターネット美学と制度化の説明節）。調査ノート [`internet_aesthetic語と制度化_調査ノート.md`](./internet_aesthetic語と制度化_調査ノート.md) 新設。*
 *更新：2026-06-17（続27）。**meta-3** タスク追加（遡行的確定・本稿の自己言及——後記追記）。*
 *更新：2026-06-17（続25）。**inv-piajp** ☑ 文案＋草稿反映（第1章・『アイデア』366号／美術手帖2015/6）。*
 *更新：2026-06-17（続17）。**inv-steyerl** ☑ 文案＋草稿反映（Post T.V. 節末 `####`）。*

@@ -895,7 +895,7 @@ internet aestheticの発生パターンは少なくとも以下のように分�
 #### 理論的問い
 
 - [ ] 増殖のメカニズム：なぜ2020年代に爆発的に増加したのか（プラットフォーム構造・アルゴリズム・アイデンティティ形成の観点から）
-- [ ] AestheticsWikiの役割：wikiによる体系化がaestheticの増殖を促進する仕組み
+- [ ] **AestheticsWikiの役割**：wikiによる体系化がaestheticの増殖を促進する仕組み → 一部整理済：[`internet_aesthetic語と制度化_調査ノート.md`](./internet_aesthetic語と制度化_調査ノート.md) §6・ed-6
 - [ ] 「死」のメカニズム：主流化によってaestheticコミュニティが崩壊するパターンの理論化（Seapunk型 vs. Cottagecore型の分岐条件）
 
 #### 未確認・要検証の一次資料
