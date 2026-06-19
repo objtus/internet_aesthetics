@@ -96,23 +96,24 @@
 ---
 
 ### [`草稿.md`](./草稿.md)
-**本プロジェクトの成果をまとめたクロニクル草稿。序文から第5章までを通しで結合したもの。**
+**本プロジェクトの成果をまとめたクロニクル草稿。序文から第6章までを通しで結合したもの。**
 
 タイトルは「インターネット美学のクロニクル」。各章の概要は以下のとおり。
 
 - **序文**：「aesthetic」という語が哲学用語からネット用語へと転化した経緯（2012〜2013年）。Macintosh Plusのアルバム『Floral Shoppe』（2012年2月）をめぐるYouTubeコメント文化、Savvy JとFrankJavCeeの動画を経た語の自立、vaporwaveの形容詞だった語が上位カテゴリへと逆転するまでの過程を概説する。
 - **第1章　土壌（1994〜2011年ごろ）**：GeoCitiesの誕生と消滅、Tumblrのアーキテクチャ（リブログ・タグ・フォトセット）、フォークソノミーの論理、ポストインターネットアート（Megazord / OPN周辺）、James Bridleの「The New Aesthetic」を土台として、美学ミームが発生する可能性の空間がいかに開かれたかを記述する。
 - **第2章　命名の時代（2009〜2013年）**：chillwave・hypnagogic pop・witch house・vaporwave・seapunkの命名過程。2011年6月1日の「seapunk」ツイートを典型例として、ラベル先行型の発生パターンを示す。distroid（充填されなかった名前）、DIS Magazine周辺の文化、PC Music／hyperpopへの分岐も扱う。
-- **第3章　感情が先に来る（2015〜2019年）**：Dark Academiaとcottagecoreを実体先行型の発生パターンとして対比的に記述。Donna Tarttと文学ファンダムの蓄積、de Gruyter論文の「mnemonic curatorial practice」概念、森ガール（Mori Kei）・Hyggeをcottagecoreのインターネット前史として記述、クィアコミュニティとの共進化（批判視点も含む）、Tumblr NSFWバン（2018年12月）によるDiscordへの移行を含む。
-- **第4章　爆発（2020〜2021年）**：COVID-19ロックダウンによるLiminal Space・cottagecore・Dark Academiaの爆発的普及。TikTokのFor Youアルゴリズムと美学の短命化。Dreamcore／Weirdcoreの系譜（DavidCryptによる普及）、r/LiminalSpace→r/liminalspacesの二段階Reddit制度化、The Backrooms（A24映画化・2026年5月公開まで到達）、hyperpopの浮上（Spotify 2019年8月）、Dismiss YourselfのDiscordコミュニティ（Bandcamp Daily・OTOTOY外部記録含む）とhex／surgeジャンルの誕生。
-- **第5章　制度化（2013〜2021年、回顧的構成）**：Frutiger Aero命名に見る「遡行的確定」という概念。CARIの機関史（Evan Collinsの個人Tumblrから2019年Seattle Design Festival公演・2021年公式サイトへ）、McBling・Frutiger Aero命名の経緯（Frutiger Colorful仮称・Facebookグループ開設含む）、Aesthetics WikiとFairyPageの軌跡（設立・2020年デザインコンテスト・爆発的成長・創設者追放）、Discordが美学の承認プロセスになる過程、NeocitiesとIndieWebによる対位的な欲望を記述する。末尾に後記。
+- **第3章　「aesthetic」という語——包含関係の逆転（2011〜2015年頃）**：批評・プラットフォーム・ミームが「aesthetic」という語を充填し、音楽ジャンルの形容詞から見た目とムードの分類軸へ転換していく過程。Cluster Mag・Bebe Zeva・FrankJavCee・Know Your Meme 分類を通じた包含関係の逆転と、音楽批評とコミュニティ使用の二軸テーゼ。
+- **第4章　感情が先に来る（2015〜2019年）**：Dark Academiaとcottagecoreを実体先行型の発生パターンとして対比的に記述。Donna Tarttと文学ファンダムの蓄積、de Gruyter論文の「mnemonic curatorial practice」概念、森ガール（Mori Kei）・Hyggeをcottagecoreのインターネット前史として記述、クィアコミュニティとの共進化（批判視点も含む）、Tumblr NSFWバン（2018年12月）によるDiscordへの移行を含む。
+- **第5章　爆発（2020〜2021年）**：COVID-19ロックダウンによるLiminal Space・cottagecore・Dark Academiaの爆発的普及。TikTokのFor Youアルゴリズムと美学の短命化。Dreamcore／Weirdcoreの系譜（DavidCryptによる普及）、r/LiminalSpace→r/liminalspacesの二段階Reddit制度化、The Backrooms（A24映画化・2026年5月公開まで到達）、hyperpopの浮上（Spotify 2019年8月）、Dismiss YourselfのDiscordコミュニティ（Bandcamp Daily・OTOTOY外部記録含む）とhex／surgeジャンルの誕生。
+- **第6章　制度化（2013〜2021年、回顧的構成）**：Frutiger Aero命名に見る「遡行的確定」という概念。CARIの機関史（Evan Collinsの個人Tumblrから2019年Seattle Design Festival公演・2021年公式サイトへ）、McBling・Frutiger Aero命名の経緯（Frutiger Colorful仮称・Facebookグループ開設含む）、Aesthetics WikiとFairyPageの軌跡（設立・2020年デザインコンテスト・爆発的成長・創設者追放）、Discordが美学の承認プロセスになる過程、NeocitiesとIndieWebによる対位的な欲望を記述する。末尾に後記。
 
 ---
 
 ### [`草稿_推敲メモ.md`](./草稿_推敲メモ.md)
 **クロニクル草稿の通読分析と改稿方針。**
 
-[`草稿.md`](./草稿.md)（序文〜第5章）を通読したうえでの構造・内容・論理上の問題点と修正優先度の記録。文体上の指摘は [`文体メモ.md`](./文体メモ.md) に分離している。大きな改稿は `*_追記文案.md` で推敲してから `草稿.md` に反映する手順を記載（liminal 節で試行済み）。主な内容：
+[`草稿.md`](./草稿.md)（序文〜第6章）を通読したうえでの構造・内容・論理上の問題点と修正優先度の記録。文体上の指摘は [`文体メモ.md`](./文体メモ.md) に分離している。大きな改稿は `*_追記文案.md` で推敲してから `草稿.md` に反映する手順を記載（liminal 節で試行済み）。主な内容：
 
 - **多角的な分析**：第4章の過密、第3章「実体先行型」枠組みの提示タイミング、cottagecoreの歴史的系譜段落、Neocities節の位置づけ、後記と第5章末の二重エンディング、dark academia節の一次資料依存、「感情的素材」の未導入使用など
 - **修正優先度**（高・中・低）：章冒頭での枠組み提示（A 一部完了）、liminal space（**B 完了**）、エンディングの役割分担（**C が次**）、cottagecore段落の再接続、hyperpopの主題接続、Neocities節の補強／短縮など
