@@ -136,7 +136,7 @@ meta-2 振り返りパート新設 ──── 草稿**末尾**・単独可（�
 
 | ID | 内容 | 状態 | 備考 |
 |---|---|---|---|
-| **6b-reorg 後続** | M.I.A.・Tim and Eric（激怒記事直後） | ☐ | 除外箱 L80 |
+| **6b-reorg 後続** | M.I.A.・Tim and Eric（激怒記事直後） | ☑ | [`Seapunk取込_6b-reorg後続_MIA_TimEric_文案.md`](./Seapunk取込_6b-reorg後続_MIA_TimEric_文案.md) |
 | **6b-reorg 後続** | H∆SHTAG$ ep5 厚み（seapunk 節） | — 任意 | aesthetic 6c-2 ☑ |
 | **6c 残** | L254 接続文・年表順の整理 | ☐ | Cluster Mag 直後 |
 | **6d-review 残** | 分量・時系列、seapunk 節との接続 | ☐ | witch house 節 |
@@ -1080,7 +1080,7 @@ Tabor Robak（ポートランド出身、のちにニューヨーク移住）は
 
 **未完了（任意・6d-review と並行可）**
 
-- [ ] **M.I.A.・Tim and Eric**：激怒記事段落の**後**に追記。文案除外箱 L80。Jerome・Reblorg は L238 付近済み  
+- [x] **M.I.A.・Tim and Eric**：激怒記事段落の**後**に追記（2026-06-17）。[`Seapunk取込_6b-reorg後続_MIA_TimEric_文案.md`](./Seapunk取込_6b-reorg後続_MIA_TimEric_文案.md)  
 - [ ] **H∆SHTAG$ ep5（厚み）**：seapunk 節への再配置は任意（aesthetic 6c-2 ☑）
 
 **正本（除外箱）**：調査ノート §8-2a、[RBMA ep5](https://daily.redbullmusicacademy.com/2013/03/hashtags-tumblrwave/)
@@ -1287,6 +1287,7 @@ Tabor Robak（ポートランド出身、のちにニューヨーク移住）は
 
 ---
 
+*更新：2026-06-17（続30）。**6b-reorg 後続** M.I.A.・Tim and Eric ☑（seapunk「死」節・激怒記事直後）。*
 *更新：2026-06-17（続29）。**concl-2** タスク追加（末尾・HTML後方互換／アーカイブ危機／ベンダーロックイン）。*
 *更新：2026-06-17（続28）。**ed-6** タスク追加（序文・インターネット美学と制度化の説明節）。調査ノート [`internet_aesthetic語と制度化_調査ノート.md`](./internet_aesthetic語と制度化_調査ノート.md) 新設。*
 *更新：2026-06-17（続27）。**meta-3** タスク追加（遡行的確定・本稿の自己言及——後記追記）。*
