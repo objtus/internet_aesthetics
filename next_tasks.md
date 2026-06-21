@@ -90,6 +90,8 @@ meta-2 振り返りパート新設 ──── 草稿**末尾**・単独可（�
 | **inv-tabor** | Tabor Robak ネットワーク整理・BrandNewPaintJob.exe（Jon Rafman との共作） | ☐ | 並行可 | [taborrobak.com](https://www.taborrobak.com/) / 草稿 L318・L439・L598・L994 既出 |
 | **inv-oesb** | OESB（Todd Ledford）× OPN「Time Decanted」MV 接点 | ☑ | 草稿反映済（2026-06-17） | [Vimeo](https://vimeo.com/7616034) / 草稿 L314 |
 | **inv-frkwys** | FRKWYS Vol.7（RVNG Intl.）——Ferraro・OPN・Laurel Halo 同席の記録 | ☑ | 草稿反映済（2026-06-17） | [Discogs](https://www.discogs.com/ja/master/353721-Borden-Ferraro-Godin-Halo-Lopatin-FRKWYS-7-) / 2011年7月 |
+| **inv-opn-cook** | OPN × A. G. Cook——**vaporwave 系譜と PC Music の交差**（コラボ年表） | ☐ | 並行可。src-4 ☑ 後推奨 | 下記詳細節。`## PC Musicという継承`（草稿 L603 付近） |
+| **intro-kojiateki** | **骨架的**インタビュー挿話——「その頃のインターネットの雰囲気」（**第2章冒頭・新設節**） | ☐ | 単独可。引用 ☑（書籍確認済） | 下記詳細節。[『新蒸気波要点ガイド』](https://diskunion.net/dubooks/ct/detail/DUBK237) |
 | **src-4** | ハイパーポップの歴史（PC Music 2013–2016 厚み） | ☑ | src-2 後（src-5 と並行可） | [`ハイパーポップの歴史.md`](./ハイパーポップの歴史.md) → `第2章取込_ハイパーポップ_文案.md` |
 | **src-4b** | ハイパーポップ追記（Spotify「Hyperpop」命名→brat summer） | ☐ | src-4 ☑。**単独可** | 同上 → `第4章取込_hyperpop_Spotify-bratsummer_文案.md` |
 | **src-1** | musicplusghost 洗い出し | ☐ | 並行可 | [`musicplusghost.md`](./musicplusghost.md) |
@@ -679,6 +681,121 @@ Tabor Robak（ポートランド出身、のちにニューヨーク移住）は
 - "Internet Gospel" というトラック名の文脈的意味（任意）
 
 **ステータス**：☑ 完了（2026-06-17）。草稿 L314 末尾・分割稿に2文追記。
+
+---
+
+### inv-opn-cook. OPN × A. G. Cook——vaporwave 系譜と PC Music の交差
+
+**背景（ユーザー指示・2026-06-19）**  
+Daniel Lopatin（Oneohtrix Point Never、OPN）は、『Memory Vague』（2009）・sunset corp.・『Chuck Person's Eccojams Vol.1』（2010）を通じて **proto-vaporwave／vaporwave オリジネーター**の一人として本稿で既出（第2章 L273–287）。A. G. Cook は **PC Music** の創設者として同章後半（L603–）で叙述済み。ふたりは**たびたびコラボレーション**しており、**減速・ノスタルジア側（vaporwave）と加速・人工性側（PC Music／hyperpop）の分岐が、人物レベルで交差していた**ことは本稿の系譜論上、重要な接点になる。
+
+**草稿の現状**
+
+| 箇所 | 内容 | 不足 |
+|---|---|---|
+| L613 | SuperSuper! が MEGAZORD・**OPN**・DIS を同列紹介→PC Music 人脈 | **OPN×Cook 直接協働**は未記 |
+| L623–624 | vaporwave と PC Music の**対置** | 交差する例外として OPN が書かれていない |
+| inv-oesb／inv-frkwys ☑ | OPN の 2010–2011 圏（OESB MV・FRKWYS） | Cook 以前の文脈。本タスクとは別 |
+
+**調査済みコラボ候補（文案前に年表確定）**
+
+| 年 | 内容 | 出典 |
+|---|---|---|
+| **2014** | 共作曲 **「Bubs」**（OPN × A. G. Cook） | [Pitchfork（2014-12）](https://pitchfork.com/news/57890-oneohtrix-point-never-shares-new-tracks-rush-and-bubs-collaboration-with-pc-musics-ag-cook/) |
+| **2016** | Cook による OPN「**Sticky Drama**」リミックス（*Garden of Delete*） | [The FADER（2016-12）](https://www.thefader.com/2016/12/18/ag-cook-oneohtrix-point-never-sticky-drama)／[Bandcamp](https://oneohtrixpointnever.bandcamp.com/track/sticky-drama-a-g-cook-remix) |
+| **2021** | Cook による OPN「**Lost But Never Alone**」リミックス | [Wikipedia: A. G. Cook discography](https://en.wikipedia.org/wiki/A._G._Cook_discography) |
+
+**調査事項（文案前）**
+
+- 上表以外の公式協働（リミックス・共作・ライブ・クレジット）の洗い出し  
+- SuperSuper! ネットワーク（L613）と 2014「Bubs」の**時間的接続**を1文で足せるか  
+- ed-4 後記の Cook 言及（Spotify プレイリスト）との**住み分け**（本タスク＝系譜・音楽的交差、ed-4＝制度化）
+
+**論点（本文で言いたいこと）**
+
+- vaporwave の**オリジネーターの一人**が、のちに PC Music 創設者と**反復的に協働**した  
+- 第2章の「vaporwave vs PC Music／hyperpop **対置**」（L623–624）を**否定するのではなく**、同じポストインターネット世代の**別分岐が交差しうる**具体例として書く  
+- Daniel Swan 橋（deconstructed club→PC Music）とは別軸：**音源・リミックスとしての直接協働**
+
+**挿入位置（案）**
+
+| 優先 | 行先 | 理由 |
+|---|---|---|
+| **A（推奨）** | L623–624 **対置段落の直後** | 対比のあとに「交差」1段落で締める |
+| B | L613 SuperSuper! 段落の直後 | 人脈の延長として前振り |
+| C | QT／Charli 叙述の後（L619–621 付近） | 2014「Bubs」と時系列的に近い |
+
+**手順**
+
+1. コラボ年表を確定（調査メモ `inv-opn-cook_年表.md` または文案執筆メモ内）  
+2. 文案 `第2章取込_OPN_Cook_文案.md`（**1〜2段落上限**。代表例2〜3件＋URL）  
+3. ユーザー承認 → [`草稿.md`](./草稿.md) 反映 → [`第2章_命名の時代.md`](./第2章_命名の時代.md) 同期  
+4. **em dash 不使用**
+
+**ステータス**：☐ 未着手。**並行可**（aesthetic-rev-1 等と独立）。
+
+---
+
+### intro-kojiateki. 骨架的インタビュー挿話——「その頃のインターネットの雰囲気」
+
+**背景（ユーザー指示・2026-06-19）**  
+佐藤秀彦編『[新蒸気波要点ガイド](https://diskunion.net/dubooks/ct/detail/DUBK237)』（DU BOOKS、2019）所収の **骨架的**（Skeleton／骷、NY）インタビュー。骨架的は OPN・James Ferraro と並ぶ **proto-vaporwave** の作り手の一人。**文案・反映は未着手**——ユーザーが書籍で確認中（2026-06-19：**引用文は確認済み**）。
+
+**インタビューの要点（書籍確認済み・引用可）**
+
+| 問い | 骨架的の発言（確認済み） |
+|---|---|
+| **のちの影響**について、2010年になぜ vaporwave 的な技法（**サンプリング**と **chopped and screwed**）で音楽を作ろうとしたのか | 「**単純にその頃のインターネットにそういう雰囲気があった**」 |
+| OPN『Chuck Person's Eccojams Vol.1』と**同時期**に出した **『Holograms』** を、当時どう位置づけていたか | 「**ポスト・チルウェイブ、エクスペリメンタル、あるいはスロウ・ジャムだと思って発表した**」 |
+
+**文案前の残作業**：頁・段落番号の記録（脚注用）。『Holograms』表記・2010年の最小確認。
+
+**本文での役割——第2章内の「挿話」**
+
+- **問いを第2章の入口で立てる**：「その頃のインターネットの雰囲気」とは何だったのか  
+- **三つのラベル**：骨架的自身の位置づけは chillwave だけでなく **（ポスト）チルウェイブ・エクスペリメンタル・スロウ・ジャム**——**チルウェイブ、エクスペリメンタルとのつながり**を第2章の叙述でも重要視する（OPN／Ferraro のノイズシーン離脱、mp3ブログの実験音楽、Post T.V. 等）  
+- **答えは第2章のなかで部分的に開く**：chillwave／witch house／proto-vaporwave 各節が背景を伝えるが、**挿話時点では総括しない**（ユーザー方針：明かされるかどうかわからない）  
+- **後付けの総称との差**：制作時点に vaporwave という語はなく、作り手は別ラベルで理解していた——「命名以前」「遡行的確定」（序文 L23）への伏線
+
+**挿入位置（ユーザー方針・2026-06-19 更新）**
+
+| 候補 | 判定 | 理由 |
+|---|---|---|
+| 序文 | **却下** | 草稿**全体を貫く問い**に見えてしまうが、本稿の主題ではない |
+| B：`## vaporwaveという名前以前に`（L269）冒頭 | **却下** | その時点ですでに chillwave・witch house が出ており、**問いの答えの一部が先に書かれた状態**で問いを置く |
+| **C（推奨）** | **第2章冒頭に新設 `##` 節** | `# 第2章　命名の時代`（L200）・時間軸（L202）の**直後**、`## 名前は冗談から生まれる`（L204）の**前** |
+
+**推奨構成（案）**
+
+```
+# 第2章　命名の時代（2009〜2013年）
+**時間軸：2009〜2013年**
+
+## [新設] その頃のインターネットの雰囲気——骨架的の証言（仮題）
+  （挿話 1〜2 段落。新蒸気波要点ガイドへの引用＋問いの提示）
+
+## 名前は冗談から生まれる
+  ### chillwaveとhypnagogic pop
+  ...
+```
+
+**節の役割**：第2章全体の**入口フレーム**。以降の chillwave → witch house → proto-vaporwave は、この問いに**順次応答する材料**として読める（挿話本文で「以下で答える」とは書かない）。
+
+**既出文献との住み分け**
+
+| 既出 | 関係 |
+|---|---|
+| inv-piajp ☑／第3章 aesthetic 節 | 同書の**ばるぼら**年表・大辞典——**別箇所** |
+| 編集方針 §2 | 新蒸気波要点ガイドは**日本語圏の記録として引用可** |
+
+**手順（反映はユーザー承認後）**
+
+1. 頁・段落を `intro-kojiateki_引用メモ.md` に記録  
+2. 文案 `第2章取込_骨架的挿話_文案.md`（**1〜2段落**。em dash 不使用）  
+3. 新設 `##` 節タイトル（仮題）をユーザー承認 → 草稿・[`第2章_命名の時代.md`](./第2章_命名の時代.md) 同期  
+4. 後続節への相互参照は**任意**——挿話単体で完結可
+
+**ステータス**：☐ 文案未着手。**引用文 ☑（書籍確認済）**。**ed-6・aesthetic-rev-1 と並行可**。
 
 ---
 
@@ -1577,7 +1694,7 @@ Tabor Robak（ポートランド出身、のちにニューヨーク移住）は
 |---|---|
 | **今** | **aesthetic-rev-1**（aesthetic 章・文法分析）／**inv-vektroid**／**src-1**／**ed-3**／**ed-6**（並行可） |
 | **章再編（aesthetic 節）** | reorg-0/1/2 ☑ → **aesthetic-rev-1**／**aesthetic-rev-2** |
-| **別調査（並行可）** | **inv-khole-0**（挿入位置）／ **meg-1〜3**（Megazord URL・Gatekeeper コメント）／ **src-4b**（hyperpop→brat summer） |
+| **別調査（並行可）** | **inv-khole-0**（挿入位置）／ **meg-1〜3**／ **src-4b**／ **inv-opn-cook**／ **intro-kojiateki**（骨架的挿話） |
 | **その次** | inv-swan／inv-tabor／rev-4 |
 | 後回し | **meta-1** → **meta-3** → **concl-2**（技術条件・末尾）→ **meta-2**（振り返り・**草稿末尾・最後**） |
 | 並行可 | 6b-reorg 後続、6c 残 |
@@ -1620,11 +1737,14 @@ Tabor Robak（ポートランド出身、のちにニューヨーク移住）は
 | [`aesthetic_文法分析メモ.md`](./aesthetic_文法分析メモ.md) | **aesthetic-rev-1** 正本（三モード・質/種・二軸統合） |
 | [`khole-arena-archillect-researtch.md`](./khole-arena-archillect-researtch.md) | **inv-khole-*** 正本（K-HOLE／Are.na／VVORK→Archillect。**aesthetic-reorg とは独立**） |
 | [`CARIの歴史.md`](./CARIの歴史.md) | CARI 公式年表の和訳 |
-| [`ハイパーポップの歴史.md`](./ハイパーポップの歴史.md) | src-4 正本（§1–6・PC Music 2013–2016）。**§7–§13** は **src-4b** |
+| 新蒸気波要点ガイド（佐藤秀彦編・DU BOOKS 2019） | 第3章 aesthetic 節（ばるぼら年表・大辞典）。**骨架的インタビュー**は **intro-kojiateki** |
 | [`編集方針.md`](./編集方針.md) | ed-1〜3 の根拠 |
 
 ---
 
+*更新：2026-06-19（続36）。**intro-kojiateki** 更新——引用 ☑、挿入位置を**第2章冒頭・新設節**（序文・L269案は却下）、エクスペリメンタル接点を明記。*
+*更新：2026-06-19（続35）。**intro-kojiateki** 骨架的インタビュー挿話（序文／第2章導入・「その頃のインターネットの雰囲気」）タスク追加。*
+*更新：2026-06-19（続34）。**inv-opn-cook** OPN×A. G. Cook コラボ（vaporwave 系譜と PC Music の交差）タスク追加。*
 *更新：2026-06-19（続33）。**src-4b** ハイパーポップ追記（Spotify「Hyperpop」命名→brat summer）タスク追加。*
 *更新：2026-06-19（続32）。**inv-khole-0/1** を **aesthetic-reorg から分離**（別調査・別パイプライン）。**meg-1〜3** Megazord URL／Gatekeeper コメント追補タスク追加。*
 *更新：2026-06-19（続31）。**aesthetic-reorg-0〜2**／**aesthetic-rev-1/2** タスク群追加（第2章 aesthetic 節の独立章化考察→書き換え）。*
