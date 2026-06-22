@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Google Trends — internet aesthetics 調査</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@3.0.0/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-annotation@3.0.1/dist/chartjs-plugin-annotation.min.js"></script>
+  <script src="trends_data.js"></script>
+  <style>
+    :root {
+      --ink: #111;
+      --muted: #444;
+      --line: #ddd;
+      --bg: #fff;
+      --accent: #2563eb;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 1.5rem auto;
+      max-width: 1100px;
+      padding: 0 1rem 2rem;
+      font: 16px/1.5 "Hiragino Sans", "Yu Gothic", "Meiryo", sans-serif;
+      font-weight: 600;
+      color: var(--ink);
+      background: var(--bg);
+    }
+    h1 {
+      font-size: 22px;
+      font-weight: 700;
+      margin: 0 0 0.35rem;
+    }
+    .lead {
+      margin: 0 0 1rem;
+      font-size: 15px;
+      color: var(--muted);
+      font-weight: 600;
+    }
+    .patch-tabs {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+      margin-bottom: 0.75rem;
+    }
+    .patch-tabs button {
+      font: inherit;
+      font-weight: 700;
+      font-size: 13px;
+      padding: 0.35rem 0.7rem;
+      border: 2px solid var(--ink);
+      background: var(--bg);
+      cursor: pointer;
+    }
+    .patch-tabs button.active {
+      background: var(--ink);
+      color: var(--bg);
+    }
+    .chart-wrap {
+      height: 460px;
+      margin-bottom: 0.75rem;
+    }
+    .toggles {
+      border: 1px solid var(--line);
+      padding: 0.65rem 0.85rem;
+      margin-bottom: 0.75rem;
+    }
+    .toggles-head {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.5rem 1rem;
+      margin-bottom: 0.5rem;
+      font-size: 14px;
+    }
+    .toggles-head button {
+      font: inherit;
+      font-size: 12px;
+      font-weight: 700;
+      padding: 0.2rem 0.5rem;
+      border: 1px solid var(--ink);
+      background: var(--bg);
+      cursor: pointer;
+    }
+    .toggle-grid {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.35rem 1.1rem;
+    }
+    .toggle-grid label {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      font-size: 14px;
+      cursor: pointer;
+      user-select: none;
+    }
+    .toggle-grid input { width: 1rem; height: 1rem; accent-color: var(--accent); }
+    .swatch {
+      width: 14px;
+      height: 3px;
+      border-radius: 1px;
+      flex-shrink: 0;
+    }
+    .footnote {
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--muted);
+      line-height: 1.55;
+    }
+    .ann-list {
+      margin-top: 0.5rem;
+      font-size: 12px;
+      color: var(--muted);
+      columns: 2;
+      column-gap: 1.5rem;
+    }
+    .ann-list li { break-inside: avoid; margin-bottom: 0.2rem; }
+  </style>
+</head>
+<body>
+  <h1>Google Trends</h1>
+  <p class="lead" id="patch-desc"></p>
+
+  <div class="patch-tabs" id="patch-tabs"></div>
+  <div class="chart-wrap"><canvas id="chart"></canvas></div>
+
+  <div class="toggles">
+    <div class="toggles-head">
+      <span>系列の表示</span>
+      <button type="button" id="btn-all">すべて ON</button>
+      <button type="button" id="btn-none">すべて OFF</button>
+    </div>
+    <div class="toggle-grid" id="toggle-grid"></div>
+  </div>
+
+  <p class="footnote" id="footnote"></p>
+  <ul class="ann-list" id="ann-list"></ul>
+
+  <script>
+    const DATA = TRENDS_DATA;
+    let activePatch = 1;
+    let chart = null;
+    const visibility = new Map();
+
+    Chart.defaults.font.family = '"Hiragino Sans", "Yu Gothic", "Meiryo", sans-serif';
+    Chart.defaults.font.size = 14;
+    Chart.defaults.font.weight = "600";
+
+    const tickFont = { size: 16, weight: "700" };
+
+    function monthDiff(d1, d2) {
+      const a = new Date(d1);
+      const b = new Date(d2);
+      return (b.getFullYear() - a.getFullYear()) * 12 + (b.getMonth() - a.getMonth());
+    }
+
+    /** 日付が近い注釈を別行に割り当て、ラベル重なりを避ける */
+    function assignAnnotationRows(annotations, gapMonths = 14) {
+      const sorted = [...annotations].sort(
+        (a, b) => new Date(a.date) - new Date(b.date)
+      );
+      const rows = new Map();
+      const rowEnds = [];
+      for (const a of sorted) {
+        let row = 0;
+        while (row < rowEnds.length && monthDiff(rowEnds[row], a.date) < gapMonths) {
+          row += 1;
+        }
+        if (row === rowEnds.length) rowEnds.push(a.date);
+        else rowEnds[row] = a.date;
+        rows.set(a, row);
+      }
+      return rows;
+    }
+
+    function buildAnnotationBox(a, yMin, yMax, row) {
+      const isBelow = a.zone === "below";
+      const rowStep = 22;
+      return {
+        type: "label",
+        xValue: a.date,
+        yValue: isBelow ? yMin : yMax,
+        content: [a.title, a.text],
+        position: { x: "center", y: isBelow ? "start" : "end" },
+        yAdjust: isBelow ? 14 + row * rowStep : -6 - row * rowStep,
+        backgroundColor: "rgba(255,255,255,0.95)",
+        borderColor: "#bbb",
+        borderWidth: 1,
+        borderRadius: 4,
+        color: "#222",
+        font: { size: 10, weight: "600", lineHeight: 1.25 },
+        padding: 4,
+        callout: {
+          display: true,
+          borderColor: "#aaa",
+          borderWidth: 1,
+        },
+      };
+    }
+
+    function buildAnnotations(patch, yMax) {
+      const ann = DATA.annotations.filter((a) => a.patches.includes(patch));
+      const lines = ann.map((a) => ({
+        type: "line",
+        xMin: a.date,
+        xMax: a.date,
+        borderColor: "rgba(150,150,150,0.55)",
+        borderWidth: 1,
+        borderDash: [4, 4],
+      }));
+      const below = ann.filter((a) => a.zone === "below");
+      const above = ann.filter((a) => a.zone === "above");
+      const belowRows = assignAnnotationRows(below);
+      const aboveRows = assignAnnotationRows(above);
+      const labels = ann.map((a) => {
+        const rowMap = a.zone === "below" ? belowRows : aboveRows;
+        return buildAnnotationBox(a, -2, yMax, rowMap.get(a));
+      });
+      return Object.fromEntries(
+        [...lines, ...labels].map((item, i) => [`a${i}`, item])
+      );
+    }
+
+    function seriesForPatch(p) {
+      return DATA.series.filter((s) => s.patch === p);
+    }
+
+    function initVisibility() {
+      DATA.series.forEach((s) => {
+        if (!visibility.has(s.id)) visibility.set(s.id, s.visible);
+      });
+    }
+
+    function maxRow(rows) {
+      if (!rows.size) return 0;
+      return Math.max(...rows.values());
+    }
+
+    function layoutPaddingForPatch(patch) {
+      const ann = DATA.annotations.filter((a) => a.patches.includes(patch));
+      const below = ann.filter((a) => a.zone === "below");
+      const above = ann.filter((a) => a.zone === "above");
+      return {
+        top: 24 + maxRow(assignAnnotationRows(above)) * 22,
+        bottom: 28 + maxRow(assignAnnotationRows(below)) * 22,
+      };
+    }
+
+    function buildDatasets(patch) {
+      return seriesForPatch(patch).map((s) => ({
+        id: s.id,
+        label: s.label,
+        data: s.data.map(([d, v]) => ({ x: d, y: v })),
+        borderColor: s.color,
+        backgroundColor: s.color,
+        borderWidth: 2.5,
+        pointRadius: 0,
+        pointHitRadius: 6,
+        fill: false,
+        tension: 0.15,
+        hidden: !visibility.get(s.id),
+      }));
+    }
+
+    /** 表示中系列の、表示期間内における最大値 */
+    function visibleYMax(patch) {
+      const [xMin, xMax] = DATA.meta.defaultView;
+      const xMinT = new Date(xMin).getTime();
+      const xMaxT = new Date(xMax).getTime();
+      let max = 0;
+      for (const s of seriesForPatch(patch)) {
+        if (!visibility.get(s.id)) continue;
+        for (const [d, v] of s.data) {
+          const t = new Date(d).getTime();
+          if (t >= xMinT && t <= xMaxT && v > max) max = v;
+        }
+      }
+      return max > 0 ? max : 100;
+    }
+
+    function yTickStep(max) {
+      const target = max / 5;
+      const mag = Math.pow(10, Math.floor(Math.log10(target)));
+      const norm = target / mag;
+      const nice = norm <= 1 ? 1 : norm <= 2 ? 2 : norm <= 5 ? 5 : 10;
+      return nice * mag;
+    }
+
+    function refreshYScale() {
+      const yMax = visibleYMax(activePatch);
+      chart.options.scales.y.max = yMax;
+      chart.options.scales.y.ticks.stepSize = yTickStep(yMax);
+      chart.options.plugins.annotation.annotations = buildAnnotations(activePatch, yMax);
+    }
+
+    function applyVisibilityChange() {
+      refreshYScale();
+      chart.update();
+    }
+
+    function renderToggles(patch) {
+      const grid = document.getElementById("toggle-grid");
+      grid.innerHTML = "";
+      seriesForPatch(patch).forEach((s) => {
+        const label = document.createElement("label");
+        const cb = document.createElement("input");
+        cb.type = "checkbox";
+        cb.checked = visibility.get(s.id);
+        cb.dataset.id = s.id;
+        cb.addEventListener("change", () => {
+          visibility.set(s.id, cb.checked);
+          const ds = chart.data.datasets.find((d) => d.id === s.id);
+          if (ds) ds.hidden = !cb.checked;
+          applyVisibilityChange();
+        });
+        const sw = document.createElement("span");
+        sw.className = "swatch";
+        sw.style.background = s.color;
+        label.append(cb, sw, document.createTextNode(s.label));
+        grid.appendChild(label);
+      });
+    }
+
+    function renderAnnList(patch) {
+      const ul = document.getElementById("ann-list");
+      ul.innerHTML = "";
+      DATA.annotations
+        .filter((a) => a.patches.includes(patch))
+        .forEach((a) => {
+          const li = document.createElement("li");
+          li.textContent = `${a.title} — ${a.text}`;
+          ul.appendChild(li);
+        });
+    }
+
+    function setPatch(patch) {
+      activePatch = patch;
+      document.querySelectorAll(".patch-tabs button").forEach((btn) => {
+        btn.classList.toggle("active", Number(btn.dataset.patch) === patch);
+      });
+      document.getElementById("patch-desc").textContent = DATA.patches[String(patch)].label;
+      renderToggles(patch);
+      renderAnnList(patch);
+
+      chart.data.datasets = buildDatasets(patch);
+      chart.options.layout.padding = layoutPaddingForPatch(patch);
+      refreshYScale();
+      chart.update();
+    }
+
+    function initTabs() {
+      const tabs = document.getElementById("patch-tabs");
+      Object.entries(DATA.patches).forEach(([id, meta]) => {
+        const btn = document.createElement("button");
+        btn.type = "button";
+        btn.dataset.patch = id;
+        btn.textContent = `patch ${id}`;
+        btn.title = meta.label;
+        btn.addEventListener("click", () => setPatch(Number(id)));
+        tabs.appendChild(btn);
+      });
+    }
+
+    function initChart() {
+      const [xMin, xMax] = DATA.meta.defaultView;
+      chart = new Chart(document.getElementById("chart"), {
+        type: "line",
+        data: { datasets: buildDatasets(activePatch) },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          layout: { padding: layoutPaddingForPatch(activePatch) },
+          interaction: { mode: "nearest", axis: "x", intersect: false },
+          plugins: {
+            legend: { display: false },
+            tooltip: {
+              titleFont: { size: 14, weight: "700" },
+              bodyFont: { size: 14, weight: "600" },
+              callbacks: {
+                label: (ctx) => ` ${ctx.dataset.label}: ${ctx.parsed.y}`,
+              },
+            },
+            annotation: { annotations: {} },
+          },
+          scales: {
+            x: {
+              type: "time",
+              min: xMin,
+              max: xMax,
+              time: { unit: "year", displayFormats: { year: "yyyy" } },
+              grid: { color: "#ddd" },
+              ticks: { color: "#111", font: tickFont, maxTicksLimit: 18 },
+            },
+            y: {
+              min: -2,
+              max: 100,
+              title: {
+                display: true,
+                text: "検索関心（相対値）",
+                font: { size: 14, weight: "700" },
+                color: "#111",
+              },
+              grid: { color: "#ddd" },
+              ticks: { color: "#111", font: tickFont, stepSize: 20 },
+            },
+          },
+        },
+      });
+    }
+
+    document.getElementById("btn-all").addEventListener("click", () => {
+      seriesForPatch(activePatch).forEach((s) => {
+        visibility.set(s.id, true);
+        const ds = chart.data.datasets.find((d) => d.id === s.id);
+        if (ds) ds.hidden = false;
+      });
+      document.querySelectorAll("#toggle-grid input").forEach((cb) => { cb.checked = true; });
+      applyVisibilityChange();
+    });
+
+    document.getElementById("btn-none").addEventListener("click", () => {
+      seriesForPatch(activePatch).forEach((s) => {
+        visibility.set(s.id, false);
+        const ds = chart.data.datasets.find((d) => d.id === s.id);
+        if (ds) ds.hidden = true;
+      });
+      document.querySelectorAll("#toggle-grid input").forEach((cb) => { cb.checked = false; });
+      applyVisibilityChange();
+    });
+
+    document.getElementById("footnote").textContent =
+      `${DATA.meta.region} · ${DATA.meta.granularity} · ${DATA.meta.range[0]}–${DATA.meta.range[1]} ｜ ${DATA.meta.note}`;
+
+    initVisibility();
+    initTabs();
+    initChart();
+    setPatch(1);
+  </script>
+</body>
+</html>
