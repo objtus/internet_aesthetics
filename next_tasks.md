@@ -4,9 +4,9 @@
 **論点バックログ**：[`草稿_レビュー論点メモ.md`](./草稿_レビュー論点メモ.md)（2026-06-02 同期済）  
 **編集方針**：[`編集方針.md`](./編集方針.md)（政治化・日本語圏射程・seapunk 読み道）
 
-**直近完了（2026-06-22）**：**ed-3** ☑（seapunk 読み道・Phase 1–2）／**aesthetic-rev-1** ☑／**ch3-ch6-balance** ☑／**ed-6** △（L14・L38・L22）／**src-1** ☑（洗い出しのみ・草稿反映なし）。分割稿 [`第3章_aestheticという語.md`](./第3章_aestheticという語.md) は**手動同期（ユーザー）**
+**直近完了（2026-06-22）**：**inv-opn-cook** ☑／**ed-3** ☑（seapunk 読み道・Phase 1–2）／**aesthetic-rev-1** ☑／**ch3-ch6-balance** ☑／**ed-6** △（L14・L38・L22）／**src-1** ☑（洗い出しのみ・草稿反映なし）。分割稿 [`第3章_aestheticという語.md`](./第3章_aestheticという語.md) は**手動同期（ユーザー）**
 
-**次にやる1件**：**ed-6** polish（L11/L22・任意）／**inv-opn-cook** 等。後回し：**inv-vektroid**／**meta-1**／**meta-3**／**concl-2**／**meta-2**
+**次にやる1件**：**ed-6** polish（L11/L22・任意）／**intro-kojiateki** 等。後回し：**inv-vektroid**／**meta-1**／**meta-3**／**concl-2**／**meta-2**
 
 **使い方**
 
@@ -92,7 +92,7 @@ meta-2 振り返りパート新設 ──── 草稿**末尾**・単独可（�
 | **inv-tabor** | Tabor Robak ネットワーク整理・BrandNewPaintJob.exe（Jon Rafman との共作） | ☐ | 並行可 | [taborrobak.com](https://www.taborrobak.com/) / 草稿 L318・L439・L598・L994 既出 |
 | **inv-oesb** | OESB（Todd Ledford）× OPN「Time Decanted」MV 接点 | ☑ | 草稿反映済（2026-06-17） | [Vimeo](https://vimeo.com/7616034) / 草稿 L314 |
 | **inv-frkwys** | FRKWYS Vol.7（RVNG Intl.）——Ferraro・OPN・Laurel Halo 同席の記録 | ☑ | 草稿反映済（2026-06-17） | [Discogs](https://www.discogs.com/ja/master/353721-Borden-Ferraro-Godin-Halo-Lopatin-FRKWYS-7-) / 2011年7月 |
-| **inv-opn-cook** | OPN × A. G. Cook——**vaporwave 系譜と PC Music の交差**（コラボ年表） | ☐ | 並行可。src-4 ☑ 後推奨 | 下記詳細節。`## PC Musicという継承`（草稿 L603 付近） |
+| **inv-opn-cook** | OPN × A. G. Cook——**vaporwave 系譜と PC Music の交差**（コラボ年表） | ☑ | 並行可。src-4 ☑ 後推奨 | [`inv-opn-cook_年表.md`](./inv-opn-cook_年表.md) → [`第2章取込_OPN_Cook_文案.md`](./第2章取込_OPN_Cook_文案.md)。草稿 L733 直後反映（2026-06-22） |
 | **intro-kojiateki** | **骨架的**インタビュー挿話——「その頃のインターネットの雰囲気」（**第2章冒頭・新設節**） | ☐ | 単独可。引用 ☑（書籍確認済） | 下記詳細節。[『新蒸気波要点ガイド』](https://diskunion.net/dubooks/ct/detail/DUBK237) |
 | **src-4** | ハイパーポップの歴史（PC Music 2013–2016 厚み） | ☑ | src-2 後（src-5 と並行可） | [`ハイパーポップの歴史.md`](./ハイパーポップの歴史.md) → `第2章取込_ハイパーポップ_文案.md` |
 | **src-4b** | ハイパーポップ追記（Spotify「Hyperpop」命名→brat summer） | ☐ | src-4 ☑。**単独可** | 同上 → `第4章取込_hyperpop_Spotify-bratsummer_文案.md` |
@@ -268,7 +268,7 @@ inv-khole-1（文案 → 反映。一括統合しない）
 | rev-10 | 9 Eyes → liminal | ☑ | 草稿・分割稿反映済（2026-06-16–17）。9 Eyes＋Still Life/DREAM JOURNAL＋Ch2 協働接続。文案なし（直書き） |
 | rev-12 | Caretaker × liminal／Backrooms | ☐ 先送り | 上記「第4章 Caretaker×liminal」と同一 |
 
-**推奨着手順（2026-06-22 以降）**：**ed-6** polish／**inv-opn-cook**／**intro-kojiateki**（並行可）。**inv-vektroid** は**低優先・後回し**。**meta-1**／**meta-2** は後回し（meta-2 は草稿末尾・最後）
+**推奨着手順（2026-06-22 以降）**：**ed-6** polish／**intro-kojiateki**（並行可）。**inv-vektroid** は**低優先・後回し**。**meta-1**／**meta-2** は後回し（meta-2 は草稿末尾・最後）
 
 ### rev-7 進捗——**完了（2026-06-02 拡張反映）**
 
@@ -365,7 +365,7 @@ inv-khole-1（文案 → 反映。一括統合しない）
 3. [`草稿.md`](./草稿.md) 反映 → 分割稿同期 → 推敲メモ  
 4. 仕分け表の「文案／草稿反映」列と本ファイル索引を ☑ 更新  
 
-**次の1手**：**ed-6** polish／**inv-opn-cook** 等。**inv-vektroid** は低優先・後回し。**ed-3** ☑（分割稿同期のみ任意）。
+**次の1手**：**ed-6** polish／**intro-kojiateki** 等。**inv-vektroid** は低優先・後回し。**ed-3** ☑（分割稿同期のみ任意）。**inv-opn-cook** ☑（2026-06-22）。
 
 ---
 
@@ -518,7 +518,7 @@ Daniel Lopatin（Oneohtrix Point Never、OPN）は、『Memory Vague』（2009�
 3. ユーザー承認 → [`草稿.md`](./草稿.md) 反映 → [`第2章_命名の時代.md`](./第2章_命名の時代.md) 同期  
 4. **em dash 不使用**
 
-**ステータス**：☐ 未着手。**並行可**（aesthetic-rev-1 等と独立）。
+**ステータス**：☑ 草稿反映済（2026-06-22）。[`inv-opn-cook_年表.md`](./inv-opn-cook_年表.md) → [`第2章取込_OPN_Cook_文案.md`](./第2章取込_OPN_Cook_文案.md)。`### vaporwave との対置` 直後（L733 付近）。分割稿 [`第2章_命名の時代.md`](./第2章_命名の時代.md) 同期済。
 
 ---
 
@@ -1028,9 +1028,9 @@ reorg-0/1/2 ☑／aesthetic-rev-1 ☑（草稿 L687–870）／aesthetic-rev-2 �
 
 | 段階 | 次の1手 |
 |---|---|
-| **今** | **ed-6** polish（任意）／**inv-opn-cook**／**intro-kojiateki**。分割稿 [`第2章_命名の時代.md`](./第2章_命名の時代.md) 同期は任意 |
+| **今** | **ed-6** polish（任意）／**intro-kojiateki**。分割稿 [`第2章_命名の時代.md`](./第2章_命名の時代.md) 同期は任意（inv-opn-cook ☑ 2026-06-22） |
 | **章再編（aesthetic）** | reorg ☑／rev-1 ☑／rev-2 ☑／ch3-ch6 ☑ — **完了**。分割稿手動同期 |
-| **別調査（並行可）** | **inv-khole-0**（挿入位置）／ **meg-1〜3**／ **src-4b**／ **inv-opn-cook**／ **intro-kojiateki**（骨架的挿話） |
+| **別調査（並行可）** | **inv-khole-0**（挿入位置）／ **meg-1〜3**／ **src-4b**／ **intro-kojiateki**（骨架的挿話） |
 | **その次** | inv-swan／inv-tabor／rev-4 |
 | 後回し | **inv-vektroid**（低優先）／**meta-1** → **meta-3** → **concl-2** → **meta-2**（草稿末尾・最後） |
 | 並行可 | 6b-reorg 後続、6c 残 |
