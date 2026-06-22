@@ -2,6 +2,7 @@
 
 > **タスク**：aesthetic-reorg-0（2026-06-19）  
 > **正本**：[`草稿.md`](./草稿.md) L536–621／[`next_tasks.md`](./next_tasks.md) §aesthetic-reorg-0  
+> **同期（2026-06-22）**：reorg ☑／aesthetic-rev-1 草稿反映 ☑（§「逆転が固まるまで」）。制度化厚みは第6章。分割稿は手動同期。  
 > **関連**：[`aesthetic_文法分析メモ.md`](./aesthetic_文法分析メモ.md)／[`internet_aesthetic語と制度化_調査ノート.md`](./internet_aesthetic語と制度化_調査ノート.md)
 
 ---

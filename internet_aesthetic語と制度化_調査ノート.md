@@ -2,7 +2,7 @@
 
 > 作成日：2026-06-17  
 > 目的：草稿が**説明なく用いている**「インターネット美学」「制度化」の前提を整理する。特に **internet aesthetic** という語の来歴と、**Wikipedia 立項**・**EBSCO Research Starters** 等を制度化の説明例として記録する。  
-> **タスク**：調査＝本ノート ☑／序文反映＝[`next_tasks.md`](./next_tasks.md) **ed-6**  
+> **タスク**：調査＝本ノート ☑／序文反映＝[`next_tasks.md`](./next_tasks.md) **ed-6** △（L14・L38 反映済）／第3章・第6章反映＝**aesthetic-rev-2** ☑（2026-06-22）  
 > 方法論：Twitter 検索は**所感ベース**（網羅的ではない）。一次 URL を可能な限り明示。断定は避け、時期・媒体・用法の層を分けて記す。
 
 ---
@@ -25,7 +25,7 @@
 
 ## 1. 問題提起
 
-[`草稿.md`](./草稿.md) は序文 L9 で「命名され、充填され、**制度化された**」と述べ、第5章を「**制度化**：分類するという欲望」と題する。しかし読者が初めて遭遇する段階で、
+[`草稿.md`](./草稿.md) は序文 L9 で「命名され、充填され、**制度化された**」と述べ、第6章を「**制度化**：分類するという欲望」と題する。しかし読者が初めて遭遇する段階で、
 
 - **「インターネット美学（internet aesthetic）」** が何を指すカテゴリなのか
 - **「制度化」** が本稿では具体的に何を意味するのか
@@ -155,7 +155,7 @@ vaporwave を「half-satirical, half-earnest internet aesthetic」と位置づ�
 **含意**
 
 - 個別 aesthetic 記事が既に多数存在した**後**に、上位カテゴリ **Internet Aesthetics** が公式に立った
-- CARI（2014〜）・個別 Wiki 記事（seapunk 等）との**並行**——本稿第5章の制度化叙述と接続
+- CARI（2014〜）・個別 Wiki 記事（seapunk 等）との**並行**——本稿第6章の制度化叙述と接続
 - 2022年は **Aesthetics Wiki カテゴリ**と **Wikipedia 草稿**が同年に出現——「制度化の年」という整理を支える
 
 **【URL】** https://aesthetics.fandom.com/wiki/Category:Internet_Aesthetics?action=history
@@ -332,7 +332,7 @@ AfD で一度脱落（2025-01）→ 本稿空間へ復帰（2025-07〜）→ 現
 - [ ] **語の来歴（短く）**：同じ英語句が以前から口語にあったが意味が違った；今日的用法は **2019〜2020** にメディアで見え始めた（Post 2020、cottagecore）
 - [ ] **制度化**は Wiki・百科・CARI・Discord による分類・承認・カタログ化；**Wikipedia** は特筆性の関門——**2025-01 AfD 脱落→2025 復帰**の例
 - [ ] **2022**：Aesthetics Wiki カテゴリ（6月）＋ Wikipedia 草稿（8月）
-- [ ] **但し書き**：制度化は一方向ではない（英語 Wikipedia は失敗ののち復活）。第5章で詳述
+- [ ] **但し書き**：制度化は一方向ではない（英語 Wikipedia は失敗ののち復活）。**第3章**＝語・Wikipedia、**第6章**＝CARI・目録で詳述
 - [ ] **括弧1文可**：EBSCO Research Starters [Internet aesthetic](https://www.ebsco.com/research-starters/social-sciences-and-humanities/internet-aesthetic)（2025・図書館リファレンス）
 - [ ] **括弧1文可**：日本語 Wikipedia [インターネット・エスセティック](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%83%BB%E3%82%A8%E3%82%B9%E3%82%BB%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF)（2023-10-11 英訳立項）。ed-2 と住み分け
 
