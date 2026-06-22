@@ -4,9 +4,9 @@
 **論点バックログ**：[`草稿_レビュー論点メモ.md`](./草稿_レビュー論点メモ.md)（2026-06-02 同期済）  
 **編集方針**：[`編集方針.md`](./編集方針.md)（政治化・日本語圏射程・seapunk 読み道）
 
-**直近完了（2026-06-22）**：**aesthetic-rev-1** ☑／**ch3-ch6-balance** ☑／**ed-6** △（L14・L38・L22）。分割稿 [`第3章_aestheticという語.md`](./第3章_aestheticという語.md) は**手動同期（ユーザー）**
+**直近完了（2026-06-22）**：**aesthetic-rev-1** ☑／**ch3-ch6-balance** ☑／**ed-6** △（L14・L38・L22）／**src-1** ☑（洗い出しのみ・草稿反映なし）。分割稿 [`第3章_aestheticという語.md`](./第3章_aestheticという語.md) は**手動同期（ユーザー）**
 
-**次にやる1件**：**inv-vektroid**／**src-1**／**ed-3**／序文 polish（L11/L22・任意）。後回し：**meta-1**／**meta-3**／**concl-2**／**meta-2**
+**次にやる1件**：**ed-3**／序文 polish（L11/L22・任意）。後回し：**inv-vektroid**／**meta-1**／**meta-3**／**concl-2**／**meta-2**
 
 **使い方**
 
@@ -44,7 +44,7 @@ src-2 SuperSuper! ──→ src-5 vaporwave前史（HIT）──→ src-4 ハイ
                          concl-1（Guardian 問い・クロニクル末尾）→ ed-4（後記・Cook／歴史化）
 
 cari-inv ☑（§8 残3件は任意）──── 草稿反映のブロッカーではない
-ed-3 seapunk 読み道整備 ────── 第2章・単独可（圧縮以外の案A〜E）
+ed-3 seapunk 読み道整備 ────── 第2章・単独可（A/B/C/D＋節頭地図。計画→[`第2章_ed3_seapunk読み道_計画.md`](./第2章_ed3_seapunk読み道_計画.md)）
 meta-1 執筆動機ツイート ────── 序文 or 後記・単独可
 meta-3 遡行的確定・本稿の自己言及 ─ 後記追記・単独可（meta-1 後推奨）
 concl-2 HTML後方互換／アーカイブ危機／ベンダーロックイン ─ 末尾1段落・単独可（優先度低）
@@ -83,7 +83,7 @@ meta-2 振り返りパート新設 ──── 草稿**末尾**・単独可（�
 | **src-6d** | 第2章・命名系譜（§12–§13） | ☑ | 草稿反映済（2026-06-16） | [`第2章取込_命名系譜_文案.md`](./第2章取込_命名系譜_文案.md) |
 | **src-6e** | 第2章・アーキテクチャ総括（§10） | ☑ | 草稿反映済（2026-06-16） | [`第2章取込_アーキテクチャ総括_文案.md`](./第2章取込_アーキテクチャ総括_文案.md) |
 | **src-6f** | 匿名性（§7）——rev-9 と統合 | ☑ | 草稿反映済（2026-06-16）。「匿名性の美学」主題化＋後記 callback | [`第2章取込_witchhouse匿名性_文案.md`](./第2章取込_witchhouse匿名性_文案.md) |
-| **inv-vektroid** | Vektroid名義増殖——調査（src-6f 派生） | ☐ | 並行可。正文は書かない | 調査のみ → [`src-6_仕分け.md`](./src-6_仕分け.md) スレッドB |
+| **inv-vektroid** | Vektroid名義増殖——調査（src-6f 派生） | ☐ | **低優先・後回し**。正文は書かない | 調査のみ → [`src-6_仕分け.md`](./src-6_仕分け.md) スレッドB |
 | **inv-msv** | Mater Suspiria Vision / Cosmotropia de Xam / AAVV 調査 | ☑ | 並行可 | 調査＋草稿反映済（2026-06-17）。第2章に「Post T.V.」節を新設 → [`第2章取込_lofi映像Post-TV_文案.md`](./第2章取込_lofi映像Post-TV_文案.md)／§5.4 |
 | **inv-swan** | Daniel Swan の軌跡（lo-fi→HD美学・PC Music・Ecco2k） | ☐ | 並行可。Post TV 文案で起点に言及済 | Lux Laze(2010)→DIS Mag 2012→Jam City/Dux Content/Lifesim→Ecco2k「GT-R」(2017)。下記詳細節 |
 | **inv-dclub** | Night Slugs / Fade To Mind（deconstructed club・HD美学）と PC Music の応答 | ☑ | 並行可。草稿反映済（2026-06-17） | [`第2章取込_deconstructedclub_文案.md`](./第2章取込_deconstructedclub_文案.md)（PC Music 節の後に「並走」節）。下記詳細節 |
@@ -96,12 +96,12 @@ meta-2 振り返りパート新設 ──── 草稿**末尾**・単独可（�
 | **intro-kojiateki** | **骨架的**インタビュー挿話——「その頃のインターネットの雰囲気」（**第2章冒頭・新設節**） | ☐ | 単独可。引用 ☑（書籍確認済） | 下記詳細節。[『新蒸気波要点ガイド』](https://diskunion.net/dubooks/ct/detail/DUBK237) |
 | **src-4** | ハイパーポップの歴史（PC Music 2013–2016 厚み） | ☑ | src-2 後（src-5 と並行可） | [`ハイパーポップの歴史.md`](./ハイパーポップの歴史.md) → `第2章取込_ハイパーポップ_文案.md` |
 | **src-4b** | ハイパーポップ追記（Spotify「Hyperpop」命名→brat summer） | ☐ | src-4 ☑。**単独可** | 同上 → `第4章取込_hyperpop_Spotify-bratsummer_文案.md` |
-| **src-1** | musicplusghost 洗い出し | ☐ | 並行可 | [`musicplusghost.md`](./musicplusghost.md) |
+| **src-1** | musicplusghost 洗い出し | ☑ | 草稿反映なし（2026-06-22 確定） | [`musicplusghost.md`](./musicplusghost.md) |
 | **src-3** | r/witchhouse 歴史スレ参照 | ☑ | rev-9 と重複なし | `#### コミュニティの正史` 末尾1文+URL（2026-06-17 反映済） |
 | **rev-8** | Eccojams vs Far Side Virtual | ☑ | 草稿反映済（2026-06-16） | [`第2章取込_FSV対比_文案.md`](./第2章取込_FSV対比_文案.md) |
 | **rev-9** | witch house 匿名性 | ☑ | src-6f に統合済（2026-06-16） | [`第2章取込_witchhouse匿名性_文案.md`](./第2章取込_witchhouse匿名性_文案.md) |
 | **rev-4** | ムードボード対比 | ☐ | 並行可 | `第1章取込_ムードボード対比_文案.md` |
-| **ed-3** | seapunk 読み道整備（節頭地図等・圧縮以外） | ☐ | 並行可 | [`編集方針.md`](./編集方針.md) §3 |
+| **ed-3** | seapunk 読み道整備（節頭地図等・圧縮以外） | △ 計画 | Phase 1 見出し → Phase 2 地図 | [`第2章_ed3_seapunk読み道_計画.md`](./第2章_ed3_seapunk読み道_計画.md) |
 
 ### 第5章・CARI・結論（第2章土台の後）
 
@@ -268,7 +268,7 @@ inv-khole-1（文案 → 反映。一括統合しない）
 | rev-10 | 9 Eyes → liminal | ☑ | 草稿・分割稿反映済（2026-06-16–17）。9 Eyes＋Still Life/DREAM JOURNAL＋Ch2 協働接続。文案なし（直書き） |
 | rev-12 | Caretaker × liminal／Backrooms | ☐ 先送り | 上記「第4章 Caretaker×liminal」と同一 |
 
-**推奨着手順（2026-06-17 以降）**：**inv-steyerl**／**inv-piajp** ☑ → inv-vektroid／src-1／ed-3（並行可）。**meta-1**／**meta-2** は後回し（meta-2 は草稿末尾・最後）
+**推奨着手順（2026-06-17 以降）**：**inv-steyerl**／**inv-piajp** ☑ → **src-1** ☑ → **ed-3**（並行可）。**inv-vektroid** は**低優先・後回し**。**meta-1**／**meta-2** は後回し（meta-2 は草稿末尾・最後）
 
 ### rev-7 進捗——**完了（2026-06-02 拡張反映）**
 
@@ -280,7 +280,7 @@ inv-khole-1（文案 → 反映。一括統合しない）
 
 | ID | 内容 | 状態 | 文案（案） | 依存 |
 |---|---|---|---|---|
-| src-1 | musicplusghost 洗い出し | ☐ | `第2章取込_musicplusghost_文案.md` | 並行可 |
+| src-1 | musicplusghost 洗い出し | ☑ | 草稿反映なし | 2026-06-22 確定。下記 §src-1 |
 | src-2 | SuperSuper! Magazine 追記 | ☑ | [`第2章取込_SuperSuper_文案.md`](./第2章取込_SuperSuper_文案.md) | 草稿・分割稿反映済（2026-06-11） |
 | src-5 | vaporwave前史見直し（Hippos In Tanks） | ☑ | [`第2章取込_vaporwave前史_文案.md`](./第2章取込_vaporwave前史_文案.md) | コア反映・分割稿同期（2026-06-11） |
 | src-6a–f | MP3ブログ調査ノート——仕分けと段階取込 | ☑ | [`src-6_仕分け.md`](./src-6_仕分け.md) → 章別文案 | 6a–6f 完了（2026-06-16） |
@@ -288,7 +288,7 @@ inv-khole-1（文案 → 反映。一括統合しない）
 | src-4 | ハイパーポップの歴史（PC Music 厚み） | ☑ | `第2章取込_ハイパーポップ_文案.md` | src-2 後（src-5 と並行可。cari-draft の前提） |
 | src-4b | ハイパーポップ追記（Spotify 命名→brat summer） | ☐ | `第4章取込_hyperpop_Spotify-bratsummer_文案.md` | src-4 ☑。第4章 L1013 付近 |
 
-### src-1. musicplusghost.md——参考箇所の洗い出し
+### src-1. musicplusghost.md——参考箇所の洗い出し——**完了（2026-06-22）**
 
 **背景**  
 平山悠編『MUSIC + GHOST : FEECO Magazine extra issue』（憑在論・Ghost Box・英国郊区派）。草稿 `#### 憑在論と郷愁の言語`（L173）で ZINE 名と [atochietebura リンク](https://atochietebura.com/HD/h024.html) は**既出**。本タスクは全文（[`musicplusghost.md`](./musicplusghost.md)）から**追記に値する箇所を選別**する。
@@ -309,6 +309,24 @@ inv-khole-1（文案 → 反映。一括統合しない）
 3. [`草稿.md`](./草稿.md) 反映 → 分割稿同期  
 
 **注意**：FEECO 誌面の長文引用は避け、既出の MUSIC+GHOST 言及と**重複しない**範囲で足す。
+
+**洗い出し結果（2026-06-22）**——採用は**任意**。必須追記なし。
+
+| 判定 | 箇所 | 草稿との関係 | メモ |
+|---|---|---|---|
+| **A 任意** | 序文 | L237 憑在論節 | 日本語圏メディアは Burial／クラブ偏重、Ghost Box 郊外派は相対的に見えにくい——**1文脚注**可（ed-2 射程） |
+| **A 任意** | Ch2 Jim Jupp インタビュー | 同上 | デジタル以前の記憶・TV 子供時代の音の**感情的重構**（正確な復元ではない）。Ghost Box 節の**具体化**に最も使える |
+| **A 任意** | Ch5＋Jupp（WIRE 2012 経由） | L233–237／L384 付近 | Julian House：Ferraro＝壊れた鏡の iPad 感 vs Ghost Box の時間塊——hypnagogic／米国憑在の**対比1文** |
+| **A 任意** | Ch5 Reynolds 論 | L233 Keenan 節 | 『Retromania』「国ごとの憑在論」——米国＝hypnagogic。命名済み論点の**批評語彙**補強 |
+| **B 保留** | Ch1 Twisted Memories | 第5章制度化？ | Scarfolk／Tumblr 経由のレトロ商業化、Fisher 資本主義リアリズム——**憑在論の消費化**1文なら可。長い |
+| **B 保留** | Ch2 liminal／vaporwave 質問 | 第4章 liminal | Fisher×Ghost Box（Non-Place、Pye Corner Audio）。Caretaker 節と近いが**本稿は別ルート** |
+| **— 射程外** | Beyond the Dead Future | — | PS1 個人回想・Mother2/LSD・ゲーム CM ノスタルジー。草稿のゲーム言及（Savvy J 等）と**軸がずれる** |
+| **— 射程外** | Extra／Bring Back My Ghost | — | 日本憑在音楽ガイド、個人郷愁の限界（著者メタ）。ZINE 言及で**足りる** |
+| **— 既出** | Ghost Box／Keenan／Fisher／Factory | L237 等 | ファクト骨格は草稿済。Jim Jupp 名・Julian House WIRE 評は**未出**だが必須ではない |
+
+**結論**：追記不要。**草稿反映は行わない**（2026-06-22 確定）。
+
+**ステータス**：☑ **完了**（2026-06-22）。洗い出しのみ。文案・草稿反映なし。
 
 ---
 
@@ -347,7 +365,7 @@ inv-khole-1（文案 → 反映。一括統合しない）
 3. [`草稿.md`](./草稿.md) 反映 → 分割稿同期 → 推敲メモ  
 4. 仕分け表の「文案／草稿反映」列と本ファイル索引を ☑ 更新  
 
-**次の1手**：src-6 全フェーズ（6a–6f）完了（2026-06-16）。rev-9 も統合済。残る並行タスク＝rev-8（FSV）・inv-vektroid・src-1・src-3 など。
+**次の1手**：src-6 全フェーズ（6a–6f）完了（2026-06-16）。rev-9 も統合済。残る並行タスク＝**ed-3**・inv-swan/tabor/opn-cook 等。**inv-vektroid** は低優先・後回し。
 
 ---
 
@@ -363,7 +381,7 @@ inv-khole-1（文案 → 反映。一括統合しない）
 - Beer on the Rug カタログにおける名義の並び（src-6b §3 と関連）
 - 既存 Seapunk／vaporwave政治化ノートへの関連記述
 
-**ステータス**：調査のみ。**正文は書かない**。
+**ステータス**：調査のみ。**正文は書かない**。**低優先・後回し**（2026-06-22）。
 
 **手順**
 
@@ -648,12 +666,28 @@ Daniel Lopatin（Oneohtrix Point Never、OPN）は、『Memory Vague』（2009�
 |---|---|---|---|---|
 | ed-1 | §1 政治化（コミュニティの応答） | **rev-7** と同一 | ☑ | 第2章 DMY 節 L426–452（英語圏＋受容の橋。2026-06-02） |
 | ed-2 | §2 日本語圏は射程外 | 単独 | ☑ | 序文 L13 直後（2026-06-11） |
-| ed-3 | §3 seapunk 読み道整備 | 単独 | ☐ | 第2章 seapunk 節（節頭地図・#### ラベル等。全文圧縮以外） |
+| ed-3 | §3 seapunk 読み道整備 | 単独 | △ 計画 | 第2章 seapunk L426–551。正本→[`第2章_ed3_seapunk読み道_計画.md`](./第2章_ed3_seapunk読み道_計画.md) |
 | ed-4 | §4 本稿の制度化への寄与（メタ自己言及） | 単独 | ☑ | `## ＜後記＞` L1028 直後（2026-06-11） |
 | ed-5 | r/AestheticWiki 制度化追記 | 単独 | ☑ | 第5章「分類する欲望」節 L1109 付近（2026-06-17） |
 | ed-6 | 序文——「インターネット美学」と「制度化」の説明節 | 単独 | ☐ | 序文 L9 直後（新 `###`）。下記詳細節 |
 
 **優先度（編集方針記載順）**：ed-1 → ed-2 → **ed-6** → ed-3 → ed-4 → ed-5。ed-1 は rev-7 と一体。ed-2／**ed-6**／3／4／5 はパイプラインと並行可。**ed-6** は序盤用語の穴埋め——読者が第5章「制度化」に到達する前の伏線。
+
+### ed-3. seapunk 読み道整備——**計画確定（2026-06-22）**
+
+**正本**：[`第2章_ed3_seapunk読み道_計画.md`](./第2章_ed3_seapunk読み道_計画.md)
+
+**方針**：見出し整理・追加（**A/B/C/D**）＋節頭地図1段落。**文案不要**。見出しは草稿直接編集可。**圧縮はしない**（編集方針 §3 は別件）。
+
+| Phase | 内容 | 状態 |
+|---|---|---|
+| 1 | 見出し B/C/D（年表 `###`×3、三つの流れ `##` 昇格、SuperSuper `###`×3） | △ **B ☑ C ☑**（2026-06-22） |
+| 2 | 節頭地図1段落（A・`## 2011年6月1日のツイート` 内） | ☐ |
+| 3 | 分割稿同期・☑ | ☐ |
+
+**ステータス**：△ 計画確定。Phase 1 着手待ち。
+
+---
 
 ### ed-4. 本稿の制度化——**完了（2026-06-11）**
 
@@ -994,13 +1028,13 @@ reorg-0/1/2 ☑／aesthetic-rev-1 ☑（草稿 L687–870）／aesthetic-rev-2 �
 
 | 段階 | 次の1手 |
 |---|---|
-| **今** | **inv-vektroid**／**src-1**／**ed-3**（並行可）。任意：**ed-6** polish（L11/L22） |
+| **今** | **ed-3**（並行可）。任意：**ed-6** polish（L11/L22） |
 | **章再編（aesthetic）** | reorg ☑／rev-1 ☑／rev-2 ☑／ch3-ch6 ☑ — **完了**。分割稿手動同期 |
 | **別調査（並行可）** | **inv-khole-0**（挿入位置）／ **meg-1〜3**／ **src-4b**／ **inv-opn-cook**／ **intro-kojiateki**（骨架的挿話） |
 | **その次** | inv-swan／inv-tabor／rev-4 |
-| 後回し | **meta-1** → **meta-3** → **concl-2**（技術条件・末尾）→ **meta-2**（振り返り・**草稿末尾・最後**） |
+| 後回し | **inv-vektroid**（低優先）／**meta-1** → **meta-3** → **concl-2** → **meta-2**（草稿末尾・最後） |
 | 並行可 | 6b-reorg 後続、6c 残 |
-| 完了済み（直近） | **inv-piajp**／**inv-steyerl**／inv-msv／inv-dclub ☑ |
+| 完了済み（直近） | **src-1**／**inv-piajp**／**inv-steyerl**／inv-msv／inv-dclub ☑ |
 | 任意 | rev-12 Caretaker、8番出口、§8 残 |
 
 **索引の正本**：§タスク索引（本ファイル上部）
@@ -1041,6 +1075,7 @@ reorg-0/1/2 ☑／aesthetic-rev-1 ☑（草稿 L687–870）／aesthetic-rev-2 �
 | [`CARIの歴史.md`](./CARIの歴史.md) | CARI 公式年表の和訳 |
 | 新蒸気波要点ガイド（佐藤秀彦編・DU BOOKS 2019） | 第3章 aesthetic 節（ばるぼら年表・大辞典）。**骨架的インタビュー**は **intro-kojiateki** |
 | [`編集方針.md`](./編集方針.md) | ed-1〜3 の根拠 |
+| [`第2章_ed3_seapunk読み道_計画.md`](./第2章_ed3_seapunk読み道_計画.md) | **ed-3** 正本（見出し案・フェーズ） |
 
 ---
 
