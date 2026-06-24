@@ -4,9 +4,9 @@
 **論点バックログ**：[`草稿_レビュー論点メモ.md`](./草稿_レビュー論点メモ.md)（2026-06-02 同期済）  
 **編集方針**：[`編集方針.md`](./編集方針.md)（政治化・日本語圏射程・seapunk 読み道）
 
-**直近完了（2026-06-22）**：**inv-opn-cook** ☑／**ed-3** ☑（seapunk 読み道・Phase 1–2）／**aesthetic-rev-1** ☑／**ch3-ch6-balance** ☑／**ed-6** △（L14・L38・L22）／**src-1** ☑（洗い出しのみ・草稿反映なし）。分割稿 [`第3章_aestheticという語.md`](./第3章_aestheticという語.md) は**手動同期（ユーザー）**
+**直近完了（2026-06-22）**：**src-4b** ☑／**intro-kojiateki** ☑／**inv-opn-cook** ☑／**ed-3** ☑（seapunk 読み道・Phase 1–2）／**aesthetic-rev-1** ☑／**ch3-ch6-balance** ☑／**ed-6** △（L14・L38・L22）／**src-1** ☑（洗い出しのみ・草稿反映なし）。分割稿 [`第3章_aestheticという語.md`](./第3章_aestheticという語.md) は**手動同期（ユーザー）**
 
-**次にやる1件**：**ed-6** polish（L11/L22・任意）／**intro-kojiateki** 等。後回し：**inv-vektroid**／**meta-1**／**meta-3**／**concl-2**／**meta-2**
+**次にやる1件**：**ed-6** polish（L11/L22・任意）／**inv-khole-0** 等。後回し：**inv-vektroid**／**meta-1**／**meta-3**／**concl-2**／**meta-2**
 
 **使い方**
 
@@ -93,9 +93,9 @@ meta-2 振り返りパート新設 ──── 草稿**末尾**・単独可（�
 | **inv-oesb** | OESB（Todd Ledford）× OPN「Time Decanted」MV 接点 | ☑ | 草稿反映済（2026-06-17） | [Vimeo](https://vimeo.com/7616034) / 草稿 L314 |
 | **inv-frkwys** | FRKWYS Vol.7（RVNG Intl.）——Ferraro・OPN・Laurel Halo 同席の記録 | ☑ | 草稿反映済（2026-06-17） | [Discogs](https://www.discogs.com/ja/master/353721-Borden-Ferraro-Godin-Halo-Lopatin-FRKWYS-7-) / 2011年7月 |
 | **inv-opn-cook** | OPN × A. G. Cook——**vaporwave 系譜と PC Music の交差**（コラボ年表） | ☑ | 並行可。src-4 ☑ 後推奨 | [`inv-opn-cook_年表.md`](./inv-opn-cook_年表.md) → [`第2章取込_OPN_Cook_文案.md`](./第2章取込_OPN_Cook_文案.md)。草稿 L733 直後反映（2026-06-22） |
-| **intro-kojiateki** | **骨架的**インタビュー挿話——「その頃のインターネットの雰囲気」（**第2章冒頭・新設節**） | ☐ | 単独可。引用 ☑（書籍確認済） | 下記詳細節。[『新蒸気波要点ガイド』](https://diskunion.net/dubooks/ct/detail/DUBK237) |
+| **intro-kojiateki** | **骨架的**インタビュー挿話——「その頃のインターネットの雰囲気」（**第2章冒頭・新設節**） | ☑ | 単独可。引用 ☑（書籍確認済） | [`第2章取込_骨架的挿話_文案.md`](./第2章取込_骨架的挿話_文案.md)／[`intro-kojiateki_引用メモ.md`](./intro-kojiateki_引用メモ.md)。草稿 L238 付近反映（2026-06-22） |
 | **src-4** | ハイパーポップの歴史（PC Music 2013–2016 厚み） | ☑ | src-2 後（src-5 と並行可） | [`ハイパーポップの歴史.md`](./ハイパーポップの歴史.md) → `第2章取込_ハイパーポップ_文案.md` |
-| **src-4b** | ハイパーポップ追記（Spotify「Hyperpop」命名→brat summer） | ☐ | src-4 ☑。**単独可** | 同上 → `第4章取込_hyperpop_Spotify-bratsummer_文案.md` |
+| **src-4b** | ハイパーポップ追記（Spotify「Hyperpop」命名→brat summer） | ☑ | src-4 ☑ | [`第4章取込_hyperpop_Spotify-bratsummer_文案.md`](./第4章取込_hyperpop_Spotify-bratsummer_文案.md)。草稿反映（2026-06-22） |
 | **src-1** | musicplusghost 洗い出し | ☑ | 草稿反映なし（2026-06-22 確定） | [`musicplusghost.md`](./musicplusghost.md) |
 | **src-3** | r/witchhouse 歴史スレ参照 | ☑ | rev-9 と重複なし | `#### コミュニティの正史` 末尾1文+URL（2026-06-17 反映済） |
 | **rev-8** | Eccojams vs Far Side Virtual | ☑ | 草稿反映済（2026-06-16） | [`第2章取込_FSV対比_文案.md`](./第2章取込_FSV対比_文案.md) |
@@ -188,7 +188,7 @@ inv-khole-1（文案 → 反映。一括統合しない）
 | ID | 内容 | 状態 | 依存 | 備考 |
 |---|---|---|---|---|
 | **rev-10** | Jon Rafman 9 Eyes → liminal 前史 | ☑ | 草稿反映済（2026-06-16–17） | 第4章。9 Eyes＋Still Life/DREAM JOURNAL＋Ch2 協働接続 |
-| **src-4b** | hyperpop 追記（Spotify 命名→brat summer） | ☐ | src-4 ☑ | 下記詳細節。`## hyperpopの浮上`（草稿 L1013 付近） |
+| **src-4b** | hyperpop 追記（Spotify 命名→brat summer） | ☑ | src-4 ☑ | [`第4章取込_hyperpop_Spotify-bratsummer_文案.md`](./第4章取込_hyperpop_Spotify-bratsummer_文案.md) |
 | **rev-12** | Caretaker × liminal／Backrooms | ☐ 先送り | rev-10 関連 | 第4章 |
 | — | 8番出口と liminal space 美学 | 判断待ち | — | 第4章追加可否 |
 | — | 第5章 Frutiger Aero 節との整合 | 任意 | cari-draft 後でも可 | 境界論・第2章フェーズ2 |
@@ -286,7 +286,7 @@ inv-khole-1（文案 → 反映。一括統合しない）
 | src-6a–f | MP3ブログ調査ノート——仕分けと段階取込 | ☑ | [`src-6_仕分け.md`](./src-6_仕分け.md) → 章別文案 | 6a–6f 完了（2026-06-16） |
 | src-3 | r/witchhouse 歴史スレ参照 | ☑ | 草稿・分割稿反映済（2026-06-17）。`#### コミュニティの正史` 末尾に1文+URL | rev-9 と重複注意 |
 | src-4 | ハイパーポップの歴史（PC Music 厚み） | ☑ | `第2章取込_ハイパーポップ_文案.md` | src-2 後（src-5 と並行可。cari-draft の前提） |
-| src-4b | ハイパーポップ追記（Spotify 命名→brat summer） | ☐ | `第4章取込_hyperpop_Spotify-bratsummer_文案.md` | src-4 ☑。第4章 L1013 付近 |
+| src-4b | ハイパーポップ追記（Spotify 命名→brat summer） | ☑ | `第4章取込_hyperpop_Spotify-bratsummer_文案.md` | src-4 ☑ |
 
 ### src-1. musicplusghost.md——参考箇所の洗い出し——**完了（2026-06-22）**
 
@@ -581,7 +581,7 @@ Daniel Lopatin（Oneohtrix Point Never、OPN）は、『Memory Vague』（2009�
 3. 新設 `##` 節タイトル（仮題）をユーザー承認 → 草稿・[`第2章_命名の時代.md`](./第2章_命名の時代.md) 同期  
 4. 後続節への相互参照は**任意**——挿話単体で完結可
 
-**ステータス**：☐ 文案未着手。**引用文 ☑（書籍確認済）**。**ed-6・aesthetic-rev-1 と並行可**。
+**ステータス**：☑ 草稿反映済（2026-06-22）。[`第2章取込_骨架的挿話_文案.md`](./第2章取込_骨架的挿話_文案.md)／[`intro-kojiateki_引用メモ.md`](./intro-kojiateki_引用メモ.md)。**頁番号は要ユーザー確認**。
 
 ---
 
@@ -637,7 +637,7 @@ Daniel Lopatin（Oneohtrix Point Never、OPN）は、『Memory Vague』（2009�
 
 **推敲メモ参照**：[`草稿_推敲メモ.md`](./草稿_推敲メモ.md) 続8 E「hyperpopとインターネット美学の接続」——brat green／Brat Generator を**視覚美学**の例として1文足す余地あり。
 
-**ステータス**：☐ 未着手。**単独可**（aesthetic-reorg 等と並行可）。
+**ステータス**：☑ 草稿・[`第5章_爆発.md`](./第5章_爆発.md) 反映済（2026-06-22）。
 
 ---
 
@@ -1028,9 +1028,9 @@ reorg-0/1/2 ☑／aesthetic-rev-1 ☑（草稿 L687–870）／aesthetic-rev-2 �
 
 | 段階 | 次の1手 |
 |---|---|
-| **今** | **ed-6** polish（任意）／**intro-kojiateki**。分割稿 [`第2章_命名の時代.md`](./第2章_命名の時代.md) 同期は任意（inv-opn-cook ☑ 2026-06-22） |
+| **今** | **ed-6** polish（任意）／**inv-khole-0**。分割稿同期済（src-4b・intro-kojiateki ☑ 2026-06-22） |
 | **章再編（aesthetic）** | reorg ☑／rev-1 ☑／rev-2 ☑／ch3-ch6 ☑ — **完了**。分割稿手動同期 |
-| **別調査（並行可）** | **inv-khole-0**（挿入位置）／ **meg-1〜3**／ **src-4b**／ **intro-kojiateki**（骨架的挿話） |
+| **別調査（並行可）** | **inv-khole-0**（挿入位置）／ **meg-1〜3** |
 | **その次** | inv-swan／inv-tabor／rev-4 |
 | 後回し | **inv-vektroid**（低優先）／**meta-1** → **meta-3** → **concl-2** → **meta-2**（草稿末尾・最後） |
 | 並行可 | 6b-reorg 後続、6c 残 |
