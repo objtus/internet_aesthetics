@@ -6,7 +6,7 @@
 
 **直近完了（2026-06-22）**：**src-4b** ☑／**intro-kojiateki** ☑／**inv-opn-cook** ☑／**ed-3** ☑（seapunk 読み道・Phase 1–2）／**aesthetic-rev-1** ☑／**ch3-ch6-balance** ☑／**ed-6** △（L14・L38・L22）／**src-1** ☑（洗い出しのみ・草稿反映なし）。分割稿 [`第3章_aestheticという語.md`](./第3章_aestheticという語.md) は**手動同期（ユーザー）**
 
-**次にやる1件**：**ed-6** polish（L11/L22・任意）／**inv-khole-0** 等。後回し：**inv-vektroid**／**meta-1**／**meta-3**／**concl-2**／**meta-2**
+**次にやる1件**：**inv-cari-arena**（CARI–Are.na 追加調査）→ **inv-khole-1a〜1c**（文案・反映）。並行可：**ed-6** polish。後回し：**inv-vektroid**／**meta-1**／**meta-3**／**concl-2**／**meta-2**
 
 **使い方**
 
@@ -148,19 +148,26 @@ aesthetic-rev-1（文法）＋ aesthetic-rev-2（制度化・ed-6 分担）
 
 **注意**：[`khole-arena-archillect-researtch.md`](./khole-arena-archillect-researtch.md) の取込（**inv-khole-***）は**別調査・別パイプライン**。aesthetic 節の reorg／rev とは**独立**（下記）。
 
-### 匿名キュレーション・ポストインターネット（inv-khole-*）
+### 匿名キュレーション・normcore・Are.na（inv-khole-* / inv-cari-arena）
 
 | ID | 内容 | 状態 | 依存 | 正本・文案 |
 |---|---|---|---|---|
-| **inv-khole-0** | **挿入位置の測定**（VVORK→Archillect 系譜／K-HOLE／Are.na） | ☐ | 単独可 | 下記詳細節。成果物：`inv-khole_挿入位置_考察.md` |
-| **inv-khole-1** | 文案作成・段階反映（ブロック別） | ☐ | **khole-0 承認後** | 同上 |
+| **inv-khole-0** | **挿入位置の測定**（VVORK→Archillect 系譜／K-HOLE／normcore／Are.na） | ☑ | — | [`第6章_normcore追加_計画.md`](./第6章_normcore追加_計画.md)＋[`画像bot挿入_計画.md`](./画像bot挿入_計画.md) |
+| **inv-cari-arena** | **CARI の Are.na 活用——追加調査** | ☐ | inv-khole-0 ☑ | 調査ノート §12 予備調査済。候補 URL あり（下記詳細節） |
+| **inv-khole-1a** | 文案：**第4章** VVORK 段落（DIS 節延長・画像bot仕込み） | ☐ | inv-cari-arena 後 | [`画像bot挿入_計画.md`](./画像bot挿入_計画.md) |
+| **inv-khole-1b** | 文案：**第6章** normcore＋サフィックス＋Are.na＋Archillect/rare.jpg | ☐ | inv-cari-arena 後 | [`第6章_normcore追加_計画.md`](./第6章_normcore追加_計画.md) |
+| **inv-khole-1c** | 文案：**第8章** CARI の Are.na 追記（L1484〜プラットフォーム論補完） | ☐ | inv-cari-arena 結果次第 | 同上 |
 
-**推奨パイプライン（inv-khole）**
+**推奨パイプライン（inv-khole 改訂）**
 
 ```
-inv-khole-0（挿入位置・ブロック仕分け）
-    ↓ 承認
-inv-khole-1（文案 → 反映。一括統合しない）
+inv-khole-0 ☑（挿入位置確定：計画ファイル2件）
+    ↓
+inv-cari-arena（CARI–Are.na 追加調査）
+    ↓ 調査結果で Are.na→CARI を「人脈線」か「プラットフォーム共有」か確定
+inv-khole-1a（第4章 VVORK）＋ inv-khole-1b（第6章 normcore 系）並行可
+    ↓
+inv-khole-1c（第8章 CARI Are.na。inv-cari-arena の結果次第で実行判断）
 ```
 
 **aesthetic-reorg との関係**：**依存なし**。並行可。khole ノートは「語彙の逆転」ではなく**画像キュレーション・ポストインターネット圏の系譜**調査。
@@ -756,69 +763,108 @@ reorg-0/1/2 ☑／aesthetic-rev-1 ☑（草稿 L687–870）／aesthetic-rev-2 �
 
 分割稿 [`第3章_aestheticという語.md`](./第3章_aestheticという語.md) は**手動同期（ユーザー）**。
 
-## 匿名キュレーション・ポストインターネット（inv-khole-*）
+## 匿名キュレーション・normcore・Are.na（inv-khole-* / inv-cari-arena）
 
-**背景（ユーザー指示・2026-06-19）**  
-[`khole-arena-archillect-researtch.md`](./khole-arena-archillect-researtch.md) は、K-HOLE／Are.na／Archillect／VVORK／rare.jpg 等の**画像キュレーション・ポストインターネット圏**をまとめた**別調査**。第2章 [`## 「aesthetic」という語`](./草稿.md) の章再編（**aesthetic-reorg-***）や文法分析（**aesthetic-rev-***）とは**論点が異なり、パイプラインも独立**する。
+**背景（2026-06-19 開始、2026-06-26 計画確定）**  
+[`khole-arena-archillect-researtch.md`](./khole-arena-archillect-researtch.md) は、K-HOLE／Are.na／Archillect／VVORK／rare.jpg 等の**画像キュレーション・ポストインターネット圏**をまとめた調査。aesthetic 節の reorg／rev とは**独立したパイプライン**。
 
-**調査ノートの主要ブロック**
+2026-06-26 の検討で、挿入位置が確定し、normcore／サフィックス／Are.na の第6章挿入計画と、画像bot（VVORK / Archillect / rare.jpg）の章別分担計画が文書化された。CARI–Are.na 調査を先行させ、その結果を踏まえて文案を作成する順序とした。
 
-| ブロック | 内容 | 草稿との接続候補 |
-|---|---|---|
-| **VVORK→Archillect/rare.jpg** | 無言の画像キュレーション系譜 | 第1章 Reblorg・ムードボード |
-| **K-HOLE／Are.na** | トレンド予測パロディ、normcore 誤読、DIS 同席 | 第1章ポストインターネット／第2章 DIS・distroid |
-| **Giolo & Berghman** | aggregation＝internet aesthetics | 第5章制度化（集積ツール） |
-| **§11 日本語圏** | カオスラウンジ、パクツイ等 | **射程外**（ed-2）。1文脚注可 |
+**調査ノートの主要ブロックと確定した行先**
 
----
-
-### inv-khole-0. 挿入位置の測定
-
-**目的**：どの章・どの節に、どのブロックを、どの分量で入れるかを**文書化して決める**。この段階では正文を書き換えない。
-
-**成果物**：`inv-khole_挿入位置_考察.md`（新規）
-
-**考察項目**
-
-| # | 問い | 候補 |
-|---|---|---|
-| 1 | **第1章** Reblorg 節の拡張か | VVORK→Tumblr ムードボード→Reblorg→Archillect の連続 |
-| 2 | **第2章** DIS／distroid 節か | K-HOLE×DIS 同席（2014 DISown 等） |
-| 3 | **第5章** CARI 前史か | 「分類する欲望」の別形として Are.na／normcore 誤読 |
-| 4 | **新設 `####` か** | 既存節が飽和している場合のみ |
-| 5 | **一括 vs 分割** | 原則：**ブロック別・段階取込**（一括統合しない） |
-| 6 | **aesthetic 独立章化後**の章番号 | reorg 結果を**参照するだけ**。khole の行先決定は reorg に**従属しない** |
-
-**手順**
-
-1. 上表を埋め、ブロックごとに**推奨行先・分量（段落数上限）**を記す  
-2. inv-khole-1 の文案タスク一覧（ブロック単位）を生成  
-3. ユーザー承認 → **inv-khole-1** へ  
-
-**ステータス**：☐ 未着手。**aesthetic-reorg-0 と並行可**。
+| ブロック | 内容 | 行先（確定） | 計画ファイル |
+|---|---|---|---|
+| **VVORK** | 無言のキュレーション、DIS と同一シーン | **第4章** DIS 節延長（L733〜L762） | [`画像bot挿入_計画.md`](./画像bot挿入_計画.md) |
+| **K-HOLE／normcore／Are.na** | サフィックス生産性、normcore 充填、K-HOLE→DIS→Are.na 接続 | **第6章** 冒頭挿入（L1075 後） | [`第6章_normcore追加_計画.md`](./第6章_normcore追加_計画.md) |
+| **Archillect／rare.jpg** | VVORK の Twitter 移植、著者性の消去 | **第6章** normcore 挿入の近くで短く言及 | [`画像bot挿入_計画.md`](./画像bot挿入_計画.md) |
+| **CARI の Are.na 活用** | プラットフォーム論の補完 | **第8章** L1484〜（inv-cari-arena 結果次第） | [`第6章_normcore追加_計画.md`](./第6章_normcore追加_計画.md) §未調査B |
+| **Giolo & Berghman** | aggregation＝internet aesthetics | 第6章 or 第8章に1文で引用可。単独の節は不要 | — |
+| **§11 日本語圏** | カオスラウンジ、パクツイ等 | **射程外**（ed-2）。本文に入れない | — |
 
 ---
 
-### inv-khole-1. 文案作成・段階反映
+### inv-khole-0. 挿入位置の測定 ☑
 
-**前提**：inv-khole-0 で行先・ブロックが確定。
+**ステータス**：☑ 完了（2026-06-26）。計画ファイル2件が成果物を代替。
 
-**方針**
+**成果物**：
+- [`第6章_normcore追加_計画.md`](./第6章_normcore追加_計画.md)：normcore＋サフィックス＋Are.na の挿入計画。調査状況総括表・未調査セクション付き
+- [`画像bot挿入_計画.md`](./画像bot挿入_計画.md)：VVORK / Archillect / rare.jpg の章別分担計画
 
-- 調査ノートは完成度高。正文は**短い節または段落**単位  
-- 日本語圏 §11 は原則**本文に入れない**  
-- 新規ファクトはノート内 URL 範囲内  
+**確定事項**：
+- 第4章に VVORK を仕込み（DIS 節延長・1段落）、第6章で Archillect/rare.jpg を軽く回収（1〜2文）
+- 第6章冒頭に normcore＋サフィックス＋K-HOLE→DIS→Are.na 接続を挿入
+- Are.na→CARI は「人脈線」ではなく「プラットフォーム共有」として書く（inv-cari-arena の結果で再判断）
+- 第8章 CARI 節への Are.na 追記は inv-cari-arena 結果次第
+
+---
+
+### inv-cari-arena. CARI の Are.na 活用——追加調査
+
+**目的**：CARI が Are.na をいつ・なぜ・どう使い始めたかを確認する。K-HOLE メンバーとの人脈的接点の有無を確定する。結果次第で第6章の「Are.na → CARI」接続の書き方と、第8章への追記の可否が決まる。
+
+**現状**：調査ノート §12 に予備調査あり（2026-06-26）。公式グループ・チャンネル存在は確認済。利用開始時期・経緯・人脈的接点は▲未確認。
+
+**調査候補 URL**：
+- Evan Collins ポッドキャスト（Nymphet Alumni Ep. 110）：https://open.spotify.com/episode/1psqjoLoRPK9oo4Lbci2vS
+- cari.institute/history：https://cari.institute/history
+- The Grey Zine CARI インタビュー：https://www.thegreyzine.co.uk/zine/understanding-aesthetics-with-cari-institute
+
+**成果物**：調査ノート §12 の更新
+
+**ステータス**：☐ 未着手。**次にやる1件**。
+
+---
+
+### inv-khole-1a. 文案：第4章 VVORK 段落
+
+**前提**：inv-cari-arena 完了後。
+
+**内容**：DIS Magazine 節（L733〜L762）の延長として VVORK（2006–2012）を1段落で紹介。「無言のキュレーション」＝ギャラリー展示形式の借用。DIS のストックフォト批評と同じ「形式を使って形式を暴く」構造。VVORK キュレーション展（2010）に Dena Yago・Charles Broskoski 参加。
+
+**文案ファイル（案）**：`第4章取込_VVORK_文案.md`
+
+**ステータス**：☐ inv-cari-arena 後。
+
+---
+
+### inv-khole-1b. 文案：第6章 normcore＋サフィックス＋Are.na＋Archillect/rare.jpg
+
+**前提**：inv-cari-arena 完了後。
+
+**内容**：第6章冒頭（L1075 後、`## vaporwave の政治的受容` L1077 の前）に数段落を挿入。
+1. サフィックスの生産性（-core / -wave / -punk）＝言語的アーキテクチャ
+2. normcore＝コンセプトと受容のずれ（充填の事例、distroid との対比）
+3. K-HOLE → DIS Magazine → Are.na の接続（人脈線）
+4. Archillect / rare.jpg を1〜2文で言及（VVORK の Twitter 移植、著者性の消去）
+
+**未調査依存**（[`第6章_normcore追加_計画.md`](./第6章_normcore追加_計画.md) §未調査 参照）：
+- C. サフィックスの系譜（優先度：中〜高）——文案作成前に裏取り必要
+- A. normcore 受容の詳細（優先度：低）——文案の depth 次第
+
+**文案ファイル（案）**：`第6章_normcore追加_文案.md`
+
+**ステータス**：☐ inv-cari-arena 後。
+
+---
+
+### inv-khole-1c. 文案：第8章 CARI の Are.na 追記
+
+**前提**：inv-cari-arena の結果次第で実行判断。
+
+**内容**：草稿 L1484〜`## CARI設立とプラットフォームの意味` に、Are.na への言及を追加。Facebook → Discord → cari.institute というプラットフォーム遷移の記述に、Are.na（リサーチ・キュレーション用途）を位置づける。
+
+**文案ファイル（案）**：`第8章取込_CARI_Arena_文案.md`
+
+**ステータス**：☐ inv-cari-arena 結果待ち。
+
+---
+
+**方針（共通）**：
+- 調査ノートは完成度高。正文は**短い節または段落**単位
+- 日本語圏 §11 は原則**本文に入れない**
+- 新規ファクトはノート内 URL 範囲内
 - 草稿に調査ノート § 参照は入れない（公開 URL のみ）
-
-**成果物（案）**
-
-| サブ | ブロック | 文案ファイル（案） |
-|---|---|---|
-| khole-1a | VVORK→Archillect | `第1章取込_匿名キュレーション_文案.md` |
-| khole-1b | K-HOLE／Are.na | `第2章取込_KHOLE_Arena_文案.md` 等 |
-| khole-1c | Giolo & Berghman 接点 | 第5章または aesthetic 章末尾1段落 |
-
-**ステータス**：☐ inv-khole-0 承認待ち。
 
 ---
 
