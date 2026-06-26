@@ -764,4 +764,49 @@ VVORK（2006–2012）　← ポスト・インターネットアートの画像
 
 ---
 
+## 12. CARI の Are.na 活用（予備調査・2026-06-26）
+
+### 12.1 確認済み
+
+- CARI は Are.na 上に公式グループアカウントを持つ
+  - https://www.are.na/consumer-aesthetics-research-institute/channels
+- 創設者 Evan Collins も個人 Are.na アカウントで活動
+  - https://www.are.na/evan-collins-1522646491/channels
+- 美学カテゴリごとのチャンネルが存在する（Frutiger Aero、Disco Deco 等が確認済み）
+  - https://www.are.na/consumer-aesthetics-research-institute/frutiger-aero-ptg8tgmzbig
+- グループ管理者は Lin Duncan。メンバーに Chad Miller、Evisu Gex、Jack Grimes 等
+- Are.na は「CARI メンバーおよび外部の人々による調査のフロントエンド・コレクション」として機能している
+
+> "Founded by Evan Collins, Sofi Xian and Froyo Tam – a mix of architects, designers and self-taught archivists – Cari calls these visual movements 'consumer aesthetics'. CARI work is based on Are.na, where the organization maintains an extensive archive of research."  
+> — It's Nice That (2025-11-12) https://www.itsnicethat.com/features/the-consumer-aesthetics-research-institute-spotlight-creative-industry-121125
+
+- 同記事では、Facebook グループからの拡張先として Are.na と Aesthetics Wiki が並記されている
+
+> "CARI has fostered vibrant subcultures centered on aesthetic appreciation, evolving from niche Facebook groups to broader networks on platforms such as Are.na and Aesthetics Wiki, where volunteers collaboratively analyze and debate visual trends."  
+> — 同上
+
+### 12.2 未確認事項（▲）
+
+- **▲ CARI が Are.na を使い始めた正確な時期**（Facebook グループは 2014年12月開始だが、Are.na 利用開始時期を明示する資料は未発見）
+- **▲ Facebook → Are.na への移行／並行利用の具体的経緯**
+- **▲ Are.na を選んだ理由**（K-HOLE メンバーとの人脈経由かどうか等）。セクション 2.4 で確認した K-HOLE–Are.na 間の人的重複（Chris Sherron、Dena Yago）と、CARI の Are.na 利用を結ぶ一次資料は現時点で見当たらない
+- **▲ チャンネルの総数・全一覧**
+- **▲ Evan Collins 個人の Are.na 利用開始時期**
+
+### 12.3 推測（要検証）
+
+K-HOLE → Are.na → CARI という人脈的直接接続を裏づける資料は見つかっていない。CARI の Are.na 利用は、K-HOLE との人脈というよりも、Are.na がリサーチ・キュレーション志向のプラットフォームとして CARI の活動に機能的に適合していたことが主因である可能性がある。文案作成時には、「人脈線」ではなく「プラットフォームの共有」として記述するのが現時点では正確と思われる。ただし追加調査で関係が見つかる可能性は排除しない。
+
+### 12.4 追加調査候補
+
+- Evan Collins のポッドキャスト出演（Nymphet Alumni Ep. 110）で Are.na について言及がある可能性
+  - https://www.nymphetalumni.com/p/ep-110-consumer-aesthetics-research-a4c
+  - https://open.spotify.com/episode/1psqjoLoRPK9oo4Lbci2vS
+- cari.institute/history ページの精読（今回は 403 で取得不可）
+  - https://cari.institute/history
+- The Grey Zine の CARI インタビュー
+  - https://www.thegreyzine.co.uk/zine/understanding-aesthetics-with-cari-institute
+
+---
+
 *調査ノート終わり。未確認事項（▲）は追加調査の余地あり。*

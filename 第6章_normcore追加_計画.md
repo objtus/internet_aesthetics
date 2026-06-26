@@ -48,12 +48,18 @@ vaporwave の政治的受容（L1077〜、既存）
 | `### -core サフィックスの標準化`（L1355） | 第7章 | 2020年の -core 爆発（3文のみ） | 第6章で前史を置き、第7章が伏線回収になる |
 | CARI 関連節 | 第8章 | CARI の Are.na 活用 | Are.na を先に紹介して橋渡し |
 
+## 既存の調査ノート
+
+- [`khole-arena-archillect-researtch.md`](./khole-arena-archillect-researtch.md)：K-HOLE / Are.na / Archillect / rare.jpg / 日本語圏の匿名キュレーション問題。K-HOLE の来歴・レポート一覧・normcore の概念と誤解、Are.na の設立経緯と K-HOLE との人的重複、DIS Magazine との共演関係など、本計画の調査項目の大半をカバー。セクション12に CARI の Are.na 活用に関する予備調査あり（2026-06-26追記）
+- [`CARI_調査ノート.md`](./CARI_調査ノート.md)：CARI 前史（Evan Collins・Y2K 美学）と DIS Magazine / PC Music 系譜の接続。Are.na への言及なし
+- [`CARIの歴史.md`](./CARIの歴史.md)：cari.institute 由来の年表。Are.na への言及なし
+
 ## 調査が必要な項目
 
-- K-Hole「Youth Mode」レポートの正確な公開日・内容
-- K-Hole のメンバーと DIS Magazine との具体的な人脈関係
-- Are.na の設立経緯・創設者・DIS との関係
-- CARI の Are.na チャンネルの具体的な使用状況
+- K-Hole「Youth Mode」レポートの正確な公開日・内容 → 調査ノートで概ね確認済み
+- K-Hole のメンバーと DIS Magazine との具体的な人脈関係 → 調査ノートで確認済み
+- Are.na の設立経緯・創設者・DIS との関係 → 調査ノートで確認済み
+- CARI の Are.na チャンネルの具体的な使用状況 → 予備調査済み（調査ノート §12）、要追加調査
 - normcore のファッション・ライフスタイルとしての受容に関する主要記事（The Cut、NYT 等）
 - -core / -wave / -punk サフィックスの系譜に関する既存の議論
 
