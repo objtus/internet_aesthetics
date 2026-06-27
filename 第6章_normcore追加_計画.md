@@ -51,9 +51,11 @@
 - **▲ ただし K-HOLE → Are.na → CARI という人脈的直接接続を裏づける一次資料は未発見**。CARI の Are.na 利用は、人脈経由ではなくプラットフォームの機能的適合による可能性がある
 - **▲ CARI が Are.na を使い始めた正確な時期は未確認**（Facebook グループは 2014年12月開始）
 
-**文案作成時の方針修正**：
+**文案作成時の方針（inv-cari-arena ☑ で確定）**：
 - K-HOLE → DIS、K-HOLE → Are.na の接続は人脈線として書ける（一次資料あり）
-- Are.na → CARI は「人脈線」ではなく「プラットフォームの共有」として書くのが現時点では正確。「K-HOLE メンバーが共同創設した Are.na というプラットフォームを、後に CARI も活用することになる」という間接的な接続として記述する
+- Are.na → CARI は**「プラットフォーム共有＋設計思想の構造的親和」**として書く。「K-HOLE メンバーが共同創設した Are.na というプラットフォームを、後に CARI も研究基盤として活用する」という間接的な接続
+- Are.na の設計哲学（広告なし・アルゴリズムなし・「考えるための道具」）が CARI の研究倫理と整合していた点を1文で触れる余地あり（[`Arena設計思想調査ノート.md`](./Arena設計思想調査ノート.md) §7）
+- Broskoski が Collins を名指しした事実（§6.4）は、「プラットフォーム共有」に個人的承認の厚みを加える材料として使える
 
 ## 挿入位置
 
@@ -74,11 +76,12 @@ vaporwave の政治的受容（L1077〜、既存）
 | `### DIS Magazine と #HDBOYZ`（L733） | 第4章 | DIS Magazine が distroid 文脈で既出 | K-HOLE → DIS の人脈で受け取る（調査ノート §7.1 で確認済み：DISown ショー共演、レポート #3 掲載） |
 | `### 命名の失敗と James Ferraro`（L747） | 第4章 | distroid＝充填されなかった名前 | normcore＝意図と異なる形で充填された名前（対比） |
 | `### -core サフィックスの標準化`（L1355） | 第7章 | 2020年の -core 爆発（3文のみ） | 第6章で前史を置き、第7章が伏線回収になる |
-| CARI 関連節 | 第8章 | CARI の Are.na 活用 | Are.na を先に紹介して橋渡し（▲ 人脈線ではなくプラットフォーム共有として） |
+| CARI 関連節 | 第8章 | CARI の Are.na 活用 | Are.na を先に紹介して橋渡し（inv-cari-arena ☑：**プラットフォーム共有＋設計思想の構造的親和**） |
 
 ## 既存の調査ノート
 
 - [`khole-arena-archillect-researtch.md`](./khole-arena-archillect-researtch.md)：K-HOLE / Are.na / Archillect / rare.jpg / 日本語圏の匿名キュレーション問題。K-HOLE の来歴・レポート一覧・normcore の概念と誤解、Are.na の設立経緯と K-HOLE との人的重複、DIS Magazine との共演関係など、本計画の調査項目の大半をカバー。セクション12に CARI の Are.na 活用に関する予備調査あり（2026-06-26追記）
+- [`Arena設計思想調査ノート.md`](./Arena設計思想調査ノート.md)：**inv-cari-arena 成果物**（2026-06-27）。Are.na 設計思想（広告なし・アルゴリズムなし・「考えるための道具」）、CARI の研究基盤としての活用、Discord との三段階知識生産フロー、Broskoski→Collins 言及、「いいね」不在の設計史。一次資料ベース
 - [`CARI_調査ノート.md`](./CARI_調査ノート.md)：CARI 前史（Evan Collins・Y2K 美学）と DIS Magazine / PC Music 系譜の接続。Are.na への言及なし
 - [`CARIの歴史.md`](./CARIの歴史.md)：cari.institute 由来の年表。Are.na への言及なし
 
@@ -93,8 +96,8 @@ vaporwave の政治的受容（L1077〜、既存）
 | K-HOLE ↔ DIS Magazine の人脈 | ✅ 確認済み | 調査ノート §7.1–7.2 | DISown ショー共演、レポート #3 掲載、構造的共通性 |
 | K-HOLE ↔ Are.na の人的重複 | ✅ 確認済み | 調査ノート §2.3–2.4 | Chris Sherron・Dena Yago が両方の共同創設者 |
 | Are.na の設立経緯・設計思想 | ✅ 確認済み | 調査ノート §2.1–2.6 | del.icio.us 終了が動機、Ted Nelson/Xanadu 参照 |
-| CARI の Are.na 活用 | ⚠️ 予備調査のみ | 調査ノート §12 | 公式グループ・チャンネル存在は確認。利用開始時期・経緯は▲ |
-| K-HOLE → Are.na → CARI の人脈的直接接続 | ❌ 未確認 | 調査ノート §12.3 | 一次資料なし。プラットフォーム共有として書くのが現時点では正確 |
+| CARI の Are.na 活用 | ✅ 確認済み | [`Arena設計思想調査ノート.md`](./Arena設計思想調査ノート.md) §6–7, §10 | Collins「CARI work is based here on Are.na」。各 aesthetic に対応チャンネル。三段階知識生産フロー（Discord→Are.na→cari.institute）。利用開始の正確な年月は▲未確定だが文案に支障なし |
+| K-HOLE → Are.na → CARI の人脈的直接接続 | ✅ 確認済み：**なし** | [`Arena設計思想調査ノート.md`](./Arena設計思想調査ノート.md) §6.4 | Broskoski が Collins を「最もおもしろいアカウント」と名指し。人脈線ではなくユーザーとしての注目。**「プラットフォーム共有＋設計思想の構造的親和」**で書く |
 | -core / -wave / -punk サフィックスの系譜 | ❌ 未調査 | — | 既存の議論・学術文献の探索が必要 |
 
 ## 未調査・調査予定
@@ -107,19 +110,21 @@ vaporwave の政治的受容（L1077〜、既存）
 - **NYT・The Cut 等での normcore 報道**：normcore がファッション用語として定着した過程の主要記事。文案の depth 次第で必要になる
 - **K-HOLE 自身の反応**：normcore の誤読に対する K-HOLE メンバーの反応（SSENSE インタビュー 2024-05 が調査ノートの参照資料一覧にある：https://www.ssense.com/en-us/editorial/fashion/normcore-k-hole-interview）
 
-### B. CARI の Are.na 活用の具体像【優先度：中】
+### B. CARI の Are.na 活用の具体像【✅ 調査完了（2026-06-27）】
 
-文案で Are.na → CARI の橋渡しを書くために、最低限の具体性が欲しい：
+[`Arena設計思想調査ノート.md`](./Arena設計思想調査ノート.md) で解決済み。文案作成に必要な材料は揃った。
 
-- **CARI の Are.na 利用開始時期**：Facebook グループ（2014-12）より前か後か。Are.na 自体は 2011 年設立だが、CARI のアカウント作成時期は不明
-- **チャンネルの規模感**：総数・代表的チャンネル名のリスト（Frutiger Aero、Disco Deco は確認済み）
-- **Are.na の役割**：Facebook グループとの使い分け。It's Nice That 記事（2025-11-12）は「Facebook groups → broader networks on platforms such as Are.na」と記述しており、拡張先という位置づけらしい
-- **K-HOLE メンバーとの人脈的接点の有無**：現時点では一次資料なし。追加調査で出てこなければ「プラットフォーム共有」として記述
+**確定事項**：
+- **Are.na の役割**：CARI の「研究基盤」（Collins「CARI work is based here on Are.na」）。初期アイデア出し・協働研究・視覚コーパス保存の場
+- **機能分担**：Are.na（静的・参照的・公開）＝視覚資料アーカイブ、Discord（動的・会話的）＝命名投票・Maintenance Effort、cari.institute（規範的・公開）＝確定テキスト
+- **三段階知識生産フロー**：Discord チャンネル説明文 → Are.na チャンネル → cari.institute 公式ページ（CARI Project History で確認）
+- **各 aesthetic に対応チャンネル**：cari.institute の各ページから Are.na チャンネルへリンク（Internet Awesomesauce、Global Village Coffeehouse 等で実例確認）
+- **Broskoski → Collins**：「最もおもしろいアカウント」として名指し（Upstatement インタビュー）
+- **K-HOLE との人脈的直接接点**：**なし**。「プラットフォーム共有＋設計思想の構造的親和」として書く
 
-**調査候補 URL（調査ノート §12.4 より）：**
-- Evan Collins ポッドキャスト（Nymphet Alumni Ep. 110）：https://open.spotify.com/episode/1psqjoLoRPK9oo4Lbci2vS
-- cari.institute/history：https://cari.institute/history（前回 403 で取得不可）
-- The Grey Zine CARI インタビュー：https://www.thegreyzine.co.uk/zine/understanding-aesthetics-with-cari-institute
+**残る▲**：
+- CARI の Are.na 利用開始の正確な年月（一次資料なし。文案で断定を避ける書き方で対処）
+- チャンネル総数・ブロック総数の現在値（文案の depth 次第で取得判断）
 
 ### C. サフィックスの系譜【優先度：中〜高】
 
@@ -135,10 +140,10 @@ vaporwave の政治的受容（L1077〜、既存）
 
 簡潔に。サフィックス論 + normcore + 人脈線で合わせて数段落。normcore 自体の詳述に深入りしすぎない。主題は「第6章を前後の章に接続すること」と「サフィックスの言語的アーキテクチャとしての性格を論じること」の二点。
 
-## 作業手順
+## 作業手順（2026-06-27 更新）
 
-1. 未調査項目 C（サフィックスの系譜）を調査する
-2. 未調査項目 B（CARI の Are.na 活用）を追加調査する（候補 URL あり）
+1. ~~未調査項目 B（CARI の Are.na 活用）を追加調査する~~ → ☑ [`Arena設計思想調査ノート.md`](./Arena設計思想調査ノート.md) で完了
+2. 未調査項目 C（サフィックスの系譜）を調査する
 3. 未調査項目 A（normcore 受容の詳細）は文案の depth 次第で判断
 4. 第7章 L1355 の既存記述を確認し、重複を避ける
 5. 調査結果をもとに文案を作成する（`第6章_normcore追加_文案.md`）

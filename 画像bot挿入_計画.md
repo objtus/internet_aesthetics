@@ -30,11 +30,15 @@
 
 **分量**：1〜2文。normcore → サフィックス → Are.na という本筋を邪魔しない程度
 
-### 第8章・CARI 設立節（L1484〜）への追記の可能性【別作業】
+### 第8章・CARI 設立節（L1484〜）への追記【実行可能・inv-khole-1c】
 
 - 草稿 L1484–1497 は CARI のプラットフォーム選択（Facebook → Discord → cari.institute）を論じているが、Are.na への言及がない
 - CARI の Are.na 活用を書くならここ。第6章で Are.na を紹介した後の着地点にもなる
-- ただし Are.na 活用の詳細は予備調査段階（調査ノート §12）であり、追加調査の結果次第
+- inv-cari-arena ☑（2026-06-27）で**実行可能**と判断。[`Arena設計思想調査ノート.md`](./Arena設計思想調査ノート.md) が材料を提供：
+  - Collins「CARI work is based here on Are.na」（一次資料あり）
+  - 三段階知識生産フロー：Discord（議論・命名）→ Are.na（視覚コーパス）→ cari.institute（確定テキスト）
+  - 各 aesthetic ページに対応 Are.na チャンネルが存在
+  - Maintenance Effort（2021–2024）：Discord チャンネル説明文 → Website への制度化プロセス
 
 ## 分担まとめ
 
@@ -42,13 +46,14 @@
 |---|---|---|---|
 | 第4章 DIS 節 | VVORK＝「無言のキュレーション」、DIS と同一シーンの視覚的実践 | 仕込み | 1段落 |
 | 第6章 normcore 挿入 | Archillect・rare.jpg＝VVORK の Twitter への移植、normcore との共鳴 | 回収・接続 | 1〜2文 |
-| 第8章 CARI 節 | CARI の Are.na 活用（プラットフォーム論の補完） | 別作業 | 要検討 |
+| 第8章 CARI 節 | CARI の Are.na 活用（プラットフォーム論の補完） | inv-khole-1c | 1〜2段落（inv-cari-arena ☑） |
 
-## 調査状況
+## 調査状況（2026-06-27 更新）
 
-画像bot自体の事実関係は調査ノート §3–8 で概ね調査済み。草稿への挿入は文案作成に進める段階。ただし第8章の Are.na 追記については CARI–Are.na 調査（調査ノート §12、予備調査のみ）の追加調査が先。
+画像bot自体の事実関係は調査ノート §3–8 で概ね調査済み。草稿への挿入は文案作成に進める段階。第8章の Are.na 追記については inv-cari-arena ☑（2026-06-27）で**実行可能**と判断。
 
 ## 関連ファイル
 
 - [`khole-arena-archillect-researtch.md`](./khole-arena-archillect-researtch.md) §3–8：Archillect、rare.jpg、VVORK、画像キュレーション系譜の調査
+- [`Arena設計思想調査ノート.md`](./Arena設計思想調査ノート.md)：**inv-cari-arena 成果物**（2026-06-27）。第8章 CARI Are.na 追記の材料
 - [`第6章_normcore追加_計画.md`](./第6章_normcore追加_計画.md)：normcore / サフィックス / Are.na の挿入計画（本計画と連動）
