@@ -831,25 +831,31 @@ reorg-0/1/2 ☑／aesthetic-rev-1 ☑（草稿 L687–870）／aesthetic-rev-2 �
 
 ### inv-khole-1a. 文案：第4章 VVORK 段落
 
-**前提**：inv-cari-arena 完了後。
+**前提**：inv-cari-arena ☑。**着手可能**。
 
 **内容**：DIS Magazine 節（L733〜L762）の延長として VVORK（2006–2012）を1段落で紹介。「無言のキュレーション」＝ギャラリー展示形式の借用。DIS のストックフォト批評と同じ「形式を使って形式を暴く」構造。VVORK キュレーション展（2010）に Dena Yago・Charles Broskoski 参加。
 
 **文案ファイル（案）**：`第4章取込_VVORK_文案.md`
 
-**ステータス**：☐ inv-cari-arena 後。
+**ステータス**：☐ 着手可能。
 
 ---
 
 ### inv-khole-1b. 文案：第6章 normcore＋サフィックス＋Are.na＋Archillect/rare.jpg
 
-**前提**：inv-cari-arena 完了後。
+**前提**：inv-cari-arena ☑。**着手可能**（未調査C「サフィックス系譜」は残る）。
 
 **内容**：第6章冒頭（L1075 後、`## vaporwave の政治的受容` L1077 の前）に数段落を挿入。
 1. サフィックスの生産性（-core / -wave / -punk）＝言語的アーキテクチャ
 2. normcore＝コンセプトと受容のずれ（充填の事例、distroid との対比）
-3. K-HOLE → DIS Magazine → Are.na の接続（人脈線）
+3. K-HOLE → DIS Magazine → Are.na の接続（人脈線）＋ Are.na の特徴づけ（1〜2文）
 4. Archillect / rare.jpg を1〜2文で言及（VVORK の Twitter 移植、著者性の消去）
+
+**ブロック3 で使う具体的素材**（[`第6章_normcore追加_計画.md`](./第6章_normcore追加_計画.md) §3 の素材表から選択）：
+- del.icio.us の死 → Are.na 創設（プラットフォーム死のテーマとの接続）
+- 「考えるための道具」（最短の特徴づけ）
+- 「いいね」不在 or チャンネル＝「まだ形になっていない思考領域」（具体性）
+- 第8章（inv-khole-1c）への**予告**にとどめ、CARI との関係の詳細はここでは書かない
 
 **未調査依存**（[`第6章_normcore追加_計画.md`](./第6章_normcore追加_計画.md) §未調査 参照）：
 - C. サフィックスの系譜（優先度：中〜高）——文案作成前に裏取り必要
@@ -857,21 +863,25 @@ reorg-0/1/2 ☑／aesthetic-rev-1 ☑（草稿 L687–870）／aesthetic-rev-2 �
 
 **文案ファイル（案）**：`第6章_normcore追加_文案.md`
 
-**ステータス**：☐ inv-cari-arena 後。
+**ステータス**：☐ 着手可能（未調査C の調査が先）。
 
 ---
 
 ### inv-khole-1c. 文案：第8章 CARI の Are.na 追記
 
-**前提**：inv-cari-arena ☑。**実行可能**と判断。
+**前提**：inv-cari-arena ☑。**着手可能**。
 
-**内容**：草稿 L1484〜`## CARI設立とプラットフォームの意味` に、Are.na への言及を追加。Facebook → Discord → cari.institute というプラットフォーム遷移の記述に、Are.na（リサーチ・キュレーション用途）を位置づける。
+**内容**：草稿 **L1497 直後**に1段落を挿入。Facebook → Discord → cari.institute という時系列的遷移と**並行して**、Are.na が視覚資料の研究基盤として機能していることを書く。Are.na は遷移の一ステップではなく**並行する研究レイヤー**。
 
-**inv-cari-arena からの新材料**：
-- 三段階知識生産フロー：Discord（議論・命名）→ Are.na（視覚コーパス）→ cari.institute（確定テキスト）
-- Collins「CARI work is based here on Are.na」（一次資料あり）
-- 各 aesthetic ページに対応 Are.na チャンネルが存在（cari.institute 実例で確認済み）
-- Maintenance Effort（2021–2024）：Discord チャンネル説明文→Website の知識生産フロー
+**記述構造**（[`画像bot挿入_計画.md`](./画像bot挿入_計画.md) 第8章セクション参照）：
+1. Are.na の性格を短く受ける（第6章 inv-khole-1b で予告済み。繰り返さない）
+2. Collins「CARI work is based here on Are.na」＋各 aesthetic に対応チャンネル
+3. 三段階知識生産フロー：Discord → Are.na → cari.institute
+4. 機能分担：Discord＝動的・会話的、Are.na＝静的・参照的・公開、cari.institute＝規範的
+
+**重複チェック**：L1488 Discord 創設日・L1497 cari.institute の性格は**既出**。繰り返さない。
+
+**分量**：1段落（5〜8行）
 
 **文案ファイル（案）**：`第8章取込_CARI_Arena_文案.md`
 

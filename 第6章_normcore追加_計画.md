@@ -31,7 +31,7 @@
 
 **未調査**：normcore のファッション・ライフスタイルとしての受容に関する主要記事の網羅（Fiona Duncan 記事の正確な URL・日付、NYT・The Cut 等での報道）。ただし文案作成にはすでに十分な材料がある。
 
-### 3. K-HOLE → DIS Magazine → Are.na【調査済み】→ CARI【一部未確認】
+### 3. K-HOLE → DIS Magazine → Are.na【調査済み】→ CARI【調査済み】
 
 **K-HOLE ↔ DIS Magazine の接続（調査ノート §7.1–7.2 より）：**
 - 2014年の DISown ショー（Red Bull Studios NY）に K-HOLE が参加（Artforum の Christopher Glazek による証言）
@@ -45,17 +45,33 @@
 - 調査ノートの結論：「独立したプロジェクトだが、同一の人的ネットワーク（Brown/RISD 卒業 NY 系ポスト・インターネットアート圏）から同時期に発生した姉妹的プロジェクト」
 - VVORK キュレーション展（2010年）に Dena Yago・Charles Broskoski・Damon Zucconi が参加（Monoskop 記録）——K-HOLE、Are.na、VVORK が同一の NY ネットアート圏に属していた直接の証拠
 
-**Are.na → CARI の接続（調査ノート §12 予備調査より）：**
-- CARI は Are.na 上に公式グループアカウントを持ち、美学カテゴリごとのチャンネル（Frutiger Aero、Disco Deco 等）を運用
-- It's Nice That（2025-11-12）：「evolving from niche Facebook groups to broader networks on platforms such as Are.na and Aesthetics Wiki」
-- **▲ ただし K-HOLE → Are.na → CARI という人脈的直接接続を裏づける一次資料は未発見**。CARI の Are.na 利用は、人脈経由ではなくプラットフォームの機能的適合による可能性がある
-- **▲ CARI が Are.na を使い始めた正確な時期は未確認**（Facebook グループは 2014年12月開始）
+**Are.na の設計思想——文案で使える具体的素材（[`Arena設計思想調査ノート.md`](./Arena設計思想調査ノート.md) より）：**
+
+Are.na を第6章で紹介する際、以下から選んで1〜2文で特徴づける。
+
+| 素材 | 出典 | 文案での使い方 |
+|---|---|---|
+| **del.icio.us の死が Are.na 創設の動機**。Broskoski は 2006年頃 del.icio.us で Boling と出会い、Yahoo 買収→サービス劣化→終了を経験 | §1（Creative Independent 2017・IDPI ポッドキャスト） | **プラットフォームの死→新プラットフォーム**。本書のテーマ（第1章 GeoCities・MySpace 喪失、concl-2 アーカイブ危機）と直接共鳴。Are.na 自体がプラットフォーム死の記憶から生まれた |
+| **「考えるための道具」**（"a tool for thinking"）。広告モデルは思想的に検討外 | §2-1（Upstatement インタビュー） | Are.na の性格を最短で特徴づける1語。広告なし＝商業的誘因による歪みがない |
+| **チャンネル＝「まだ形になっていない思考領域」**。"areas of thought that become more articulated over time" | §2-3（Upstatement インタビュー） | CARI の「名前のないものに名前を与える」実践と**構造的に同型**（§7）。プラットフォームの設計と研究の方法が重なる |
+| **「いいね」が創設時から存在しない**。likes / favorites / shares を持たない設計 | §9（Wikipedia・Fast Company 2018） | アルゴリズム拒否の最も端的なイラスト。1文で Are.na の反 SNS 的性格を示せる |
+| **「connected knowledge collectors」**——ユーザー像はデモグラフィックでなくサイコグラフィック | §5（IDPI ポッドキャスト） | CARI が Are.na を選んだ理由の一端。使う場合は短く |
+| **VC 拒否・慶雲館モデル**——705年創業の旅館を目標比較対象に | §3-2（Kernel Magazine） | プラットフォームの短命（本書テーマ）への対位法。使う場合は1文。正文に入れるかは要判断——第6章の主題（normcore・人脈線）から離れすぎる可能性あり |
+
+**推奨**：del.icio.us 起源（プラットフォーム死のテーマとの接続）＋「考えるための道具」（最短の特徴づけ）＋「いいね」不在 or チャンネル観（具体性）から2〜3点を選び、K-HOLE → Are.na の人脈線に続けて1〜2文で書く。慶雲館モデル・connected knowledge collectors は**予備素材**（使わなくてよい）。
+
+**Are.na → CARI の接続（[`Arena設計思想調査ノート.md`](./Arena設計思想調査ノート.md) §6–7 で確定）：**
+- Collins「CARI work is based here on Are.na」——Are.na が CARI の研究基盤であることの一次資料（§6.1、Collins Are.na プロフィール）
+- 各 aesthetic ページに対応 Are.na チャンネルが存在（Internet Awesomesauce、Global Village Coffeehouse 等で実例確認。§6.3）
+- Broskoski が Collins を「最もおもしろいアカウント」と名指し（§6.4、Upstatement インタビュー）——人脈線ではなくユーザーとしての注目。「プラットフォーム共有」に個人的承認の厚みを加える
+- K-HOLE メンバーとの人脈的直接接点は**なし**（§6.4 で確定）
+- **▲** CARI が Are.na を使い始めた正確な時期は未確定（文案で断定を避ける書き方で対処）
 
 **文案作成時の方針（inv-cari-arena ☑ で確定）**：
 - K-HOLE → DIS、K-HOLE → Are.na の接続は人脈線として書ける（一次資料あり）
 - Are.na → CARI は**「プラットフォーム共有＋設計思想の構造的親和」**として書く。「K-HOLE メンバーが共同創設した Are.na というプラットフォームを、後に CARI も研究基盤として活用する」という間接的な接続
-- Are.na の設計哲学（広告なし・アルゴリズムなし・「考えるための道具」）が CARI の研究倫理と整合していた点を1文で触れる余地あり（[`Arena設計思想調査ノート.md`](./Arena設計思想調査ノート.md) §7）
-- Broskoski が Collins を名指しした事実（§6.4）は、「プラットフォーム共有」に個人的承認の厚みを加える材料として使える
+- Are.na の特徴づけは上表から2〜3点を選び、1〜2文に収める
+- 第6章での Are.na 言及は**予告**にとどめ、詳細は第8章（inv-khole-1c）に委ねる
 
 ## 挿入位置
 
