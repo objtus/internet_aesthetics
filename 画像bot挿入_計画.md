@@ -57,6 +57,12 @@
 | Discord 創設日 2017-11-27（Froyo Tam） | §10.1 | **草稿 L1488 に既出**（「2017年11月27日、Froyo Tamは…」）。重複しない |
 | 2021-05 @Y2K_Aesthetic ツイート時点で 800人超 | §10.1 | コミュニティ規模の参考。**使うかは要判断** |
 
+**予備素材：Indie Sleaze 命名経緯（CARI 遡及的命名プロセスの具体例）**：
+- 2016年：Facebook グループ Post-Post-Y2K の命名投票で「indie über-sleaze」が提案
+- 2018年：Dalia Barillaro が Facebook グループ作成。CARI がウェブサイトカテゴリとして採用
+- 2021年：Instagram @indiesleaze が「indie sleaze」に短縮・普及。CARI も改称
+- CARI の遡及的命名プロセスの典型例だが、本筋（Are.na 三段階フロー）から離れるため**使用は要判断**
+
 **分量**：**1段落**（長くても短い2段落）。草稿の既存プラットフォーム論（L1484–1497）は約14行。追記は5〜8行が目安。
 
 **既存テクストとの重複チェック**：
@@ -71,6 +77,16 @@
 | 第4章 DIS 節 | VVORK＝「無言のキュレーション」、DIS と同一シーンの視覚的実践 | 仕込み | 1段落 |
 | 第6章 normcore 挿入 | Archillect・rare.jpg＝VVORK の Twitter への移植、normcore との共鳴 | 回収・接続 | 1〜2文 |
 | 第8章 CARI 節 | Are.na＝視覚的研究基盤（Discord・cari.institute との三段階フロー） | inv-khole-1c | 1段落（L1497 直後。inv-cari-arena ☑） |
+
+### 第1章・soft grunge 節（L149 付近）への追記【inv-khole-1b 連動】
+
+**挿入位置**：L149「MySpace のエモ・シーンキッズ文化が 2009〜2010年に Tumblr へ移り、 soft grunge とくくられる」の直後または近傍。
+
+**書くべき内容**：Indie Sleaze → Soft Grunge の系譜を1-2文。「〇〇によれば〜という」の伝聞形式。Wikipedia: 「soft grunge fashion style evolved directly from the indie sleaze trend, once Tumblr users began to merge it with darker fashion elements」を引く。Indie Sleaze は後年遡及的に名づけられた NY / London 圏のスタイルであり、Tumblr 上で soft grunge に変容したという位置づけ。
+
+**第6章サフィックス来歴との接続**：fashioncore → scene → Indie Sleaze → soft grunge という系譜が、第6章のサフィックス来歴（fashioncore → normcore）と同じ根から分岐している。第1章で Indie Sleaze に触れておくことで、第6章の fashioncore 言及が伏線回収になる。
+
+**分量**：1-2文。
 
 ## 調査状況（2026-06-28 更新）
 

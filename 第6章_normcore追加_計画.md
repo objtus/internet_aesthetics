@@ -8,11 +8,30 @@
 
 ## 要旨（調査ノートとの突き合わせ済み）
 
-### 1. サフィックスの生産性＝言語的アーキテクチャ【調査済み】
+### 1. サフィックスの来歴（~10行）——normcore の舞台設定＋第7章の前史【調査済み】
 
--core（hardcore 由来）、-wave（new wave 由来）、-punk（punk 由来）といった接尾辞は歴史が古いが、2010年代以降のインターネット美学において「語幹＋接尾辞」で無限にバリエーションを生成できる構造として機能した。これは第1章で論じた Tumblr のタグシステム（技術的アーキテクチャとしての組み合わせ可能性の空間）と同型の効果を、言語レベルで持っている。タグが技術的インフラなら、サフィックスは言語的インフラだ。両者が重なるとき（#cottagecore = タグ + サフィックス）、可能性の空間は掛け算になる。
+第6章のサフィックスブロックは二つの役割を担う。(a) normcore（§2）を語るための舞台設定、(b) 第7章 L1355「-core サフィックスの標準化」（現行3行のみ）の**前史**。第7章の3行は第6章への後方参照に書き換える（「第6章で見たサフィックスの増殖は〜」の形）。
 
-**調査状況**：☑ [`サフィックス系譜比較調査ノート.md`](./サフィックス系譜比較調査ノート.md)（2026-06-28）で解決。三系譜の語源・増殖ロジック・横断比較・命名発生様式の違いを整理済み。文案作成に十分な材料がある。
+**叙述の骨格（-core に焦点を絞り、fashioncore → normcore → corecore）**：
+- -core/-wave/-punk といったサフィックスがインターネット美学の命名インフラになった背景を概観。三系譜の詳細な類型論（命名発生様式の上→下／相互作用／下→上）は調査ノートに留め、正文には入れない
+- -core の系譜に焦点：hardcorepunk（1980年）→ fashioncore（2002年・**侮辱語として発生**。-core が音楽からビジュアルに転じた最初の事例）→ scene サブカルチャーのビジュアル基盤 → normcore（2013年・§2 で詳述）→ cottagecore 時代の爆発（第7章で回収）→ corecore（2020年・メタ批評的反転。1文で第7章への前振り）
+- fashioncore が「侮辱語として発生」→ normcore も「意図と異なる形で充填」という構造の反復。「名前は蔑称・冗談・誤読から定着する」パターンは、第2章 chillwave（Hipster Runoff の揶揄から命名）とも共鳴する
+
+**使える引用・フレーミング**：
+- The Conversation（Cousins & Wiltshire）: 「It was a time before style was divided into 'aesthetics' and 'cores'」——Indie Sleaze 時代（〜2014年頃）が -core 命名インフラ成立以前であることを示す歴史的境界のマーカー
+- Grant Barrett（辞書学者）NYT: 「'Core' just seems like a suffix that is going to last and last and last」
+- Wikipedia/-core: 「-core has been described as the successor to the term *chic*」——読者にとって直感的な入口
+
+**soft grunge / scene / Indie Sleaze との接続（第1章回収）**：
+- 第1章 L149 に「MySpace のエモ・**シーンキッズ文化**が Tumblr へ移り、soft grunge とくくられる」が既出。「シーンキッズ」は Scene サブカルチャーのことであり、そのビジュアルの母体は fashioncore
+- 第6章のサフィックス来歴で fashioncore → scene の系譜に触れることで、第1章の「シーンキッズ」が伏線として回収される
+- 第1章 L149 付近に Indie Sleaze → Soft Grunge の系譜を1-2文で追記（「〇〇によれば〜という」の伝聞形式）。Wikipedia: 「soft grunge fashion style evolved directly from the indie sleaze trend, once Tumblr users began to merge it with darker fashion elements」を引く
+
+**corecore → yabujincore の接続（第7章前振り）**：
+- 第6章のサフィックス来歴では corecore を「-core 増殖の帰結点・メタ批評」として1文触れる
+- 第7章 L1395 yabujincore（「個人名に-coreを付けて汎用ジャンルへ転化する命名」）の近くで、corecore の美学イメージとの近さに軽く触れる。第6章と第7章で corecore が二度出るが、役割が異なる（第6章 = サフィックス史の帰結、第7章 = 美学イメージの具体）ので重複しない
+
+**調査状況**：☑ [`サフィックス系譜比較調査ノート.md`](./サフィックス系譜比較調査ノート.md)（2026-06-28）＋[`scene_subculture_notes.md`](./scene_subculture_notes.md)（2026-06-28）で解決。文案作成に十分な材料がある。
 
 ### 2. normcore——コンセプトと受容のずれ【調査済み・文案作成可能】
 
@@ -23,6 +42,13 @@
 - K-HOLE の定義：normcore はドレスコードではなく社会学的態度——「何も特別でないことに解放を見出し、個人の差異よりも帰属を追求する」
 - ファッション用語化の契機：2014年初頭、New York Magazine の Fiona Duncan の記事が normcore を視覚的ファッションスタイルとして紹介。「ダッドジーンズ、New Balance、Patagonia」が結びついて世界的に拡散
 - K-HOLE の意図（コードスイッチング哲学）から乖離した形でミーム化
+
+**新規追加素材（[`scene_subculture_notes.md`](./scene_subculture_notes.md) より）：**
+
+- **Ryan Estrada の 2008年 webcomic 先行使用**：K-HOLE 以前に normcore という語が存在した。架空の集団を指す語として webcomic *Templar, Arizona* のゲストストリップで使用（Wikipedia/Normcore）。K-HOLE の normcore が「再定義」であることが明確になり、「語義の横領」narrative の層が一つ増える
+- **Greg Fong（K-HOLE）SSENSE 直接引用**：「Normcore was born out of thinking about the end state. How far does authenticity go? Where does it become taxing?」（SSENSE 2024-05）。計画にある「コードスイッチング哲学」より具体的で生き生きした表現。文案で使える
+- **gorpcore（2017年、同じ NY Magazine）**：normcore が孤立した事象ではなく、同じ雑誌が -core 語を量産するパターンの一例。サフィックスの「メディア駆動命名」の具体例
+- **normcore Oxford 新語賞準優勝**：語の制度的承認を示す具体的事実
 
 **本稿での位置づけ（計画時点の方針）：**
 - normcore を「反美学」として扱わない。コンセプトではなく効果と実際のありようを見る
@@ -91,7 +117,9 @@ vaporwave の政治的受容（L1077〜、既存）
 | `## フォークソノミーという論理` | 第1章 | タグシステム＝技術的アーキテクチャ | サフィックス＝言語的アーキテクチャとして対応 |
 | `### DIS Magazine と #HDBOYZ`（L733） | 第4章 | DIS Magazine が distroid 文脈で既出 | K-HOLE → DIS の人脈で受け取る（調査ノート §7.1 で確認済み：DISown ショー共演、レポート #3 掲載） |
 | `### 命名の失敗と James Ferraro`（L747） | 第4章 | distroid＝充填されなかった名前 | normcore＝意図と異なる形で充填された名前（対比） |
-| `### -core サフィックスの標準化`（L1355） | 第7章 | 2020年の -core 爆発（3文のみ） | 第6章で前史を置き、第7章が伏線回収になる |
+| `### 二つの流れ：ネットアート と soft grunge`（L145-151） | 第1章 | 「エモ・シーンキッズ文化」→ soft grunge | **Indie Sleaze → Soft Grunge** を1-2文追記。fashioncore / scene の系譜が第6章サフィックス来歴と接続。「〇〇によれば〜という」の伝聞形式 |
+| `### -core サフィックスの標準化`（L1355） | 第7章 | 2020年の -core 爆発（現行3行のみ） | **第6章への後方参照に書き換え**（「第6章で見たように〜」の形）。前史は第6章が担う |
+| yabujincore（L1395） | 第7章 | 個人名 + -core の汎用化 | **corecore の美学イメージとの近さ**に軽く触れる。第6章でサフィックス来歴の帰結として触れた corecore の具体像 |
 | CARI 関連節 | 第8章 | CARI の Are.na 活用 | Are.na を先に紹介して橋渡し（inv-cari-arena ☑：**プラットフォーム共有＋設計思想の構造的親和**） |
 
 ## 既存の調査ノート
@@ -157,22 +185,38 @@ vaporwave の政治的受容（L1077〜、既存）
 - **solarpunk ケーススタディ**：語の命名（2008年・テキスト）とビジュアル aesthetic の確立（2014年・Tumblr @missolivialouise 投稿、26,385リブログ）に6年のタイムラグ。イメージが理論に先行した典型例
 
 **文案で使う素材の推奨**：
-- 三系譜の命名発生様式の違い（§4-2）——第1章タグシステム（技術的アーキテクチャ）との対応で「言語的アーキテクチャ」を論じる際の骨格
-- -core と -wave の意味論的対比（§4-5）——normcore の位置づけに直結
-- 意味の希薄化→corecore の弁証法（§4-3）——第7章 L1355「-core サフィックスの標準化」への伏線
-- **第7章 `### -core サフィックスの標準化`（L1355）の内容確認**は未実施。文案作成時に確認が必要
+- **fashioncore → normcore → corecore の物語線**（[`scene_subculture_notes.md`](./scene_subculture_notes.md) §4、[`サフィックス系譜比較調査ノート.md`](./サフィックス系譜比較調査ノート.md) §4-3）——サフィックスブロックの叙述的骨格。三系譜の類型論は調査ノートに留め、正文では -core に焦点を絞る
+- **The Conversation 引用**（Cousins & Wiltshire）: 「It was a time before style was divided into 'aesthetics' and 'cores'」——歴史的境界のマーカー
+- **Grant Barrett NYT 引用**: 「'Core' just seems like a suffix that is going to last and last and last」——外部の辞書学者による -core の評価
+- **「-core は *chic* の後継語」**（Wikipedia/-core）——読者にとって直感的な入口
+- **fashioncore の「侮辱語として発生」**（Loudwire: "coined as an insult"）→ normcore も意図と異なる流通——「名前は蔑称・冗談・誤読から定着する」パターン。第2章 chillwave（Hipster Runoff の揶揄）と共鳴
+- **soft grunge / scene / Indie Sleaze の系譜**（[`scene_subculture_notes.md`](./scene_subculture_notes.md) §8・§10、Wikipedia/Indie sleaze）——第1章 L149 への接続
+- **第7章 `### -core サフィックスの標準化`（L1355）**は確認済み（3行のみ）。第6章への後方参照に書き換え。L1395 yabujincore 近くに corecore との美学イメージの近さを追記
 
 ## 分量の目安
 
-簡潔に。サフィックス論 + normcore + 人脈線で合わせて数段落。normcore 自体の詳述に深入りしすぎない。主題は「第6章を前後の章に接続すること」と「サフィックスの言語的アーキテクチャとしての性格を論じること」の二点。
+第6章は現行142行で全章中最も短い（他章は183-270行）。追加しても他の章と揃う方向。
+
+| ブロック | 目安 | 役割 |
+|---|---|---|
+| サフィックスの来歴 | ~10行 | normcore の舞台設定。fashioncore / scene / soft grunge との接続。corecore に1文触れて第7章前振り |
+| normcore | 数段落（主要ブロック） | K-HOLE のコンセプト → Fiona Duncan の語義変容 → 「充填」概念の例証 |
+| K-HOLE → DIS → Are.na 人脈線 | 数段落 | 第4章 DIS Magazine から受け取り、第8章 CARI へ渡す橋 |
+| Archillect / rare.jpg | 1-2文 | normcore の「著者性の消去」との共鳴（画像bot挿入計画と連動） |
+| **合計** | **30-50行追加** | 第6章は約170-190行になる見込み。全章中最短→中位 |
+
+normcore 自体の詳述に深入りしすぎない。サフィックスの来歴は normcore の舞台設定であり、normcore は DIS / Are.na / CARI への入口。主題は「第6章を前後の章に接続すること」。
+
+**密度の方針**：サフィックスの来歴は草稿の「文脈の素材」に当たり、本筋の叙述より軽い密度で書く。著者が疎い領域であることを踏まえ、伝聞・出典帰属の形（「〇〇によれば〜という」「〜として位置づけられている」）を基調とする。
 
 ## 作業手順（2026-06-27 更新）
 
 1. ~~未調査項目 B（CARI の Are.na 活用）を追加調査する~~ → ☑ [`Arena設計思想調査ノート.md`](./Arena設計思想調査ノート.md) で完了
 2. ~~未調査項目 C（サフィックスの系譜）を調査する~~ → ☑ [`サフィックス系譜比較調査ノート.md`](./サフィックス系譜比較調査ノート.md) で完了
 3. 未調査項目 A（normcore 受容の詳細）は文案の depth 次第で判断
-4. 第7章 L1355 の既存記述を確認し、重複を避ける
-5. 調査結果をもとに文案を作成する（`第6章_normcore追加_文案.md`）
-6. `文体メモ.md` と `編集方針.md` に従って推敲する
-7. `草稿.md` に反映する
-8. `草稿_推敲メモ.md` の改稿ログに記録する
+4. 第7章 L1355 を第6章への後方参照に書き換える。L1395 yabujincore 近くに corecore との美学イメージの近さを追記
+5. 第1章 L149 付近に Indie Sleaze → Soft Grunge を1-2文追記（「〇〇によれば〜という」形式）
+6. 調査結果をもとに文案を作成する（`第6章_normcore追加_文案.md`）
+7. `文体メモ.md` と `編集方針.md` に従って推敲する
+8. `草稿.md` に反映する
+9. `草稿_推敲メモ.md` の改稿ログに記録する

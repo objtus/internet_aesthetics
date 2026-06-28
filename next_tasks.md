@@ -6,7 +6,7 @@
 
 **直近完了（2026-06-27）**：**inv-cari-arena** ☑（Are.na 設計思想・CARI 研究基盤・Discord 三段階フロー。「プラットフォーム共有」確定）／**src-4b** ☑／**intro-kojiateki** ☑／**inv-opn-cook** ☑／**ed-3** ☑（seapunk 読み道・Phase 1–2）／**aesthetic-rev-1** ☑／**ch3-ch6-balance** ☑／**ed-6** △（L14・L38・L22）／**src-1** ☑（洗い出しのみ・草稿反映なし）。分割稿 [`第3章_aestheticという語.md`](./第3章_aestheticという語.md) は**手動同期（ユーザー）**
 
-**次にやる1件**：**inv-khole-1a**（第4章 VVORK）＋ **inv-khole-1b**（第6章 normcore＋Are.na）並行可 → **inv-khole-1c**（第8章 CARI Are.na）。並行可：**ed-6** polish／**meg-1〜3**。後回し：**inv-vektroid**／**meta-1**／**meta-3**／**concl-2**／**meta-2**
+**次にやる1件**：**inv-khole-1a**（第4章 VVORK）＋ **inv-khole-1b**（第6章 サフィックス来歴＋normcore＋Are.na。第1章 Indie Sleaze 追記・第7章書き換えを含む）並行可 → **inv-khole-1c**（第8章 CARI Are.na）。並行可：**ed-6** polish／**meg-1〜3**。後回し：**inv-vektroid**／**meta-1**／**meta-3**／**concl-2**／**meta-2**
 
 **使い方**
 
@@ -155,7 +155,7 @@ aesthetic-rev-1（文法）＋ aesthetic-rev-2（制度化・ed-6 分担）
 | **inv-khole-0** | **挿入位置の測定**（VVORK→Archillect 系譜／K-HOLE／normcore／Are.na） | ☑ | — | [`第6章_normcore追加_計画.md`](./第6章_normcore追加_計画.md)＋[`画像bot挿入_計画.md`](./画像bot挿入_計画.md) |
 | **inv-cari-arena** | **CARI の Are.na 活用——追加調査** | ☑ | inv-khole-0 ☑ | [`Arena設計思想調査ノート.md`](./Arena設計思想調査ノート.md)（2026-06-27） |
 | **inv-khole-1a** | 文案：**第4章** VVORK 段落（DIS 節延長・画像bot仕込み） | ☐ | inv-cari-arena ☑ | [`画像bot挿入_計画.md`](./画像bot挿入_計画.md) |
-| **inv-khole-1b** | 文案：**第6章** normcore＋サフィックス＋Are.na＋Archillect/rare.jpg | ☐ | inv-cari-arena ☑ | [`第6章_normcore追加_計画.md`](./第6章_normcore追加_計画.md) |
+| **inv-khole-1b** | 文案：**第6章** サフィックス来歴（~10行）＋normcore＋Are.na＋Archillect/rare.jpg。**第1章** L149 Indie Sleaze→Soft Grunge 追記（1-2文）。**第7章** L1355 を第6章後方参照に書き換え＋L1395 corecore/yabujincore 追記 | ☐ | inv-cari-arena ☑ | [`第6章_normcore追加_計画.md`](./第6章_normcore追加_計画.md) |
 | **inv-khole-1c** | 文案：**第8章** CARI の Are.na 追記（L1484〜プラットフォーム論補完） | ☐ | inv-cari-arena ☑。**実行可能**と判断 | 同上 |
 
 **推奨パイプライン（inv-khole 改訂）**
@@ -165,7 +165,7 @@ inv-khole-0 ☑（挿入位置確定：計画ファイル2件）
     ↓
 inv-cari-arena ☑（Are.na 設計思想＋CARI 研究基盤。「プラットフォーム共有」確定）
     ↓
-inv-khole-1a（第4章 VVORK）＋ inv-khole-1b（第6章 normcore 系）並行可
+inv-khole-1a（第4章 VVORK）＋ inv-khole-1b（第6章 サフィックス来歴＋normcore＋Are.na。第1章 Indie Sleaze 追記・第7章 L1355/L1395 書き換えを含む）並行可
     ↓
 inv-khole-1c（第8章 CARI Are.na。実行可能——三段階知識生産フローが新材料）
 ```
