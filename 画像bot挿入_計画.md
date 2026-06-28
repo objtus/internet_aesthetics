@@ -72,12 +72,13 @@
 | 第6章 normcore 挿入 | Archillect・rare.jpg＝VVORK の Twitter への移植、normcore との共鳴 | 回収・接続 | 1〜2文 |
 | 第8章 CARI 節 | Are.na＝視覚的研究基盤（Discord・cari.institute との三段階フロー） | inv-khole-1c | 1段落（L1497 直後。inv-cari-arena ☑） |
 
-## 調査状況（2026-06-27 更新）
+## 調査状況（2026-06-28 更新）
 
-画像bot自体の事実関係は調査ノート §3–8 で概ね調査済み。草稿への挿入は文案作成に進める段階。第8章の Are.na 追記については inv-cari-arena ☑（2026-06-27）で**実行可能**と判断。
+画像bot自体の事実関係は調査ノート §3–8 で概ね調査済み。草稿への挿入は文案作成に進める段階。第8章の Are.na 追記については inv-cari-arena ☑（2026-06-27）で**実行可能**と判断。サフィックス系譜は未調査C ☑（2026-06-28）で解決済み。
 
 ## 関連ファイル
 
 - [`khole-arena-archillect-researtch.md`](./khole-arena-archillect-researtch.md) §3–8：Archillect、rare.jpg、VVORK、画像キュレーション系譜の調査
 - [`Arena設計思想調査ノート.md`](./Arena設計思想調査ノート.md)：**inv-cari-arena 成果物**（2026-06-27）。第8章 CARI Are.na 追記の材料
+- [`サフィックス系譜比較調査ノート.md`](./サフィックス系譜比較調査ノート.md)：**未調査C 成果物**（2026-06-28）。-core/-wave/-punk 三系譜。第6章サフィックスブロックの材料
 - [`第6章_normcore追加_計画.md`](./第6章_normcore追加_計画.md)：normcore / サフィックス / Are.na の挿入計画（本計画と連動）
