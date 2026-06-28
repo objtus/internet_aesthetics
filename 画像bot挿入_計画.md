@@ -14,6 +14,7 @@
 - VVORK（2006–2012、Oliver Laric et al.）の「無言のキュレーション」を、DIS Magazine の「ストックフォト批評」と並ぶ同一シーンのもう一つの実践として紹介
 - DIS が企業形式（トレンドレポート、ストックフォト）を借用して批評したように、VVORK はギャラリーの展示形式（タイトル・年・作者名のみ）を借用して批評した。「その形式を使って、その形式が前提としているものを暴く」という共通の構造
 - 調査ノート §7.3：2010年の VVORK キュレーション展に Dena Yago（K-HOLE）、Charles Broskoski・Damon Zucconi（Are.na）が参加——K-HOLE、Are.na、VVORK が同一の NY ネットアート圏に属していた直接の証拠
+- **nukeme「ゴミ画像」**：nukeme が2019年に美術手帖で、かつての Tumblr・DIS Magazine 的な画像センスを当時の友人たちと「ゴミ画像」と呼んでいたと回顧している。「作成された意図や画像内の状況が読み解けず、誰によってなんのために存在しているのかわからない、初見では無意味なゴミのようにしか思えない画像、というような意味でこの言葉を使っていたと思う」（nukeme、美術手帖 2019年12月、https://bijutsutecho.com/magazine/news/report/21127 ）。VVORK・DIS の視覚的実践がもたらした「著者性・意図の不可読性」を、日本のネットアート圏の同時代的受容として裏づける一次証言。匿名性・著者性の消去という主題を、第6章 Archillect/rare.jpg の「著者性の消去」と接続する伏線にもなる
 
 **既存テクストとの接続**：
 - 第1章 Reblorg 節（L186）で The Jogging（Brad Troemel）、dump.fm（Ryder Ripps）が既出。VVORK は同世代・同圏の実践であり、第1章で既出の固有名詞を回収する形になる
@@ -74,7 +75,7 @@
 
 | 章 | 何を書くか | 役割 | 分量 |
 |---|---|---|---|
-| 第4章 DIS 節 | VVORK＝「無言のキュレーション」、DIS と同一シーンの視覚的実践 | 仕込み | 1段落 |
+| 第4章 DIS 節 | VVORK＝「無言のキュレーション」、DIS と同一シーンの視覚的実践。nukeme「ゴミ画像」証言で著者性消去の主題を補強 | 仕込み | 1段落 |
 | 第6章 normcore 挿入 | Archillect・rare.jpg＝VVORK の Twitter への移植、normcore との共鳴 | 回収・接続 | 1〜2文 |
 | 第8章 CARI 節 | Are.na＝視覚的研究基盤（Discord・cari.institute との三段階フロー） | inv-khole-1c | 1段落（L1497 直後。inv-cari-arena ☑） |
 
@@ -92,9 +93,12 @@
 
 画像bot自体の事実関係は調査ノート §3–8 で概ね調査済み。草稿への挿入は文案作成に進める段階。第8章の Are.na 追記については inv-cari-arena ☑（2026-06-27）で**実行可能**と判断。サフィックス系譜は未調査C ☑（2026-06-28）で解決済み。
 
+**nukeme「ゴミ画像」素材**（2026-06-28 追加）：美術手帖記事（2019年12月）の本文は取得できなかったが、ユーザー提供の引用と文脈で第4章 VVORK 段落の素材として十分。記事URL確認済み（https://bijutsutecho.com/magazine/news/report/21127 ）。DIS with TOSHIKI 展「XOXO, SAFETY NET」（OIL by 美術手帖、2019年12月）と同時期の記事と推定。
+
 ## 関連ファイル
 
 - [`khole-arena-archillect-researtch.md`](./khole-arena-archillect-researtch.md) §3–8：Archillect、rare.jpg、VVORK、画像キュレーション系譜の調査
 - [`Arena設計思想調査ノート.md`](./Arena設計思想調査ノート.md)：**inv-cari-arena 成果物**（2026-06-27）。第8章 CARI Are.na 追記の材料
 - [`サフィックス系譜比較調査ノート.md`](./サフィックス系譜比較調査ノート.md)：**未調査C 成果物**（2026-06-28）。-core/-wave/-punk 三系譜。第6章サフィックスブロックの材料
 - [`第6章_normcore追加_計画.md`](./第6章_normcore追加_計画.md)：normcore / サフィックス / Are.na の挿入計画（本計画と連動）
+- 美術手帖 nukeme 記事（https://bijutsutecho.com/magazine/news/report/21127 ）：「ゴミ画像」証言。第4章 VVORK 段落の素材
