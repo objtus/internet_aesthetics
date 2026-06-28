@@ -1187,6 +1187,7 @@ reorg-0/1/2 ☑／aesthetic-rev-1 ☑（草稿 L687–870）／aesthetic-rev-2 �
 | [`khole-arena-archillect-researtch.md`](./khole-arena-archillect-researtch.md) | **inv-khole-*** 正本（K-HOLE／Are.na／VVORK→Archillect。**aesthetic-reorg とは独立**） |
 | [`Arena設計思想調査ノート.md`](./Arena設計思想調査ノート.md) | **inv-cari-arena** 成果物（Are.na 設計思想・CARI 研究基盤・Discord 三段階フロー。2026-06-27） |
 | [`サフィックス系譜比較調査ノート.md`](./サフィックス系譜比較調査ノート.md) | **未調査C** 成果物（-core/-wave/-punk 三系譜の語源・増殖ロジック・横断比較。2026-06-28） |
+| [`scene_subculture_notes.md`](./scene_subculture_notes.md) | Scene サブカルチャー・-core サフィックス詳細・Indie Sleaze 調査（2026-06-28）。fashioncore→scene→normcore 系譜、MySpace 共依存、Indie Sleaze 遡及的命名 |
 | [`CARIの歴史.md`](./CARIの歴史.md) | CARI 公式年表の和訳 |
 | 新蒸気波要点ガイド（佐藤秀彦編・DU BOOKS 2019） | 第3章 aesthetic 節（ばるぼら年表・大辞典）。**骨架的インタビュー**は **intro-kojiateki** |
 | [`草稿_明晰さレビュー.md`](./草稿_明晰さレビュー.md) | **明晰さレビュー**（2026-06-25・章別評価＋全体課題6点＋誤記一覧） |

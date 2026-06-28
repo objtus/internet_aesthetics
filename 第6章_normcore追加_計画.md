@@ -99,6 +99,7 @@ vaporwave の政治的受容（L1077〜、既存）
 - [`khole-arena-archillect-researtch.md`](./khole-arena-archillect-researtch.md)：K-HOLE / Are.na / Archillect / rare.jpg / 日本語圏の匿名キュレーション問題。K-HOLE の来歴・レポート一覧・normcore の概念と誤解、Are.na の設立経緯と K-HOLE との人的重複、DIS Magazine との共演関係など、本計画の調査項目の大半をカバー。セクション12に CARI の Are.na 活用に関する予備調査あり（2026-06-26追記）
 - [`Arena設計思想調査ノート.md`](./Arena設計思想調査ノート.md)：**inv-cari-arena 成果物**（2026-06-27）。Are.na 設計思想（広告なし・アルゴリズムなし・「考えるための道具」）、CARI の研究基盤としての活用、Discord との三段階知識生産フロー、Broskoski→Collins 言及、「いいね」不在の設計史。一次資料ベース
 - [`サフィックス系譜比較調査ノート.md`](./サフィックス系譜比較調査ノート.md)：**未調査C 成果物**（2026-06-28）。-core/-wave/-punk 三系譜の語源・増殖ロジック・横断比較。chillwave→vaporwave、fashioncore→normcore→corecore、cyberpunk→steampunk→solarpunk。solarpunk Tumblr ケーススタディ
+- [`scene_subculture_notes.md`](./scene_subculture_notes.md)：Scene サブカルチャー・-core サフィックス詳細・Indie Sleaze の調査ノート（2026-06-28）。fashioncore→scene→normcore の系譜、MySpace と aesthetic 生成の共依存、Indie Sleaze の遡及的命名（CARI の命名投票経由）
 - [`CARI_調査ノート.md`](./CARI_調査ノート.md)：CARI 前史（Evan Collins・Y2K 美学）と DIS Magazine / PC Music 系譜の接続。Are.na への言及なし
 - [`CARIの歴史.md`](./CARIの歴史.md)：cari.institute 由来の年表。Are.na への言及なし
 
