@@ -176,9 +176,9 @@ inv-khole-1c（第8章 CARI Are.na。実行可能——三段階知識生産フ�
 
 | ID | 内容 | 状態 | 依存 | 反映先 |
 |---|---|---|---|---|
-| **meg-1** | Megazord **Tumblr** URL を本文に追加 | ☐ | 単独可 | `### Tumblrの視覚文化——Megazord`（草稿 L291 付近）・第1章 L141 |
-| **meg-2** | Megazord **MySpace** URL を本文に追加 | ☐ | 単独可 | 同上 |
-| **meg-3** | **Gatekeeper** が Megazord MySpace にコメントしていたことの追記 | ☐ | meg-2 後推奨 | 同上（MySpace 文脈の1〜2文） |
+| **meg-1** | Megazord **Tumblr** URL を本文に追加 | ☑ | 単独可 | 草稿 L166 反映済み（2026-06-30） |
+| **meg-2** | Megazord **MySpace** URL を本文に追加 | ☑ | 単独可 | 同上 |
+| **meg-3** | **Gatekeeper** が Megazord MySpace にコメントしていたことの追記 | ☑ | meg-2 後推奨 | 同上（2009年9月コメント確認・OPN MySpace との比較で「ネットワーク結節点」として記述） |
 
 **背景**：**rev-5** ☑（[`第1章取込_Megazord_文案.md`](./archive/反映済み文案/第1章取込_Megazord_文案.md)）の追補。GATEKEEPER 自身の MySpace（L324 付近）とは別に、**Megazord 側プロフィール**の URL と、そこへの Gatekeeper コメントを足す。
 
