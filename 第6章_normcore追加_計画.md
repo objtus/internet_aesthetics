@@ -202,8 +202,8 @@ vaporwave の政治的受容（L1077〜、既存）
 | サフィックスの来歴 | ~10行 | normcore の舞台設定。fashioncore / scene / soft grunge との接続。corecore に1文触れて第7章前振り |
 | normcore | 数段落（主要ブロック） | K-HOLE のコンセプト → Fiona Duncan の語義変容 → 「充填」概念の例証 |
 | K-HOLE → DIS → Are.na 人脈線 | 数段落 | 第4章 DIS Magazine から受け取り、第8章 CARI へ渡す橋 |
-| Archillect / rare.jpg | 1-2文 | normcore の「著者性の消去」との共鳴（画像bot挿入計画と連動） |
-| **合計** | **30-50行追加** | 第6章は約170-190行になる見込み。全章中最短→中位 |
+| Archillect / rare.jpg | 短節（8-15行） | 第4章 VVORK の Twitter 移植としての回収。bot（Archillect）と匿名人力（rare.jpg）の二分岐。normcore の「著者性の消去」との共鳴（画像bot挿入計画と連動） |
+| **合計** | **40-60行追加** | 第6章は約180-200行になる見込み。全章中最短→中位 |
 
 normcore 自体の詳述に深入りしすぎない。サフィックスの来歴は normcore の舞台設定であり、normcore は DIS / Are.na / CARI への入口。主題は「第6章を前後の章に接続すること」。
 

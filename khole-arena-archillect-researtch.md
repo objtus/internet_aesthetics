@@ -343,6 +343,53 @@ K-HOLEのレポート#3はDIS Magazineのサイト上で紹介・掲載されて
 > K-HOLE is a trend forecasting report by Greg Fong, Sean Monahan, Emily Segal, Chris Sherron, and Dena Yago.  
 > — DIS Magazine https://dismagazine.com/blog/40703/k-hole-issue-3/
 
+### 7.1b 89plus を介した接点（2026-06-29 追記）
+
+**normcore がお披露目された場そのものが DIS と地続きだった。**
+
+normcore を提唱したレポート「Youth Mode: A Report on Freedom」は、2013年10月の **89plus Marathon**（Serpentine Sackler Gallery、ロンドン）で発表された。89plus は Hans Ulrich Obrist と Simon Castets が共同創設した、1989年以降に生まれた「インターネットとともに育った最初の世代」をマッピングする長期・国際的リサーチプロジェクトで、2013年1月の DLD カンファレンスで始動した。
+
+- **同マラソンの参加者（確定 2026-06-29）**：[designboom の参加者リスト](https://www.designboom.com/art/serpentine-galleries-present-89plus-marathon-10-18-2913/)に、本稿が扱う面々が一堂に会したことが明記されている——"k-hole with box 1824"、"hito steyerl"、"ryan trecartin"、"**dis magazine**"、"**brad troemel**"、"amalia ulman" など60名超。Steyerl は1989年と2013年を比較する発表、Trecartin は対話と《Junior War》上映を行った（[a-n レビュー](https://www.a-n.co.uk/reviews/a-fountain-of-youth-a-review-of-the-89plus-marathon/)、[Dazed](https://www.dazeddigital.com/artsandculture/article/17608/1/live-stream-89plus-marathon)）。**DIS Magazine 自体が参加者リストに載っており**、かつ後述の DIScrit 89plus を共同運営していた。**Brad Troemel（第1章 The Jogging／normcore を Fiona Duncan に伝えた人物）も同マラソンの参加者だった**点は、normcore をめぐる人脈がこの一場に凝縮していたことを示す。開催日は Frieze 期間中の2013年10月18〜19日（designboom 本文の「September」は誤記、Dazed・a-n が October と明記）。
+- **DIS Magazine の関与**：DIS は 89plus の枠組みのなかで「**DIScrit 89plus**」というプラットフォームを共同運営し、Re Rebaudengo Serpentine Grant の受賞者（Niko the Ikon、Tierney Finster）を公開投票で選出。審査委員会にも DIS の代表者が名を連ねた（出典：Artforum、Monoskop）。
+- **Youth Mode の共同制作者 Box 1824**：K-HOLE がアートの文脈でトレンドレポート形式を模したコレクティブだったのに対し、Box 1824 はサンパウロ/NY 拠点の18〜24歳専門のマーケットリサーチ会社（実在の調査会社）。Youth Mode はこの両者の共同制作であり、「アート的批評」と「本物の商業リサーチ」の意図的な混交だった（出典：The Art Newspaper）。
+
+- **発注経緯（確定 2026-06-29）**：Emily Segal が Interview 誌オーラルヒストリーで明言。"K-Hole was commissioned to make a report—our fourth—to present at the 89plus marathon at the Serpentine Gallery during Frieze [art fair] in 2013.（K-HOLE は4本目のレポートを、Frieze 期間中の Serpentine Gallery で開かれる 89plus マラソンで発表するために発注された）"（[Interview, 2024-06-03](https://www.interviewmagazine.com/fashion/normcore-the-oral-history-no-one-asked-for)）。Youth Mode は 89plus のために制作された委嘱作だったことが確定。
+
+**含意**：K-HOLE↔DIS の接点は2014年の DISown 展だけではない。normcore がデビューした 89plus（2013-10）自体が DIS と共同の場であり、両者は normcore の発表時点ですでに同じ制度的プラットフォームを共有していた。
+
+### 7.1c The Cut 記事を介した normcore の「ファッション化」と DIS（2026-06-29 追記）
+
+normcore を概念からファッションスタイルへと一般化させた決定的な記事は、Fiona Duncan「[Normcore: Fashion for Those Who Realize They're One in 7 Billion](https://web.archive.org/web/20170714065312/https://www.thecut.com/2014/02/normcore-fashion-trend.html)」（The Cut / New York Magazine、2014年2月）。この記事には DIS が複数の形で織り込まれている。
+
+- **語の発端となった「Brad」＝ Brad Troemel（確定 2026-06-29）**：The Cut 記事では友人のアーティスト「Brad」とのみ記されていたが、Fiona Duncan 本人がのちの Interview 誌オーラルヒストリーで姓を明言した。"I first heard the word 'normcore' from Brad Troemel, an artist and critic who dressed, like many post-Internet art bros back then, in Silicon Valley clothes: barefoot toe sneakers, white tees, jogging shorts. Six months later, I wrote about normcore style for New York mag and the story went viral overnight.（normcore という語を最初に教えてくれたのは Brad Troemel、アーティスト兼批評家で、当時の多くのポストインターネット・アート界隈の男たちと同様、シリコンバレー風の服装をしていた。その半年後、私は New York 誌に normcore スタイルの記事を書き、一夜で拡散した）"（[Interview, Fiona Alison Duncan, 2024-06-03](https://www.interviewmagazine.com/fashion/normcore-the-oral-history-no-one-asked-for)）。**Brad Troemel は第1章 The Jogging の共同運営者**。K-HOLE → Brad Troemel → Fiona Duncan → New York 誌記事 → バイラル化、という normcore 一般化の経路が確定した。第1章 The Jogging → 第6章 normcore 一般化という章をまたぐ線が引ける。
+- **Natasha Stagg（DIS 寄稿者）**：記事は V Magazine オンライン編集者で DIS 常連寄稿者の Natasha Stagg を引用。Stagg が DIS に書いた「[Forevercrombie](https://dismagazine.com/discussion/49319/forevercrombie/)」（2013年8月）は、Abercrombie & Fitch の脱神話化とアイロニカルな再横領を論じ、normcore の論理的先行テキストとして読める。
+- **Hot and Cool の Google Street View 特集と 9 Eyes**：記事が normcore の先行例として挙げる Alice Goddard の雑誌 Hot and Cool no.5（2013年春）には、Google ストリートビューのスクリーンショットだけで構成しストリートスナップをパロディした特集があった（[該当 Tumblr](https://fifidunks.tumblr.com/post/74172528286/photographs-of-street-style-from-hot-cool)）。Jon Rafman の 9 Eyes（2008〜、第4章・第6章で言及）と発想が近いが、独立した再発見か 9 Eyes を意識したものかは**【要確認】**。
+
+**含意**：DIS は「normcore」という語が流通する前から、その概念が描く現象（ブランドの脱神話化、アイロニカルな再横領）をすでに記事化していた。normcore のファッション化の回路に DIS が組み込まれていたことになる。Brad＝Troemel は確定済み。9 Eyes 影響関係のみ未確認のため、文案では 9 Eyes 接続だけ断定しない。
+
+### 7.1d Interview 誌オーラルヒストリーによる確定と追加証言（2026-06-29 追記）
+
+出典：Fiona Alison Duncan「[Normcore: The Oral History No One Asked For](https://www.interviewmagazine.com/fashion/normcore-the-oral-history-no-one-asked-for)」（Interview Magazine、2024年6月3日）。normcore 10周年の関係者座談会形式。
+
+**① Estrada コミック＝最初の用例（確定）**
+- Emily Segal（K-HOLE）："Later, we googled it and saw that it had one entry on Urban Dictionary associated with this comic strip—that's the Ryan Estrada thing.（あとで検索したら Urban Dictionary に1件だけ、このコミックに紐づくエントリがあった。それが Ryan Estrada のあれだ）"
+- Ryan Estrada："In 2008, I made a comic about all these different fashion trends... the punchline—the stupidest fashion trend I could imagine—was one where people just wore ordinary clothes. I named it 'normcore.'（2008年、いろんなファッション傾向についてのコミックを作った。オチ＝考えうる最もばかげた流行は、ただ普通の服を着るというものだった。それを normcore と名づけた）"
+- ＊K-HOLE 内で語を口にしたのは Nick Lalla（現・オノ・ヨーコのアーキビスト）。Segal らはそれを Urban Dictionary 経由で Estrada のコミックにたどり着いた。
+
+**② DIS と normcore（第4章 distroid＝加速主義との接続線）**
+- Venus X："Before the dad sneaker and the Salomon craze, DIS Magazine was leading normcore in New York.（ダッドスニーカーや Salomon ブームの前、DIS Magazine がニューヨークで normcore を牽引していた）"
+- Taylore Scarabelli（Interview 上級編集者）："DIS celebrated capitalism in an accelerationist way. By taking corporate aesthetics to the extreme, they lost meaning, and normcore was the fallout of that.（DIS は資本主義を加速主義的に称揚した。企業の美学を極端まで推し進めて意味を失わせ、normcore はその残りかすだった）" ← **第4章で distroid を加速主義的と評した文脈と直結**。
+- Lauren Boyle（DIS 共同創設者）："When we were first doing editorials circa 2010, the word 'normcore' didn't exist, but the liberal buy-and-return policies of big box stores like Ikea, Bed Bath & Beyond, and Old Navy greatly influenced what we made."
+- Solomon Chase（DIS 共同創設者）："What we were into was distinctly abnormal, yet we were using obscenely generic materials as material. I guess that's kind of what normcore is?"
+
+**③ -core 爆発の起点（第7章接続）**
+- Emily Segal："Once 'norm' was attached to 'core,' anything was possible.（'norm' が 'core' とくっついた瞬間、何でもありになった）" ← normcore が -core 増殖の起点だったことの当事者証言。
+
+**④ normcore →「aesthetic」（本書中心テーマとの接続）**
+- Greg Fong（K-HOLE）："For Gen Z, all clothes are like costume, hence 'aesthetic.' Normcore then makes dressing 'normal' almost like costume in a drag sense.（Z 世代にとって服はすべて衣装＝だから 'aesthetic' なのだ。normcore は『普通』に着ることをドラァグ的な衣装にする）" ← normcore と「aesthetic」を当事者が接続。
+
+**文案への含意**：Brad Troemel／89plus 委嘱／Estrada コミックはすべて確定。②の加速主義線は distroid（第4章）への伏線として一文添えられる。③④はそれぞれ -core 爆発（第7章）・aesthetic 化（本書全体）への接続線として活用可能。
+
 ### 7.2 共通の構造的論理
 
 K-HOLEとDIS Magazineはどちらも**企業・広告の形式を内側から批評する**という同じ戦略を取っていた。
@@ -360,6 +407,50 @@ MonoskopのVVORKキュレーション展のアーカイブ（2010年）に、**D
 > — Monoskop "Post-internet art" https://monoskop.org/Post-internet_art
 
 これはK-HOLE、Are.na、VVORKが同一のNYネットアート圏に属していたことを示す直接の証拠。
+
+### 7.3b VVORK と DIS Magazine の関係（2026-06-29 追記）
+
+**直接の共同展覧会・コラボレーションの記録はなし。**確認できる関係は以下の間接的な3層。
+
+**① DIS が VVORK をコンテンツ参照源として明示**  
+DIS Magazine のブログに2011年4月の投稿があり、Candice Breitz の作品を "Via VVORK" と明記して紹介している（https://dismagazine.com ）。DIS が VVORK を情報源として積極的に参照・転載していたことを示す一次資料。
+
+**② 共通のアーティスト人脈**  
+Kai (Kari) Altmann が関わった R-U-In?S の Catalogue #002 に DIS Magazine・KERNEL・Katja Novitskova 等が参加。VVORK も同時期に Kai Altmann 周辺の展覧会と絡んでおり、両者の周辺には共通のアーティストネットワークが存在していた（出典：Monoskop "Post-internet art"）。
+
+**③ 2016年ベルリン・ビエンナーレという交差点**  
+DIS がキュレーションした2016年のベルリン・ビエンナーレに、VVORK 人脈のアーティスト（Aleksandra Domanovic・Oliver Laric 周辺）が展示されていたことが確認されている（出典：Spike Art Magazine パネル記録）。DIS の Lauren Boyle・Marco Roso が登壇した同ビエンナーレ関連パネルには Hito Steyerl も参加。
+
+**④ Monoskop 上の系譜的並置**  
+Monoskop の "Post-internet art" 年表で VVORK（2006–12）と DIS Magazine（2010–14）が同一の歴史的系譜に記録されている。DIS は VVORK が切り開いたアートブログ型オンラインプラットフォームを引き継ぎつつ、より商業・ファッション的な方向へ展開したプラットフォームとして位置づけられる。
+
+**文案への含意**：「VVORK と DIS は直接協働した」とは書けない。「同圏の先行世代と後続世代」「DIS が VVORK を参照源として使っていた」「共通の人脈」という書き方は根拠あり。
+
+### 7.3c DIS Magazine と Tumblr の関係（2026-06-29 追記）
+
+**確認された Tumblr アカウント**
+
+- **dishq.tumblr.com**（DIS HQ）：2011年8月、ニューヨーク Lower East Side・Invisible-Exports ギャラリーを間借りした一時的物理拠点のドキュメントアカウント。オフィス全体を24時間監視カメラで撮影・配信し、映像を Tumblr でストリームするフィジカル＆バーチャル接続のプロジェクト型 Tumblr。Lizzie Fitch がオフィス空間をデザイン。期間限定（2011年8月のみ）。
+
+- **dismagazine-blog.tumblr.com**（The DIS Thing School）：2011年6月22日〜2013年10月まで活発に投稿。画像投稿中心。dismagazine.com へのリンクあり。Wayback Machine の最古アーカイブ（2017年1月）時点で「The DIS Thing School」というタイトルを確認。開始当初からそのタイトルだったかは不明。公式の明示的証拠はないが、本誌へのリンクと命名から準公式〜公式サテライトと推定。
+
+**位置づけ**
+
+DIS Magazine は本誌（dismagazine.com）をテキスト・ファッション社説・ロングフォームのプラットフォームとして運営しながら、Tumblr を**イメージ流通に特化したサテライト**として並走させていた。VVORK が画像ブログという形式でアートのキュレーションを行っていた実践と連続する姿勢であり、DIS が本誌とは別レイヤーで Tumblr の「リブログ文化」に参加していたことを示す。また本誌コンテンツは外部 Tumblr ユーザーによっても活発にリブログ・参照されており、DIS の影響圏は Tumblr 上で有機的に広がっていた。
+
+**周辺エコシステム**
+
+- **Brad Troemel / The Jogging**（2009〜）：DIS 周辺のアーティストで Tumblr を主戦場とし、「Athletic Aesthetics」論文で Tumblr のリブログ経済を批評的に理論化。Rhizome と Tumblr の共同助成金も受けている。
+- **Rhizome × Tumblr Internet Art Grant**（2013年）：New Museum の Rhizome と Tumblr が提携した助成プログラム。DIS は Rhizome のコミッションで DIS Images を立ち上げており、このエコシステムと重なる。
+- **DIS Crit**（2012年）：世界中のアートスクール学生対象の公募コンテスト。応募者の多くが Tumblr を媒体・主題として使用。「The DIS Thing School」との主題的連続性がある。
+
+**未解決の点**
+
+- dismagazine-blog.tumblr.com が開始当初から「The DIS Thing School」だったかどうか。
+- 同アカウントの運営主体（DIS 本体か関係者の個人運営か）の確証。
+- 2013年10月以降に別の Tumblr アカウントが存在したかどうか。
+
+**文案への含意（追加）**：DIS は本誌とは別に Tumblr をイメージ流通のサテライトとして使っていた。VVORK→DIS という「画像を黙って並べる→形式を借りて批評する」の流れに加え、DIS 自身が Tumblr の画像流通に参加していたという事実は、「DIS は同時代の Tumblr 画像文化の内側にいた」と書く根拠になる。
 
 ### 7.4 結論
 

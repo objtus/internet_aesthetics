@@ -4,9 +4,9 @@
 **論点バックログ**：[`草稿_レビュー論点メモ.md`](./草稿_レビュー論点メモ.md)（2026-06-02 同期済）  
 **編集方針**：[`編集方針.md`](./編集方針.md)（政治化・日本語圏射程・seapunk 読み道）
 
-**直近完了（2026-06-27）**：**inv-cari-arena** ☑（Are.na 設計思想・CARI 研究基盤・Discord 三段階フロー。「プラットフォーム共有」確定）／**src-4b** ☑／**intro-kojiateki** ☑／**inv-opn-cook** ☑／**ed-3** ☑（seapunk 読み道・Phase 1–2）／**aesthetic-rev-1** ☑／**ch3-ch6-balance** ☑／**ed-6** △（L14・L38・L22）／**src-1** ☑（洗い出しのみ・草稿反映なし）。分割稿 [`第3章_aestheticという語.md`](./第3章_aestheticという語.md) は**手動同期（ユーザー）**
+**直近完了（2026-06-29）**：**inv-khole-1c** ☑（第8章 CARI Are.na L1571–1577 反映）／**inv-khole-1b** ☑（第6章 `## ラベルが増えるとき` L1103–1141 反映＋第1章 Indie Sleaze 追記＋第7章 L1383/L1421 書き換え）／**inv-khole-1a** ☑（第4章 VVORK L734–746）／**inv-cari-arena** ☑（2026-06-27）
 
-**次にやる1件**：**inv-khole-1a**（第4章 VVORK）＋ **inv-khole-1b**（第6章 サフィックス来歴＋normcore＋Are.na。第1章 Indie Sleaze 追記・第7章書き換えを含む）並行可 → **inv-khole-1c**（第8章 CARI Are.na）。並行可：**ed-6** polish／**meg-1〜3**。後回し：**inv-vektroid**／**meta-1**／**meta-3**／**concl-2**／**meta-2**
+**次にやる1件**：**ed-6** polish。並行可：**meg-1〜3**。後回し：**inv-vektroid**／**meta-1**／**meta-3**／**concl-2**／**meta-2**
 
 **使い方**
 
@@ -154,9 +154,9 @@ aesthetic-rev-1（文法）＋ aesthetic-rev-2（制度化・ed-6 分担）
 |---|---|---|---|---|
 | **inv-khole-0** | **挿入位置の測定**（VVORK→Archillect 系譜／K-HOLE／normcore／Are.na） | ☑ | — | [`第6章_normcore追加_計画.md`](./第6章_normcore追加_計画.md)＋[`画像bot挿入_計画.md`](./画像bot挿入_計画.md) |
 | **inv-cari-arena** | **CARI の Are.na 活用——追加調査** | ☑ | inv-khole-0 ☑ | [`Arena設計思想調査ノート.md`](./Arena設計思想調査ノート.md)（2026-06-27） |
-| **inv-khole-1a** | 文案：**第4章** VVORK 段落（DIS 節延長・画像bot仕込み） | ☐ | inv-cari-arena ☑ | [`画像bot挿入_計画.md`](./画像bot挿入_計画.md) |
-| **inv-khole-1b** | 文案：**第6章** サフィックス来歴（~10行）＋normcore＋Are.na＋Archillect/rare.jpg。**第1章** L149 Indie Sleaze→Soft Grunge 追記（1-2文）。**第7章** L1355 を第6章後方参照に書き換え＋L1395 corecore/yabujincore 追記 | ☐ | inv-cari-arena ☑ | [`第6章_normcore追加_計画.md`](./第6章_normcore追加_計画.md) |
-| **inv-khole-1c** | 文案：**第8章** CARI の Are.na 追記（L1484〜プラットフォーム論補完） | ☐ | inv-cari-arena ☑。**実行可能**と判断 | 同上 |
+| **inv-khole-1a** | 文案：**第4章** VVORK 節（画像bot仕込み） | ☑ | inv-cari-arena ☑ | [`archive/反映済み文案/第4章取込_VVORK_文案.md`](./archive/反映済み文案/第4章取込_VVORK_文案.md)。草稿 L734–746（6段落） |
+| **inv-khole-1b** | 文案：**第6章** サフィックス来歴（~10行）＋normcore＋K-HOLE→DIS→Are.na＋Archillect/rare.jpg（短節8-15行）。**第1章** L155 Indie Sleaze→Soft Grunge 追記（1-2文）。**第7章** L1381 を第6章後方参照に書き換え＋L1421 corecore/yabujincore 追記 | ☑ | inv-cari-arena ☑ | 草稿 `## ラベルが増えるとき` L1103–1141（6小節）＋第1章 L155＋第7章 L1383/L1421。文案 [`第6章_normcore追加_文案.md`](./第6章_normcore追加_文案.md) |
+| **inv-khole-1c** | 文案：**第8章** CARI の Are.na 追記（L1484〜プラットフォーム論補完） | ☑ | 草稿 L1571–1577 反映済み（2026-06-29） | 同上 |
 
 **推奨パイプライン（inv-khole 改訂）**
 
@@ -165,7 +165,7 @@ inv-khole-0 ☑（挿入位置確定：計画ファイル2件）
     ↓
 inv-cari-arena ☑（Are.na 設計思想＋CARI 研究基盤。「プラットフォーム共有」確定）
     ↓
-inv-khole-1a（第4章 VVORK）＋ inv-khole-1b（第6章 サフィックス来歴＋normcore＋Are.na。第1章 Indie Sleaze 追記・第7章 L1355/L1395 書き換えを含む）並行可
+inv-khole-1a ☑（第4章 VVORK）＋ inv-khole-1b（第6章 サフィックス来歴＋normcore＋Are.na。第1章 Indie Sleaze 追記・第7章 L1355/L1395 書き換えを含む）並行可
     ↓
 inv-khole-1c（第8章 CARI Are.na。実行可能——三段階知識生産フローが新材料）
 ```
@@ -833,11 +833,11 @@ reorg-0/1/2 ☑／aesthetic-rev-1 ☑（草稿 L687–870）／aesthetic-rev-2 �
 
 **前提**：inv-cari-arena ☑。**着手可能**。
 
-**内容**：DIS Magazine 節（L733〜L762）の延長として VVORK（2006–2012）を1段落で紹介。「無言のキュレーション」＝ギャラリー展示形式の借用。DIS のストックフォト批評と同じ「形式を使って形式を暴く」構造。VVORK キュレーション展（2010）に Dena Yago・Charles Broskoski 参加。
+**内容**：Steyerl 節直後・distroid 直前に `### VVORK と「無言のキュレーション」`（6段落）を挿入。VVORK「無言のキュレーション」＋ギャラリー形式借用。DIS との形式対比。2010 MULTIPLEX 人脈（Dena Yago／Broskoski／Zucconi）。The Jogging 形式比較。Nukeme「ゴミ画像」＋八木沢 vvork→DIS。poor image↔ゴミ画像↔DIS 横断比較。Are.na 仕込み（第8章予告）。K-HOLE／Are.na 初出。
 
-**文案ファイル（案）**：`第4章取込_VVORK_文案.md`
+**文案ファイル**：[`archive/反映済み文案/第4章取込_VVORK_文案.md`](./archive/反映済み文案/第4章取込_VVORK_文案.md)
 
-**ステータス**：☐ 着手可能。
+**ステータス**：☑ 完了（2026-06-29）。草稿 L734–746 反映。
 
 ---
 
@@ -849,7 +849,7 @@ reorg-0/1/2 ☑／aesthetic-rev-1 ☑（草稿 L687–870）／aesthetic-rev-2 �
 1. サフィックスの生産性（-core / -wave / -punk）＝言語的アーキテクチャ
 2. normcore＝コンセプトと受容のずれ（充填の事例、distroid との対比）
 3. K-HOLE → DIS Magazine → Are.na の接続（人脈線）＋ Are.na の特徴づけ（1〜2文）
-4. Archillect / rare.jpg を1〜2文で言及（VVORK の Twitter 移植、著者性の消去）
+4. Archillect / rare.jpg を短節（8-15行）で回収（VVORK の Twitter 移植、bot／匿名人力の二分岐、著者性の消去）
 
 **ブロック1 で使う具体的素材**（[`サフィックス系譜比較調査ノート.md`](./サフィックス系譜比較調査ノート.md) より）：
 - 三系譜の命名発生様式の違い：-punk＝作家個人→メディア→コミュニティ（上→下）、-wave＝ブロガー→コミュニティ→アーティスト（複雑な相互作用）、-core＝コミュニティ内部→メディア→プラットフォーム（下→上）
@@ -1141,8 +1141,8 @@ reorg-0/1/2 ☑／aesthetic-rev-1 ☑（草稿 L687–870）／aesthetic-rev-2 �
 
 | 段階 | 次の1手 |
 |---|---|
-| **今** | **inv-khole-1a**（第4章 VVORK）＋ **inv-khole-1b**（第6章 normcore＋Are.na）並行可。**ed-6** polish（任意） |
-| **その次** | **inv-khole-1c**（第8章 CARI Are.na）。**meg-1〜3**（並行可） |
+| **今** | **inv-khole-1c**（第8章 CARI Are.na）。**ed-6** polish（任意）。inv-khole-1a・1b ☑（2026-06-29） |
+| **その次** | **meg-1〜3**（並行可）。残：inv-vektroid／meta-1〜3／concl-2 |
 | **章再編（aesthetic）** | reorg ☑／rev-1 ☑／rev-2 ☑／ch3-ch6 ☑ — **完了**。分割稿手動同期 |
 | **別調査（並行可）** | inv-swan／inv-tabor／rev-4 |
 | 後回し | **inv-vektroid**（低優先）／**meta-1** → **meta-3** → **concl-2** → **meta-2**（草稿末尾・最後） |
@@ -1196,6 +1196,12 @@ reorg-0/1/2 ☑／aesthetic-rev-1 ☑（草稿 L687–870）／aesthetic-rev-2 �
 
 ---
 
+*更新：2026-06-29。**inv-khole-1c** ☑——第8章 `## CARI設立とプラットフォームの意味` 末尾（旧 L1569 直後）に Are.na 4段落（草稿 L1571–1577）を反映。Facebook→Discord 議論の場の移行と並行する視覚資料レイヤーとして Are.na を位置づけ（チャンネル構造・cari.institute 各ページとのリンク・三層分担 Discord/Are.na/cari.institute・Maintenance Effort 92中58・Broskoski による Collins アカウント言及）。典拠：Arena設計思想調査ノート.md §6・§10。Broskoski 発言出典は Upstatement インタビュー。次は ed-6 polish。*
+
+*更新：2026-06-29。**inv-khole-1b** ☑——第6章 導入直後（`## vaporwave の政治的受容` の前）に `## ラベルが増えるとき——サフィックスと匿名のキュレーション`（6小節：サフィックスの生産性／normcore——冗談から「態度」へ／「態度」から「ファッション」へ／K-HOLE と DIS／Are.na／無言のキュレーションが Twitter に移るとき。L1103–1141）を反映。あわせて第1章 L155 に Indie Sleaze→Soft Grunge 追記、第7章 `### -core サフィックスの標準化`（L1383）を第6章後方参照に書き換え、L1421 yabujincore 段落末に corecore 対比を追記。一次資料補強：Interview オーラルヒストリー（Brad Troemel＝normcore を Duncan に伝えた人物＝第1章 The Jogging／89plus 委嘱／Estrada コミック）、designboom で 89plus 参加者（Steyerl・Trecartin・DIS Magazine・Brad Troemel 同席）確定。文案 → 反映済み。次は inv-khole-1c。*
+
+*更新：2026-06-29。**inv-khole-1a** ☑——第4章 Steyerl 直後に `### VVORK と「無言のキュレーション」`（6段落、L734–746）反映。VVORK 形式＋MULTIPLEX 人脈＋The Jogging 比較＋nukeme「ゴミ画像」＋横断比較（poor image→DIS 伏線）＋Are.na 仕込み。K-HOLE/Are.na 初出。文案 → archive。次は inv-khole-1b。*
+*更新：2026-06-29（早）。**inv-khole-1a** 草稿初反映（3段落版）。のち Steyerl 直後へ移動・6段落へ拡張。*
 *更新：2026-06-28。**未調査C** ☑——[`サフィックス系譜比較調査ノート.md`](./サフィックス系譜比較調査ノート.md) 完成。-core/-wave/-punk 三系譜の語源・増殖ロジック・横断比較。inv-khole-1b の全前提解消。*
 *更新：2026-06-27。**inv-cari-arena** ☑——Are.na 設計思想・CARI 研究基盤・Discord 三段階知識生産フロー調査完了。「プラットフォーム共有＋設計思想の構造的親和」で確定。inv-khole-1a/1b/1c 全て着手可能に。*
 *更新：2026-06-22。**ed-3** ☑——seapunk 読み道 Phase 1–2 草稿反映完了。分割稿同期は任意。*

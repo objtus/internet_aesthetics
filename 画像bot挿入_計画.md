@@ -6,35 +6,42 @@
 
 ## 方針：第4章に仕込み、第6章で軽く回収
 
-### 第4章・DIS Magazine 節の延長（L733〜L762 あたり）【本拠地】
+### 第4章・Steyerl 節直後（L734–746）【本拠地・☑ 反映済 2026-06-29】
 
-**挿入位置**：`### DIS Magazine と #HDBOYZ`（L733）から `### 継承と conceptronica`（L757）のあいだのどこか。DIS の視覚的実践の系譜として。
+**挿入位置（確定）**：Hito Steyerl「貧しいイメージ」節の移行文（草稿 L730）の直後、`## distroid——充填されなかった名前`（L751）の前。新規 `### VVORK と「無言のキュレーション」`（6段落）。  
+※当初案（DIS Magazine 節内、L733〜L762 あたり）は distroid との接続が弱いため却下。Steyerl（poor image）→ VVORK（無言のキュレーション）→ distroid（HD）という lo-fi/HD 章の論理に合わせて移動。
+
+**反映済みの内容**：
+- VVORK（2006–2012、Oliver Laric et al.、ウィーン/ベルリン拠点）の「無言のキュレーション」。ギャラリー展示形式（タイトル・年・作者名のみ）の借用
+- DIS Magazine との形式対比（ファッション誌の体裁 vs 美術館/ギャラリーの展示形式）。K-HOLE のトレンドレポート借用とは別
+- 2010 MULTIPLEX 展の人脈（Dena Yago、Charles Broskoski、Damon Zucconi）。K-HOLE／Are.na 初出（第6章・第8章予告）
+- The Jogging との形式比較（共通のギャラリーキャプション／向きの反転）。dump.fm との三者並置
+- nukeme「ゴミ画像」＋八木沢 vvork→DIS（美術手帖 2019年12月）。横断比較（9 Eyes 含む）→ DIS 伏線
+- Are.na 仕込み（「集めて並べる」実践のインフラ化、第8章予告）
+
+**文案・正本**：[`archive/反映済み文案/第4章取込_VVORK_文案.md`](./archive/反映済み文案/第4章取込_VVORK_文案.md)
+
+**既存テキストとの接続**：
+- 第1章 `#### ポストインターネットアートと tumblr`（L147–152）で dump.fm・The Jogging・DIS が既出
+- 第4章 distroid 節 `### DIS Magazine と #HDBOYZ`（L758〜）で Charlie Jones 評（誠実/風刺）が本出。VVORK 節で先取り示唆
+
+**分量**：6段落（当初計画の1段落から拡張）
+
+### 第6章・normcore 挿入の近く（L1101 後）【回収・inv-khole-1b】
+
+**挿入位置**：第6章導入段落（草稿 L1101）の後、`## vaporwave の政治的受容`（L1103）の前。詳細は [`第6章_normcore追加_計画.md`](./第6章_normcore追加_計画.md) を参照。
 
 **書くべき内容**：
-- VVORK（2006–2012、Oliver Laric et al.）の「無言のキュレーション」を、DIS Magazine の「ストックフォト批評」と並ぶ同一シーンのもう一つの実践として紹介
-- DIS が企業形式（トレンドレポート、ストックフォト）を借用して批評したように、VVORK はギャラリーの展示形式（タイトル・年・作者名のみ）を借用して批評した。「その形式を使って、その形式が前提としているものを暴く」という共通の構造
-- 調査ノート §7.3：2010年の VVORK キュレーション展に Dena Yago（K-HOLE）、Charles Broskoski・Damon Zucconi（Are.na）が参加——K-HOLE、Are.na、VVORK が同一の NY ネットアート圏に属していた直接の証拠
-- **nukeme「ゴミ画像」**（美術手帖 2019年12月、https://bijutsutecho.com/magazine/news/report/21127 ）：DIS with TOSHIKI「XOXO, SAFETY NET」展（OIL by 美術手帖、2019年12月）に寄せたレポート記事。nukeme が Tumblr 時代（2011年〜）に友人たちと共有していた視覚的感性を「ゴミ画像」と名づけて回顧している。
-  - **ゴミ画像の定義**：「作成された意図や画像内の状況が読み解けず、誰によってなんのために存在しているのかわからない、初見では無意味なゴミのようにしか思えない画像」。広義にはインターネット・ミームの一種だが、mainstream meme（意図が読み取れ、鑑賞者に伝わるよう配布されている）とは区別される
-  - **ゴミ画像の美的体験**：「混乱を楽しむ」感覚。「伝えるべき内容を持たない暗喩であり、意味の破綻したコミュニケーションであり、鑑賞者を必要としない純粋なイメージ」。最初のおかしさと虚無感のあいだで認知が混乱する、という体験
-  - **ゴミ画像 → DIS の「洗練」**：nukeme が DIS Magazine を初めて見た感想は「ゴミ画像の佇まいを強烈に洗練させている人たちがいる」。DIS は「ファッション雑誌には決して掲載されることのない、企画会議の段階で確実に破棄されたであろう数々のイメージ」を制度的に提示した。クレジットがあり意図が明記されているにもかかわらず混乱が消えない、という構造
-  - **八木沢俊樹の vvork → DIS 証言**（同記事内）：「InstagramやTumblrが普及する前...ただひたすら作品をアップしていくサイトが少し流行っていて...代表的なものとしてvvorkが挙げられます」「先鋭的なアーティストたちをひとつの思想を持ってキュレーションした『DIS Magazine』の誕生は、インターネットに魂が宿った瞬間だと感じました」。vvork → DIS の連続性を日本の受容者が一次証言として語っている
-  - **草稿との接続**：(1) VVORK・DIS の視覚的実践がもたらした「著者性・意図の不可読性」を、日本のネットアート圏の同時代的受容として裏づける一次証言。(2) 匿名性・著者性の消去という主題を、第6章 Archillect/rare.jpg の「著者性の消去」と接続する伏線にもなる。(3) ゴミ画像（完全に匿名・無意図）→ VVORK（最小帰属）→ DIS（クレジットあり、にもかかわらず混乱）という「著者性のグラデーション」が見える
-
-**既存テクストとの接続**：
-- 第1章 Reblorg 節（L186）で The Jogging（Brad Troemel）、dump.fm（Ryder Ripps）が既出。VVORK は同世代・同圏の実践であり、第1章で既出の固有名詞を回収する形になる
-- 第1章 `### 二つの流れ：ネットアート と soft grunge`（L145）で VVORK は直接言及されていないが、The Jogging・dump.fm と同列に置ける
-
-**分量**：1段落
-
-### 第6章・normcore 挿入の近く（L1075 の後）【回収】
-
-**書くべき内容**：
-- Archillect（2014末、Pak 作）と rare.jpg 型（2015〜）を、第4章で仕込んだ VVORK の形式が Tumblr 経由で Twitter に移植されたものとして短く触れる
-- Archillect は bot 化・自動化（Tumblr/Flickr/500px をクロール）、rare.jpg 型は匿名人力
+- 第4章で仕込んだ VVORK の「無言のキュレーション」が、Tumblr ムードボード文化（2010–2015）を経て Twitter へ移植された流れ（調査ノート §8.3・§8.5）
+- **Archillect**（2014末、Pak 作）：bot 化・自動化。Tumblr/Flickr/500px をクロールし、エンゲージメントのフィードバックで美学を自律進化。キーワード連鎖の逸脱（abstract→sphere→…）と手動リセット。無帰属批判への @Archilink 対応（§3）
+- **rare.jpg 型**（@rare_jpg、2015年〜）：匿名人力。`.jpg` 命名慣習による人格の消去、説明なしの画像流通（§4・§5.1）
+- bot（仕組みの説明あり）vs 匿名人間（説明ゼロ）の対比（§5.2）
 - 「著者性の消去」という実践として、normcore の「個性の消去」と構造的に共鳴する（ただし直接の影響関係を示す資料はない：調査ノート §5.3）
+- 「集めて並べる」が bot／匿名アカウント／プラットフォーム（Are.na）の三層へ分岐する流れとして、後続の K-HOLE→Are.na 段落へ橋渡し
 
-**分量**：1〜2文。normcore → サフィックス → Are.na という本筋を邪魔しない程度
+**書かない**：Pak の NFT 転向（2020〜、§3.6）、日本語圏 §11（パクツイ等）
+
+**分量**：短節（8-15行）。当初の「1〜2文」から拡張（調査ノート §3–5・§8 に独立節相当の素材があるため）
 
 ### 第8章・CARI 設立節（L1484〜）への追記【実行可能・inv-khole-1c】
 
@@ -71,22 +78,24 @@
 
 **分量**：**1段落**（長くても短い2段落）。草稿の既存プラットフォーム論（L1484–1497）は約14行。追記は5〜8行が目安。
 
-**既存テクストとの重複チェック**：
+**既存テキストとの重複チェック**：
 - L1488「2017年11月27日、Froyo TamはDiscordサーバーを開設した」→ Discord 創設日は**既出**。繰り返さない
 - L1497「cari.institute というストック型のアーカイブサイトに反映するという構造」→ cari.institute の性格は**既出**。Are.na との違い（視覚資料 vs 確定テキスト）を対比する形で書く
 - 第6章（inv-khole-1b）で Are.na の性格を予告している場合→ 第8章では**繰り返さず**「第6章で見た Are.na を、CARI は研究基盤として活用している」と受ける
 
 ## 分担まとめ
 
-| 章 | 何を書くか | 役割 | 分量 |
-|---|---|---|---|
-| 第4章 DIS 節 | VVORK＝「無言のキュレーション」、DIS と同一シーンの視覚的実践。nukeme「ゴミ画像」証言で著者性消去の主題を補強 | 仕込み | 1段落 |
-| 第6章 normcore 挿入 | Archillect・rare.jpg＝VVORK の Twitter への移植、normcore との共鳴 | 回収・接続 | 1〜2文 |
-| 第8章 CARI 節 | Are.na＝視覚的研究基盤（Discord・cari.institute との三段階フロー） | inv-khole-1c | 1段落（L1497 直後。inv-cari-arena ☑） |
+| 章 | 何を書くか | 役割 | 分量 | 状態 |
+|---|---|---|---|---|
+| 第4章 Steyerl 直後 | VVORK＝「無言のキュレーション」。The Jogging 比較・nukeme「ゴミ画像」・Are.na 仕込み | 仕込み | 6段落 | ☑ 反映済 |
+| 第6章 normcore 挿入 | サフィックス来歴＋normcore＋K-HOLE→DIS→Are.na＋Archillect/rare.jpg | 回収・接続 | 40–60行 | ☐ inv-khole-1b |
+| 第8章 CARI 節 | Are.na＝視覚的研究基盤（Discord・cari.institute との三段階フロー） | inv-khole-1c | 1段落（L1497 直後） | ☐ |
+| 第1章 soft grunge 節 | Indie Sleaze→Soft Grunge 追記 | inv-khole-1b 連動 | 1–2文 | ☐ |
+| 第7章 | L1381 後方参照化＋L1421 corecore/yabujincore 追記 | inv-khole-1b 連動 | 数行 | ☐ |
 
-### 第1章・soft grunge 節（L149 付近）への追記【inv-khole-1b 連動】
+### 第1章・soft grunge 節（L155 付近）への追記【inv-khole-1b 連動】
 
-**挿入位置**：L149「MySpace のエモ・シーンキッズ文化が 2009〜2010年に Tumblr へ移り、 soft grunge とくくられる」の直後または近傍。
+**挿入位置**：L155「MySpace のエモ・シーンキッズ文化が 2009〜2010年に Tumblr へ移り、 soft grunge とくくられる」の直後または近傍。
 
 **書くべき内容**：Indie Sleaze → Soft Grunge の系譜を1-2文。「〇〇によれば〜という」の伝聞形式。Wikipedia: 「soft grunge fashion style evolved directly from the indie sleaze trend, once Tumblr users began to merge it with darker fashion elements」を引く。Indie Sleaze は後年遡及的に名づけられた NY / London 圏のスタイルであり、Tumblr 上で soft grunge に変容したという位置づけ。
 
@@ -94,11 +103,13 @@
 
 **分量**：1-2文。
 
-## 調査状況（2026-06-28 更新）
+## 調査状況（2026-06-29 更新）
 
-画像bot自体の事実関係は調査ノート §3–8 で概ね調査済み。草稿への挿入は文案作成に進める段階。第8章の Are.na 追記については inv-cari-arena ☑（2026-06-27）で**実行可能**と判断。サフィックス系譜は未調査C ☑（2026-06-28）で解決済み。
+**inv-khole-1a** ☑（2026-06-29）：第4章 VVORK 節反映済。文案 → [`archive/反映済み文案/第4章取込_VVORK_文案.md`](./archive/反映済み文案/第4章取込_VVORK_文案.md)
 
-**nukeme「ゴミ画像」素材**（2026-06-28 追加）：美術手帖記事（2019年12月）の全文を確認済み。nukeme による DIS レポート記事で、「ゴミ画像」概念の定義（mainstream meme との区別、「混乱を楽しむ」美的態度）、DIS を「ゴミ画像の佇まいを強烈に洗練させている」と評した証言、八木沢俊樹による vvork → DIS の連続性の一次証言を含む。第4章 VVORK 段落の素材として十分。
+画像bot自体の事実関係は調査ノート §3–8 で概ね調査済み。第8章の Are.na 追記については inv-cari-arena ☑（2026-06-27）で**実行可能**と判断。サフィックス系譜は未調査C ☑（2026-06-28）で解決済み。**次は inv-khole-1b**。
+
+**nukeme「ゴミ画像」素材**（2026-06-28 追加）：美術手帖記事（2019年12月）の全文を確認済み。第4章 VVORK 節に反映済。
 
 ## 関連ファイル
 
@@ -106,4 +117,4 @@
 - [`Arena設計思想調査ノート.md`](./Arena設計思想調査ノート.md)：**inv-cari-arena 成果物**（2026-06-27）。第8章 CARI Are.na 追記の材料
 - [`サフィックス系譜比較調査ノート.md`](./サフィックス系譜比較調査ノート.md)：**未調査C 成果物**（2026-06-28）。-core/-wave/-punk 三系譜。第6章サフィックスブロックの材料
 - [`第6章_normcore追加_計画.md`](./第6章_normcore追加_計画.md)：normcore / サフィックス / Are.na の挿入計画（本計画と連動）
-- 美術手帖 nukeme 記事（https://bijutsutecho.com/magazine/news/report/21127 ）：「ゴミ画像」証言。第4章 VVORK 段落の素材
+- 美術手帖 nukeme 記事（https://bijutsutecho.com/magazine/news/report/21127 ）：「ゴミ画像」証言。第4章 VVORK 節に反映済
