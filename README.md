@@ -15,20 +15,43 @@
 
 ---
 
+## 作業の進め方
+
+1. **正文の正本**は [`草稿.md`](./草稿.md)。分割稿（`第N章_*.md`）は参照用で、食い違えば草稿が正。
+2. **事実・日付の正本**はテーマごとに [`context-map.md`](./context-map.md) §1-2 の表に従う。横断の日付索引は [`timeline.md`](./timeline.md)（本編520項目＋【要検証】V1〜V23）。
+3. **推敲・文体**は汎用 [`文体メモ.md`](./文体メモ.md)（または Claude Code スキル [`.claude/skills/manuscript-style/SKILL.md`](./.claude/skills/manuscript-style/SKILL.md)）＋プロジェクト固有 [`project-style-notes.md`](./project-style-notes.md) を併読する。
+4. **改稿の優先順位**（2026-07-06 通読）は [`草稿_整合性レビュー.md`](./草稿_整合性レビュー.md) の総括 A→B→C→E に従う（旧章番号の相互参照更新が最優先）。
+5. **タスク管理**は [`next_tasks.md`](./next_tasks.md)。反映済み文案は [`archive/反映済み文案/`](./archive/反映済み文案/) へ移す。
+
+資料の優先順位（矛盾時の解決手順の要約）は [`context-map.md`](./context-map.md) §1-3 を参照。
+
+---
+
 ## ファイル構成
+
+### 作業基盤・横断資料（2026-07 整備）
+
+| ファイル | 内容 |
+|---|---|
+| [`context-map.md`](./context-map.md) | **資料全体地図。** 正本ルール（L0〜L5）、章⇔ノート対応、ノート間矛盾、【要検証】V1〜V23、更新が必要な箇所 |
+| [`timeline.md`](./timeline.md) | **日付の統合インデックス**（2026-07-06 生成）。各正本ノートの日付記述を横断参照。原典は L1 ノート |
+| [`草稿_整合性レビュー.md`](./草稿_整合性レビュー.md) | 草稿全文の整合性通読（2026-07-06）。timeline／context-map 照合つき。指摘約60件・修正優先度付き |
+| [`project-style-notes.md`](./project-style-notes.md) | 本稿固有の用語・構成・章参照対応表・出典運用 |
+| [`文体メモ.md`](./文体メモ.md) | **汎用**の文体・推敲基準（プロジェクト非依存） |
+| [`.claude/skills/manuscript-style/SKILL.md`](./.claude/skills/manuscript-style/SKILL.md) | 文体メモのスキル版（推敲チェックリスト・具体例つき）。Claude Code 用 |
+| [`編集方針.md`](./編集方針.md) | 文案の作成・反映に関する方針（政治化・日本語圏射程・seapunk 読み道） |
+| [`next_tasks.md`](./next_tasks.md) | タスクトラッカー。進捗管理・調査状況・参照ファイル一覧 |
 
 ### 草稿と関連ファイル
 
 | ファイル | 内容 |
 |---|---|
 | [`草稿.md`](./草稿.md) | **本プロジェクトの中心成果物。** 「インターネット美学のクロニクル」序文＋全8章＋後記 |
+| [`草稿_整合性レビュー.md`](./草稿_整合性レビュー.md) | 事実・章参照・出典の横断レビュー（現行の改稿チェックリスト） |
 | [`草稿_推敲メモ.md`](./草稿_推敲メモ.md) | 草稿の通読分析と改稿方針。構造・内容・論理上の問題点と修正優先度 |
 | [`草稿_明晰さレビュー.md`](./草稿_明晰さレビュー.md) | 章ごとの明晰さ評価。誤記・章番号不一致・比重の偏り等の指摘一覧 |
 | [`草稿_ファクト補強調査.md`](./草稿_ファクト補強調査.md) | 事実関係の補強調査 |
 | [`草稿_レビュー論点メモ.md`](./草稿_レビュー論点メモ.md) | レビュー時の論点整理 |
-| [`文体メモ.md`](./文体メモ.md) | 文体上の指摘（推敲メモから分離） |
-| [`編集方針.md`](./編集方針.md) | 文案の作成・反映に関する方針 |
-| [`next_tasks.md`](./next_tasks.md) | タスクトラッカー。進捗管理・調査状況・参照ファイル一覧 |
 
 ---
 
@@ -73,13 +96,21 @@
 | [`HipposInTanks_調査ノート.md`](./HipposInTanks_調査ノート.md) | Hippos in Tanksレーベルの調査 |
 | [`MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md`](./MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md) | mp3ブログ時代の調査 |
 | [`internet_aesthetic語と制度化_調査ノート.md`](./internet_aesthetic語と制度化_調査ノート.md) | 「internet aesthetic」の語と制度化 |
-| [`Google_Trends調査.md`](./Google_Trends調査.md) | Google Trendsデータ分析 |
+| [`Google_Trends調査.md`](./Google_Trends調査.md) | Google Trendsデータ分析（**代理指標**。起源・因果の根拠にしない） |
 | [`ハイパーポップの歴史.md`](./ハイパーポップの歴史.md) | hyperpopの発展史 |
-| [`インディーウェブの歴史年表.md`](./インディーウェブの歴史年表.md) | IndieWeb・Neocities関連の年表 |
+| [`インディーウェブの歴史年表.md`](./インディーウェブの歴史年表.md) | IndieWeb・Neocities・cursed images 関連の年表 |
 | [`tumblrタイムライン.md`](./tumblrタイムライン.md) | Tumblrの歴史的タイムライン |
+| [`§8-2_Tumblr_ForYou_調査メモ.md`](./§8-2_Tumblr_ForYou_調査メモ.md) | Tumblr For You アルゴリズムの調査 |
 | [`aesthetic_文法分析メモ.md`](./aesthetic_文法分析メモ.md) | 「aesthetic」の文法的用法の分析 |
-| [`aestheticに関する手動調査.md`](./aestheticに関する手動調査.md) | aesthetic関連の手動調査 |
+| [`aestheticに関する手動調査.md`](./aestheticに関する手動調査.md) | aesthetic関連の手動調査（X・Wayback・Reddit） |
 | [`匿名性の美学_後半展開_論点ノート.md`](./匿名性の美学_後半展開_論点ノート.md) | 匿名性と美学に関する論点 |
+| [`khole-arena-archillect-researtch.md`](./khole-arena-archillect-researtch.md) | K-HOLE・normcore・VVORK・Archillect・rare.jpg・DIS 人脈 |
+| [`Arena設計思想調査ノート.md`](./Arena設計思想調査ノート.md) | Are.na 設計思想・CARI との関係 |
+| [`サフィックス系譜比較調査ノート.md`](./サフィックス系譜比較調査ノート.md) | -core/-wave/-punk サフィックスの系譜 |
+| [`scene_subculture_notes.md`](./scene_subculture_notes.md) | Scene・Indie Sleaze・Soft Grunge・MySpace サブカル |
+| [`supersuper.md`](./supersuper.md) | SuperSuper! Magazine（nu rave→witch house→seapunk 系譜） |
+| [`musicplusghost.md`](./musicplusghost.md) | musicplusghost 関連の洗い出し |
+| [`timeline.md`](./timeline.md) | 日付の横断統合インデックス（詳細は上記「作業基盤」） |
 
 ---
 
@@ -94,6 +125,9 @@
 | [`RA_No-Music-on-a-Dead-Internet.md`](./RA_No-Music-on-a-Dead-Internet.md) | Resident Advisor記事メモ |
 | [`RA_There-Is-No-Sound-Of-The-2020s-Yet.md`](./RA_There-Is-No-Sound-Of-The-2020s-Yet.md) | Resident Advisor記事メモ |
 | [`Unveiling_Tumblr's_Unique_Subcultures-Digital_Tribes_and_Self-Expression.md`](./Unveiling_Tumblr's_Unique_Subcultures-Digital_Tribes_and_Self-Expression.md) | Tumblrサブカルチャー論文メモ |
+| [`vice_seapunkwashesup.md`](./vice_seapunkwashesup.md) | VICE「Seapunk Washes Up」転写 |
+| [`nytimes_littlemermaidgoespunk.md`](./nytimes_littlemermaidgoespunk.md) | NYT seapunk 記事転写 |
+| [`note_極右の世界のBGM.md`](./note_極右の世界のBGM.md) | note 転写（**二次資料**。正文出典にしない） |
 
 ---
 
@@ -116,15 +150,19 @@
 
 ### 個別章ファイル（草稿.mdに統合済み、参照用に保持）
 
-| ファイル | 対応章 |
+> **注意**：ファイル名は旧6章構成の番号のまま。現行8章との対応は [`context-map.md`](./context-map.md) §2／[`project-style-notes.md`](./project-style-notes.md) §5 を参照。**第2章（シーンと土壌）・第4章（lo-fiとHD）には分割稿がない。** 手動同期のため草稿より遅れることがある——相互参照・事実確認は常に [`草稿.md`](./草稿.md) を正とする。章をまたぐ「第N章で見た」参照の点検表は [`草稿_整合性レビュー.md`](./草稿_整合性レビュー.md) 総括 A。
+
+| ファイル | 対応章（現行8章） |
 |---|---|
+| [`序文.md`](./序文.md) / [`序文_改稿.md`](./序文_改稿.md) | 序文 |
 | [`第1章_土壌.md`](./第1章_土壌.md) | 第1章 |
+| — | 第2章（分割稿なし） |
 | [`第2章_命名の時代.md`](./第2章_命名の時代.md) | 第3章（命名の時代） |
+| — | 第4章（分割稿なし） |
 | [`第3章_aestheticという語.md`](./第3章_aestheticという語.md) | 第5章（aestheticという語） |
 | [`第4章_感情が先に来る.md`](./第4章_感情が先に来る.md) | 第6章（感情が先に来る） |
 | [`第5章_爆発.md`](./第5章_爆発.md) | 第7章（爆発） |
 | [`第6章_制度化.md`](./第6章_制度化.md) | 第8章（制度化） |
-| [`序文.md`](./序文.md) / [`序文_改稿.md`](./序文_改稿.md) | 序文 |
 
 ### archive/
 
@@ -137,8 +175,10 @@
 
 | ファイル | 内容 |
 |---|---|
-| `googletrendscsv/` | Google Trendsの生データ（CSV） |
+| `googletrendscsv/` | Google Trendsの生データ（CSV）と可視化スクリプト |
+| `img/` | 草稿用スクリーンショット・図版（挿入計画: [`画像bot挿入_計画.md`](./画像bot挿入_計画.md)） |
 | `リサフランク420_再生数推移.html` / `.png` | リサフランク420のYouTube再生数推移グラフ |
+| `.claude/skills/manuscript-style/` | Claude Code 用推敲スキル |
 
 ---
 
@@ -146,14 +186,16 @@
 
 | テーマ | 主な参照ファイル |
 |---|---|
-| 「aesthetic」という語の歴史 | 調査ノート / 草稿 第5章 |
-| 個別美学の発生史 | 調査ノート / 草稿 第3章・第6章・第7章 |
-| 美学ミームの発生パターン分類 | 調査ノート / 覚書 |
+| 「aesthetic」という語の歴史 | aesthetic手動調査 / internet_aesthetic語ノート / 草稿 第5章 |
+| 個別美学の発生史 | 調査ノート / timeline.md / 草稿 第3章・第6章・第7章 |
+| 美学ミームの発生パターン分類 | 覚書 / 調査ノート |
 | 充填という概念・成立条件の理論化 | 覚書 / 草稿 第3章・第5章 |
 | 分類の制度化（Aesthetics Wiki / CARI） | CARIの歴史 / aesthetic wiki歴史レポート / 草稿 第8章 |
 | ハッシュタグ・フォークソノミーの技術的起源 | Nanoformats / Web 2.0年表 / 草稿 第1章 |
-| シーン史（2009〜2013年） | 草稿 第2章 / 各調査ノート |
-| lo-fi/HD論 | 草稿 第4章 |
+| シーン史（2009〜2013年） | 草稿 第2章 / MP3ブログノート / witchhouse-chillwaveメモ |
+| lo-fi/HD論 | lofi-HD構造メモ / 草稿 第4章 |
+| 日付・矛盾の横断確認 | timeline.md / context-map.md / 草稿_整合性レビュー.md |
+| 推敲・文体 | 文体メモ / project-style-notes / manuscript-style スキル |
 
 ---
 
@@ -170,4 +212,4 @@
 
 ---
 
-*最終更新：2026-06-25*
+*最終更新：2026-07-07（作業基盤整備：timeline / context-map / 整合性レビュー / 文体分離・スキル化）*

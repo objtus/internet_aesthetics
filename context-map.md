@@ -264,7 +264,7 @@
 
 | # | 箇所 | 問題 | 推奨対応 |
 |---|---|---|---|
-| 1 | **README.md**(最終更新2026-06-25) | 「調査参照ファイル」「個別調査ノート」表に後発ノートが未収載: サフィックス系譜比較調査ノート・scene_subculture_notes・Arena設計思想調査ノート・khole-arena-archillect-researtch・supersuper・§8-2メモ・RA記事2本・note_極右・timeline.md・context-map.md | 表に追記。分割稿の番号ずれ注意書きも追加 |
+| 1 | **README.md** | ~~「調査参照ファイル」「個別調査ノート」表に後発ノートが未収載~~ → **2026-07-07 更新済**（timeline・context-map・整合性レビュー・project-style-notes・文体分離・スキル・後発ノート追記・分割稿注意書き）。残: Web 2.0年表誤記(V10/V11)等は #4 参照 | — |
 | 2 | **美学ミーム覚書 §3.4** | KYM由来の「リサフランク420→aesthetic定着」叙述が、aesthetic手動調査(2026-06-02)の否定的事実を還流していない(草稿側は修正済み、ノート側が旧) | 覚書に手動調査への相互参照と限定を追記 |
 | 3 | **インターネット美学ノート §10-2(未調査リスト)** | 「-coreサフィックスの意味論」「Y2K aesthetic」「AestheticsWikiの役割」は後発ノート(サフィックス系譜・CARIの歴史・aesthetic wikiレポート・internet_aesthetic語ノート)で調査済みなのに未更新 | チェックを付け相互参照を張る |
 | 4 | **Web 2.0の詳細年表** | Instagram(V10)・Vine(V11)の誤記疑い。末尾「2021年後半」の文が途切れている | 訂正または注記。timeline.mdのV10/V11を還流 |
@@ -305,8 +305,9 @@
 | 分割稿・同期物(L3参照用) | 序文.md、第1章_土壌.md、第2章_命名の時代.md、第3章_aestheticという語.md、第4章_感情が先に来る.md、第5章_爆発.md、第6章_制度化.md |
 | テーマ別正本ノート(L1) | §1-2の表の24ノート |
 | 一次資料ローカル転写(L0) | vice_seapunkwashesup、nytimes_littlemermaidgoespunk、SilentGenerationEp22、FrankJavCee文字起こし、musicplusghost、RA×2、Vaporwave論文×2、note_極右(※二次)、Unveiling_Tumblr's |
-| 統合・案内(L2) | README.md |
+| 統合・案内(L2) | README.md、project-style-notes.md、文体メモ.md |
 | 計画・考察(L4) | 文章構成プラン、編集方針、next_tasks、_next_tasks_head、src-6_仕分け、Seapunk調査_取り込み計画、第2章_ed3計画、第2章_aesthetic章分離_考察、第3章_aesthetic_rev1_考察、6d-review×2、lofi-HD構造メモ、画像bot挿入_計画、第6章_normcore追加_計画 |
-| レビュー(L4) | 草稿_推敲メモ、草稿_明晰さレビュー、草稿_レビュー論点メモ、文体メモ、草稿_ファクト補強調査(※事実訂正を含むためL1に準ずる) |
+| レビュー(L4) | 草稿_推敲メモ、草稿_明晰さレビュー、草稿_レビュー論点メモ、**草稿_整合性レビュー**、文体メモ、草稿_ファクト補強調査(※事実訂正を含むためL1に準ずる) |
+| Claude Code スキル | `.claude/skills/manuscript-style/SKILL.md`（文体メモの実行用版） |
 | 文案(L4・反映済みはarchiveが原則) | 第4章取込_VVORK_文案、第6章_normcore追加_文案、第8章取込_CARI_Arena_文案(ルート残置3件)+archive/反映済み文案27件+archive/Seapunk取込文案7件 |
 | 旧稿(L5) | 草稿旧第2と3章.md、第3章_aestheticという語archive.md、序文_改稿.md(参照メモ化済み) |
