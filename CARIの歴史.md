@@ -160,6 +160,22 @@ CARI の公式ウェブサイトが正式にパブリック公開。ウェブマ
 
 ---
 
+## Aesthetics Wiki との連携
+
+### 2024-02-13 — 誤情報払拭の共同プロジェクト開始
+
+Chord Shore と Linsang が Aesthetics Wiki のモデレーター（CoffeeTheHermit・Graviphantalia）と連絡を取り、誤情報の払拭に向けた共同プロジェクトを始めた。盗用・astroturfing の分析、重複する美学への適切なクレジット追記が成果として記録されている。
+
+- 出典: [cari.institute/history](https://cari.institute/history)
+
+### 2025-01-10 — 命名者・創設者クレジットの Wiki 同期
+
+Chord Shore、Chad Miller、Evan Collins が各美学ページに Founding Researcher および命名者（Name attribution）の情報を追記。Aesthetics Wiki のモデレーションチームにも通知され、Wiki 側のページにも同期して反映された。枠組みは [Attribution Guidelines](https://cari.institute/attribution-guidelines) の「Aesthetic Credit」節に整理されている。
+
+- 出典: [cari.institute/history](https://cari.institute/history)
+
+---
+
 ## 主要人物
 
 |人物|役割|略歴|
@@ -191,3 +207,5 @@ CARI の公式ウェブサイトが正式にパブリック公開。ウェブマ
 |2019-08-27|Seattle Design Festival にて初公開講演|Evan Collins|
 |2020-12-30|Terrell Joseph Davis 逝去|—|
 |**2021-07-01**|**cari.institute 公式パブリックサイト正式公開**|Chad Miller（WM）|
+|2024-02-13|Aesthetics Wiki モデレーターと連絡・誤情報払拭プロジェクト開始|Chord Shore・Linsang|
+|2025-01-10|命名者・創設者クレジットを更新し Wiki に同期|Chord Shore・Chad Miller・Evan Collins|

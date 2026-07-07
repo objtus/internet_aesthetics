@@ -39,6 +39,18 @@
 | [r/VaporwaveArt](https://www.reddit.com/r/VaporwaveArt/) | **2014-10-27** | [2015-01-06 保存](https://web.archive.org/web/20150106160939/http://www.reddit.com/r/VaporwaveArt/)：ビジュアル投稿。**Furtherfield「The Banality of The New Aesthetic」**（2012-04-15）へのリンクあり。**vaporwave 画像文化と New Aesthetic 論評の接続** |
 | [r/VaporwaveAesthetics](https://www.reddit.com/r/Vaporwaveaesthetics/) | **2014-12-30** | [2015-01-06 保存](https://web.archive.org/web/20150106122252/reddit.com/r/vaporwaveaesthetics)：**音楽は /r/Vaporwave へ**。当サブは「Vaporwave **aesthetic**」の画像・素材のみ。**音楽ジャンルと美学の公式分離** |
 
+#### Luna Vega（2011-10-06）——*musical aesthetic* / *visual aesthetic* の対比
+
+| 項目 | 内容 |
+|---|---|
+| 日付 | **2011年10月6日** |
+| 記事 | [Seapunk: The New Web and the Evolution of the Visual Music Genre](https://web.archive.org/web/20141127014033/http://www.lunavega.net/2011/10/seapunk-the-new-web-and-the-evolution-of-the-visual-music-genre/) |
+| 要点 | witch house は「決定的なビジュアル美学（visual aesthetic）」を持つが、seapunk では "the visual element is more concrete then the sound itself"。*musical aesthetic* と *visual aesthetic* を分け、マイクロジャンルを「見た目が先に立つ流通の単位」として説明 |
+| 二次参照 | Alexis Stephens, Cluster Mag「The Abyss」(2011-12-05) が当記事を "seapunk visual aesthetic" の外部解説としてリンク |
+| 草稿 | 草稿.md L1040〜1042（第5章） |
+
+**【URL】** https://web.archive.org/web/20141127014033/http://www.lunavega.net/2011/10/seapunk-the-new-web-and-the-evolution-of-the-visual-music-genre/
+
 **r/vaporwave 概要欄（Wayback 2012-07-12・当時の内部的認識として特記）**
 
 > a subreddit for a subgenre (vaporwave) of a subgenre (chillwave) of a subgenre (idm) of a genre (electronic music). think of it as retro-chillwave. or whatever. it's a young scene and we're not picky about the details.

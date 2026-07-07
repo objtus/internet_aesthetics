@@ -109,11 +109,12 @@
 | **2020-09-10** | *Washington Post*：「How the #cottagecore **Internet aesthetic** dovetails with pandemic travel」 | 今日的・大手メディア初期例の一つ | [Wayback](https://web.archive.org/web/20200911061944/https://www.washingtonpost.com/lifestyle/travel/how-the-cottagecore-internet-aesthetic-dovetails-with-pandemic-travel/2020/09/10/3ae54032-ed39-11ea-99a1-71343d03bc29_story.html) |
 | **2022-06-29** | Aesthetics Wiki：**Category:Internet Aesthetics** 作成（Graviphantalia） | 制度化（Wiki） | [history](https://aesthetics.fandom.com/wiki/Category:Internet_Aesthetics?action=history) |
 | **2022-08-05** | 英語 Wikipedia：**User:Photos of Japan/Internet aesthetic** 草稿初版（Spiderwinebottle、「Draft; To be continued」） | 制度化（百科・草稿） | [oldid=1102551949](https://en.wikipedia.org/w/index.php?title=User:Photos_of_Japan/Internet_aesthetic&oldid=1102551949) |
+| **2022-09-30** | 英語 Wikipedia：草稿が本稿空間へ移され、新規記事「Internet aesthetic」として登録（logid=137226761） | 制度化（百科・本稿初登録） | [logid=137226761](https://en.wikipedia.org/wiki/Special:Redirect/logid/137226761) |
 | **2023-10-11** | 日本語 Wikipedia：**インターネット・エスセティック** 立項（S1LAviridian、英語版「Internet aesthetic」の**コンテンツ翻訳**） | 制度化（百科・日本語） | [ja history](https://ja.wikipedia.org/w/index.php?title=%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%83%BB%E3%82%A8%E3%82%B9%E3%82%BB%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF&action=history) |
 | **2024-10〜12** | 英語 Wikipedia 本稿 `Internet aesthetic` が活発に拡張・編集 | 制度化（本稿空間） | [history](https://en.wikipedia.org/w/index.php?title=Internet_aesthetic&action=history) |
 | **2024-12-10** | 英語 Wikipedia：削除提案（AfD） | 制度化の関門 | Wikipedia:Articles for deletion/Internet aesthetic |
 | **2025-01-01** | 英語 Wikipedia：AfD により本稿削除→ユーザースペースへ移動（Asilvering） | 制度化の**一度の失敗** | [deletion log](https://en.wikipedia.org/w/index.php?title=Special:Log&type=delete&page=Internet+aesthetic) |
-| **2025-07〜** | 英語 Wikipedia：本稿空間へ**復帰**（編集再開。初出は **7月19日** Aradicus ほか） | 制度化の再試行 | [history](https://en.wikipedia.org/w/index.php?title=Internet_aesthetic&action=history) |
+| **2025-07-06** | 英語 Wikipedia：Aradicus が本稿空間に「Internet aesthetics」（複数形）として**新規作成**（oldid=1299024742、03:44 UTC） | 制度化の再試行 | [oldid=1299024742](https://en.wikipedia.org/w/index.php?title=Internet_aesthetic&oldid=1299024742) |
 | **2025-08-19** | `Internet aesthetic` → `Internet aesthetics` リダイレクト設置（Xoontor） | 表記整理 | [log](https://en.wikipedia.org/w/index.php?title=Special:Log&page=Internet+aesthetic) |
 | **2025-11-16** | `Internet aesthetics` を `Internet aesthetic` へ移動（単数形を正規タイトルに。TechnoSquirrel69） | 制度化の**再確定** | 同上 |
 | **2026年現在** | [Internet aesthetic](https://en.wikipedia.org/wiki/Internet_aesthetic) 本稿として存続（約5万字・History 節・複数 aesthetic の Related examples） | 制度化（百科・現行） | 本稿 URL |
@@ -172,6 +173,10 @@ vaporwave を「half-satirical, half-earnest internet aesthetic」と位置づ�
 
 「Draft; To be continued」と明記。定義は今日的用法そのもの。
 
+### 7-1b. 本稿空間への初登録（2022-09-30）
+
+ユーザーページ草稿はまもなく本記事空間へ移され、**2022年9月30日**に新規記事として本文空間に登録された（[logid=137226761](https://en.wikipedia.org/wiki/Special:Redirect/logid/137226761)）。タイトルは単数形の「Internet aesthetic」。草稿.md L1176 と一致。
+
 ### 7-2. 本稿空間での成長（2024）
 
 2024年10月〜12月に `Internet aesthetic` 本稿が急速に拡張（dark academia、McBling、Frutiger Aero、Y2K 等の節追加）。編集者間で定義・出典の質をめぐる議論（「ChatGPT summary」批判等）。
@@ -189,12 +194,13 @@ vaporwave を「half-satirical, half-earnest internet aesthetic」と位置づ�
 
 ### 7-4. 本稿空間への復帰（2025年夏〜）
 
-**2025年1月以降、記事は消えなかった。** ユーザースペース版が維持・拡張されたうえで、**2025年7月ごろから本稿空間での編集が再開**している（history 上の最古の復帰後編集は **7月19日** Aradicus ほか。初版時点で約4.4万バイト）。
+**2025年1月以降、記事は消えなかった。** ユーザースペース版が維持・拡張されたうえで、**2025年7月6日** 03:44 UTC に Aradicus が本稿空間へ「Internet aesthetics」として新規作成した（[oldid=1299024742](https://en.wikipedia.org/w/index.php?title=Internet_aesthetic&oldid=1299024742)）。Public log には当該作成行は出ないが、リビジョン履歴で確認できる。初版時点で約4.4万バイト。
 
 その後の整理：
 
 | 日付 | 出来事 |
 |---|---|
+| 2025-07-06 | Aradicus が本稿空間に「Internet aesthetics」を新規作成（oldid=1299024742） |
 | 2025-08-19 | Xoontor が `Internet aesthetic` → `Internet aesthetics` リダイレクトを設置 |
 | 2025-11-16 | TechnoSquirrel69 が `Internet aesthetics` を `Internet aesthetic` へ移動（単数形を正規タイトルに） |
 
@@ -353,7 +359,7 @@ AfD で一度脱落（2025-01）→ 本稿空間へ復帰（2025-07〜）→ 現
 | 項目 | 状態 |
 |---|---|
 | Twitter「internet aesthetic」今日的用法の**最古投稿**（2016〜2018） | 要手動検索（Advanced Search、所感のみ） |
-| 英語 Wikipedia **本稿空間への初復帰日**（move log の精査） | 編集 history 上は **2025-07-19** が最古。移動ログの詳細は要確認 |
+| 英語 Wikipedia **本稿空間への初復帰日** | **2025-07-06**（Aradicus、oldid=1299024742）。旧メモの 2025-07-19 は誤り |
 | **日本語 Wikipedia** `インターネット・エスセティック` | ☑ **2023-10-11** 立項（S1LAviridian・英語版翻訳）。§7-7 |
 | HBR 記事本文（2013）の「internet aesthetic」用法 | ツイート先 s.hbr.org の Wayback |
 | 「internet aesthetics」複数形の標準化時期 | CARI・Wiki・メディアの表記揺れ |

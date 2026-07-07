@@ -252,6 +252,7 @@
 | 2011-09〜10 | seapunk秘密グループ内で「何がseapunkか」をめぐる対立。Redwine(Ultrademon)がレーベル設立を主張、Lil Internet側は「us against them」化を警戒 | VICE "Seapunk Washes Up" (2012-03-09) | Seapunk 詳細調査ノート.md |
 | 2011-09-11 | Coral Records Internazionale『#Seapunk Volume 1』コンピ(ハッシュタグをアルバム名に採用) | https://www.discogs.com/label/369506-Coral-Records-Internazionale | Seapunk 詳細調査ノート.md |
 | 2011-09-13 | James Ferraro『Condo Pets』EP(FSVの前奏、HIT) | https://dmy.co/news/james-ferraro-condo-pets | HipposInTanks_調査ノート.md |
+| 2011-10-06 | Luna Vegaブログ「Seapunk: The New Web…」—*musical aesthetic* / *visual aesthetic* の対比。Cluster Mag(2011-12-05)から参照 | https://web.archive.org/web/20141127014033/http://www.lunavega.net/2011/10/seapunk-the-new-web-and-the-evolution-of-the-visual-music-genre/ | aestheticに関する手動調査.md・草稿.md L1040 |
 | 2011-10 | Coral RecordsがブルックリンでCMJ Festivalに合わせ最初のSeapunkショーケース開催(Lil Internetら出演) | https://knowyourmeme.com/memes/cultures/seapunk | Seapunk 詳細調査ノート.md |
 | 2011-10 | Snapchatサービス開始 | Timeline of social media (Wikipedia) | Web 2.0の詳細年表.md |
 | 2011-10 | Tumblrカスタムテーマ機能改訂(テーマ変数GUI強化) 〔mid〕 | unwrapping.tumblr.com features timeline | tumblrタイムライン.md |
@@ -435,6 +436,7 @@
 | 2017 | 確定日付を持つ最古のWeirdcore編集画像(起源自体は2010年代中頃に遡る可能性) 〔起源不明確〕 | https://aesthetics.fandom.com/wiki/Weirdcore | インターネット美学（Internet Aesthetics）調査ノート.md |
 | 2017-01 | Google Trends: 「vaporwave」検索関心が全期間ピーク(なだらかな上昇型。批評言語化2012→検索頂点2017の時差) 〔代理指標〕 | Google Trends CSV | Google_Trends調査.md |
 | 2017-01 | Vice(Penn Bullock & Eli Penn)がtrumpwave/fashwave特集。Sleep ∞ OverのFranciottiが「weaponized nostalgia」(THUMP経由)。4chan/pol発言「a trap to make our ideas seem friendly」 〔weaponized nostalgiaが本人の言葉かは未確認〕 | https://www.vice.com/en/article/trumpwave-fashwave-far-right-appropriation-vaporwave-synthwave/ | vaporwave政治化_調査ノート.md |
+| 2017-01-05 | Froyo TamがFacebook投票で「McBling」命名。得票上位の他候補はCollinsが「meme-like（ミーム的）」として否決しMcBling採用 | https://cari.institute/history | CARIの歴史.md |
 | 2017-01-14 | Tumblrユーザー@holocene-daysが「the holy trinity of Dark Academia」投稿(ラベル定着に決定的) | https://aesthetics.fandom.com/wiki/Dark_Academia | インターネット美学（Internet Aesthetics）調査ノート.md |
 | 2017-02-14 | H∆SHTAG$シーズン2公開(#Gqom/#HealthGoth/#Kawaii/#Grime)。「ハイプの後」へのテーマ転換 | https://daily.redbullmusicacademy.com/2017/02/hashtags-season-two/ | Seapunk 詳細調査ノート.md |
 | 2017-02-19 | Global Village Coffeehouse Facebookグループ設立 | https://cari.institute/history | CARIの歴史.md |
@@ -552,6 +554,7 @@
 | 2022-05-23 | leroy『Dariacore 3... At Least I Think That's What It's Called?』。2022-06にleroy名義引退 | https://dariacore.miraheze.org/wiki/C0ncernn/sets/dariacore | ハイパーポップの歴史.md |
 | 2022-06-29 | Aesthetics Wikiに「Category:Internet Aesthetics」作成(Graviphantalia)。上位カテゴリの公式化 | https://aesthetics.fandom.com/wiki/Category:Internet_Aesthetics?action=history | internet_aesthetic語と制度化_調査ノート.md |
 | 2022-08-05 | 英語Wikipedia「Internet aesthetic」草稿初版(User:Photos of Japan配下、Spiderwinebottle) | https://en.wikipedia.org/w/index.php?title=User:Photos_of_Japan/Internet_aesthetic&oldid=1102551949 | internet_aesthetic語と制度化_調査ノート.md |
+| 2022-09-30 | 英語Wikipedia「Internet aesthetic」本稿空間へ新規登録(単数形タイトル。logid=137226761) | https://en.wikipedia.org/wiki/Special:Redirect/logid/137226761 | internet_aesthetic語と制度化_調査ノート.md |
 | 2022-10 | Elon MuskがTwitter買収。Mastodonへ2ヶ月で200万人以上移住 | インディーウェブの歴史年表.md記載 | インディーウェブの歴史年表.md |
 | 2022-11 | Tumblr、ActivityPub対応方針を表明(Mullenweg) 〔high〕 | https://en.wikipedia.org/wiki/Tumblr | tumblrタイムライン.md |
 | 2022-11-28 | Cory Doctorowが"enshittification"を造語(2023年米方言学会「今年の言葉」) | https://pluralistic.net/2022/11/28/enshittification/ | インディーウェブの歴史年表.md |
@@ -570,6 +573,7 @@
 | 2023-10頃 | Aesthetics Wikiページ上のコメント欄が無効化 〔ユーザー証言〕 | aesthetic wiki 歴史レポート.md記載 | aesthetic wiki 歴史レポート.md |
 | 2023-10-11 | 日本語Wikipedia「インターネット・エスセティック」立項(S1LAviridian、英語版のコンテンツ翻訳) | https://ja.wikipedia.org/wiki/インターネット・エスセティック | internet_aesthetic語と制度化_調査ノート.md |
 | 2024 | Silent Generation Podcast Ep.22でZombelleが「Wikipediaから完全に書き消された」と証言(seapunk正史をめぐる争いの継続) 〔一次〕 | https://www.iheart.com/podcast/1323-silent-generation-130572482/episode/ep-22-seapunk-2-w-zombelle-172547976/ | Seapunk 詳細調査ノート.md |
+| 2024-02-13 | CARI(Chord Shore・Linsang)とAesthetics Wikiモデレーター(CoffeeTheHermit・Graviphantalia)が連絡。誤情報払拭・盗用分析・クレジット追記の共同プロジェクト | https://cari.institute/history | CARIの歴史.md |
 | 2024-02-25 | Nekoweb正式ローンチ(dimden開発、AIクローラーブロックを掲げる) | https://nekoweb.org/ | インディーウェブの歴史年表.md |
 | 2024-06-03 | Interview誌「Normcore: The Oral History No One Asked For」(Fiona Duncan)。Brad Troemel経由・89plus委嘱・Estradaコミック起源がすべて当事者証言で確定 〔一次〕 | https://www.interviewmagazine.com/fashion/normcore-the-oral-history-no-one-asked-for | khole-arena-archillect-researtch.md |
 | 2024-06-07 | Charli XCX『brat』リリース(A.G. Cook制作陣)。「brat summer」文化現象、7月に「kamala IS brat」政治波及、11月Collins Dictionary今年の言葉 | https://en.wikipedia.org/wiki/Brat_Summer | ハイパーポップの歴史.md |
@@ -578,10 +582,11 @@
 | 2024-12-10 | 英語Wikipedia「Internet aesthetic」にAfD(削除提案)提起 | Wikipedia AfD log | internet_aesthetic語と制度化_調査ノート.md |
 | 2025 | EBSCO Research Startersが「Internet aesthetic」概説項目を公開(Helen Campbell。図書館リファレンスでの制度化) | https://www.ebsco.com/research-starters/social-sciences-and-humanities/internet-aesthetic | internet_aesthetic語と制度化_調査ノート.md |
 | 2025-01-01 | AfDにより英語Wikipedia本稿削除→ユーザースペースへ移動(制度化の一度の失敗。日本語版は存続) | https://en.wikipedia.org/w/index.php?title=Special:Log&type=delete&page=Internet+aesthetic | internet_aesthetic語と制度化_調査ノート.md |
+| 2025-01-10 | CARIがFounding Researcher・命名者クレジットを更新。Aesthetics Wiki側にも同期 | https://cari.institute/history / https://cari.institute/attribution-guidelines | CARIの歴史.md |
 | 2025-02 | Neocitiesホスト数100万サイト超 | https://en.wikipedia.org/wiki/Neocities | インディーウェブの歴史年表.md |
 | 2025-02-19 | Pitchfork「Chasing Yabujin, the Artist Who Secretly Shaped the Underground Sound of the 2020s」公開 | https://en.everybodywiki.com/Yabujin | ハイパーポップの歴史.md |
 | 2025-04-04 | Jane Remover『Revengeseekerz』。dariacoreを「自分の何よりも影響力がある」と発言 | https://en.wikipedia.org/wiki/Revengeseekerz | ハイパーポップの歴史.md |
-| 2025-07-19 | 英語Wikipedia「Internet aesthetic」本稿空間へ復帰(編集再開)。8/19リダイレクト整理、11/16単数形タイトルに再確定 | https://en.wikipedia.org/w/index.php?title=Internet_aesthetic&action=history | internet_aesthetic語と制度化_調査ノート.md |
+| 2025-07-06 | 英語Wikipedia「Internet aesthetic」本稿空間へ復帰—Aradicusが「Internet aesthetics」として新規作成(03:44 UTC、oldid=1299024742)。8/19リダイレクト整理、11/16単数形タイトルに再確定 | https://en.wikipedia.org/w/index.php?title=Internet_aesthetic&oldid=1299024742 | internet_aesthetic語と制度化_調査ノート.md |
 | 2026-01 | BingがNeocities全ドメイン(150万サイト以上)を検索インデックスから除外 | https://blog.neocities.org/blog/2026/01/27/bing-block | インディーウェブの歴史年表.md |
 | 2026-01-27 | Kyle Drakeが公開声明「BingとDuckDuckGoを使わないよう推奨」 | https://blog.neocities.org/blog/2026/01/27/bing-block | インディーウェブの歴史年表.md |
 | 2026-02 | Ars Technica取材後、NeocitiesのBingブロック部分的解消 | https://arstechnica.com/tech-policy/2026/02/neocities-founder-stuck-in-chatbot-hell-after-bing-blocked-1-5m-sites/ | インディーウェブの歴史年表.md |
