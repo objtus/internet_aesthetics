@@ -201,7 +201,8 @@
 | V5〜V9 | K-HOLE設立年/The Jogging開始年/Are.na創設・調達年/PC Music設立日/Neocitiesローンチ日 | 各ノート内の複数出典 | 両論併記(草稿はPC Music=6/25 infobox準拠と明記) |
 | V10・V11 | Instagram開始月・Vine開始 | **Web 2.0の詳細年表.mdの誤記の可能性大** | 同ノートを劣後扱い(§1-2) |
 | V12 | Guys Next Door共同名義 | Wikipedia断定⇔一次未確認 | inv-opn-cook方針=「噂として書く」 |
-| V13〜V19 | Atlantis対抗説/Machat死去日/fashioncore命名者/van Gennep年/Ponyboy日付/King Night月/20jfg2008記事 | 各表参照 | 両論併記または未確認と明示 |
+| V13〜V18,V20〜V23 | Atlantis対抗説/Machat死去日/fashioncore命名者/van Gennep年/Ponyboy日付/King Night月/post-internet命名/9 Eyes・Hot and Cool/CARI Are.na/Blank Banshee | 各表参照 | 両論併記または未確認と明示 |
+| ~~V19~~ | ~~20jfg2008記事~~ | — | **2026-07-07 解決**（2008-10-02 THE WHITE VOID） |
 | V20〜V23 | post-internet命名時期/9 Eyes×Hot and Cool/CARIのAre.na開始/Blank Banshee帰属 | 各表参照 | V23は「矛盾ではなくラベル再編成」として本文利用可 |
 
 ### 3-2. 資料構造上の食い違い(要注意)

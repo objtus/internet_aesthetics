@@ -116,9 +116,15 @@ Salemを最初期に紹介した記事（2008年1月28日）の文体は中英�
 > — 20jazzfunkgreats、Salemについての投稿（2008年1月28日）  
 > アーカイブ：https://witch-house.com/forum/viewtopic.php?t=7138
 
-### GatekeeperとOPNの2008年記事【要検証】
+### GatekeeperとOPNの2008年記事「THE WHITE VOID」（確認済み）
 
-調査者が20jfgの2008年記事でGatekeeperとOPNの音源配布を確認したと報告。公式なGatekeeperデビューはFrightからの *Optimus Maximus*（2009年10月）であるため、この記事が存在するならば正式デビュー前の音源ということになる。Wayback Machineでの確認が必要。
+2026-07-07、Wayback Machine で以下を確認した（草稿 L421・`img/2_20jfg-thewhitevoid.png` と同URL）。
+
+| 日付 | 出来事 | 出典 |
+|---|---|---|
+| 2008-10-02 | 20jazzfunkgreats が「[THE WHITE VOID](https://web.archive.org/web/20101213051243/http://www.20jazzfunkgreats.co.uk/wordpress/2008/10/02/the-white-void/)」で Gatekeeper「Final Approach」と OPN「A House in Rasinari」「Soft Program (You Knew)」を同列紹介 | Wayback: https://web.archive.org/web/20101213051243/http://www.20jazzfunkgreats.co.uk/wordpress/2008/10/02/the-white-void/ |
+
+Gatekeeper の公式デビューは Fright からの *Optimus Maximus*（2009年10月）のため、本記事は正式デビュー前の音源配布の証拠となる。OPN と GATEKEEPER の接点は2008年までさかのぼる（草稿・inv-opn-cook 年表と整合）。
 
 ### GizaのMV独占公開（2010年）
 
@@ -856,7 +862,7 @@ Lawrence English、John Hudak、Lasse Marhaug、DJ Stingray、Palmistry、Floria
 
 ### 最優先
 
-- **20jfgの2008年GatekeeperおよびOPN記事の実在確認**  
+- ~~**20jfgの2008年GatekeeperおよびOPN記事の実在確認**~~ ☑ 2026-07-07 解決（§2「THE WHITE VOID」）  
   → Wayback Machineで `http://www.20jazzfunkgreats.co.uk/` の2008年アーカイブを探索  
   → 具体的な記事タイトルや投稿日の特定
 

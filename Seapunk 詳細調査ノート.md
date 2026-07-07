@@ -259,7 +259,7 @@ witch-house.comフォーラムの#seapunkスレッド（2011年秋）では：
 > "How is this any different than chill wave?"
 
 参照：witch-house.com forum "#seapunk" スレッド  
-URL：http://www.witch-house.com/forum/viewtopic.php?t=924
+URL：http://www.witch-house.com/forum/viewtopic.php?t=922
 
 懐疑的な声がある一方、Tropicultが入門作品として連投されている。witch houseコミュニティはseapunkを異質なものと感じながらも、共有のアーティスト（Zombelleら）を通じて接続されていた。
 
@@ -390,7 +390,7 @@ witch-house.comの#seapunkスレッドでの議論：
 > "it's not punk, though. what gives? at least witch house has some (however tenuous) connection to house."
 
 参照：witch-house.com forum "#seapunk"  
-URL：http://www.witch-house.com/forum/viewtopic.php?t=924
+URL：http://www.witch-house.com/forum/viewtopic.php?t=922
 
 witch houseコミュニティはseapunkを音楽ジャンルとしては懐疑的に受け取った。「punkとは何の関係もないし、at leastウィッチハウスにはハウスとのつながりがある」という感覚。
 
@@ -1108,7 +1108,7 @@ Discogs "Coral Records Internazionale"：https://www.discogs.com/label/369506-Co
 | witch-house.com THE TIMELINE | 一次資料（コミュニティアーカイブ） | https://witch-house.com/thetimeline/ |
 | witch-house.com THE TIMELINE（Internet Archive） | 一次資料（アーカイブ） | https://archive.org/details/witch-house-music-history |
 | witch-house.com forum: Tropicultスレッド | 一次資料（フォーラム） | https://witch-house.com/forum/viewtopic.php?t=702 |
-| witch-house.com forum: #seapunkスレッド | 一次資料（フォーラム） | http://www.witch-house.com/forum/viewtopic.php?t=924 |
+| witch-house.com forum: #seapunkスレッド | 一次資料（フォーラム） | http://www.witch-house.com/forum/viewtopic.php?t=922 |
 | Tropicult Bandcamp（Web Archive） | 一次資料（音楽リリース） | https://web.archive.org/web/20110831135005/https://tundradub.bandcamp.com/album/tropicult |
 | Know Your Meme "Seapunk" | 二次資料（ドキュメント） | https://knowyourmeme.com/memes/cultures/seapunk |
 | VICE "Seapunk Washes Up"（掲載） | 二次資料（ジャーナリズム・年表全文） | https://www.vice.com/en/article/r795xr/seapunk-washes-up |

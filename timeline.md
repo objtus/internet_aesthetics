@@ -149,6 +149,7 @@
 | 2008-08 | TumblrダッシュボードブルーUI確立(v4.0) 〔mid〕 | unwrapping.tumblr.com features timeline | tumblrタイムライン.md |
 | 2008-09 | Modern Witch最初のCDr『Headaches Are For Harlots』をジン「Sonic Bonk」同梱でリリース(9/19 Zootsがフォーラム告知) | https://witch-house.com/forum/viewtopic.php?t=7257 | witchhouse-chillwave調査メモ.md |
 | 2008-09 | Presto!?設立(Lorenzo Senni、ミラノ)。「最初のリリースを刷った日、リーマン・ブラザーズが破産申請した」 | https://prestorecords.bandcamp.com/ | MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md |
+| 2008-10-02 | 20jazzfunkgreats「THE WHITE VOID」でGatekeeper「Final Approach」とOPN「A House in Rasinari」「Soft Program (You Knew)」を同列紹介(正式デビュー前の音源) | https://web.archive.org/web/20101213051243/http://www.20jazzfunkgreats.co.uk/wordpress/2008/10/02/the-white-void/ | MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md |
 | 2008-11 | Tumblrいいね(Likes)機能追加 〔mid〕 | unwrapping.tumblr.com features timeline | tumblrタイムライン.md |
 | 2008-12 | TumblrシリーズB資金調達$4.5M 〔high〕 | Wikipedia mirror: Tumblr | tumblrタイムライン.md |
 
@@ -476,7 +477,9 @@
 | 2019-05-12 | 4chan /x/に「なんとなくおかしい画像」スレッド(元画像はcursed imagesスレッド由来)。翌5/13に匿名レスで「The Backrooms」誕生 | https://en.wikipedia.org/wiki/The_Backrooms | インターネット美学（Internet Aesthetics）調査ノート.md |
 | 2019-05-31 | 100 gecs『1000 gecs』(Dog Show Records) | https://en.wikipedia.org/wiki/1000_gecs | ハイパーポップの歴史.md |
 | 2019-06-15 | Stacy Minajj「Rare RCB hexD.mp3」SoundCloud公開(HexDの起点。8/23にDismiss YourselfがYouTube転載しカルト化) | https://en.wikipedia.org/wiki/Rare_RCB_hexD.mp3 | ハイパーポップの歴史.md |
-| 2019-08 | SpotifyエディターLizzy Szaboが「Hyperpop」プレイリスト開設(100 gecsの急成長への反応)。説明文「Hyperpop is a simulation」 | https://www.billboard.com/music/pop/hyperpop-history-mainstream-crossover-9595799/ | ハイパーポップの歴史.md |
+| 2017頃 | Spotifyプレイリスト「Neon Party」(ID: `37i9dQZF1DX7HOk71GPfSw`)。Charli XCXカバー、PC Music勢中心 | 草稿.md L996 | ハイパーポップの歴史.md |
+| 2019-07 | 同上プレイリストは更名前も「Neon Party」名。リード曲Little Mix「Wasabi」 | 草稿.md L996 | ハイパーポップの歴史.md |
+| 2019-08 | SpotifyエディターLizzy Szaboが「Neon Party」を改名・刷新し「Hyperpop」プレイリストに(100 gecsの急成長への反応)。説明文「Hyperpop is a simulation」 | https://www.billboard.com/music/pop/hyperpop-history-mainstream-crossover-9595799/ | ハイパーポップの歴史.md |
 | 2019-08-12 | Automattic(WordPress.com)がTumblrを約$3M以下で買収 〔high〕 | https://www.washingtonpost.com/technology/2019/08/13/ | tumblrタイムライン.md |
 | 2019-08-14 | r/LiminalSpace設立(4chanスレッドから約3ヶ月後) | https://knowyourmeme.com/memes/cultures/liminal-spaces-images-with-elegiac-auras-dreamcore | インターネット美学（Internet Aesthetics）調査ノート.md |
 | 2019-08-27 | Seattle Design FestivalでCARI初の公開プレゼンテーション(Evan Collins) | https://nwfilmforum.org/events/consumer-aesthetic-research-institute-unearthing-forgotten-design-history-recent-past/ | CARIの歴史.md |
@@ -656,8 +659,8 @@
 ### V18. Salem『King Night』のリリース月
 - witchhouse-chillwaveメモは**2010年9月**とするが、FADER記事は「2010年」とのみ記載。〔witchhouse-chillwave調査メモ.md〕
 
-### V19. 20jazzfunkgreatsの2008年Gatekeeper・OPN記事の実在
-- 調査者が2008年の同ブログ記事でGatekeeper・OPN音源の配布を確認したと報告するが、Gatekeeperの公式デビューは2009-10(Fright)であり、Wayback Machineでの記事特定は未完了。〔MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md〕
+### V19. ~~20jazzfunkgreatsの2008年Gatekeeper・OPN記事の実在~~ → **解決（2026-07-07）**
+- 2008-10-02「THE WHITE VOID」で Gatekeeper・OPN 音源を同列紹介。Wayback 確認済み。本編年表（2008-10-02行）・MP3ブログノート §2へ還流済み。〔MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md・草稿.md L421〕
 
 ### V20. Marisa Olsonによる「post-internet」命名の時期
 - インディーウェブの歴史年表=**2006〜2008年頃**(幅) / 美学ミーム覚書はWe Make Money Not Artのインタビュー(**2008-03-28**)を用例のアンカーとし、さらに前史として2004-07頃のRhizome「post net.art」(Valery Crancherら)を挙げる。〔インディーウェブの歴史年表.md・美学ミームの成立条件についての覚書.md〕
