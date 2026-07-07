@@ -65,7 +65,7 @@
 - **第3章　命名の時代**：vaporwave・chillwave・hypnagogic pop・witch house・seapunkの命名過程。ラベル先行型の発生パターン。DMY Magazine
 - **第4章　lo-fiとHD**：proto-vaporwave→Steyerl「In Defense of the Poor Image」→distroid→PC Music→deconstructed club→hyperpop
 - **第5章　「aesthetic」という語——包含関係の逆転**：批評・プラットフォーム・ミームが「aesthetic」を充填し、音楽ジャンルの形容詞から見た目とムードの分類軸へ逆転する過程
-- **第6章　感情が先に来る（2015〜2019年）**：vaporwave政治化、dark academia、cottagecore、Tumblr NSFW BAN
+- **第6章　名前があとから来る（2015〜2019年）**：サフィックスの生産性、normcore、vaporwave政治化、dark academia、cottagecore、Tumblr NSFW BAN
 - **第7章　爆発（2020〜2021年）**：COVID-19→liminal space→TikTok→The Backrooms→hyperpop→Discord
 - **第8章　制度化：分類するという欲望**：Frutiger Aero→CARI→Aesthetics Wiki→Discord承認→Neocities（対位法）→後記
 
@@ -160,7 +160,7 @@
 | [`第2章_命名の時代.md`](./第2章_命名の時代.md) | 第3章（命名の時代） |
 | — | 第4章（分割稿なし） |
 | [`第3章_aestheticという語.md`](./第3章_aestheticという語.md) | 第5章（aestheticという語） |
-| [`第4章_感情が先に来る.md`](./第4章_感情が先に来る.md) | 第6章（感情が先に来る） |
+| [`第4章_感情が先に来る.md`](./第4章_感情が先に来る.md) | 第6章（名前があとから来る） |
 | [`第5章_爆発.md`](./第5章_爆発.md) | 第7章（爆発） |
 | [`第6章_制度化.md`](./第6章_制度化.md) | 第8章（制度化） |
 

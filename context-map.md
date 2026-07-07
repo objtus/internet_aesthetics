@@ -144,14 +144,14 @@
 | 「internet aesthetic」複合語→Wikipedia AfD→復帰(2022〜2025) | internet_aesthetic語と制度化_調査ノート.md | aesthetic-rev-2 |
 | CARI・Aesthetics Wikiによる上位カテゴリ固定 | 覚書 §3.5〜3.6 | — |
 
-### 第6章 感情が先に来る(2015〜2019)
+### 第6章 名前があとから来る(2015〜2019)
 | 主張・内容 | 根拠(正) | 補助・文案 |
 |---|---|---|
 | サフィックスの生産性(-core/-wave/-punk) | サフィックス系譜比較調査ノート.md | inv-khole-1b(第6章_normcore追加_文案、2026-06-29反映) |
 | normcore(Estrada 2008→K-HOLE 2013→NY Mag 2014横領→2024オーラルヒストリー確定) | khole-arena-archillect-researtch.md §1・7 | 同上。設立年はV5 |
 | K-HOLE⇔DIS⇔89plus(委嘱確定・Troemel経由) | khole §7.1b〜1d(Interview 2024一次) | — |
 | Are.na(del.icio.us動機・反アルゴリズム設計) | Arena設計思想調査ノート.md | inv-khole-1b。創設年はV7 |
-| 無言のキュレーションのTwitter移植(Archillect 2014・rare.jpg 2015) | khole §3〜5・8 | 画像bot挿入_計画 |
+| 無言のキュレーションのTwitter移植(Archillect 2014・rare.jpg 2015) | khole §3〜5・8 | 画像bot挿入_計画。**意図的な伏線**(2026-07-07)：Archillect/rare_jpgはTwitter文化の強い読者へのムードボード文化の翻訳装置であり、「著者性を消す」匿名性の美学は第7章liminal spaceの匿名性(作者不在)への伏線。Are.na→CARI(第8章)接続は現行L1246で既に明示済み |
 | fashwave論争(2016〜17)=コミュニティの応答として記録 | vaporwave政治化_調査ノート.md | rev-7/ed-1。Rave News=風刺の扱い遵守 |
 | 日本語圏での受容(2018〜19、木澤・現代ビジネス改題) | vaporwave政治化ノート §4 | — |
 | dark academia(実体先行・2017-01-14投稿・COVID爆発) | インターネット美学ノート §6 | ファクト補強#13 |
