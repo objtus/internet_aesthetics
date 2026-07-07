@@ -7,15 +7,15 @@
 **改稿チェックリスト**：[`草稿_整合性レビュー.md`](./草稿_整合性レビュー.md)（2026-07-06 通読・約60件／**cons-1 反映完了 2026-07-07**）
 **文体**：[`文体メモ.md`](./文体メモ.md)＋[`project-style-notes.md`](./project-style-notes.md)（Claude Code: `.claude/skills/manuscript-style/SKILL.md`）
 
+**直近完了（2026-07-07）**：**6-reorg-0〜5** ☑——第6章「名前があとから来る」の再構成が完了。normcore読み筋・匿名性→liminal space伏線・`## 名付け親の分からない美学` 統合節（dark academia／cottagecore）に加え、`## vaporwave の政治的受容` 節全体を -wave サフィックス系列の実例として再構成（⑥-full。当初計画になかった追加作業）。文案は [`第6章_reorg_DA-cottagecore_文案.md`](./第6章_reorg_DA-cottagecore_文案.md)、経緯は [`第6章_reorg_計画.md`](./第6章_reorg_計画.md)。すべて `草稿.md` へ反映済み
+
 **直近完了（2026-07-07）**：**cons-1** ☑——整合性レビュー（P-1〜8-9）を [`草稿.md`](./草稿.md) へ反映。還流は cons-2 継続
 
 **直近完了（2026-07-07）**：作業基盤整備——`timeline.md`／`context-map.md`／`草稿_整合性レビュー.md`／`project-style-notes.md`／文体メモ改訂・manuscript-style スキル作成
 
 **直近完了（2026-07-01）**：**ed-6** ☑（序文に新設節「「インターネット美学」という言葉の来歴」反映）／**meta-1** ☑（序文冒頭に動機ツイート2件を要約統合）／序文の全体再構成（新設「「インターネット美学」とは何か」節・用語3層整理・章番号ずれ修正・「aesthetic という語」節削除）／**meg-1〜3** ☑（2026-06-30）／**inv-khole-1c** ☑（第8章 CARI Are.na L1571–1577 反映）
 
-**次にやる1件**：**6-reorg-1**（計画 §4 の文案を `第6章_reorg_DA-cottagecore_文案.md` に正本化＋日本語圏圧縮）
-
-**その後**：**6-reorg-2**（草稿反映）／**6-reorg-3**（第7章重複チェック）／**cons-2**（還流残り）
+**次にやる1件**：**cons-2**（timeline／正本ノート還流。総括C残り。6-reorg完了に伴い還流対象に第6章分が追加）
 
 **その後（低優先・後回し）**：**inv-vektroid**／**meta-3**／**concl-2**／**meta-2**
 
@@ -91,8 +91,9 @@ meta-2 振り返りパート新設 ──── 草稿**末尾**・単独可（�
 | ID | 内容 | 状態 | 依存 | 正本・文案 |
 |---|---|---|---|---|
 | **6-reorg-0** | **第6章 reorg 計画**——流れ・三幕・文案（§4） | ☑ | cons-1 ☑ | [`第6章_reorg_計画.md`](./第6章_reorg_計画.md)（2026-07-07 流れ・文体追記） |
-| **6-reorg-1** | **文案正本化**——§4 を `第6章_reorg_DA-cottagecore_文案.md` へ＋日本語圏圧縮 | ☐ | 6-reorg-0 ☑ | 計画 §4 が草稿用文案 |
-| **6-reorg-2** | **第6章 reorg 草稿反映** | ☐ | 6-reorg-1 | [`草稿.md`](./草稿.md) |
+| **6-reorg-1** | **文案正本化**——§4 を `第6章_reorg_DA-cottagecore_文案.md` へ | ☑ | 6-reorg-0 ☑ | [`第6章_reorg_DA-cottagecore_文案.md`](./第6章_reorg_DA-cottagecore_文案.md)（2026-07-07 完了） |
+| **6-reorg-2** | **第6章 reorg 草稿反映** | ☑ | 6-reorg-1 | [`草稿.md`](./草稿.md)（2026-07-07 完了。①〜⑨＋⑧b＋⑩⑪） |
+| **6-reorg-5** | `## vaporwave の政治的受容` 節全体の再構成（⑥-full。計画外の追加作業） | ☑ | 6-reorg-2 ☑ | [`草稿.md`](./草稿.md) L1268–1302（2026-07-07 完了）。経緯は[`第6章_reorg_計画.md`](./第6章_reorg_計画.md)更新4 |
 | **cons-1** | **草稿整合性レビュー反映** | ☑ | — | 2026-07-07 完了 |
 | **cons-2** | **timeline／正本ノート還流**——総括 C 残り | ☐ | 並行可 | [`timeline.md`](./timeline.md) 等 |
 
@@ -1173,8 +1174,8 @@ reorg-0/1/2 ☑／aesthetic-rev-1 ☑（草稿 L687–870）／aesthetic-rev-2 �
 
 | 段階 | 次の1手 |
 |---|---|
-| **今** | **inv-khole-1c**（第8章 CARI Are.na）。**ed-6** polish（任意）。inv-khole-1a・1b ☑（2026-06-29） |
-| **その次** | **meg-1〜3**（並行可）。残：inv-vektroid／meta-1〜3／concl-2 |
+| **今** | **cons-2**（timeline／context-map 還流。6-reorg完了に伴い第6章分を追加）。6-reorg-0〜5 ☑・inv-khole-1a〜1c ☑・ed-6／meta-1 ☑（2026-07-07 までに完了） |
+| **その次** | 残：inv-vektroid／meta-3／concl-2／meta-2 |
 | **章再編（aesthetic）** | reorg ☑／rev-1 ☑／rev-2 ☑／ch3-ch6 ☑ — **完了**。分割稿手動同期 |
 | **別調査（並行可）** | inv-swan／inv-tabor／rev-4 |
 | 後回し | **inv-vektroid**（低優先）／**meta-1** → **meta-3** → **concl-2** → **meta-2**（草稿末尾・最後） |
@@ -1228,6 +1229,7 @@ reorg-0/1/2 ☑／aesthetic-rev-1 ☑（草稿 L687–870）／aesthetic-rev-2 �
 
 ---
 
+*更新：2026-07-07。**6-reorg-0〜5** ☑——第6章「名前があとから来る」の再構成が完了。（1）章冒頭に-wave/-coreサフィックスの求心力を追記、（2）normcoreの読み筋（-coreラベルが一般に広く知られた最初の事例／Aesthetics Wiki項目）を冒頭と結びの2箇所に明示、（3）匿名性の美学（Archillect/rare.jpg）から第7章liminal spaceへの伏線を1文追加、（4）`## 名付け親の分からない美学——dark academia と cottagecore` 統合節を新設し、旧`実体先行型`等の型語彙を廃止して具体的なタグ・投稿・日付ベースの記述に書き換え（第7章冒頭・クロニクル末の相互参照2箇所も同様に修正）、（5）`## vaporwave の政治的受容` 節全体を再構成（⑥-full。当初計画は接続文の追加のみだったが、章冒頭予告に節本体が応えていないという指摘を受けて追加）——fashwaveとsynthwaveの関係の誤り（Anglinが「オルタナ右翼の公式サウンドトラック」と呼んだのはsynthwave、BuzzFeedが"the sound of young white nationalism"としたのはfashwave）を訂正し、出典を明記、文体チェックを3周実施、ユーザーによる事実確認（Cybernazi投稿日、BuzzFeed Japan訳、Rave News引用、Anglinの肩書き=創設者、altcensored.comリンク3件の要否）を経て確定。文案は[`第6章_reorg_DA-cottagecore_文案.md`](./第6章_reorg_DA-cottagecore_文案.md)、経緯・妥当性評価は[`第6章_reorg_計画.md`](./第6章_reorg_計画.md)。すべて`草稿.md`第6章に反映済み。次は**cons-2**（timeline／context-map還流。第6章分を追加）。*
 *更新：2026-07-01。**ed-6** ☑・**meta-1** ☑——序文を全面改稿。新設節「### 「インターネット美学」とは何か」（冒頭。日本語版Wikipedia「インターネット・エスセティック」／アニヲタWiki（仮）／美学ウィキ（Scrapbox「美学ミーム」ページ、fairypage 2021年定義・Aesthetics Wikiの視覚的多様性ポリシー）の3定義を踏査。「複数の媒体を並行して同時に占めることが美学として成立する条件」という論点をAesthetics Wikiの特筆性ポリシーで裏付け。vaporwaveを「音楽ジャンルとして生まれ、のちに美学のひとつとなった」例として提示。用語を3層整理：美学＝個々の様式／美学ミーム＝命名を通じて美学を作り出す動き／インターネット美学＝美学の総体）。「### 系譜の空白と本稿の射程」に動機ツイート2件（捨て垢sute_aca 2026-05-27・布施琳太郎2026-03-17）を要約統合（meta-1）。新設節「### 「インターネット美学」という言葉の来歴」（ed-6。口語用法と今日的カテゴリ用法の層の違い→2020 Washington Post→2022年Aesthetics Wiki/Wikipedia制度化→2025 EBSCO）。「### アーキテクチャと各章」の章番号ずれ（第2〜7章の言及が実際の章立てと1つずつずれていた旧バグ）を修正。第5章と内容が重複する旧「### aesthetic という語」節は削除。「### 充填、フォークソノミー、横断性」は圧縮。あわせて`草稿.md`本体で「美学ミーム」の用法を監査（24箇所）し、個体扱いになっていた2箇所（L207「美学ミームの群れ」→「美学の群れ」、L1319「ひとつの美学ミームとして」→「ひとつの美学として」）を修正。序文は約3500字→約5650字。文案は`archive/反映済み文案/序文取込_ed6meta1_文案.md`。*
 
 *更新：2026-06-29。**inv-khole-1c** ☑——第8章 `## CARI設立とプラットフォームの意味` 末尾（旧 L1569 直後）に Are.na 4段落（草稿 L1571–1577）を反映。Facebook→Discord 議論の場の移行と並行する視覚資料レイヤーとして Are.na を位置づけ（チャンネル構造・cari.institute 各ページとのリンク・三層分担 Discord/Are.na/cari.institute・Maintenance Effort 92中58・Broskoski による Collins アカウント言及）。典拠：Arena設計思想調査ノート.md §6・§10。Broskoski 発言出典は Upstatement インタビュー。次は ed-6 polish。*

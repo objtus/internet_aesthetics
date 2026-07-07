@@ -152,10 +152,10 @@
 | K-HOLE⇔DIS⇔89plus(委嘱確定・Troemel経由) | khole §7.1b〜1d(Interview 2024一次) | — |
 | Are.na(del.icio.us動機・反アルゴリズム設計) | Arena設計思想調査ノート.md | inv-khole-1b。創設年はV7 |
 | 無言のキュレーションのTwitter移植(Archillect 2014・rare.jpg 2015) | khole §3〜5・8 | 画像bot挿入_計画。**意図的な伏線**(2026-07-07)：Archillect/rare_jpgはTwitter文化の強い読者へのムードボード文化の翻訳装置であり、「著者性を消す」匿名性の美学は第7章liminal spaceの匿名性(作者不在)への伏線。Are.na→CARI(第8章)接続は現行L1246で既に明示済み |
-| fashwave論争(2016〜17)=コミュニティの応答として記録 | vaporwave政治化_調査ノート.md | rev-7/ed-1。Rave News=風刺の扱い遵守 |
-| 日本語圏での受容(2018〜19、木澤・現代ビジネス改題) | vaporwave政治化ノート §4 | — |
-| dark academia(実体先行・2017-01-14投稿・COVID爆発) | インターネット美学ノート §6 | ファクト補強#13 |
-| cottagecore(前史2014タグ・2018-04-25命名・WLW・Folklore) | インターネット美学ノート §7 | ファクト補強#11〜12(森ガール・Hygge・批判) |
+| `## vaporwave の政治的受容`＝-waveサフィックス系列の実例として冒頭で前出し。fashwave論争(2016〜17)=synthwave/fashwaveの関係を訂正の上、コミュニティの応答として記録 | vaporwave政治化_調査ノート.md | rev-7/ed-1→6-reorg-5(⑥-full)で節全体を再構成・反映済み(2026-07-07)。Rave News=風刺の扱い遵守 |
+| `### 日本語圏での受容（2018–2019・補遺）`＝木澤・現代ビジネス改題等。vaporwave政治的受容節の第三の小節（補遺）に格下げ | vaporwave政治化ノート §4 | 6-reorg-5で見出しをH3化・「（補遺）」を付与(2026-07-07) |
+| 名付け親の分からない美学（dark academia・実体先行・2017-01-14投稿・COVID爆発は第7章） | インターネット美学ノート §6 | ファクト補強#13。6-reorg-1で統合節に反映済み(2026-07-07) |
+| cottagecore(前史2014タグ・2018-04-25命名・WLW・Folklore) | インターネット美学ノート §7 | ファクト補強#11〜12(森ガール・Hygge・批判)。6-reorg-1で反映済み(2026-07-07) |
 | Tumblr NSFW BAN(2018-12)→文化的影響力低下 | tumblrタイムライン.md | — |
 
 ### 第7章 爆発(2020〜2021)
