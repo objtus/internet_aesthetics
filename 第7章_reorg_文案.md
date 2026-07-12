@@ -1,0 +1,351 @@
+# 第7章 reorg 文案：「爆発」再構成の確定稿
+
+> 作成：2026-07-12（7-reorg-1）  
+> 正本計画：[`第7章_reorg_計画.md`](./第7章_reorg_計画.md)（更新2まで反映済み。①C 圧縮 ②poor image は D/W 節本籍 ③見出し確定 ④Y-light・観察4不採用）  
+> **反映方法**：§1 の全文で、[`草稿.md`](./草稿.md) の第7章全体（`# 第7章　爆発（2020〜2021年）` の行から `# 第8章` の直前まで。現行 L1364–1562）を**丸ごと置き換える**。節の移動を含む再構成のため、断片パッチではなく全文差し替えとする。反映後、§2 の変更一覧と突き合わせて、事実の消失がないことを目視照合する（7-reorg-2）。  
+> §2 が変更点の照合表、§3 が執筆メモ（文体チェック・要確認事項・不採用文案）。
+
+---
+
+## §1. 再構成後の第7章・全文（貼り付け用）
+
+――以下、貼り付け用全文――
+
+# 第7章　爆発（2020〜2021年）
+
+**時間軸：2020〜2021年（前史として2008〜2019年、後日談として2022年以降に触れる）**
+
+本章が追うのは、第5章で語彙と枠が整い、第6章で Tumblr の内側に育った aesthetic が、2020年から2021年にかけて一般の視界へ一気に入る過程だ。前章の終わりで見たとおり、美学が育つ場所と広まる場所は分かれていた。COVID-19 のロックダウンと TikTok の For You は、この「広まる場所」の条件を同じ時期に整えた。
+
+前半では、この時期に美学になった liminal space を追う。それは、第3章の seapunk のような単一の起源とも、第6章で見た dark academia や cottagecore の蓄積とも異なる、第三の集積のパターンだ。感覚と画像の収集が先にあり、言葉のラベルがあとから追いつき、Reddit と YouTube がまとめ上げた。4chan でその画像と感覚がクリーピーパスタの伝統と結びついたのが The Backrooms だった。後半では、第6章までに育っていた美学の爆発と、それを配った TikTok、そして次章の制度化の土壌になる Discord を見る。
+
+## liminal spaceの前史——「おかしい画像」の集積（2008〜2019年）
+
+建築用語としてのliminal spaceは「ある目的地から次の目的地への間」の物理空間を指す。ミーム文化では用法がより緩く、主観的に現実と不調和な、人間が作った空の場所であれば「liminal」と呼ばれることもある。オンラインでは、**images with elegiac auras（エレジアックなオーラを帯びた画像）**、**places that feel strangely familiar（奇妙なほど馴染みがある場所）**、**places you've been in your dreams（夢で見たことのある場所）** などの別名でも流通した（[Know Your Meme](https://knowyourmeme.com/memes/cultures/liminal-spaces-images-with-elegiac-auras-dreamcore)）。これらはcursed imagesのサブジャンルとして整理されることがある。
+
+[英語版Wikipedia](https://en.wikipedia.org/wiki/Liminal_space_%28aesthetic%29) は、この美学を「2019年、Backroomsと呼ばれるliminal spaceを描いた4chanの投稿がバイラルになったのち人気を得た」と記す。だが実際には、seapunkの2011年6月1日のツイートにあたる単一の起源はなく、いくつもの層が並行して積み上がっていた。美術の文脈での先行例、ラベル付きの画像収集という癖、語と感覚の結びつき、物語化、そして置き場所の確立。どの層でも、画像と感覚が先にあり、言葉があとから追いついている。
+
+### ストリートビューの視線（2008年〜）
+
+liminal spaceという語がTumblrに広まる8年前、カナダ人アーティストJon Rafmanは別の方法で同じ種類の場所を集めていた。のちのミームへ直接つながる線が確認できるわけではない。ここで確認したいのは、来歴のたどれない画像が特有の質感を帯びるという感覚が、2008年の時点ですでに美術の文脈で実践されていたことだ。
+
+2008年、Jon Rafmanは[「9 Eyes」](https://anthology.rhizome.org/9-eyes)を始めた。Google ストリートビューの9眼カメラが世界中の道路を走りながら記録した膨大な画像から、奇妙で詩的なスクリーンショットを選び再文脈化するプロジェクトだ。タイトルはその9眼カメラに由来する。最初は PDF として公開され、のちに Tumblrブログ（[9-eyes.com](http://9-eyes.com/)）として継続した。2009年の [ArtFCityの記事](https://web.archive.org/web/20130913210519/http://artfcity.com/2009/08/12/img-mgmt-the-nine-eyes-of-google-street-view/)が広く流通し、ポストインターネットアートの代表的実践として参照されるようになった。第1章ではその系譜で触れたが、ここでは別の角度から再訪する。
+
+Jon Rafmanが選んだ画像には、深夜の幹線道路、人のいない駐車場、霧の中の交差点、事故直後らしい光景が混じっていた。これらの場所の種類は、のちの2016年Tumblrチェーンがliminal spaceの典型例として挙げる場所と重なる。ストリートビューのカメラは目的地に向かっているのではなく、通過することそのものを目的としている。写真には「どこかへ行く途中の空間」ばかりが写る。
+
+それ以上に重要なのは撮影者の不在だ。Jon Rafmanはキュレーターだが、シャッターを切ったのは自動化されたカメラだ。Jon Rafman自身はプロジェクトについてこう述べている。「Googleストリートビューは、無関心な存在の客観的な視線によって捉えられた世界を映し出している。そのカメラは歴史を目撃するものの、歴史に介入することはない。（["Google Street Views present a universe observed by the detached gaze of an indifferent Being. Its cameras witness but do not act in history."](https://web.archive.org/web/20130913210519/http://artfcity.com/2009/08/12/img-mgmt-the-nine-eyes-of-google-street-view/#:~:text=Google%20Street%20Views%20present%20a%20universe%20observed%20by%20the%20detached%20gaze%20of%20an%20indifferent%20Being.%20Its%20cameras%20witness%20but%20do%20not%20act%20in%20history.)）」。誰かが意図してこの構図を選んだわけではなく、車が通り過ぎた瞬間に偶然写り込んだものが、膨大なデータから拾い上げられた。「偶発的な記録と事後的な選別」という構造は、のちにcursed imagesの作者が「Flickrのアーカイブから忘れられた写真を探す」と述べた収集の論理と重なる。
+
+Jon Rafman は2013年9月にOPNの「[Still Life (Betamale)](https://jonrafman.com/jon-rafman-betamale/)」映像を監督し、furries やニッチな性癖のNSFWイラスト、エロゲCG、匿名掲示板にアップされた無数の画像などを集めた内容はYouTubeのToSに違反して削除された。4chan /mu/ では公開直後に「Aw shit we #META now」と書き込まれた（[Boiler Room](https://fourthree.boilerroom.tv/film/oneohtrix-point-never-still-life-betamale/)）。2016〜2019年の映像インスタレーション[『DREAM JOURNAL 2016–2019』](https://vimeo.com/349313505)ではJames FerraroとOPNが音楽を担当している。第2章で見たポストインターネットアートの実践者と proto-vaporwave の音楽家が同じ圏にいたという図式は、時期を変えながらこうした協働として繰り返し現れている。
+
+### cursed imagesとTumblrチェーン（2015〜2016年）
+
+ここからが、ミームとしてのliminal spaceに直接つながる層だ。先に確立されたのは、「なんとなくおかしい画像」をラベル付きで収集するという癖だった。
+
+2015年10月28日に、アメリカ北西部の約15歳の写真・映像学生が「cursedimages」という[Tumblrブログ](https://web.archive.org/web/20160509084722/http://cursedimages.Tumblr.com/)を開設した。作者は[PAPER Magazineのインタビュー](https://www.papermag.com/cursed-images-break-the-internet)に匿名を条件に応じている。「Flickrのアーカイブを探索して過去の忘れられたフラッシュ写真を見る」のが趣味で、「暗く空っぽな部屋、マネキン、コスチューム」に関心を寄せていたという。[最初の投稿](https://web.archive.org/web/20170220170155/http://cursedimages.Tumblr.com/post/132106855615/this-image-is-cursed)として知られるのは、老農夫と大量のトマト箱が写った写真だ。文脈の欠落や、論理的にありえない状況が醸す「呪われた感」が、このジャンルの核になった。
+
+「なんとなくおかしい感覚を持つ画像を収集・共有する」という実践が、cursed imagesによって確立された。[2016年7月30日](https://twitter.com/cursedimages)（日本時間）、同ブログ由来のTwitterアカウント@cursedimagesがはじめて投稿した。4ヶ月で10万フォロワーを獲得し、[New Yorker](https://web.archive.org/web/20170215002843/https://www.newyorker.com/culture/jia-tolentino/the-creepiest-pictures-on-the-internet)や[New York Magazine](https://nymag.com/intelligencer/2016/10/what-makes-a-cursed-image.html)などが取り上げた。2016年9月8日にはRedditの[/r/cursedimages](https://www.reddit.com/r/cursedimages/)が創設された。のちのliminal spaceミームの前史として、この収集の癖がつながっていく。
+
+[2016年7月15日](https://gwen-harkness.Tumblr.com/post/147442685035/places-where-reality-is-a-bit-altered)、Tumblrに「places where reality is a bit altered」というタイトルで始まるチェーン投稿が広まった。元の投稿者アカウント（pez-uzi-deactivated20160424）はのちに削除されたが、リレー形式のTumblrチェーンで、最終的に**120万以上のリアクション**を獲得した。
+
+このチェーンで集められた「現実が変容している場所」のリスト、たとえばany Target store、abandoned 7/11's、hospitals at midnight、empty parking lots、playgrounds at night、unfamiliar McDonald's on long roadtrips、laundromats at midnightなどは、後にliminal spaceの典型例として繰り返し参照される場所のカタログといえる。
+
+チェーンの途中で、ユーザー you-deserve-a-rhink がコメントした。
+
+> A lot of these places are called liminal spaces - which means they are throughways from one space to the next. (...) Reality feels altered here because we're not really supposed to be in them for a long time or think about them as their own entities
+
+2016年7月の時点で、「liminal space」という語は一般Tumblrユーザーのあいだで、廊下や空港のように「通過用の」空間の感覚的定義としてすでに流通していた。語と感覚の骨格は、このチェーンの時点でほぼ揃っていた。「aesthetic」という語も、第5章で見た通り、Tumblr 上ではすでに雰囲気や視覚的まとまりを指す語彙として流通していた。ただし liminal space が後のようにひとつの美学としてラベル化される以前の段階であり、チェーン内の説明にある用法は、まだ空間感覚そのものの名指しに近かった。liminal space が後に Aesthetics Wiki 等の aesthetic の目録に載るのは、第5章で見た aesthetic の「種の複数性」が TikTok 世代まで広がったあとの話である（本章）。
+
+「liminal space」という語は、それ以前から別の文脈でも流通していた。[2013年1月](https://web.archive.org/web/20150625004913/http://www.modernmythology.net/2013/01/the-liminal-state.html)と[2015年2月](https://web.archive.org/web/20150707003913/http://disinfo.com/2015/02/liminal-spaces-part-2-hidden-architecture/)、James Curcioは Modern Mythology や disinformation で、liminal spaceを覚醒と睡眠のあいだの意識状態、創作のための心的空間として論じた。Tumblrの隣接圏で読まれていた可能性はあるが、2016年チェーン以降の「通過用の物理空間」という用法とは内容的に断絶している。
+
+### Twitter上のliminal（2018〜2019年）
+
+2016年のTumblrチェーンから数年後、今度はTwitterで、「liminal space」という語とそれに似た画像の結びつきが反復されはじめた。
+
+[2018年5月21日](https://knowyourmeme.com/memes/cultures/liminal-spaces-images-with-elegiac-auras-dreamcore#:~:text=were%20made%20online.-,On%20May%2021st%2C%202018,-%2C%20Twitter%5B3)、ユーザー River Cafferata（@RiverCafferata）が返信ツイートでliminal spacesについて説明した（原投稿はのちに削除され、現時点では閲覧できない）。「things come before and after them（前後に別のことが来るもの）」のための移行空間であり、そこに長くとどまることを想定していない、という趣旨だ。[Know Your Meme](https://knowyourmeme.com/memes/cultures/liminal-spaces-images-with-elegiac-auras-dreamcore)によれば、100回以上のリツイートと1400いいねを獲得した。
+
+[2019年3月15日](https://x.com/zerstoerer/status/1106521281908957189)、@zerstoererがロンドン・ヒースロー空港近くのHoliday Inn Expressの内装写真を投稿した。「長いあいだ見たことのないほど悪夢的で抑圧的な建築」と書かれ、1年で1万2,000いいね、3,000リツイートに達した。この写真は単体の投稿として拡散し、のちの「Images with Elegiac Auras」アカウント開設の直接的な触媒になる。
+
+[2019年4月19日](https://x.com/unwrappedlolly/status/1119104647392743427)、@unwrappedlollyがliminal spacesについてのスレッドを開始した。第1投稿は6,000回以上のリツイート、1万3,100いいねを記録した。
+
+### The Backroomsと4chanスレッド（2019年）
+
+ここで加わるのは物語の層だ。
+
+2019年5月12日、4chan /x/（パラノーマル板）に[スレッド](https://archive.4plebs.org/x/thread/22661164/)が立った。「なんとなく『おかしい』と感じる不安な画像を投稿してほしい」。スレッドの趣旨は「disquieting images that feel 'off'（違和感のある、おかしいと感じる画像）」の収集だった。元の画像はcursed images由来のスレッドに貼られたものだった。
+
+翌2019年5月13日、スレッドへのある返信が物語的なフレームを与えた。「もしあなたが油断して良くない場所で現実から壁抜けしてしまったら、古い湿ったカーペットの匂いと、単調なイエローの狂気と、極度にハム音を発する蛍光灯の果てないバックグラウンドノイズ、そして約6億平方マイルのランダムに分割された空っぽな部屋に閉じ込められるだけの『バックルーム』に行き着くことになる」。
+
+The Backroomsである。[Wikipedia](https://en.wikipedia.org/wiki/The_Backrooms)や[KYM](https://knowyourmeme.com/memes/cultures/liminal-spaces-images-with-elegiac-auras-dreamcore)が起源として記すcreepypastaとして、爆発的な二次創作が始まった。創作共同体はのちに「レベル」と呼ばれる相互接続した層や、空間に潜む「エンティティ」を設定として追加した。[2022年](https://en.wikipedia.org/wiki/The_Backrooms)、YouTuber Kane Pixels（Kane Parsons）の短編映像が大きな注目を集めた。映画制作会社**A24**はその後映画化を発表し、2026年5月に公開された。第3章で見たseapunkがRihannaのSNLパフォーマンスに流出したように、BackroomsはハリウッドのA24配給まで到達した。
+
+[4chan](https://4chan.org/) はもともと日本の[ふたばちゃんねる](https://www.2chan.net/)を範にとった匿名画像掲示板で、匿名で書き込む文化自体が日本から英語圏へ輸入されたものだった。The Backrooms の広がり方、つまり匿名の一投稿を起点に、不特定多数が「レベル」や「エンティティ」を継ぎ足して世界を厚くしていくさまは、謎が提示され参加者の考察が物語を強化していく代替現実ゲーム（ARG）の構造と重なる。同じ 4chan /x/ から育った [SCP財団](https://scp-wiki.wikidot.com/)も、作者不在の集合的創作だった。この「匿名の起点と集合的な考察」という構造は、のちにピザゲートから QAnon へ至る陰謀論の形成を論じる際にも、しばしば代替現実ゲームになぞらえて参照される。その政治的な展開を追うのは本書の射程を超えるが、来歴のわからない断片が集合的な考察を呼び込むという構造が、不気味な美学と地続きだったことは書きとめておきたい。
+
+### r/LiminalSpaceとReddit（2019年）
+
+最後に加わったのは、画像の置き場所だ。
+
+[2019年8月14日](https://www.reddit.com/r/LiminalSpace/)、Redditor CaLaHa717がr/LiminalSpaceを設立した。設立日に複数の写真が投稿され、このサブレディットはのちにliminal space画像の最大のハブになった。約2年後の2021年7月31日、より広義の **r/liminalspaces** が設立された。Reddit上での制度化が二段階で進んだことを示す（[KYM](https://knowyourmeme.com/memes/cultures/liminal-spaces-images-with-elegiac-auras-dreamcore)）。
+
+ここまでの層を、いったん確認しておく。cursed imagesは「おかしい画像」というラベル付きの収集を、2016年のチェーンと2018〜2019年のTwitterは「liminal space」という語と空間感覚を、The Backrooms以前から並行して積み重ねていた。それぞれの場は、同じ視覚文法（空っぽの人工空間、蛍光灯、見覚えがあるのに特定できない場所）を、プラットフォームごとに異なるフレームで受け取っている。2019年5月の4chanスレッドとThe Backroomsは、その拡散にcreepypastaの物語を上乗せした一つの局面にすぎない。
+
+第2章で見た匿名性の美学は、作り手の側のものだった。別名義やペルソナを能動的に立て、顔と本名を後ろに引っ込める。それは選び取られた戦略だった。liminal space や The Backrooms の匿名性は、それとは質が違う。最初に「places where reality is a bit altered」のチェーンを始めたアカウントは削除され、The Backrooms は 4chan /x/ の匿名の書き込みから育って、作者と呼べる個人がそもそもいない。ここでの匿名は、ムーブメントを意図しなかったがゆえの結果であって、美学的な選択ではない。
+
+それでも匿名性の美学は、かたちを変えて引き継がれている。引き継いだのは作り手ではなく、画像のほうだ。Tumblr の画像文化は、もともと出どころのわからない画像が巡ること自体を面白がる文化だった（その気取りを揶揄する 2deep4u のようなミームも、そこから出ている）。プラットフォームをまたいで転載が重なるうち、オリジナルが何だったのかは消える。cursed images や liminal space の不気味さは、その来歴のたどれなさに多くを負っていた。作り手が名前を中身からずらしたのと同じように、ここでは画像が出自から切り離され、その切断そのものが質感になった。第6章で触れたとおり、匿名性の美学は人から画像へと場所を移したのだ。
+
+---
+
+## 世界がliminal化した
+
+積み重なっていた層が美学としてまとめ上げられる直前の2020年3月、現実の公共空間が大きく変わった。
+
+2020年3月11日、WHOはCOVID-19のパンデミック宣言を行った。2020年3月中旬にはアメリカや欧州の一部地域でロックダウンが開始された。
+
+空港から人が消えた。ショッピングモールが閉鎖された。学校の廊下に人影がなくなった。これらの場所は本来、人が通過するための場所だ。すなわち、誰かがいることが前提とされている空間。
+
+これらの空間は、Marc Augéが『Non-Places』（1992年、英訳1995年）でnon-place（非-場所）と呼んだものにあたる。Augéが挙げるのは空港、高速道路、スーパーマーケット、ホテルの部屋といった空間で、関係もアイデンティティも固有の歴史も刻まれず、匿名の通過だけが想定されている。[Aesthetics Wiki](https://aesthetics.fandom.com/wiki/Liminal_Space) のliminal space項目は、この概念を直接引いて美学を説明している。liminal spaceミームが量産してきた「どこかで見たことがあるが特定できない」空っぽの人工空間は、この定義とほぼ重なる。
+
+前節の終わりで、匿名性が人から画像へ移ったことを見た。ここで気づくのは、liminal spaceの匿名性が二つの水準で働いていることだ。まず、写っている場所が匿名である。空港もモールも深夜の廊下も、誰の記憶にも固有には属さない、通過のための空間だ。そして、画像そのものも匿名である。転載を重ねて撮影者と出どころを失い、匿名の閲覧者のあいだを通過していく。被写体の水準でも、画像の水準でも、liminal spaceは非-場所の性質を帯びていた。
+
+ロックダウンは、この重なりに現実の側から合流した。non-placeから本来の目的である通過が剥ぎ取られ、一瞬で通過するために設計された空間が通過者を失った。人のいない空港やモールの写真は、それまでネット上のliminal spaceとして流通してきた。閉じた公共空間そのものが、そのミームが写し続けてきた風景と同型になった。
+
+---
+
+## liminal spaceの爆発（2020年）
+
+### 2020年4月の拡散
+
+ロックダウンが始まった直後の2020年4月、複数のliminal space画像コレクションが短い期間に複数プラットフォームで連鎖的に広まり、用語がより広く認知された。[2020年4月1日](https://www.reddit.com/r/Weirdlyfamiliar/)にサブレディットr/Weirdlyfamiliarが創設された。[2020年4月9日](https://www.reddit.com/r/LimilalReality/)にはr/LimilalRealityが立ち上がった。Tumblrでは、4月3日ごろからユーザー [phoebelila が複数のコレクションを投稿](https://web.archive.org/web/20210628134518/https://phoebelila.Tumblr.com/post/614365820089417728)し、初投稿は1年で2万3,200リアクション以上を獲得した。4月13日の [rottingdaydreams の投稿](https://www.Tumblr.com/rottingdaydreams/615327005263659008/how-does-this-make-you-feel)は2万1100リアクション以上を記録した。
+
+[2020年4月16日](https://www.youtube.com/watch?v=VqZEfqoTA7M)、YouTuber floatがコンピレーション動画「Strangely Familiar Places with Unnerving Music」を投稿した。ゆめにっき、MOTHER2、DDLCのBGMを使用したliminal spaceの画像集であり、4月の拡散の一環として約200万回再生された。
+
+### Images with Elegiac Auras（2020年6月）
+
+[2020年6月6日](https://twitter.com/elegiac_images)、Twitterアカウント **Images with Elegiac Auras**（@elegiac_images）が開設された。2019年3月15日の[@zerstoererの投稿](https://x.com/zerstoerer/status/1106521281908957189)に触発されたものだ。アカウントはliminal space、weirdcore、dreamcoreに近い画像を「elegiac auras」という独自のラベルで横断的にキュレートし、2ヶ月で12万のフォロワーを獲得した。
+
+[2018年7月21日](https://x.com/scarytoilet/status/1020368448633933824)から投稿を開始したTwitterアカウント Toilets With Threatening Auras（[@scarytoilet](https://x.com/scarytoilet)）がcursed imagesとともに不気味な画像を楽しむ文化として[2019年2月にMashableに紹介](https://mashable.com/article/cursed-images-twitter-accounts-toilets-dark-stock-photos)されており、Images with Elegiac Aurasのアカウント名はここから来た可能性がある。
+
+[Know Your Meme](https://knowyourmeme.com/memes/cultures/liminal-spaces-images-with-elegiac-auras-dreamcore)の項目名が「Liminal Spaces / Images With Elegiac Auras / Dreamcore」と三者を並べるのは、このアカウントの影響による。2020年11月、@elegiac_imagesは停止された。後継の [@elegiacimages](https://x.com/elegiacimages) が創設され、7ヶ月で1万3,000人以上のフォロワーを獲得した。@elegiacimagesは2023年10月末以降投稿が行われなかったが、2025年3月から反トランプの政治的な主張を含む投稿が行われるようになった。
+
+[2020年7月11日](https://www.youtube.com/watch?v=N63pQGhvK4M)、YouTuber Solar Sandsが解説動画「Liminal Spaces (Exploring an Altered Reality)」を投稿した。この動画は、liminal spaceという概念および美学の拡散と理解に大きく寄与した。
+
+2020年8月1日、ボットアカウント [Liminal Spaces（@SpaceLiminalBot）](https://x.com/SpaceLiminalBot)が動き始めた。r/LiminalSpaceから画像を共有し人気を集めた。
+
+散在していた層は、こうして2020年のうちにまとめ上げられた。r/LiminalSpaceというハブが画像の置き場所を、YouTubeのコンピレーションと解説動画が入口を用意し、liminal spaceはひとつの美学として名指せるものになった。のちにはAesthetics Wikiの目録にも載る。その分類の仕組み自体は、第8章で見る。
+
+---
+
+## dreamcore と weirdcore
+
+liminal spaceがまとめ上げられていくのと同じ時期、同じ画像文化から、別の名前を持つ美学が分岐していた。
+
+weirdcoreは1990年代後半から2000年代中頃のインターネット上で共有された画像の外見から影響を受けた美学だ。アマチュアな編集、低画質な写真、歪んだテキスト、文脈なしに配置された眼球や肢体など、いずれも違和感を増幅するために設計されたビジュアルが特徴になる。起源は不明確で、2017年ごろの画像が最古の例とされる。普及の触媒となったのが、YouTuberのDavidCrypt（David Crypt）によるweirdcore解説動画だ。Solar Sandsがliminal spaceを解説動画で広めたのと同様のパターンで、コアコミュニティの外への拡散を加速させた（[Aesthetics Wiki「Weirdcore」](https://aesthetics.fandom.com/wiki/Weirdcore)、[Screenshot Media「Inside Weirdcore」](https://screenshot-media.com/culture/internet-culture/weirdcore-explained/)）。
+
+weirdcoreが素材にする低画質の写真やアマチュアな編集は、第4章で見た系譜の続きでもある。Hito Steyerlが擁護したpoor imageは、劣化しながら出回ることに価値を持つ画像を指し、Nukemeのいうゴミ画像は、意図も出どころも読めない画像の混乱を楽しむ感覚を指していた。批評と実作がそれぞれ扱っていたその質感が、20年分堆積したインターネットの隅から、今度は美学の素材として拾い直されている。
+
+dreamcoreはweirdcoreから分岐したといわれている。より明るく夢の記憶に近いトーンで、CG的な夢の場面、パステルカラー、虹、雲などを組み合わせる。「夢の記憶の復元」をめざす美学として、TikTokでは57億ビューを記録した。
+
+weirdcoreのコミュニティからは「dreamcoreはwatered-down（薄められた）バージョンだ」という批判も出た。それでもdreamcoreはTikTok世代にとっての入口になり、ロックダウン中に10代が幼少期を振り返る動機とTikTokのアルゴリズムが重なった。
+
+名前のない感情に造語をつけていくウェブプロジェクト『[The Dictionary of Obscure Sorrows](https://www.dictionaryofobscuresorrows.com/)』を主宰するJohn Koenigは、2012年に「自分が知ったことのない時代や場所へのノスタルジア」を「anemoia」と名付けた。dreamcoreのビジュアルはこの感情を作り出すために設計されていた。経験したはずのない1990〜2000年代初期のデジタル文化の「記憶」を錯覚させる。行ったことのない場所が懐かしいのは、その場所がどの記憶とも部分的に重なりながら、どの記憶にも固有には属さないからだ、という読み方もできる。前々節で見た非-場所の匿名性は、ここでは懐かしさの条件として働いている。
+
+---
+
+## cottagecoreの爆発
+
+同じロックダウンは、逆向きの美学も押し上げた。liminal spaceとそこから分岐した美学が、空っぽになった公共空間への共鳴だったとすれば、cottagecoreはその反対を向いていた。
+
+2020年3月中旬のロックダウンが始まると、cottagecoreはTumblrのWeek in ReviewでHarry Styles、Marvel、Taylor Swiftより上位に浮上した。Tumblr上で数年かけて少しずつ育っていた美学が、パンデミックと重なって一気に広まった。[Google Trends](https://trends.google.com/trends/explore?geo=&date=2009-01-01%202026-07-01&q=cottagecore,dark%20academia,liminal%20space,internet%20aesthetic&hl=en-US)（同条件）でも、cottagecore の検索関心は2020年11月、dark academia は2021年1月にそれぞれ頂点に達する。cottagecore は2019年4月ごろから非ゼロの値が現れ、2020年3月以降の上昇と重なる。TikTok のビュー数や Tumblr 内の順位とは別回路の指標だが、第6章で見た Tumblr 内の有機的な蓄積ののち、2020〜2021年に第二の美学クラスターが検索行動としても可視化されたことを補助する情報だ。
+
+ロックダウンで都市から動けなくなった人々にとって、cottagecoreが描く森の中の小屋、自給自足の生活、緑の野原といった世界は、逃避の先として読まれた。公共空間から切り離されたまま自宅のスクリーンの前にいた人々は、その画面の向こうに農村のユートピアを見た。
+
+2020年7月、Taylor Swiftがアルバム『Folklore』をリリースした。手編みカーディガン、苔に覆われた小屋、霧の森、大きめのプレイドといったビジュアルは、cottagecoreの既存の言語と重なった。Taylor Swiftがcottagecoreを発明したわけでも、意図してそのラベルを採ったわけでもない。それでもアルバムリリース翌月にはGoogle検索が400%増え、数百万人規模のファン層を通じてスタイルが主流の視界に入った。
+
+dark academiaも同じ流れの中にあった。学校や大学が閉じ、学術へのアクセスが制限された時期に、学術的雰囲気へのノスタルジアを体現する美学として機能した。「不安定な現在と理想化された過去」という構図は、孤立した生活の中で共通の価値を提供した。#darkacademiaは2021年時点でTikTok上で数十億ビューに達したという。
+
+この機能を学術的に分析した研究として、*[Dark Academia: Curating Affective History in a COVID-Era Internet Aesthetic*（de Gruyter, 2022）](https://www.degruyterbrill.com/document/doi/10.1515/iph-2022-2047/html)がある。dark academiaを**mnemonic curatorial practice（記憶的キュレーション実践）**として位置付け、過去を脱歴史化しノスタルジアを再構成する実践がCOVID期に機能したと論じている。
+
+---
+
+## TikTokというアーキテクチャの転換
+
+2020年は、COVID-19だけでなくプラットフォームの転換でもあった。
+
+### Tumblr の回路を読み返す
+
+第1章で見た Tumblr の回路を、ここで TikTok と並べて読み返す。
+
+Tumblr では、美学を**知る**ことと、美学カルチャーに**参加する**ことのあいだに段階があった。フォローしたブログのリブログがダッシュボードに流れ、**ブログ→リブログ→ブログ**の連鎖で別のブログへたどり着くという発見のあり方は、タグを毎回能動的に探し回ることだけでは成り立たなかった。最初の一歩（あるブログをフォローする、あるタグを追う）を踏んだあとは、半受動的にクラスタの縁へ近づいていく感覚もあった。一方、クラスタの一員として可視化されるには、テーマカスタマイズや美学に沿ったリブログの積み重ねなど、もう一段のハードルが必要だった。流れてきた画像をなんとなく「いいな」とリブログするだけの行為も同じアクティビティのなかにあったが、それだけでは「参加した」とは言いにくかった。
+
+ここで、Tumblr に「アルゴリズムがなかった」とは言えない、という点も押さえておく必要がある。[How Tumblr Recommends Content](https://help.Tumblr.com/knowledge-base/how-Tumblr-recommends-content/) が説明するフォロー網に基づく類似ブログ推薦や、フォロー中タグの人気投稿のダッシュボード混在（[Dashboard Preferences](https://help.Tumblr.com/knowledge-base/dashboard-preferences/)）は、2010 年代後半にはすでに存在した。2017 年 10 月の[「Best Stuff First」](https://staff.Tumblr.com/post/166540346380/best-stuff-first)（フォロー投稿の並べ替え）や 2021 年 11 月の[「For You」タブ](https://www.Tumblr.com/staff/668044535467851776/keepingtabson-your-dashboard)など後から加わった機能もあるが、いずれも TikTok 型の横断最適化フィードではなく、dark academia や cottagecore が Tumblr 上で育った 2015–2018 年当時の主回路、すなわちリブログ連鎖とタグの集積を置き換えたわけではない（For You タブの本格化は 2020 年の爆発後）。第6章で述べた2018年12月の NSFW BAN以降、Tumblr 側の土壌は弱まる方向に働いた。
+
+### For You と参加の障壁
+
+TikTok の For You ページは、この Tumblr 型のグラフ内伝播とは質的に異なる。プラットフォームが全体から最適化して横断的に届ける。美学に関心のないユーザーにも、ロックダウン中の 10 代にも、dark academia や cottagecore の映像が流れ込んだ。前節で述べた、Tumblr 上で数年かけて育った美学の「2020 年の爆発」は、主にこの配信構造が担った。
+
+**参加の障壁**も逆方向に働いた。TikTok では、トレンドの音源やフィルターを使った短尺動画を投稿するだけで、界隈にある程度の「参加」が可能だった。Tumblr でクラスタの一員として見えるために必要だったブログ全体の美学演出ほどのコストは、初期の TikTok 参加には通常要らない。普及の速度は上がり、美学の裾野も広がった。それ自体が問題だったわけではない。ただ、Tumblr 上で数年かけて意味を積み上げてきたクラスタと、TikTok の For You 経由で同じラベルに出会ったユーザーとでは、関与の深さも滞在する場所も異なる。Tumblr 上のクラスタのコア層のあいだには、TikTok 経由の大量流通を忌避する反応もあった。新しいファン個人への拒否というより、積み上げてきた文脈がラベルとして先に切り離され流通した感覚への応答として読める。#darkacademia が TikTok 上で数十億ビューに達したことは、普及と裾野拡大の両方を示す例でもある。
+
+第3章で見たseapunkは、Rihannaのパフォーマンスで主流の視界に入った直後に衰退した。dark academiaとcottagecoreでは逆のことが起きている。For You経由の大量流通はコアコミュニティとの摩擦を生みながらも、美学そのものは広がり続けた。第6章で述べた、主流化がむしろ拡大につながるという展開がこれだ。
+
+### 2014 Tumblr リバイバル
+
+2020年のロックダウンは、cottagecore や dark academia だけを TikTok へ運んだわけではない。第1章で見た soft grunge も、TikTok 上で「[2014 Tumblr](https://aesthetics.fandom.com/wiki/2014_Tumblr)」として再来した。その名の通り、2010年代前半に Tumblr で流行した soft grunge ファッションやイメージが「2014 Tumblr」の名で aesthetic 化したものだ。[2020年5月に Vox は](https://web.archive.org/web/20200510193327/https://www.vox.com/the-goods/2020/5/7/21247938/Tumblr-aesthetic-2014-nostalgia-tiktok-indie-pop)、パンデミック下の若者がインディーポップと "early-2010s Tumblr aesthetic" へノスタルジアを向ける様子を "Stuck in 2020, pretending it’s 2014（2020年に囚われ、2014年のように振る舞う）" と書いた。TikTok では #2014Tumblr や #Tumblraesthetic が[数千万ビュー規模に達し](https://mashable.com/article/tiktok-reviving-Tumblr-aesthetic)、サブカルチャーは Tumblrcore とまでラベル化されたという。
+
+[Mashable（2021年10月）](https://mashable.com/article/tiktok-reviving-Tumblr-aesthetic) は、ここで Aesthetics Wiki の「2014 Tumblr」項目を直接引用し、2014年頃の Tumblr を "cemented lifestyle category" として位置づけた。Aesthetics Wiki は soft grunge、indie sleaze、VSCO girl などをその下位様式として並べる。第1章で触れた soft grunge というファッションとイメージのラベルが Tumblr 上で大衆流通したことの延長線上に、後追いで目録が整備された。第1章でみたように、 soft grunge は Aesthetics Wiki より7年早く Wikipedia 個別項目にもなっていた。Aesthetics Wikiを典拠にしていないものの、[Vox（2020年5月）](https://web.archive.org/web/20200510193327/https://www.vox.com/the-goods/2020/5/7/21247938/Tumblr-aesthetic-2014-nostalgia-tiktok-indie-pop) や [Vogue（2022年1月）](https://www.vogue.com/article/2014-Tumblr-girl-aesthetic) も同じリバイバルを報じている。
+
+この流れは、プラットフォーム継承の話も重ねられていた。[Mashable（2021年2月）](https://mashable.com/article/Tumblr-mistakes-tiktok-teen-creators) は、かつて Tumblr が担っていた「10代クリエイターの拠点」が今日では TikTok だと書いた。Tumblr 自体の利用は第6章で見た NSFW BAN 以降弱まっていたが、Tumblr 時代の美学は死なず、TikTok の For You 経由で再流通していた。cottagecore の爆発が「Tumblr育ちの新しい aesthetic の一般化」だとすれば、2014 Tumblr リバイバルは「Tumblr自身の記憶の一般化」を示す。どちらも今日の aesthetic 流通の中心が Tumblr から TikTok へ移ったことを示している。のちに英語版 Wikipedia の Internet aesthetic 記事も、この連鎖を internet aesthetic 群の例として引用する（第5章・第8章）。
+
+### -core サフィックスの標準化
+
+第6章で見た -core サフィックスの増殖は、この時期に頂点を迎える。goblincore（泥や菌類、虫を愛でる美学）、nostalgiacore、darkcore、cottagecoreなど、誰の語にでも -core を付ければ美学が生まれるように命名が加速した。fashioncore から normcore へと続いてきた系列が、ここでほとんど無際限に枝分かれする。先に見たdreamcoreとweirdcoreの名前も、この系列から出ている。この時期、Aesthetics Wikiにも記事が大量に追加されている。
+
+---
+
+## hyperpopの第二波
+
+第4章では、2010年代の音をlo-fiとHDという二つの質感として整理した。当時の実践者の区分ではなく、あとから与えた見立てだ。その見立てを借りれば、ここまで見てきたliminal spaceやweirdcoreは、劣化し出どころを失った画像の質感、つまりlo-fiの側の系譜が大衆化したものだった。同じ2020年、加速・過剰・人工性というHDの側の系譜も主流に届いた。hyperpopだ。「distroid」と呼ばれかけたこの方向性はラベルとして定着しなかったが、音楽的な傾向はDIS Magazineのネットワークを経由しながらPC Musicへと引き継がれていた。
+
+第4章で見たとおり、A. G. Cookは2013年6月、Gamsoniteという "pseudo-label" を発展させる形でPC Musicを設立していた。このシーンと並走して流れを決定づけたのがSOPHIEだ。PC Musicからのリリースこそないが、電子音楽のあらゆる人工性を限界まで高め、ポップのフォーマットを器として使いながら、ジェンダーとアイデンティティと音楽の境界を問い直し、2021年1月に急逝した。Laura LesとDylan Bradyによるデュオ100 gecsは、複数のジャンルを溶かし込んだカオスな音楽で、2019年のアルバム『1000 gecs』がシーンを決定づけた。
+
+2019年8月、SpotifyのエディターLizzy Szaboが、既存プレイリストの改名・刷新という形で "Hyperpop" プレイリストを立ち上げた（[Billboard](https://www.billboard.com/music/pop/hyperpop-history-mainstream-crossover-9595799/)。きっかけは100 gecsのバイラルな急成長への反応で、改名の経緯は第4章で見た）。プラットフォームによる命名がシーンを主流の視界に入れ、コアコミュニティに複雑な感情をもたらす構図は、第3章のseapunkが示した通りだ。
+
+2020年のロックダウン以降、SoundCloud・TikTok・Discordへ若年層が流入し、hyperpopというラベルは第二波のアーティストへも広がった。2023年頃には、アーティストUnderscoresが "hyperpop is officially dead" と宣言するなど、飽和と自己避けの言説も出た（[Dazed](https://www.dazeddigital.com/music/article/55293/1/the-rise-and-fall-of-hyperpop-the-internets-most-confusing-music-genre)）。
+
+本章の時間軸を超えるが、後日談として記しておきたい。2024年6月7日、Charli XCXのアルバム *brat* がリリースされた。A. G. Cookら PC Music系譜の制作陣が関わり、hyperpop側の実験がポップ・チャートの中心へ届いた一例でもある（[Newsweek](https://www.newsweek.com/charli-xcx-brat-summer-music-aesthetic-phenomenon-explained-1982285)）。ほぼ無装飾のライムグリーン地に小文字 "brat" だけが置かれたジャケットは、当初は安っぽいと批判されたが、brat green という色と Brat Generator（ユーザーが同型の画像を生成できる公式ツール）、ブルックリン・グリーンポイントの brat wall（アルバムカラーで塗り替え続けられたプロモ用の壁）へと拡散した。音楽ジャンルを超え、視覚的な美学のラベルとして "brat" が流通した夏が、メディアでは brat summer と称された。同年夏、ジョー・バイデン大統領の再選出馬撤回後、Charli XCXはXに「kamala IS brat」と投稿した。カマラ・ハリス陣営はSNSバナーを *brat* ジャケットに倣った「kamala hq」風デザインに差し替え、brat summerは2024年のアメリカ大統領選と結びついて報じられた（[Wikipedia: Brat Summer](https://en.wikipedia.org/wiki/Brat_Summer)）。2024年11月、Collins Dictionaryは "brat" を「今年の言葉」に選んだ。
+
+## Dismiss Yourself：Discordが音楽コミュニティになる
+
+stickiは2017年、YouTubeチャンネル「Dismiss Yourself」を始めた。レアでジャンルを超えた音源を私的にアーカイブする試みだった。2020年のCOVID初期、Discordサーバーが急成長し、音楽好きたちが集まって音源を共有し、話し合う場になった。
+
+DiscordのアーキテクチャはTumblrと異なる。サーバー型でロールベース、半クローズドな構造を持ち、入室して役割を与えられ、議論に参加する。Tumblrのパブリックなタグ文化にも、TikTokのアルゴリズム配信にもない「意図的なコミュニティ」がここで形成された。
+
+Surge Compilation Vol.1（2020年4月）の過程がそれを示す。Discordの友人が存在しないアルバムの偽ジャケットを作り、stickiがそれを本物にした。架空のVol.2のカバーアートがVol.1の充填を促すという、因果の逆転だ。「輪郭だけあって中身が空いている状態」への充填という論理は、第3章で見た2011年のseapunkと同型で、2020年のDiscordでも再演された。
+
+hexまたはsurge（bitcrushされた粗いサウンドとブルータルなビートを特徴とするラップスタイル）は、このDiscordコミュニティから生まれた固有のジャンルだ。「hexcastcrew」という固有の集団名がジャンル名に転化した。
+
+Dismiss Yourselfを主な発表の場としたアーティストyabujinの音楽は「yabujincore」としてジャンル化した。個人名に-coreを付けて汎用ジャンルへ転化する命名も、この時期の典型だった。第6章で触れた corecore が -core の増殖そのものを皮肉るメタ的な反転だったとすれば、個人名に -core を付ける yabujincore は、その増殖がもっとも軽い形まで降りてきた例だといえる。
+
+このコミュニティと活動は、外部メディアにも記録されている。2021年7月8日、Kieran Press-ReynoldsがBandcamp Dailyに[「How Dismiss Yourself Became a Hub for Internet Weirdness」](https://daily.bandcamp.com/label-profile/dismiss-yourself-label-profile)を掲載した。2022年4月20日には、松島広人（NordOst）がOTOTOY連載[「深淵Web音楽の覗き方 第1回」](https://ototoy.jp/feature/2022041901)でDiscordの「music」チャンネルでの音源共有からレーベル設立へという流れをDismiss Yourselfを典型例として詳述している。
+
+Tumblrからの移行とCOVID期のDiscord急成長が重なり、美学ミームのコミュニティが生息する場所が変わりつつあった。次章では、その変化をたどる。
+
+---
+
+## アーキテクチャ：TikTokとDiscordという対照
+
+TikTokとDiscordは同じ時代に台頭したが、美学に対して逆向きの作用を持っていた。
+
+TikTokのFor Youアルゴリズムは美学をユーザーのフィードに届ける。受動的な発見と消費が先に起き、コミュニティ形成より消費者の増加が速い。普及は一気に進むが、コアは先に希釈され、短命化しやすい。
+
+Discordはサーバーへの入室が前提で、参加しなければ中身は見えない。能動的に参加した人びとが集まる「意図的なコミュニティ」がそこにある。Tumblrのパブリックなタグ空間より意識的で組織的だ。
+
+2020年を中心に、この二つは同時に機能した。TikTokが美学を広く届け、Discordが美学を分類・定義・保存しようとするコミュニティを生んだ。その「分類・保存への欲望」が、次章の主題になる。
+
+――以上、貼り付け用全文――
+
+---
+
+## §2. 変更点の一覧（照合用）
+
+### 2-1. 構成の変更（節・段落の移動）
+
+| # | 内容 | 移動元 → 移動先 | 計画 |
+|---|---|---|---|
+| M1 | `## 世界がliminal化した` を「2020年4月の拡散」の**前**へ | 現L1452–1462 → 前史節と爆発節のあいだ | §2-2 |
+| M2 | `### 2020年4月の拡散`・`### Images with Elegiac Auras` を新設 `## liminal spaceの爆発（2020年）` に収容 | 現L1428–1444 → COVID節の後 | §3 |
+| M3 | `## dreamcore と weirdcore` を liminal 爆発節の直後へ | 現L1512–1520 → cottagecore節の前 | §4-9 |
+| M4 | liminal space の定義・別名段落を前史節の**節頭**へ | 現L1426 → 前史節冒頭（本文は一字一句維持し、KYMリンクのみ追加） | §4-2 |
+| M5 | 多層総括（現L1446）を**分割**：層の確認は前史節末へ、Reddit/YouTubeまとめ上げは爆発節末へ | 現L1446 → 2箇所 | §4-4・§4-6 |
+| M6 | 匿名性段落（現L1448）を**2段落に分割**して前史節末へ | 現L1448 → 前史節末 | §4-4 |
+| M7 | 「来歴のたどれない画像が…美術の文脈で実践されていた」の1文をストリートビュー小節の**節頭アンカー**へ | 現L1380末尾 → 小節冒頭 | §4-3 |
+
+### 2-2. 新規に書いた文・段落（追加）
+
+| # | 位置 | 内容 | 計画 |
+|---|---|---|---|
+| A1 | 章冒頭（現L1368置換） | 前章末「育つ場所と広まる場所」の受け＋前半・後半のロードマップ | §4-1 |
+| A2 | 前史節頭・第2段落 | 多層説の前倒し宣言。英語版Wikipediaの「2019年4chan起源」記述への帰属つき | §4-2（更新2） |
+| A3 | 各小節の役割アンカー（各1〜2文） | ストリートビュー＝先行例（系譜の線は確認できない旨を明示）／cursed images＝「ここからが直接つながる層」「収集の癖」／Twitter＝結びつきの反復（冒頭文を書き換え）／Backrooms＝「物語の層」／Reddit＝「画像の置き場所」 | §4-3 |
+| A4 | 前史節末・層の確認段落 | 現L1446前半の圧縮（「一本の系譜にすると誤解」の抽象警告は節頭A2に一本化し、ここは具体的な層の対応のみ） | §4-4 |
+| A5 | 匿名性段落の末尾 | 「第6章で触れたとおり」（第6章L1266の伏線の受け） | §4-4 |
+| A6 | COVID節・Augé段落の書き換え | 定義の明確化（関係・アイデンティティ・歴史の不在、匿名の通過）＋Aesthetics Wiki への帰属。「まさしく」を削除 | §4-5（更新2） |
+| A7 | COVID節・新規段落 | **場所の匿名性と画像の匿名性という二つの水準**（inv-vernacular-photo 観察1の本体） | §4-5 |
+| A8 | 爆発節末 | Reddit/YouTubeによるまとめ上げ＋Aesthetics Wiki目録→第8章への前振り（現L1446後半の改稿） | §4-6 |
+| A9 | dreamcore/weirdcore節頭アンカー | 「同じ画像文化から…分岐していた」 | §4-9 |
+| A10 | weirdcore段落の直後・新規段落 | **poor image／ゴミ画像の系譜の受け**（観察2の変形。「先に言い当てた」の語気は不使用） | §4-9 |
+| A11 | anemoia段落の末尾・2文 | **anemoiaの発生条件＝非-場所の匿名性**（観察3）。「前々節」＝`## 世界がliminal化した` | §4-9 |
+| A12 | cottagecore節頭・1文 | liminal系（共鳴）との対比。「逃避」の語は直後の既存文に譲り重複回避 | §4-6b |
+| A13 | 「For You と参加の障壁」節末・新規段落 | seapunk（主流化→衰退）との対比による**第6章伏線「主流化がむしろ拡大」の回収** | §4-7 |
+| A14 | -core標準化・1文 | 「先に見たdreamcoreとweirdcoreの名前も、この系列から出ている」 | §4-7b |
+| A15 | hyperpop節頭・回収段落 | **lo-fi/HDの見立ての再利用**（筆者区分と明示）。liminal/weirdcore＝lo-fi側の大衆化、hyperpop＝HD側。distroid→PC Musicの1文は維持 | §4-8 |
+| A16 | brat段落冒頭・1文 | 「本章の時間軸を超えるが、後日談として記しておきたい」 | §4-8 |
+
+### 2-3. 置き換え・圧縮
+
+| # | 対象 | 処置 | 事実の行き先 |
+|---|---|---|---|
+| C1 | 時間軸表記（現L1366） | 「（前史として2008〜2019年、後日談として2022年以降に触れる）」を追加。計画の「〜2024年」は本文が2025年（@elegiacimages）・2026年（A24公開）に及ぶため「2022年以降」に修正 | — |
+| C2 | 現L1414末尾「この4chanのスレッドは…物語的なフレームを与えたと言える。」 | **削除**。直後の現L1416「翌2019年5月13日、…返信が物語的なフレームを与えた」と重複しており、フレームを与えたのはスレッドではなく翌日の返信なので、残す側が正確 | L1416に同旨が残る |
+| C3 | hyperpop節・distroid回想段落（現L1526） | lo-fi/HD回収段落（A15）に置き換え。distroid→DIS→PC Musicの事実は回収段落内に維持。「vaporwaveが減速…hyperpopは加速…」の対比文は第4章L1000に同文が残るため本章からは削除 | 第4章L1000 |
+| C4 | SOPHIE・100 gecs段落（現L1528） | **維持**（C案）。同文再掲を避けるため語順のみ調整（「第4章で見たとおり」で受け、Gamsonite→PC Music設立を1文に圧縮） | 全事実本章に維持 |
+| C5 | Spotify段落（現L1530） | 2〜3文に**要約**（C案）。Billboardリンク・100 gecs契機・seapunk比較は維持 | プレイリストID・Little Mix・Glenn McDonald・"Hyperpop is a simulation"（Dazed）は第4章L998に既存 |
+| C6 | 見出し3件 | `## Liminal Spaceという美学の多層的誕生`→`## liminal spaceの前史——「おかしい画像」の集積（2008〜2019年）`／新設`## liminal spaceの爆発（2020年）`／`## hyperpopの浮上`→`## hyperpopの第二波`（第4章との同名重複を解消） | §8（確定） |
+
+### 2-4. 軽微な修正（文体・表記。事実の変更なし）
+
+| # | 箇所 | 修正 | 根拠 |
+|---|---|---|---|
+| S1 | 現L1496の em-dash 2箇所（「広がった——それ自体は」「反応もあった——新しいファン」） | 文を切って句点に | 文体メモ：本文にem-dash不使用 |
+| S2 | 「Liminal Space」（現L1392・L1514）、「Weirdcore」「Dreamcore」（D/W節）、「Goblincore、Nostalgiacore、Darkcore、Cottagecore」（現L1508） | 原語小文字に統一（liminal space、weirdcore、dreamcore、goblincore…）。見出しも `## dreamcore と weirdcore` に。作品名・アカウント名・KYM項目名の大文字は維持 | project-style-notes §1「文頭でも小文字」 |
+| S3 | 「Rafmanが」「Rafmanは」「Rafman自身は」（現L1378・L1380） | 「Jon Rafman」に統一 | 文体メモ：再登場でもフルネーム |
+| S4 | 「まさに」（現L1520「まさにこの感情を」） | 削除 | 文体メモ：避ける表現 |
+| S5 | アルバム「1000 gecs」（現L1528） | 『1000 gecs』 | 文体メモ：アルバムは『』 |
+| S6 | 「メインストリームの視界」（現L1530） | 「主流の視界」（第4章の同文と統一） | 表記統一 |
+| S7 | Twitter小節の冒頭文（現L1404） | 「今度はTwitterで、…結びつきが反復されはじめた」に書き換え（アンカーA3と統合） | §4-3 |
+| S8 | 爆発節冒頭（現L1430） | 「ロックダウンが始まった直後の2020年4月、…」（COVID節が前に来たことを受ける） | §3 |
+| S9 | COVID節冒頭（現L1454） | 「積み重なっていた層が美学としてまとめ上げられる直前の2020年3月、…」（節順変更を受ける） | §4-5 |
+| S10 | 現L1460「まさしく匿名の通過が想定される空間である」「コロナ禍におけるロックダウンは…作り出した」 | A6・合流段落に統合（「まさしく」削除。「本来の目的である通過が剥ぎ取られ」として事実は維持） | §4-5 |
+
+### 2-5. 変更していないもの
+
+- 前史5小節の事実記述（日付・アカウント・数値・出典リンク）はすべて維持。フォロワー数・いいね数も削除していない。
+- QAnon 段落（現L1420）：**そのまま維持**（匿名性ノート論点3の「ほのめかし＋射程外宣言」を尊重）。
+- cursed images 作者「約15歳」：cons-1 の確定（PAPER 2019年12月時点19歳からの逆算）どおり維持。
+- `### Tumblr の回路を読み返す`〜`### 2014 Tumblr リバイバル`、`## Dismiss Yourself`、`## アーキテクチャ` の本文（S1の em-dash 修正を除く）。
+- 観察4（weirdcore＝違和感／dreamcore＝懐かしさの対句）：**不採用**（計画 更新2）。
+- hex/surge による lo-fi/HD 溶解の任意追記（計画 §4-10）：**今回は見送り**。採用する場合の文案は §3-3 に保管。
+
+---
+
+## §3. 執筆メモ
+
+### 3-1. 文体チェック（manuscript-style チェックリスト対照）
+
+1. 「ちょうど／まさに／まさしく／にほかならない」：全文検索し、既存の2箇所（S4・S10）を削除。新規文には不使用。
+2. 「〜と読める」系：前史節末は0、COVID節は0、D/W節は「という読み方もできる」1回（A11）、TikTok節は既存の「応答として読める」1回のみ。各節1回以内。
+3. 「本章は〜」宣言：章冒頭のみ。節アンカーは宣言形を避けた（「ここで加わるのは物語の層だ」等）。前史節末の「いったん確認しておく」は確認であって予告ではない。
+4. 英語引用の訳：新規追加なし（既存分は維持）。
+5. 未確認事実の断定：新規の事実主張は A2（Wikipedia の記述への帰属つき）と A6（Aesthetics Wiki への帰属つき）のみ。A7・A10・A11・A15 は解釈であり、「見立てを借りれば」「という読み方もできる」「〜でもある」で確度を刻んだ。
+6. em-dash：本文0（見出しの「——」のみ）。
+7. 章参照：本文中の「第N章」参照は再構成の前後で増減なし（A5「第6章で触れたとおり」、A13「第3章で見たseapunk」「第6章で述べた」、A15「第4章では」を追加。いずれも project-style-notes §5 の対応表と一致）。
+8. 章内の相対参照：A11「前々節」＝`## 世界がliminal化した`（D/W節→爆発節→COVID節の順で正しい）。A7「前節の終わりで」＝前史節末の匿名性段落（正しい）。
+
+### 3-2. 反映時（7-reorg-2）の確認事項
+
+- 英語版Wikipedia「Liminal space (aesthetic)」のURL生存確認と、当該記述のアーカイブURL併記（消えうる出典の原則）。Aesthetics Wiki「Liminal Space」も同様。
+- 第4章 L1002 の予告（「複雑な感情・brat…は第7章と第8章で改めて見る」）が、圧縮後の hyperpop 節でも満たされていることの照合（複雑な感情の1文＋Underscores＋brat 段落が残る。満たす）。
+- 章外から第7章への参照4件（第1章L190・第2章L285・第4章L1002・第6章L1266）が壊れていないことの grep 確認。
+- 分割稿 [`第5章_爆発.md`](./第5章_爆発.md) の同期は任意（差分が大きくなるため、同期する場合も全文差し替え）。
+- 反映後、`timeline.md`・`context-map.md` §第7章の該当行（節名の変更）を還流（cons-2 と合流）。
+
+### 3-3. 不採用・保管文案
+
+**hex/surge による lo-fi/HD の溶解（計画 §4-10・任意、今回見送り）**——採用する場合は `## アーキテクチャ` 節の第2段落あたりに：
+
+> Dismiss Yourself から生まれた hex/surge が bitcrush された粗いサウンドを特徴とするように、HD 側の系譜のただなかから lo-fi の質感が出てくる。2010年代を整理できた lo-fi と HD という区分は、2020年代には、質感が自由に組み替えられる素材へと溶けていく。
+
+**第4章 Steyerl 節への前振り1文（任意）**——採用する場合は第4章 Nukeme・ゴミ画像の記述（L850–852 付近）の末尾に：
+
+> この質感の系譜は、第7章の weirdcore で再訪する。
+
+### 3-4. 要確認（ユーザーへの問い・1件）
+
+- 現L1508「**誰の語にでも** -core を付ければ美学が生まれるように」：「どんな語にでも」の誤記の可能性があるが、yabujincore（個人名+core）を念頭に置いた意図的な表現とも読めるため、今回は原文のまま維持した。意図をご確認いただき、誤記なら 7-reorg-2 で直す。
