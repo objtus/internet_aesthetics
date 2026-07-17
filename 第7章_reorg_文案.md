@@ -224,21 +224,21 @@ cursed images や liminal spaces が持つ文脈から切り離され匿名化�
 
 ## cottagecoreの爆発
 
-2020年春のロックダウンは、この章で見てきた美学の流れとは別の美学も押し上げた。 liminal space とそこから分岐した数々の美学が、現実の空っぽになった公共空間へ共鳴したものだったとすれば、 cottagecore はその傾向とはちょうど反対の欲望を引き受けていた。
+2020年春のロックダウンは、 liminal space や weirdcore / dreamcore など様々な美学コミュニティの盛り上がりを後押しした。第6章で見た cottagecore と dark academia は、この時期に[もっとも注目を集めた美学の二つ](https://fandom.tumblr.com/post/636605480338407424/2020-aesthetics)だった。
 
-2020年3月以降に各都市でロックダウンが進むと、 cottagecore は Tumblr の Week in Review で Harry Styles 、 Marvel 、 Taylor Swift より上位に浮上した。Tumblr上で数年かけて少しずつ育っていた美学が、パンデミックと重なって一気に広まったのだ。[Google Trends](https://trends.google.com/trends/explore?geo=&date=2009-01-01%202026-07-01&q=cottagecore,dark%20academia,liminal%20space,internet%20aesthetic&hl=en-US)（同条件）でも、cottagecore の検索関心は2020年11月に頂点に達する。 cottagecore は2019年4月ごろから現れ、2020年3月以降の上昇はロックダウンと重なっている。
+2020年3月以降に各都市でロックダウンが進むと、 2020年3月23日の Tumblr 公式の週間トピックまとめ「[Week in Review](https://fandom.tumblr.com/post/613396045973635072/time-for-a-tumblr-wide-broadcast-your-source-for)」で cottagecore は Harry Styles 、 Marvel 、 Taylor Swift より上位に浮上した。 [The Washington Post](https://web.archive.org/web/20200911061944/https://www.washingtonpost.com/lifestyle/travel/how-the-cottagecore-internet-aesthetic-dovetails-with-pandemic-travel/2020/09/10/3ae54032-ed39-11ea-99a1-71343d03bc29_story.html) によれば、 Tumblr上の cottagecore 関連コンテンツは3月から4月にかけて153%増加し、「いいね！」の数は約550%増加したという。Tumblr上で数年かけて少しずつ育っていた美学が、パンデミックと重なって一気に広まったのだ。[Google Trends](https://trends.google.com/trends/explore?geo=&date=2009-01-01%202026-07-01&q=cottagecore,dark%20academia,liminal%20space,internet%20aesthetic&hl=en-US)（同条件）でも、cottagecore の検索関心は2020年11月に頂点に達する。 cottagecore は2019年4月ごろから現れ、2020年3月以降の上昇はロックダウンと重なっている。
 
-ロックダウンで都市から動けなくなった人々にとって、 cottagecore が描く森の中の小屋や自給自足の生活、緑の野原といった世界は、逃避先となった。公共空間から切り離されたまま自宅のスクリーンの前にいた人々は、その画面の向こうに農村のユートピアを見たのだった。
+ロックダウンで都市から動けなくなった人々にとって、 cottagecore が描く森の中の小屋や自給自足の生活、緑の野原といった世界は、[逃避先となった](https://fandom.tumblr.com/post/636605468894232576/cottagecore)。公共空間から切り離されたまま自宅のスクリーンの前にいた人々は、その画面の向こうに農村のユートピアを見たのだった。
 
-2020年7月、Taylor Swiftがアルバム『Folklore』をリリースした。手編みカーディガン、苔に覆われた小屋、霧の森、大きめのプレイドといったビジュアルは、 cottagecore の視覚要素と重なった。Taylor Swiftが cottagecore を発明したわけでも、意図してそのラベルを採ったわけでもないという。しかしこのアルバムは cottagecore と結び付けらえれ、リリース翌月には cottagecore のGoogle検索が400%増えた。 Taylor Swift の数百万人規模のファン層を通じて、 cottagecore のスタイルはメインストリームの視界に入った。
+2020年7月、Taylor Swiftがアルバム『Folklore』をリリースした。[instagram の告知投稿](https://www.instagram.com/p/CC--BUtDjav/)の、手編みのカーディガンやチェック柄コートを着て霧がかった森に佇むビジュアルは [cottagecore の視覚要素と重なったもの](https://www.wmagazine.com/story/taylor-swift-cottagecore-folklore)として[受け止められた](https://www.refinery29.com/en-us/2020/07/9931460/taylor-swift-folklore-fashion-clothing-trend)。Taylor Swift は明確に cottagecore に言及しなかったが、このアルバムはメディア上で cottagecore とさかんに結び付けらた。リリース翌月には cottagecore の[Google検索数が400%も増えた](https://cottagecoreclothes.com/blogs/fashion/cottagecore-fashion#:~:text=for%20%22cottagecore%22%20spiked-,400%25,-in%20the%20month)という。 Taylor Swift の数百万人規模のファン層を通じて、 cottagecore のスタイルはメインストリームの視界に入った。
 
-dark academiaも同じ流れの中にあった。学校や大学が閉じ、学術へのアクセスが制限された時期に、学術的雰囲気へのノスタルジアを体現する美学としていわば逃避的に機能した。「不安定な現在と理想化された過去」という構図は、孤立した生活の中で共通の価値を提供した。#darkacademiaは2021年時点でTikTok上で数十億ビューに達したという。
+dark academia もコロナ禍のロックダウンで逃避的に[美学が盛り上がった](https://fandom.tumblr.com/post/636605480338407424/2020-aesthetics)。学校や大学が閉じられ学術へのアクセスが制限された時期に、学術的雰囲気への[ノスタルジア](https://ijcmr.online/2/article/view/18/22#:~:text=the%20nostalgic%20essence%20of%20Dark%20Academia)を体現する美学として、いわば[逃避的に機能](https://ijcmr.online/2/article/view/18/22#:~:text=escape%20the%20present%20reality)した。
 
 ---
 
 ## TikTokというアーキテクチャの転換
 
-2020年は、COVID-19だけでなくプラットフォームの転換でもあった。
+2020年は COVID-19 の年だった。それはインターネット美学の成立史においても変わらない。だがそれと同時に、美学が流通するプラットフォームが転換した年でもあった。 美学ミームは Tumblr のアーキテクチャによって加速し、生まれた数々の美学がこの年メインストリームの目に触れた。しかし、この時美学の流通の重心はすでに TikTok へ移りつつあった。
 
 ### Tumblr の回路を読み返す
 
