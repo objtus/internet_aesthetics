@@ -206,35 +206,33 @@ The Backrooms という物語や世界観が拡散されて論じられていく
 
 ## dreamcore と weirdcore
 
-liminal space 的な質感が拡散していくのと同じ時期、そうした感覚と重なりつつも別のニュアンスを持つ美学が分岐していた。ここでは dreamcore と weirdcore を取り上げる。
+liminal space 的な質感が広まっていくのと同じ時期、そうした感覚と重なりつつも別のニュアンスを持つ美学が分岐していた。ここでは dreamcore と weirdcore を取り上げる。
 
 weirdcoreは1990年代後半から2000年代中頃のインターネット上で共有された画像の外見から影響を受けた美学だ。アマチュアな編集、低画質な写真、歪んだテキスト、文脈なしに配置された眼球や肢体など、いずれも違和感を増幅するために設計されたビジュアルが特徴になる。起源は不明確で、2017年ごろの画像が最古の例とされる。Underground Sound の [weirdcore 解説記事](https://undergroundsound.eu/culture/weirdcore-aesthetic-the-fascinating-world-of-the-oddly-familiar/)によれば、普及の触媒となったのは 前節で触れた [DavidCrypt（David Crypt）](https://youtube.com/@DavidCrypt) が投稿した weirdcore の解説動画だという。2026年現在 weirdcore を直接取り扱った[動画](https://youtube.com/watch?si=hRicCbohFBbN1FwK)は[確認することができない](https://web.archive.org/web/20240726233405/https://youtube.com/@DavidCrypt)。解説動画が美学を広めるのは、 Solar Sands が liminal space を解説動画で広めたのと同様のパターンだといえる。
 
 reddit の [r/weirdcore](https://www.reddit.com/r/weirdcore/) は2020年1月15日に作成されており、 liminal space が徐々に拡散していくのと同じ時期に広まっていったことが推測できる。 tumblr 上の #weirdcore 投稿ページは[2020年1月時点のアーカイブ](https://web.archive.org/web/20200101125349/https://www.tumblr.com/tagged/weirdcore)が残っており、当初どのようなイメージが流通していたか確認できる。
 
-dreamcoreはweirdcoreから分岐したといわれている。より明るく夢の記憶に近いトーンで、CG的な夢の場面、パステルカラー、虹、雲などを組み合わせる。「夢の記憶の復元」をめざす美学として、TikTokでは57億ビューを記録した。
+Aesthetics Wiki の[「dreamcore」記事](https://aesthetics.fandom.com/wiki/Dreamcore)によれば、 dreamcore は weirdcoreから分岐したといわれている。より明るく夢の記憶に近いトーンで、CG的な夢の場面、パステルカラー、虹、雲などを組み合わせる。一方、 weirdcore コミュニティからは「dreamcoreはwatered-down（薄められた）バージョンだ」という批判も出たという。i-D magazine の[2021年6月の dreamcore に関する記事](https://i-d.co/article/dreamcore-tiktok-aesthetic/)では、TikTok の #dreamcore をつけられた動画は合計で4億回再生され、類似ハッシュタグの動画の再生回数も数百万回に上るという。
 
-weirdcoreのコミュニティからは「dreamcoreはwatered-down（薄められた）バージョンだ」という批判も出た。それでもdreamcoreはTikTok世代にとっての入口になり、ロックダウン中に10代が幼少期を振り返る動機とTikTokのアルゴリズムが重なった。
+名前のない感情に造語をつけていくウェブプロジェクト『[The Dictionary of Obscure Sorrows](https://www.dictionaryofobscuresorrows.com/)』を主宰するJohn Koenigは、2012年に「自分が知ったことのない時代や場所へのノスタルジア」を「anemoia」と名付けた。 dreamcore や weirdcore 、liminal space のビジュアルはこの感情を作り出すために設計されていた。これらの美学は、経験したはずのない1990〜2000年代初期のデジタル文化の「記憶」を錯覚させる。
 
-名前のない感情に造語をつけていくウェブプロジェクト『[The Dictionary of Obscure Sorrows](https://www.dictionaryofobscuresorrows.com/)』を主宰するJohn Koenigは、2012年に「自分が知ったことのない時代や場所へのノスタルジア」を「anemoia」と名付けた。dreamcoreのビジュアルはこの感情を作り出すために設計されていた。経験したはずのない1990〜2000年代初期のデジタル文化の「記憶」を錯覚させる。行ったことのない場所が懐かしいのは、その場所がどの記憶とも部分的に重なりながら、どの記憶にも固有には属さないからだ、という読み方もできる。前々節で見た非-場所の匿名性は、ここでは懐かしさの条件として働いている。
+行ったことのない場所が懐かしいのは、その場所がどの記憶とも部分的に重なりながら、どの記憶の場所にも属さないからだ、ともいえる。「どこかで見たことがあるが特定できない」非-場所の匿名性は、 anemoia 的な懐かしさを生み出す条件のひとつなのかもしれない。
 
 ---
 
-cursed images や liminal spaces が持つ文脈から切り離され匿名化した画像の質感や、weirdcore や dreamcore が素材にする低画質の写真やアマチュアな編集は、第4章で見た画像文化の系譜の続きでもある。 Hito Steyerl が擁護した poor image は、劣化しながら出回ることに価値を持つ画像を指し、 Nukeme のいうゴミ画像は、意図も出どころも読めない画像の混乱を楽しむ感覚を指していた。2010年代初頭にネットアートの批評と実作がそれぞれ扱っていたこの質感は、2020年には美学の素材としてとらえ直された。
+cursed images や liminal spaces が持つ文脈から切り離され匿名化した画像の質感や、weirdcore や dreamcore が素材にする低画質の写真やアマチュアな編集は、第4章で見た画像文化の系譜の続きでもある。 Hito Steyerl が擁護した poor image は、劣化しながら出回ることに価値を持つ画像を指し、 Nukeme のいうゴミ画像は、意図も出どころも読めない画像の混乱を楽しむ感覚を指していた。2010年代初頭にネットアートの批評と実作がそれぞれ扱っていたこの質感は、2020年には美学の素材としてとらえ直されている。
 
 ## cottagecoreの爆発
 
-同じロックダウンは、逆向きの美学も押し上げた。liminal spaceとそこから分岐した美学が、空っぽになった公共空間への共鳴だったとすれば、cottagecoreはその反対を向いていた。
+2020年春のロックダウンは、この章で見てきた美学の流れとは別の美学も押し上げた。 liminal space とそこから分岐した数々の美学が、現実の空っぽになった公共空間へ共鳴したものだったとすれば、 cottagecore はその傾向とはちょうど反対の欲望を引き受けていた。
 
-2020年3月中旬のロックダウンが始まると、cottagecoreはTumblrのWeek in ReviewでHarry Styles、Marvel、Taylor Swiftより上位に浮上した。Tumblr上で数年かけて少しずつ育っていた美学が、パンデミックと重なって一気に広まった。[Google Trends](https://trends.google.com/trends/explore?geo=&date=2009-01-01%202026-07-01&q=cottagecore,dark%20academia,liminal%20space,internet%20aesthetic&hl=en-US)（同条件）でも、cottagecore の検索関心は2020年11月、dark academia は2021年1月にそれぞれ頂点に達する。cottagecore は2019年4月ごろから非ゼロの値が現れ、2020年3月以降の上昇と重なる。TikTok のビュー数や Tumblr 内の順位とは別回路の指標だが、第6章で見た Tumblr 内の有機的な蓄積ののち、2020〜2021年に第二の美学クラスターが検索行動としても可視化されたことを補助する情報だ。
+2020年3月以降に各都市でロックダウンが進むと、 cottagecore は Tumblr の Week in Review で Harry Styles 、 Marvel 、 Taylor Swift より上位に浮上した。Tumblr上で数年かけて少しずつ育っていた美学が、パンデミックと重なって一気に広まったのだ。[Google Trends](https://trends.google.com/trends/explore?geo=&date=2009-01-01%202026-07-01&q=cottagecore,dark%20academia,liminal%20space,internet%20aesthetic&hl=en-US)（同条件）でも、cottagecore の検索関心は2020年11月に頂点に達する。 cottagecore は2019年4月ごろから現れ、2020年3月以降の上昇はロックダウンと重なっている。
 
-ロックダウンで都市から動けなくなった人々にとって、cottagecoreが描く森の中の小屋、自給自足の生活、緑の野原といった世界は、逃避の先として読まれた。公共空間から切り離されたまま自宅のスクリーンの前にいた人々は、その画面の向こうに農村のユートピアを見た。
+ロックダウンで都市から動けなくなった人々にとって、 cottagecore が描く森の中の小屋や自給自足の生活、緑の野原といった世界は、逃避先となった。公共空間から切り離されたまま自宅のスクリーンの前にいた人々は、その画面の向こうに農村のユートピアを見たのだった。
 
-2020年7月、Taylor Swiftがアルバム『Folklore』をリリースした。手編みカーディガン、苔に覆われた小屋、霧の森、大きめのプレイドといったビジュアルは、cottagecoreの既存の言語と重なった。Taylor Swiftがcottagecoreを発明したわけでも、意図してそのラベルを採ったわけでもない。それでもアルバムリリース翌月にはGoogle検索が400%増え、数百万人規模のファン層を通じてスタイルが主流の視界に入った。
+2020年7月、Taylor Swiftがアルバム『Folklore』をリリースした。手編みカーディガン、苔に覆われた小屋、霧の森、大きめのプレイドといったビジュアルは、 cottagecore の視覚要素と重なった。Taylor Swiftが cottagecore を発明したわけでも、意図してそのラベルを採ったわけでもないという。しかしこのアルバムは cottagecore と結び付けらえれ、リリース翌月には cottagecore のGoogle検索が400%増えた。 Taylor Swift の数百万人規模のファン層を通じて、 cottagecore のスタイルはメインストリームの視界に入った。
 
-dark academiaも同じ流れの中にあった。学校や大学が閉じ、学術へのアクセスが制限された時期に、学術的雰囲気へのノスタルジアを体現する美学として機能した。「不安定な現在と理想化された過去」という構図は、孤立した生活の中で共通の価値を提供した。#darkacademiaは2021年時点でTikTok上で数十億ビューに達したという。
-
-この機能を学術的に分析した研究として、*[Dark Academia: Curating Affective History in a COVID-Era Internet Aesthetic*（de Gruyter, 2022）](https://www.degruyterbrill.com/document/doi/10.1515/iph-2022-2047/html)がある。dark academiaを**mnemonic curatorial practice（記憶的キュレーション実践）**として位置付け、過去を脱歴史化しノスタルジアを再構成する実践がCOVID期に機能したと論じている。
+dark academiaも同じ流れの中にあった。学校や大学が閉じ、学術へのアクセスが制限された時期に、学術的雰囲気へのノスタルジアを体現する美学としていわば逃避的に機能した。「不安定な現在と理想化された過去」という構図は、孤立した生活の中で共通の価値を提供した。#darkacademiaは2021年時点でTikTok上で数十億ビューに達したという。
 
 ---
 
