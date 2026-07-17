@@ -266,7 +266,7 @@ TikTok の For You ページは、この Tumblr 型のグラフ内伝播とは�
 
 ### -core サフィックスの標準化
 
-第6章で見た -core サフィックスの増殖は、この時期に頂点を迎える。goblincore（泥や菌類、虫を愛でる美学）、nostalgiacore、darkcore、cottagecoreなど、誰の語にでも -core を付ければ美学が生まれるように命名が加速した。fashioncore から normcore へと続いてきた系列が、ここでほとんど無際限に枝分かれする。先に見たdreamcoreとweirdcoreの名前も、この系列から出ている。この時期、Aesthetics Wikiにも記事が大量に追加されている。
+第6章で見た -core サフィックスの増殖は、この時期に頂点を迎える。goblincore（泥や菌類、虫を愛でる美学）、nostalgiacore、darkcore、cottagecoreなど、誰の語にでも -core を付ければ美学が生まれるように命名が加速した。fashioncore から normcore へと続いてきた系列が、ここでほとんど無際限に枝分かれする。先に見た dreamcore と weirdcore の名前も、この系列から出ている。この時期、Aesthetics Wikiにも記事が大量に追加されている。
 
 ---
 
