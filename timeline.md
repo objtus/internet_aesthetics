@@ -484,6 +484,7 @@
 | 2019-08 | SpotifyエディターLizzy Szaboが「Neon Party」を改名・刷新し「Hyperpop」プレイリストに(100 gecsの急成長への反応)。説明文「Hyperpop is a simulation」 | https://www.billboard.com/music/pop/hyperpop-history-mainstream-crossover-9595799/ | ハイパーポップの歴史.md |
 | 2019-08-12 | Automattic(WordPress.com)がTumblrを約$3M以下で買収 〔high〕 | https://www.washingtonpost.com/technology/2019/08/13/ | tumblrタイムライン.md |
 | 2019-08-14 | r/LiminalSpace設立(4chanスレッドから約3ヶ月後) | https://knowyourmeme.com/memes/cultures/liminal-spaces-images-with-elegiac-auras-dreamcore | インターネット美学（Internet Aesthetics）調査ノート.md |
+| 2019-08-24 | Aesthetics Wiki「Liminal Space」項目創設(revid=1919・r/LiminalSpaceの約10日後) | https://aesthetics.fandom.com/wiki/Liminal_Space?oldid=1919 | [`liminal_制度化_Backrooms_言説メモ.md`](./liminal_制度化_Backrooms_言説メモ.md) |
 | 2019-08-27 | Seattle Design FestivalでCARI初の公開プレゼンテーション(Evan Collins) | https://nwfilmforum.org/events/consumer-aesthetic-research-institute-unearthing-forgotten-design-history-recent-past/ | CARIの歴史.md |
 | 2019-10-10 | Simon Reynolds「The Rise of Conceptronica」(Pitchfork)。Arca/Holly Herndon/Chino Amobi等を括る語として提案、一般化せず=distroidと同型の未充填命名 | https://pitchfork.com/features/article/2010s-rise-of-conceptronica-electronic-music/ | 草稿_ファクト補強調査.md |
 | 2019-11 | A.G. CookがHyperpopプレイリストにJ Dilla・Kate Bushを追加、ジャンル定義に混乱 | https://en.everybodywiki.com/Hyperpop | ハイパーポップの歴史.md |
@@ -501,7 +502,10 @@
 | 2020 | 「corecore」発生(-core濫用へのメタ批評)。2022年に拡散 | https://en.wikipedia.org/wiki/-core | サフィックス系譜比較調査ノート.md |
 | 2020-03 | COVID-19パンデミックでリモートワーク普及、Webサービス利用急増 | https://en.wikipedia.org/wiki/Web_2.0 | Web 2.0の詳細年表.md |
 | 2020-03 | COVID-19ロックダウンで#cottagecoreがTumblr Week in Reviewの上位に急浮上 | https://fandom.tumblr.com/post/636605468894232576/cottagecore | インターネット美学（Internet Aesthetics）調査ノート.md |
-| 2020-04 | liminal space画像コレクションが複数プラットフォームで連鎖的拡散(r/Weirdlyfamiliar 4/1設立等)。4/16 floatのコンピ動画 | https://www.youtube.com/watch?v=VqZEfqoTA7M | インターネット美学（Internet Aesthetics）調査ノート.md |
+| 2020-04-09 | DavidCrypt「Pictures that feel strangely familiar but uncomfortable」コンピ(liminal系4月拡散の先行例。strangely familiarタイトル族) | https://www.youtube.com/watch?v=WMVeFaiQ_bo（公開日: [Wayback 2020-06-18](https://web.archive.org/web/20200618221721/https://www.youtube.com/watch?v=WMVeFaiQ_bo)） | [`第7章_reorg_文案.md`](./第7章_reorg_文案.md)・[プレイリスト liminal space前史](https://www.youtube.com/playlist?list=PLIH37AqPkdeA) |
+| 2020-04-15 | float「Strangely Familiar Places with Unnerving Music」コンピ(約200万再生。以降同型を量産) | https://www.youtube.com/watch?v=VqZEfqoTA7M（公開日: [Wayback 2020-06-01](https://web.archive.org/web/20200601161630/https://www.youtube.com/watch?v=VqZEfqoTA7M)） | 同上 |
+| 2020-04 | liminal space画像コレクションが複数プラットフォームで連鎖的拡散(r/Weirdlyfamiliar 4/1設立、Tumblrコレクション、上記YouTubeコンピ等) | https://www.youtube.com/playlist?list=PLIH37AqPkdeA | インターネット美学（Internet Aesthetics）調査ノート.md |
+| 2020-04-30 | Bloody Disgusting「The Backrooms Game」レビュー(Sandal)。Backroomsをcreepypastaとして紹介(liminal/cursed語なし) | https://bloody-disgusting.com/editorials/3614536/play-shadows-backrooms-game-brings-modern-creepypasta-life/ | [`liminal_制度化_Backrooms_言説メモ.md`](./liminal_制度化_Backrooms_言説メモ.md) §6.3 |
 | 2020-04-05 | Dismiss Yourself初の公式リリース『Surge Compilation Vol. 1』(82曲)。架空ジャケットから実在アルバムが生まれた逆転の経緯 | https://dismissyourselfarchive.bandcamp.com/album/surge-compilation-vol-1 | ハイパーポップの歴史.md |
 | 2020-04-24 | Tri Angle Records閉鎖 | https://stereogum.com/2082265/tri-angle-records-shuts-down/news | Seapunk 詳細調査ノート.md |
 | 2020-05-14 | Aesthetics WikiフォーラムにDiscordサーバー設立の投票スレッド(Avereo)。5/16頃サーバー開設と推定 〔設立日は独自推定〕 | https://aesthetics.fandom.com/f/p/4400000000000000014 | aesthetic wiki 歴史レポート.md |
@@ -510,12 +514,16 @@
 | 2020-07 | Taylor Swift『Folklore』リリース。cottagecoreの主流化の決定打(翌月Google検索400%増) | https://fandom.tumblr.com/post/636605468894232576/cottagecore | インターネット美学（Internet Aesthetics）調査ノート.md |
 | 2020-07-10 | 『1000 gecs and the Tree of Clues』リミックス盤(Charli XCX/Fall Out Boy等参加) | https://en.wikipedia.org/wiki/1000_gecs_and_the_Tree_of_Clues | ハイパーポップの歴史.md |
 | 2020-07-11 | Solar Sands「Liminal Spaces (Exploring an Altered Reality)」動画(約200万再生、aestheticのパッケージ化に寄与) | https://www.youtube.com/watch?v=N63pQGhvK4M | インターネット美学（Internet Aesthetics）調査ノート.md |
+| 2020-08-01 | Twitterボット@SpaceLiminalBot稼働(r/LiminalSpaceから画像共有) | https://x.com/SpaceLiminalBot | [`第7章_reorg_文案.md`](./第7章_reorg_文案.md) |
+| 2020-08-17 | KYM条目創設(V1・R-Switz)。タイトル「Images With Elegiac Auras / Liminal Spaces」。cursed imagesサブジャンル・Origin 2018-04-21(黄色画像のcursed系スレ日) | KYM編集履歴・[`KYM_liminal_編集史メモ.md`](./KYM_liminal_編集史メモ.md) | 同上 |
 | 2020-08-12 | A. G. Cook『7G』「Lil Song」(written by A. G. Cook & Daniel Lopatin) 〔A〕 | https://agcook.bandcamp.com/album/7g-2 | inv-opn-cook_年表.md |
 | 2020-09 | Google Trends: 「aesthetic」(単数形)検索関心が全期間ピーク(TikTok期のタグ用法一般化と整合) 〔代理指標〕 | Google Trends CSV | Google_Trends調査.md |
+| 2020-09-06 | 英語Wikipedia「The Backrooms」創設。OverviewでLiminality#In_placesへリンク(cursed語なし) | https://en.wikipedia.org/w/index.php?title=The_Backrooms&oldid=977010890 | [`liminal_制度化_Backrooms_言説メモ.md`](./liminal_制度化_Backrooms_言説メモ.md) §6.1 |
 | 2020-09-10 | Washington Post「How the #cottagecore Internet aesthetic dovetails with pandemic travel」(大手メディアでの「internet aesthetic」カテゴリ用法の初期例。Tumblr 3-4月+153%、TikTok累計37億ビューのデータ) | https://web.archive.org/web/20200911061944/https://www.washingtonpost.com/lifestyle/travel/ | internet_aesthetic語と制度化_調査ノート.md |
 | 2020-09-15 | SALEMがミックステープ『Stay Down』で復帰(FADER報道) | https://www.thefader.com/2020/09/15/witch-house-pioneers-salem-return-with-new-mixtape-stay-down | witchhouse-chillwave調査メモ.md |
 | 2020-09-18 | A. G. Cook『Apple』収録「Animals」(OPNカバー) 〔A〕 | https://en.wikipedia.org/wiki/Apple_(A._G._Cook_album) | inv-opn-cook_年表.md |
 | 2020-11 | Google Trends: 「cottagecore」検索関心ピーク。「dark academia」は2021-01ピーク 〔代理指標〕 | Google Trends CSV | Google_Trends調査.md |
+| 2020-11-02 | Musée Magazine「The Cult Following Of Liminal Space」。liminal spaces including backrooms・4chan起源 | https://museemagazine.com/features/2020/11/1/the-cult-following-of-liminal-space | [`liminal_制度化_Backrooms_言説メモ.md`](./liminal_制度化_Backrooms_言説メモ.md) §3.2 |
 | 2020-11-19 | glaive EP『Cypress Grove』(Interscope。契約は2020-10) | https://en.wikipedia.org/wiki/Cypress_Grove_(EP) | ハイパーポップの歴史.md |
 | 2020-12-01 | Jane Removerがleroy名義で最初のdariacoreシングル「Ricky Bobby」をSoundCloud投稿 | https://dariacore.miraheze.org/wiki/C0ncernn/sets/dariacore | ハイパーポップの歴史.md |
 | 2020-12-30 | Terrell Joseph Davis逝去(Neo-Y2Kムーブメント中心アーティスト、CARI Discord管理者) | https://twitter.com/y2k_aesthetic/status/1345484595102289932 | CARIの歴史.md |
@@ -529,10 +537,12 @@
 | 2021-02-14 | FairyPageがブログ「I Created the Aesthetics Wiki」投稿(「私はモンスターを作ってしまった」) 〔一次〕 | https://web.archive.org/web/20210217113336/https://fairypage.com/2021/02/14/ | aesthetic wiki 歴史レポート.md |
 | 2021-02-26 | Jane Remover(dltzk名義)digicore EP『Teen Week』 | https://en.wikipedia.org/wiki/Teen_Week | ハイパーポップの歴史.md |
 | 2021-03-26 | midwxst EP『Summer03』(Geffen) | https://en.wikipedia.org/wiki/Summer03 | ハイパーポップの歴史.md |
+| 2021-04-14 | Dazed「Inside the uncanny world of #liminalspaces TikTok」。起源を2019 Backrooms creepypastaに | https://www.dazeddigital.com/science-tech/article/52477/1/inside-the-uncanny-world-of-liminal-spaces-tiktok-reddit-nostalgia | [`liminal_制度化_Backrooms_言説メモ.md`](./liminal_制度化_Backrooms_言説メモ.md) §3.3 |
 | 2021-05-14 | leroy『Dariacore』リリース(SoundCloud/Bandcamp)。dariacore/hyperflipジャンルの起点。ジャケットはMTV『Daria』のスクリーンキャプチャ | https://en.wikipedia.org/wiki/Dariacore_(album) | ハイパーポップの歴史.md |
 | 2021-05-17 | @Y2K_AestheticがCARI Discord公開を告知(時点で800人超) | https://x.com/y2k_aesthetic/status/1394004726660882433 | Arena設計思想調査ノート.md |
 | 2021-07-01 | cari.institute公式パブリックサイト正式公開 | https://cari.institute/history | CARIの歴史.md |
 | 2021-07-08 | Kieran Press-Reynolds「How Dismiss Yourself Became a Hub for Internet Weirdness」(Bandcamp Daily) | https://daily.bandcamp.com/label-profile/dismiss-yourself-label-profile | 草稿_ファクト補強調査.md |
+| 2021-05-11 | KYM条目大規模改稿(Edit #3091265・Philipp)。タイトル順を「Liminal Spaces / Images With Elegiac Auras」へ。Origin Date 2019-05-12。4plebs #20663805(cursed由来)参照追加 | https://knowyourmeme.com/memes/liminal-spaces-images-with-elegiac-auras-dreamcore/edits/3091265 | [`KYM_liminal_編集史メモ.md`](./KYM_liminal_編集史メモ.md) |
 | 2021-07-31 | r/liminalspaces設立 | Know Your Meme | インターネット美学（Internet Aesthetics）調査ノート.md |
 | 2021-09-08 | leroy『Dariacore 2: Enter Here, Hell to the Left』 | https://dariacore.miraheze.org/wiki/C0ncernn/sets/dariacore | ハイパーポップの歴史.md |
 | 2021-11-11 | Tumblrモバイルアプリにダッシュボードタブ(Following / Stuff for you)導入=初の専用アルゴリズム発見タブ | https://www.tumblr.com/staff/668044535467851776/keepingtabson-your-dashboard | §8-2_Tumblr_ForYou_調査メモ.md |
@@ -547,6 +557,9 @@
 | 2022 | Barbiecore主流化 | https://en.wikipedia.org/wiki/-core | scene_subculture_notes.md |
 | 2022 | Jiarui Wang RCA修士論文が「New Ugly」を学術的に定義(中国的文脈の初の英語学術文書) | https://issuu.com/rca-issuu/docs/jiaruiwang/s/26565438 | supersuper.md |
 | 2022 | Kane Parsons(Kane Pixels)のBackrooms短編シリーズがバイラル化、A24が映画化発表 | https://en.wikipedia.org/wiki/The_Backrooms | インターネット美学（Internet Aesthetics）調査ノート.md |
+| 2022-01-06 | Kane Pixels「The Backrooms (Found Footage)」YouTube投稿 | https://www.youtube.com/watch?v=H4dGpz6cnHo | [`liminal_制度化_Backrooms_言説メモ.md`](./liminal_制度化_Backrooms_言説メモ.md) |
+| 2022-07 | PC Gamer「The Backrooms explained」。BackroomsをLiminal Spacesのサブジャンルと位置づけ | https://www.pcgamer.com/noclipping-is-no-joke-the-strange-world-of-the-backrooms-explained/ | 同上 §3.1 |
+| 2022-11-01 | The Atlantic「The Eerie Comfort of Liminal Spaces」(Pitre)。Backrooms・cursed言及なし | https://www.theatlantic.com/culture/archive/2022/11/liminal-space-internet-aesthetic/671945/ | 同上 §6.2 |
 | 2022 | 「When We Were Young」フェス(Las Vegas)でscene/emoバンド大量集結、復興の契機 | https://en.wikipedia.org/wiki/Scene_(subculture) | scene_subculture_notes.md |
 | 2022 | 第1回HTML Day開催 | https://html.energy/ | インディーウェブの歴史年表.md |
 | 2022-03-14 | Charli XCX「Every Rule」先行シングル(プロデュース: A.G.Cook, Daniel Lopatin, Matt Cohn)。アルバム『Crash』は2022-03-18 〔A〕 | https://www.thefader.com/2022/03/15/charli-xcx-every-rule-video | inv-opn-cook_年表.md |
@@ -562,7 +575,9 @@
 | 2023 | Flood MagazineのMike Lesuerがwitch house/seapunk回顧(「no one could think of a cooler name for it」) | https://en.wikipedia.org/wiki/Witch_house | witchhouse-chillwave調査メモ.md |
 | 2023 | Giolo & Berghman「The aesthetics of the self」(First Monday 28(3))=internet aesthetics最初の体系的研究 | https://firstmonday.org/ojs/index.php/fm/article/view/12723 | インターネット美学（Internet Aesthetics）調査ノート.md |
 | 2023 | Underscoresが「hyperpop is officially dead」と宣言 | https://www.tastemakersmag.com/articles/branching-out-of-internet-music | ハイパーポップの歴史.md |
+| 2023-01-02 | 英語Wikipedia「Liminal space」独立記事創設(Backrooms起点・cursed言及なし) | https://en.wikipedia.org/w/index.php?title=Liminal_space&oldid=1131011250 | [`liminal_制度化_Backrooms_言説メモ.md`](./liminal_制度化_Backrooms_言説メモ.md) §6.1 |
 | 2023-01-30 | YabujinがSoundCloudメインページ等を削除(1/27に精神科病院らしき写真を投稿) | https://www.last.fm/music/YABUJIN/+wiki | ハイパーポップの歴史.md |
+| 2023-02-08 | Polygon Kane Pixels/A24映画化報道。「liminal space of The Backrooms」 | https://www.polygon.com/23591121/backrooms-youtube-video-a24-movie-kane-parsons | 同上 §3.4 |
 | 2023-03-17 | 100 gecs『10,000 gecs』(Atlantic、メジャーデビュー) | https://en.wikipedia.org/wiki/10,000_gecs | ハイパーポップの歴史.md |
 | 2023-05-08 | Tumblr新規アカウントのデフォルト表示がFor Youに | https://wip.tumblr.com/post/724376596412334080/ | §8-2_Tumblr_ForYou_調査メモ.md |
 | 2023-06 | Kyle DrakeがAI擁護ブログ記事を公開、インディーウェブコミュニティが反発 | インディーウェブの歴史年表.md記載 | インディーウェブの歴史年表.md |
@@ -570,6 +585,7 @@
 | 2023-07 | MetaがThreadsを発表(ActivityPub対応宣言) | https://www.threads.net/ | インディーウェブの歴史年表.md |
 | 2023-07-01 | Tumblr新Webダッシュボード(StreamBuilder)展開 | https://engineering.tumblr.com/post/623020262357663745/ | §8-2_Tumblr_ForYou_調査メモ.md |
 | 2023-07-20 | leroy突然のカムバック『Grave Robbing』、dariacoreシーン再燃 | https://en.wikipedia.org/wiki/Dariacore_(album) | ハイパーポップの歴史.md |
+| 2023-09-18 | KYM liminal条目タイトルに「/ Dreamcore」追加(Edit #4,221,376・Philipp)。本文は-core言及なし | KYM編集履歴 | [`KYM_liminal_編集史メモ.md`](./KYM_liminal_編集史メモ.md) |
 | 2023-10頃 | Aesthetics Wikiページ上のコメント欄が無効化 〔ユーザー証言〕 | aesthetic wiki 歴史レポート.md記載 | aesthetic wiki 歴史レポート.md |
 | 2023-10-11 | 日本語Wikipedia「インターネット・エスセティック」立項(S1LAviridian、英語版のコンテンツ翻訳) | https://ja.wikipedia.org/wiki/インターネット・エスセティック | internet_aesthetic語と制度化_調査ノート.md |
 | 2024 | Silent Generation Podcast Ep.22でZombelleが「Wikipediaから完全に書き消された」と証言(seapunk正史をめぐる争いの継続) 〔一次〕 | https://www.iheart.com/podcast/1323-silent-generation-130572482/episode/ep-22-seapunk-2-w-zombelle-172547976/ | Seapunk 詳細調査ノート.md |

@@ -104,6 +104,8 @@
 | [`aesthetic_文法分析メモ.md`](./aesthetic_文法分析メモ.md) | 「aesthetic」の文法的用法の分析 |
 | [`aestheticに関する手動調査.md`](./aestheticに関する手動調査.md) | aesthetic関連の手動調査（X・Wayback・Reddit） |
 | [`匿名性の美学_後半展開_論点ノート.md`](./匿名性の美学_後半展開_論点ノート.md) | 匿名性と美学に関する論点 |
+| [`KYM_liminal_編集史メモ.md`](./KYM_liminal_編集史メモ.md) | Know Your Meme liminal 条目の編集史（2020-08〜2023-09） |
+| [`liminal_制度化_Backrooms_言説メモ.md`](./liminal_制度化_Backrooms_言説メモ.md) | liminal space の制度化・メディア言説・Backrooms とのラベル分岐（第7章文案用） |
 | [`khole-arena-archillect-researtch.md`](./khole-arena-archillect-researtch.md) | K-HOLE・normcore・VVORK・Archillect・rare.jpg・DIS 人脈 |
 | [`Arena設計思想調査ノート.md`](./Arena設計思想調査ノート.md) | Are.na 設計思想・CARI との関係 |
 | [`サフィックス系譜比較調査ノート.md`](./サフィックス系譜比較調査ノート.md) | -core/-wave/-punk サフィックスの系譜 |
@@ -145,6 +147,8 @@
 | [`src-6_仕分け.md`](./src-6_仕分け.md) | 資料の仕分け |
 | [`intro-kojiateki_引用メモ.md`](./intro-kojiateki_引用メモ.md) | 序文の引用関連メモ |
 | [`inv-opn-cook_年表.md`](./inv-opn-cook_年表.md) | OPN・Cook関連年表 |
+| [`第7章_reorg_計画.md`](./第7章_reorg_計画.md) | 第7章「爆発」再構成の計画・帰属確認 |
+| [`第7章_reorg_文案.md`](./第7章_reorg_文案.md) | 第7章再構成の**文案正本**（`草稿.md` 反映前。全文差し替え用） |
 
 ---
 
@@ -188,6 +192,7 @@
 |---|---|
 | 「aesthetic」という語の歴史 | aesthetic手動調査 / internet_aesthetic語ノート / 草稿 第5章 |
 | 個別美学の発生史 | 調査ノート / timeline.md / 草稿 第3章・第6章・第7章 |
+| liminal space・Backrooms・KYM編集史・メディア制度化 | [`liminal_制度化_Backrooms_言説メモ.md`](./liminal_制度化_Backrooms_言説メモ.md) / [`KYM_liminal_編集史メモ.md`](./KYM_liminal_編集史メモ.md) / timeline.md |
 | 美学ミームの発生パターン分類 | 覚書 / 調査ノート |
 | 充填という概念・成立条件の理論化 | 覚書 / 草稿 第3章・第5章 |
 | 分類の制度化（Aesthetics Wiki / CARI） | CARIの歴史 / aesthetic wiki歴史レポート / 草稿 第8章 |

@@ -658,11 +658,21 @@ r/LiminalSpaceの定義（最も体系的な定義を持つコミュニティ）
 
 **【URL】** Know Your Meme "Liminal Spaces / Images With Elegiac Auras / Dreamcore": https://knowyourmeme.com/memes/cultures/liminal-spaces-images-with-elegiac-auras-dreamcore
 
-#### @elegiac_images——三者のハブ（2020年6月〜11月）
+#### Know Your Meme 条目の編集史（2020年8月〜2023年9月）
+
+編集履歴の正本は [`KYM_liminal_編集史メモ.md`](./KYM_liminal_編集史メモ.md)。
+
+- **2020-08-17（V1）**：タイトル *Images With Elegiac Auras / Liminal Spaces*。About で **cursed images のサブジャンル**・anemoia・nostalgiacore。Origin を **2018-04-21**（cursed images 系 /x/ スレへの黄色い Backrooms 画像の投稿日）とする。→ 受容側が cursed images 系譜を起点に見ていた一次資料。
+- **2021-05-11（Edit #3091265）**：タイトルを *Liminal Spaces / Images With Elegiac Auras* に。**Origin Date: 2019-05-12**。建築用語の liminal・Backrooms（2019年5月）・r/LiminalSpace を About に追加。参考文献に 4plebs **#20663805**（cursed 由来）と **#22661164**（Backrooms）を併記。Tag List から nostalgiacore 等を整理。
+- **2023-09-18（Edit #4,221,376）**：タイトルのみ **/ Dreamcore** を追加。**本文では -core ラベルを言及しない**。
+
+現行タイトルの「三者並記」は **2023年の後追い編集**であり、2020年の @elegiac_images 開設と**同時期ではない**（@elegiac_images は単一ラベル「elegiac auras」での横断キュレート）。
+
+#### @elegiac_images——横断キュレートのハブ（2020年6月〜11月）
 
 @elegiac_images（Images with Elegiac Auras）は2019年3月15日の@zerstoererのツイートに触発されて2020年6月6日に開設され、2ヶ月で12万フォロワーを獲得した。2020年11月に凍結。
 
-このアカウントはliminal space・weirdcore・dreamcore的イメージを「elegiac auras（エレジアックなオーラ）」という独自の命名で包括し、三者を繋ぐハブとして機能した。Know Your Memeの項目名が "Liminal Spaces / Images With Elegiac Auras / Dreamcore" と三者を一体として扱っているのはこのアカウントの影響による。
+このアカウントはliminal space・weirdcore・dreamcore的イメージを「elegiac auras（エレジアックなオーラ）」という**単一の**命名で横断的にキュレートした。KYM 初版（2020年8月）は elegiac auras と liminal spaces を一体の項目として整理しており、時期・範囲は近いが、**dreamcore をタイトルに載せたのは2023年9月**である（上記メモ）。
 
 #### The Backroomsの拡大とメインストリーム化
 

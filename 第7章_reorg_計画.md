@@ -3,6 +3,7 @@
 > 作成：2026-07-12  
 > 更新1：2026-07-12（ユーザー判断の確定を反映。①hyperpop 圧縮は C 案＝自己完結優先・Spotify 詳細段落のみ要約 ②poor image／ゴミ画像は「先に言い当てていた」の語気を避け、`## Dreamcore と Weirdcore` 節を本籍に系譜の連続として書く ③見出しは推薦案で確定 ④Dreamcore/Weirdcore を liminal 爆発節の直後へ移動し、lo-fi/HD の対比は章の骨格ではなく hyperpop 節頭の回収段落として使う＝Y-light 案。二系統骨格案＝Y-full は cottagecore が二分法に収まらないため不採用）  
 > 更新2：2026-07-12（7-reorg-0c 完了。帰属2件を確認：①「4chan 起源」の通説は英語版 Wikipedia「Liminal space (aesthetic)」の実際の記述で裏づけ可 ②Augé 参照は Aesthetics Wiki「Liminal Space」項目が『Non-Places』を明示的に引用。観察4（Weirdcore/Dreamcore の対句）は解釈密度過多のため不採用を確定）  
+> 更新3：2026-07-17（KYM liminal 条目の編集史を [`KYM_liminal_編集史メモ.md`](./KYM_liminal_編集史メモ.md) に正本化。計画更新1の「KYM 三者並記＝@elegiac_images 影響」は **dreamcore タイトル追加（2023-09-18）まで含めない**よう文案修正予定＝**7-reorg-1d**）  
 > きっかけ：草稿後半を1章ずつ再構成する作業の一環（第6章 reorg 完了後）。第7章、とくに前半の liminal space 節が「年表のように事実が連なっていて、それがどのような意味を持つのかわからない」（ユーザー診断・2026-07-12）。あわせて [`next_tasks.md`](./next_tasks.md) **inv-vernacular-photo** の観察1（二重の非-場所）を本章に追記する。  
 > 原則：**ファクトはそのまま**。文章の入れ替え・接続文と説の追加・書き方の整理で読みやすくする。  
 > 文案の文体は [`文体メモ.md`](./文体メモ.md)（スキル版 `.claude/skills/manuscript-style/SKILL.md`）＋[`project-style-notes.md`](./project-style-notes.md) に合わせる。本文に em-dash を使わない。新しい抽象名詞（「非-場所的画像」等）は作らない。

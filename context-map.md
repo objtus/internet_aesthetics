@@ -164,6 +164,8 @@
 | liminal spaceの多層的誕生(GSV 2008〜/cursed images 2015/Tumblrチェーン2016/4chan 2019) | インターネット美学ノート §8(最詳) | rev-10(9 Eyes)。「2019年4chan起源」通説の修正が本稿の主張 |
 | The Backrooms→A24 | インターネット美学ノート §8-2 | ファクト補強#16 |
 | 2020-04拡散・@elegiac_images・Solar Sands | インターネット美学ノート §8 | — |
+| KYM liminal条目の編集史(2020-08創設・2021-05改稿・2023-09 Dreamcoreタイトル) | [`KYM_liminal_編集史メモ.md`](./KYM_liminal_編集史メモ.md) | 文案・timeline還流済み(2026-07-17)。**7-reorg-1d** |
+| liminal制度化・Backrooms言説・メディア対照 | [`liminal_制度化_Backrooms_言説メモ.md`](./liminal_制度化_Backrooms_言説メモ.md) | **7-reorg-1e**→[`第7章_reorg_文案.md`](./第7章_reorg_文案.md) |
 | cottagecoreの爆発(Tumblr Week in Review・Folklore 400%) | インターネット美学ノート §7 | — |
 | TikTokというアーキテクチャ転換(For You対比) | §8-2_Tumblr_ForYou_調査メモ.md | 文案A+(2026-06反映) |
 | -core標準化・corecore | サフィックス系譜ノート+scene_subculture_notes.md | — |
