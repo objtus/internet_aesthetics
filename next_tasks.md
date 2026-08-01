@@ -6,7 +6,10 @@
 **資料地図**：[`context-map.md`](./context-map.md)／[`timeline.md`](./timeline.md)  
 **改稿チェックリスト**：[`草稿_整合性レビュー.md`](./草稿_整合性レビュー.md)（2026-07-06 通読・約60件／**cons-1 反映完了 2026-07-07**）
 **文体**：[`文体メモ.md`](./文体メモ.md)＋[`project-style-notes.md`](./project-style-notes.md)（Claude Code: `.claude/skills/manuscript-style/SKILL.md`）  
-**認知リズム**：[`cognitive-rhythm-writing/SKILL.md`](./cognitive-rhythm-writing/SKILL.md)（**crw-*** 推敲の正本）
+**認知リズム**：[`cognitive-rhythm-writing/SKILL.md`](./cognitive-rhythm-writing/SKILL.md)（**crw-*** 推敲の正本）  
+**フラクタル推敲**：[`fractal-revision-guide/SKILL.md`](./fractal-revision-guide/SKILL.md)（**fractal-*** 推敲の正本。文→段落→節→章の順）
+
+**直近完了（2026-08-01）**：**fractal-1** ☑——第1章・**文／段落レベル**（全節）を [`fractal-revision-guide/SKILL.md`](./fractal-revision-guide/SKILL.md) で点検・反映。序文 L3–L69、GeoCities／mp3ブログ／MySpace／Tumblr／フォークソノミー／ポストインターネット（A1–A6・B1–B3）／James Bridle・Reblorg（A1–A4・B5–B7・「more overtly arty corners」意訳）／`## アーキテクチャが開いた可能性の空間` L344–L368。第1章末 L370 直前まで
 
 **直近完了（2026-07-07）**：**6-reorg-0〜5** ☑——第6章「名前があとから来る」の再構成が完了。normcore読み筋・匿名性→liminal space伏線・`## 名付け親の分からない美学` 統合節（dark academia／cottagecore）に加え、`## vaporwave の政治的受容` 節全体を -wave サフィックス系列の実例として再構成（⑥-full。当初計画になかった追加作業）。文案は [`第6章_reorg_DA-cottagecore_文案.md`](./第6章_reorg_DA-cottagecore_文案.md)、経緯は [`第6章_reorg_計画.md`](./第6章_reorg_計画.md)。すべて `草稿.md` へ反映済み
 
@@ -24,7 +27,9 @@
 
 **直近完了（2026-07-23）**：**7-reorg-0〜2** ☑（**1d・1e** 含む）——第7章「爆発」の reorg パイプライン完了。計画 [`第7章_reorg_計画.md`](./第7章_reorg_計画.md)、文案 [`第7章_reorg_文案.md`](./第7章_reorg_文案.md)。KYM 編集史・制度化節（[`KYM_liminal_編集史メモ.md`](./KYM_liminal_編集史メモ.md)／[`liminal_制度化_Backrooms_言説メモ.md`](./liminal_制度化_Backrooms_言説メモ.md)）反映済み。`草稿.md` L1362–1644 へ全文差替え（章末 `## アーキテクチャ：TikTokとDiscordという対照` 復元含む）。**7-reorg-3／4** はユーザー判断でスコープ外（計画・文案タスクはここで終了）
 
-**次にやる1件**：**cons-2**（timeline／context-map／分割稿還流。ban-cons 残：tumblrタイムライン L285–290 の CNBC 投稿数と 30% 減の整理、第7章分割稿の旧 Discord 叙述）
+**次にやる1件**：**fractal-1-meta**（第1章全体・**節レベル→章レベル**の推敲。完了後 **fractal-2** 以降で第2章〜へ同順序で続行）
+
+**その次**：**cons-2**（timeline／context-map／分割稿還流。ban-cons 残：tumblrタイムライン L285–290 の CNBC 投稿数と 30% 減の整理、第7章分割稿の旧 Discord 叙述）
 
 **crw-1**：☑ 区間点検完了（2026-07-24 **一時停止**。再開時は未反映提案の再押しなし——筆者判断）
 
@@ -53,9 +58,22 @@
 
 ---
 
-## アクティブ・パイプライン（2026-07-24 時点）
+## アクティブ・パイプライン（2026-08-01 時点）
 
-**ノート・分割稿還流（最優先）**
+**フラクタル推敲（fractal-*）——現在の主線**
+
+```
+fractal-1 第1章・文／段落（各節）──────────────────→ ☑ 2026-08-01
+         │
+         └→ fractal-1-meta 第1章・節→章 ──────────→ ☐ 次
+                    │
+                    └→ fractal-2 第2章（文／段落→節→章）→ ☐
+                              └→ fractal-3 … 第3章以降同順序
+```
+
+**規範**：[`fractal-revision-guide/SKILL.md`](./fractal-revision-guide/SKILL.md)＋[`manuscript-style`](./.claude/skills/manuscript-style/SKILL.md)／[`project-style-notes.md`](./project-style-notes.md)。**原意保持・最小介入**。段落分割・主語明示・密度管理可。**crw-1**（認知リズム・削除のみ）とは別線。
+
+**ノート・分割稿還流**
 
 ```
 cons-2 timeline／context-map／分割稿 ──→ 草稿改稿の還流
@@ -129,6 +147,8 @@ meta-2 振り返りパート新設 ──── 草稿**末尾**・単独可（�
 
 | ID | 内容 | 状態 | 依存 | 正本・文案 |
 |---|---|---|---|---|
+| **fractal-1-meta** | **第1章・節レベル＋章レベル推敲**——全節の橋渡し・射程・密度波・章冒頭／章末の一致を点検 | ☐ **次** | fractal-1 ☑ | [`fractal-revision-guide/SKILL.md`](./fractal-revision-guide/SKILL.md) §2–3 → [`草稿.md`](./草稿.md) L71–L369。下記詳細節 |
+| **fractal-2** | **第2章・フラクタル推敲**（文／段落→節→章） | ☐ | fractal-1-meta | 同上。L370–L603 付近 |
 | **crw-1** | **草稿全体・認知リズム推敲**——削除／ニュアンス修正のみ（**文の入れ替え禁止**） | ☑ 区間点検完了（**一時停止** 2026-07-24） | 単独可 | [`cognitive-rhythm-writing/SKILL.md`](./cognitive-rhythm-writing/SKILL.md) → [`草稿.md`](./草稿.md)。下記詳細節 |
 | **6-reorg-0** | **第6章 reorg 計画**——流れ・三幕・文案（§4） | ☑ | cons-1 ☑ | [`第6章_reorg_計画.md`](./第6章_reorg_計画.md)（2026-07-07 流れ・文体追記） |
 | **6-reorg-1** | **文案正本化**——§4 を `第6章_reorg_DA-cottagecore_文案.md` へ | ☑ | 6-reorg-0 ☑ | [`第6章_reorg_DA-cottagecore_文案.md`](./第6章_reorg_DA-cottagecore_文案.md)（2026-07-07 完了） |
@@ -796,6 +816,69 @@ Daniel Lopatin（Oneohtrix Point Never、OPN）は、『Memory Vague』（2009�
 
 ☑ `archive/反映済み文案/第5章取込_CARI_文案.md` → 第5章 L780–807 付近（Guardian・Facebook・Neo-Y2K）。
 
+## フラクタル推敲（fractal-*）
+
+正本：[`fractal-revision-guide/SKILL.md`](./fractal-revision-guide/SKILL.md)（併読：[`manuscript-style`](./.claude/skills/manuscript-style/SKILL.md)／[`project-style-notes.md`](./project-style-notes.md)）
+
+**目的**：[`草稿.md`](./草稿.md) を **文→段落→節→章** の順で推敲する。**crw-1**（認知リズム・削除中心）とは別。**構成調整**（非対称な段落分割、橋渡し、節末の射程整理）可。原意・事実は変えない。
+
+**手順**
+
+1. 章または節の区間を指定  
+2. エージェントが fractal 基準で点検 → チャットに **A（段落分割等）／B（文レベル修正）** 一覧  
+3. ユーザー指示（「A1–A4 反映」「B も適用」等）→ [`草稿.md`](./草稿.md) へ反映  
+4. 当該章の文／段落が終わったら **節レベル**（橋渡し・密度波・一節一トピック）→ **章レベル**（章冒頭射程・章末まとめ・節間の流れ）  
+5. 次章へ（fractal-2 …）
+
+### fractal-1. 第1章——文／段落レベル（各節）
+
+**ステータス**：☑ **完了**（2026-08-01）。第1章 L71–L369（`# 第2章` 直前）。
+
+**進捗**（行番号は [`草稿.md`](./草稿.md) 現行版。反映のたびにずれる）
+
+| 節 | 行（目安） | 状態 | 主な反映 |
+|---|---|---|---|
+| 序文 | L3–L69 | ☑ | L25 分割、L13 fairypage/Wiki 分割、L35 分割、L69 橋渡し |
+| GeoCities | L75–L99 | ☑ | Tumblr 前史橋渡し、em-dash 除去、L91 述語修正、Ripps/OTBKA 分割 |
+| mp3ブログ | L101–L121 | ☑ | 主語明示、Fluxblog 等分割、Altered Zones・著作権段落分割 |
+| MySpace | L123–L145 | ☑ | 橋渡し、カスタム/HTML、事例3分割、年表/Doctorow 分割 |
+| Tumblr | L147–L177 | ☑ | Karp 分割、reblog/photoset 分割、L157–159「〜という」重複解消 |
+| フォークソノミー | L179–L206 | ☑ | Messina/年表/Nanoformats/vaporwave 分割 |
+| ポストインターネット | L208–L294 | ☑ | A1–A6（Megazord/dump.fm/soft grunge 等分割）、B1–B3（Ripps 移動、日本語圏分割、「示している」） |
+| James Bridle | L296–L311 | ☑ | A2 Sterling 分割（A1/A3/A4 は Reblorg 節と連続反映） |
+| Reblorg | L313–L342 | ☑ | A1–A4 分割、B5–B7（まさしく削除、主語明示、限界段落分割）、arty corners 意訳 |
+| アーキテクチャが開いた可能性 | L344–L368 | ☑ | A1–A3 段落分割、B1–B2（呼ばれる統一、スペース修正） |
+
+### fractal-1-meta. 第1章——節レベル＋章レベル
+
+**目的**：上記各節を通したうえで、第1章全体として読む。
+
+**点検項目**（fractal §2–3）
+
+- 節間の橋渡し（GeoCities→mp3→MySpace→Tumblr→フォークソノミー→ポストインターネット→Bridle→Reblorg→アーキテクチャ）  
+- 章冒頭（L71）の射程と L368 章末までの一致  
+- 密度の波（高密度節の連続が3段落以上続いていないか）  
+- 節末 bridge の要否（Reblorg→アーキテクチャ、章末→第2章「雰囲気」）  
+- 「アーキテクチャが開いた可能性の空間」節内の ### 2つ（タグ化…／土壌の位置づけ…）の役割分担と章末 thesis（L368–L370）→第2章冒頭への接続
+
+**ステータス**：☐ **次に着手**
+
+### fractal-2 以降
+
+| ID | 章 | 行（目安） | 状態 |
+|---|---|---|---|
+| **fractal-2** | 第2章　シーンと土壌 | L370–L603 | ☐ fractal-1-meta 後 |
+| **fractal-3** | 第3章　命名の時代 | L604–L879 | ☐ |
+| **fractal-4** | 第4章　lo-fiとHD | L880– | ☐ |
+| **fractal-5** | 第5章 | — | ☐ |
+| **fractal-6** | 第6章 | — | ☐ |
+| **fractal-7** | 第7章 | — | ☐ |
+| **fractal-8** | 第8章＋後記 | — | ☐ |
+
+各章は **fractal-1 と同型**（文／段落→節→章）で進める。章 ID は着手時に行番号を更新する。
+
+---
+
 ## 認知リズム推敲（crw-*）
 
 正本：[`cognitive-rhythm-writing/SKILL.md`](./cognitive-rhythm-writing/SKILL.md)
@@ -821,7 +904,7 @@ Daniel Lopatin（Oneohtrix Point Never、OPN）は、『Memory Vague』（2009�
 | 第1章 MySpace | L97–L110 | ☑ 反映済 | 同上 |
 | 第1章 Tumblr | L111–L136 | ☑ 反映済 | 同上 |
 | 第1章 フォークソノミー | L137–L156 | ☑ 反映済 | 同上。L154 `#vaporwave` 例まで |
-| 第1章 ポストインターネット〜章末 | L158–L277 | ☑ 検討済 | 2026-07-27。Bridle／Reblorg／章末アーキテクチャ |
+| 第1章 ポストインターネット〜章末 | L158–L277 | ☑ 検討済（crw） | 2026-07-27。**fractal-1 ☑**（2026-08-01）で文／段落反映済 |
 | 第2章 | L279–L511 | ☑ 検討済 | 2026-07-27。シーン〜第3章橋（vaporwave 冒頭まで） |
 | 第3章 | L513–L787 | ☑ 検討済 | 2026-07-27。命名の時代〜`## アーキテクチャ：命名とプラットフォーム` |
 | 第4章 | L789–L1000 | ☑ 検討済 | 2026-07-27。lo-fi/HD〜`### 遡及的確定として`（L1003 第5章直前） |
