@@ -1,7 +1,7 @@
 # §9 aesthetic 語法年表（文案）
 
 **対象**：[`草稿.md`](./草稿.md) `## 「aesthetic」という語——包含関係の逆転`（L305–371 付近）  
-**正本素材**：[`aestheticに関する手動調査.md`](../../notes/aestheticに関する手動調査.md)（サマリー）、[`序文_改稿.md`](./序文_改稿.md)（KYM Wayback・三段論）、[`FrankJavCee文字起こし.md`](../../sources/transcripts/FrankJavCee文字起こし.md)  
+**正本素材**：[`aestheticに関する手動調査.md`](../../notes/aestheticに関する手動調査.md)（サマリー）、[`序文_改稿.md`](../../manuscript/序文_改稿.md)（KYM Wayback・三段論）、[`FrankJavCee文字起こし.md`](../../sources/transcripts/FrankJavCee文字起こし.md)  
 **方針**：6c-1/2・6e は維持。**Floral Shoppe コメント起源説を緩和**。包含関係の逆転を **KYM サイト分類／語彙の汎化／CARI・Wiki 制度化** の三段で再確定。
 
 ---
@@ -92,7 +92,7 @@
 - YouTube コメント・X 検索は**操作記録付き限定否定**のみ。全否定はしない。
 - Bebe Zeva を 2012-11 の叙述軸に（6c-1 と整合）。
 - 序文 L19 の「下位概念」は高レベル要約として維持可（§9 本文で三段に分解）。
-- 分割稿 [`第2章_命名の時代.md`](./第2章_命名の時代.md) を本ブロック反映後に同期。
+- 分割稿 [`第2章_命名の時代.md`](../../manuscript/第2章_命名の時代.md) を本ブロック反映後に同期。
 - Google Trends は §9-man 追補（任意）のまま未反映。
 
 ---

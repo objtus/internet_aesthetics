@@ -16,7 +16,7 @@
 | **L0 一次資料** | 各ノートが引用する公開URL(Wayback・公式カタログ・当事者ツイート等)と、[`sources/`](./sources/) 内のローカル転写・論文抽出 | 最終的な根拠。草稿に書くのは**公開URLのみ**(調査ノート§参照は書かない——next_tasks.md原則) |
 | **L1 テーマ別正本ノート** | [`notes/`](./notes/) 内のフラット配置（§1-2の表で指定した「そのテーマの正」） | 事実・日付・引用の正。timeline.mdや草稿と食い違ったらまずここに戻る |
 | **L2 統合資料** | `timeline.md`(日付の統合インデックス)、`README.md`(ファイル案内) | 横断参照用。**原典はL1**。timeline.mdの【要検証】V1〜V23は未解決印として維持 |
-| **L3 成果物** | `草稿.md`(序文+全8章+後記) | **本文の正本**。分割稿(第N章_*.md)は手動同期の参照用で、食い違えば草稿.mdが正 |
+| **L3 成果物** | `草稿.md`(序文+全8章+後記)、[`manuscript/`](./manuscript/)内の分割稿（参照用） | **本文の正本**は `草稿.md`。分割稿は手動同期の参照用で、食い違えば草稿.mdが正 |
 | **L4 編集作業ファイル** | [`docs/`](./docs/) 内の計画・考察・レビュー・文案(取込_*_文案、*_計画、*_考察、レビュー系) | 意思決定の記録。事実の根拠には使わない。`archive/反映済み文案/`は履歴専用 |
 | **L5 旧稿アーカイブ** | 草稿旧第2と3章.md、第3章_aestheticという語archive.md | 引用・根拠に使わない |
 
@@ -305,7 +305,7 @@
 | 分類 | ファイル |
 |---|---|
 | 成果物(L3) | 草稿.md、timeline.md、context-map.md(本書) |
-| 分割稿・同期物(L3参照用) | 序文.md、第1章_土壌.md、第2章_命名の時代.md、第3章_aestheticという語.md、第4章_感情が先に来る.md、第5章_爆発.md、第6章_制度化.md |
+| 分割稿・同期物(L3参照用) | [`manuscript/`](./manuscript/)（序文.md、第1章_土壌.md、第2章_命名の時代.md、第3章_aestheticという語.md、第4章_感情が先に来る.md、第5章_爆発.md、第6章_制度化.md、序文_改稿.md） |
 | テーマ別正本ノート(L1) | [`notes/`](./notes/)（§1-2の表・29ファイル・フラット） |
 | 一次資料ローカル転写(L0) | [`sources/transcripts/`](./sources/transcripts/)・[`sources/papers/`](./sources/papers/)（vice/nytimes/SilentGeneration/FrankJavCee/musicplusghost/note_極右、RA×2、Vaporwave論文×2、Unveiling_Tumblr's 等） |
 | 統合・案内(L2) | README.md、[`docs/project-style-notes.md`](./docs/project-style-notes.md)、[`docs/文体メモ.md`](./docs/文体メモ.md) |
@@ -314,4 +314,4 @@
 | レビュー(L4) | [`docs/`](./docs/)内：草稿_推敲メモ、草稿_明晰さレビュー、草稿_レビュー論点メモ、**草稿_整合性レビュー**、草稿_ファクト補強調査(※事実訂正を含むためL1に準ずる) |
 | Claude Code スキル | `.claude/skills/manuscript-style/SKILL.md`（文体メモの実行用版） |
 | 文案(L4・反映済みはarchiveが原則) | archive/反映済み文案31件+archive/Seapunk取込文案7件（ルート残置なし・2026-08-04整理） |
-| 旧稿(L5) | [`docs/草稿旧第2と3章.md`](./docs/草稿旧第2と3章.md)、[`docs/第3章_aestheticという語archive.md`](./docs/第3章_aestheticという語archive.md)、序文_改稿.md(参照メモ化済み) |
+| 旧稿(L5) | [`docs/草稿旧第2と3章.md`](./docs/草稿旧第2と3章.md)、[`docs/第3章_aestheticという語archive.md`](./docs/第3章_aestheticという語archive.md)、[`manuscript/序文_改稿.md`](./manuscript/序文_改稿.md)(参照メモ化済み) |

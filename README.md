@@ -21,7 +21,7 @@
 2. **事実・日付の正本**はテーマごとに [`context-map.md`](./context-map.md) §1-2 の表に従う。横断の日付索引は [`timeline.md`](./timeline.md)（本編520項目＋【要検証】V1〜V23）。
 3. **推敲・文体**は汎用 [`docs/文体メモ.md`](docs/文体メモ.md)（または Claude Code スキル [`.claude/skills/manuscript-style/SKILL.md`](./.claude/skills/manuscript-style/SKILL.md)）＋プロジェクト固有 [`docs/project-style-notes.md`](docs/project-style-notes.md) を併読する。
 4. **改稿の優先順位**（2026-07-06 通読）は [`docs/草稿_整合性レビュー.md`](docs/草稿_整合性レビュー.md) の総括 A→B→C→E に従う（旧章番号の相互参照更新が最優先）。
-5. **タスク管理**は [`next_tasks.md`](./next_tasks.md)。反映済み文案は [`archive/反映済み文案/`](./archive/反映済み文案/) へ移す。一次資料は [`sources/`](./sources/)、編集・レビューは [`docs/`](./docs/)、調査ノート（L1）は [`notes/`](./notes/) を正とする。
+5. **タスク管理**は [`next_tasks.md`](./next_tasks.md)。反映済み文案は [`archive/反映済み文案/`](./archive/反映済み文案/) へ移す。一次資料 [`sources/`](./sources/)、編集 [`docs/`](./docs/)、調査ノート [`notes/`](./notes/)、分割稿 [`manuscript/`](./manuscript/) を正とする。
 
 資料の優先順位（矛盾時の解決手順の要約）は [`context-map.md`](./context-map.md) §1-3 を参照。
 
@@ -153,21 +153,14 @@
 
 ---
 
-### 個別章ファイル（草稿.mdに統合済み、参照用に保持）
+### 分割稿（L3 参照用）
 
-> **注意**：ファイル名は旧6章構成の番号のまま。現行8章との対応は [`context-map.md`](./context-map.md) §2／[`docs/project-style-notes.md`](docs/project-style-notes.md) §5 を参照。**第2章（シーンと土壌）・第4章（lo-fiとHD）には分割稿がない。** 手動同期のため草稿より遅れることがある——相互参照・事実確認は常に [`草稿.md`](./草稿.md) を正とする。章をまたぐ「第N章で見た」参照の点検表は [`docs/草稿_整合性レビュー.md`](docs/草稿_整合性レビュー.md) 総括 A。
-
-| ファイル | 対応章（現行8章） |
+| パス | 内容 |
 |---|---|
-| [`序文.md`](./序文.md) / [`序文_改稿.md`](./序文_改稿.md) | 序文 |
-| [`第1章_土壌.md`](./第1章_土壌.md) | 第1章 |
-| — | 第2章（分割稿なし） |
-| [`第2章_命名の時代.md`](./第2章_命名の時代.md) | 第3章（命名の時代） |
-| — | 第4章（分割稿なし） |
-| [`第3章_aestheticという語.md`](./第3章_aestheticという語.md) | 第5章（aestheticという語） |
-| [`第4章_感情が先に来る.md`](./第4章_感情が先に来る.md) | 第6章（名前があとから来る） |
-| [`第5章_爆発.md`](./第5章_爆発.md) | 第7章（爆発） |
-| [`第6章_制度化.md`](./第6章_制度化.md) | 第8章（制度化） |
+| [`manuscript/README.md`](./manuscript/README.md) | 旧6章番号⇔現行8章の対応表 |
+| [`manuscript/`](./manuscript/) | 草稿に統合済みの章別ファイル（8ファイル）。**食い違えば [`草稿.md`](./草稿.md) が正** |
+
+---
 
 ### archive/
 

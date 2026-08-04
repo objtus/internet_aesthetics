@@ -673,10 +673,10 @@ Daniel Lopatin（Oneohtrix Point Never、OPN）は、『Memory Vague』（2009�
 
 1. コラボ年表を確定（調査メモ `inv-opn-cook_年表.md` または文案執筆メモ内）  
 2. 文案 `第2章取込_OPN_Cook_文案.md`（**1〜2段落上限**。代表例2〜3件＋URL）  
-3. ユーザー承認 → [`草稿.md`](./草稿.md) 反映 → [`第2章_命名の時代.md`](./第2章_命名の時代.md) 同期  
+3. ユーザー承認 → [`草稿.md`](./草稿.md) 反映 → [`第2章_命名の時代.md`](manuscript/第2章_命名の時代.md) 同期  
 4. **em dash 不使用**
 
-**ステータス**：☑ 草稿反映済（2026-06-22）。[`inv-opn-cook_年表.md`](notes/inv-opn-cook_年表.md) → [`第2章取込_OPN_Cook_文案.md`](./archive/反映済み文案/第2章取込_OPN_Cook_文案.md)。`### vaporwave との対置` 直後（L733 付近）。分割稿 [`第2章_命名の時代.md`](./第2章_命名の時代.md) 同期済。
+**ステータス**：☑ 草稿反映済（2026-06-22）。[`inv-opn-cook_年表.md`](notes/inv-opn-cook_年表.md) → [`第2章取込_OPN_Cook_文案.md`](./archive/反映済み文案/第2章取込_OPN_Cook_文案.md)。`### vaporwave との対置` 直後（L733 付近）。分割稿 [`第2章_命名の時代.md`](manuscript/第2章_命名の時代.md) 同期済。
 
 ---
 
@@ -736,7 +736,7 @@ Daniel Lopatin（Oneohtrix Point Never、OPN）は、『Memory Vague』（2009�
 
 1. 頁・段落を `docs/intro-kojiateki_引用メモ.md` に記録  
 2. 文案 `第2章取込_骨架的挿話_文案.md`（**1〜2段落**。em dash 不使用）  
-3. 新設 `##` 節タイトル（仮題）をユーザー承認 → 草稿・[`第2章_命名の時代.md`](./第2章_命名の時代.md) 同期  
+3. 新設 `##` 節タイトル（仮題）をユーザー承認 → 草稿・[`第2章_命名の時代.md`](manuscript/第2章_命名の時代.md) 同期  
 4. 後続節への相互参照は**任意**——挿話単体で完結可
 
 **ステータス**：☑ 草稿反映済（2026-06-22）。[`第2章取込_骨架的挿話_文案.md`](./archive/反映済み文案/第2章取込_骨架的挿話_文案.md)／[`docs/intro-kojiateki_引用メモ.md`](docs/intro-kojiateki_引用メモ.md)。**頁番号は要ユーザー確認**。
@@ -790,12 +790,12 @@ Daniel Lopatin（Oneohtrix Point Never、OPN）は、『Memory Vague』（2009�
 
 1. 草稿 L1013–1026・後記 L1246・調査ノート §7–§13 の**重複表**を文案執筆メモに書く  
 2. 文案 `第4章取込_hyperpop_Spotify-bratsummer_文案.md`（**2〜4段落上限**。em dash 不使用）  
-3. [`草稿.md`](./草稿.md) `## hyperpopの浮上` に反映 → [`第4章_爆発.md`](./第4章_爆発.md) 同期  
+3. [`草稿.md`](./草稿.md) `## hyperpopの浮上` に反映 → [`第4章_爆発.md`](manuscript/第5章_爆発.md) 同期  
 4. 推敲メモ・本ファイル更新  
 
 **推敲メモ参照**：[`docs/草稿_推敲メモ.md`](docs/草稿_推敲メモ.md) 続8 E「hyperpopとインターネット美学の接続」——brat green／Brat Generator を**視覚美学**の例として1文足す余地あり。
 
-**ステータス**：☑ 草稿・[`第5章_爆発.md`](./第5章_爆発.md) 反映済（2026-06-22）。
+**ステータス**：☑ 草稿・[`第5章_爆発.md`](manuscript/第5章_爆発.md) 反映済（2026-06-22）。
 
 ---
 
@@ -988,7 +988,7 @@ Daniel Lopatin（Oneohtrix Point Never、OPN）は、『Memory Vague』（2009�
 |---|---|---|
 | 1 | 見出し B/C/D（年表 `###`×3、`## 三つの流れ` 昇格、SuperSuper `###`×4、レーベルと正史 `###`×3、seapunkの死 `####`×4 等） | ☑ |
 | 2 | 節頭地図1段落（A・`## 2011年6月1日のツイート` 内・引用ブロック後） | ☑ |
-| 3 | 分割稿同期（[`第2章_命名の時代.md`](./第2章_命名の時代.md) 等） | — **任意** |
+| 3 | 分割稿同期（[`第2章_命名の時代.md`](manuscript/第2章_命名の時代.md) 等） | — **任意** |
 
 **同日・草稿のみ**（ed-3 範囲外だが読み道整備として実施）：序文 `###`×5、DMY／distroid／PC Music／deconstructed club／アーキテクチャ総括、第5章 TikTok・CARI 等の `###` 分割。
 
@@ -1040,7 +1040,7 @@ Daniel Lopatin（Oneohtrix Point Never、OPN）は、『Memory Vague』（2009�
 
 1. 調査ノート §9 チェックリストに沿って `序文取込_ed6_インターネット美学と制度化_文案.md` を作成  
 2. ユーザー承認 → [`草稿.md`](./草稿.md) 序文に反映  
-3. [`第1章_土壌.md`](./第1章_土壌.md) 等の分割稿は序文があれば同期要否を判断  
+3. [`第1章_土壌.md`](manuscript/第1章_土壌.md) 等の分割稿は序文があれば同期要否を判断  
 4. 本ファイル・[`docs/草稿_推敲メモ.md`](docs/草稿_推敲メモ.md) 更新  
 
 **正本**：[`internet_aesthetic語と制度化_調査ノート.md`](notes/internet_aesthetic語と制度化_調査ノート.md)
@@ -1061,7 +1061,7 @@ reorg-0/1/2 ☑／aesthetic-rev-1 ☑（草稿 L687–870）／aesthetic-rev-2 �
 | [`internet_aesthetic語と制度化_調査ノート.md`](notes/internet_aesthetic語と制度化_調査ノート.md) | 制度化調査 |
 | [`docs/草稿_推敲メモ.md`](docs/草稿_推敲メモ.md) | reorg/rev ログ（2026-06-19–22） |
 
-分割稿 [`第3章_aestheticという語.md`](./第3章_aestheticという語.md) は**手動同期（ユーザー）**。
+分割稿 [`第3章_aestheticという語.md`](manuscript/第3章_aestheticという語.md) は**手動同期（ユーザー）**。
 
 ## 匿名キュレーション・normcore・Are.na（inv-khole-* / inv-cari-arena）
 
@@ -1404,7 +1404,7 @@ reorg-0/1/2 ☑／aesthetic-rev-1 ☑（草稿 L687–870）／aesthetic-rev-2 �
 | 3 ドキュメント整理① | 2025-05-31 | 推敲メモ 続14 |
 | 4 ファクト補強 #11〜22 | 2025-05-31 | ファクト補強調査・推敲メモ 続12〜13 |
 | 5 ドキュメント整理② | 2025-05-31 | 第3〜5章分割稿・README |
-| §8-1 序文・aesthetic 統合稿 | 2026-06-01 | 推敲メモ 続17・[`序文_改稿.md`](./序文_改稿.md) |
+| §8-1 序文・aesthetic 統合稿 | 2026-06-01 | 推敲メモ 続17・[`序文_改稿.md`](manuscript/序文_改稿.md) |
 | §8-2 Tumblr For You | 2026-06-01 | [`§8-2_Tumblr_ForYou_調査メモ.md`](notes/§8-2_Tumblr_ForYou_調査メモ.md)・推敲メモ 続18 |
 | §8-3 KYM Wayback 訂正 | 2026-06-01 | 序文_改稿・第2章分割稿・覚書 L129 |
 
@@ -1468,7 +1468,7 @@ reorg-0/1/2 ☑／aesthetic-rev-1 ☑（草稿 L687–870）／aesthetic-rev-2 �
 | [`docs/草稿_ファクト補強調査.md`](docs/草稿_ファクト補強調査.md) | ファクト候補 #6〜22 |
 | [`Seapunk 詳細調査ノート.md`](notes/Seapunk 詳細調査ノート.md) | Seapunk 横断調査の正本 |
 | [`docs/Seapunk調査_取り込み計画.md`](docs/Seapunk調査_取り込み計画.md) | 6a 成果物——行単位の取込タスク |
-| [`序文_改稿.md`](./序文_改稿.md) | §9 保留論点・KYM Wayback 年表 |
+| [`序文_改稿.md`](manuscript/序文_改稿.md) | §9 保留論点・KYM Wayback 年表 |
 | [`§8-2_Tumblr_ForYou_調査メモ.md`](notes/§8-2_Tumblr_ForYou_調査メモ.md) | Tumblr アルゴリズム年表 |
 | [`FrankJavCee文字起こし.md`](./sources/transcripts/FrankJavCee文字起こし.md) | §9 FrankJavCee 分析の正本 |
 | [`aestheticに関する手動調査.md`](notes/aestheticに関する手動調査.md) | aesthetic 語法・Floral Shoppe コメント年代・X 検索ログ（2026-06-02） |
@@ -1497,7 +1497,7 @@ reorg-0/1/2 ☑／aesthetic-rev-1 ☑（草稿 L687–870）／aesthetic-rev-2 �
 | 新蒸気波要点ガイド（佐藤秀彦編・DU BOOKS 2019） | 第3章 aesthetic 節（ばるぼら年表・大辞典）。**骨架的インタビュー**は **intro-kojiateki** |
 | [`docs/草稿_明晰さレビュー.md`](docs/草稿_明晰さレビュー.md) | **明晰さレビュー**（2026-06-25・章別評価＋全体課題6点＋誤記一覧） |
 | [`docs/編集方針.md`](docs/編集方針.md) | ed-1〜3 の根拠 |
-| [`第2章_命名の時代.md`](./第2章_命名の時代.md) | 第2章分割稿（**ed-3 Phase 3・任意**） |
+| [`第2章_命名の時代.md`](manuscript/第2章_命名の時代.md) | 第2章分割稿（**ed-3 Phase 3・任意**） |
 
 ---
 
