@@ -1,9 +1,9 @@
 # 6d-review：第2章 L125–160 周辺 構成案
 
-> **方針（ユーザー合意案）**：① `Seapunk取込_6d-review_文案.md` を `草稿.md` に反映 → ② L125–160 周辺を論点整理（[`6d-review_aesthetic論点整理.md`](./6d-review_aesthetic論点整理.md)）を念頭に再編。  
+> **方針（ユーザー合意案）**：① `Seapunk取込_6d-review_文案.md` を `草稿.md` に反映 → ② L125–160 周辺を論点整理（[`6d-review_aesthetic論点整理.md`](6d-review_aesthetic論点整理.md)）を念頭に再編。  
 > **大見出しの順序は変更しない**。
 
-**参照**：[`6d-review_aesthetic論点整理.md`](./6d-review_aesthetic論点整理.md)（層A–E、Modern Witch、Pictureplane、GATEKEEPER、Megazord 訂正の趣旨）
+**参照**：[`6d-review_aesthetic論点整理.md`](6d-review_aesthetic論点整理.md)（層A–E、Modern Witch、Pictureplane、GATEKEEPER、Megazord 訂正の趣旨）
 
 ---
 

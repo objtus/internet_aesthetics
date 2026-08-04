@@ -6,7 +6,7 @@
 > 更新3：2026-07-07（各節の本稿全体論点への位置づけを検証／normcoreの読み筋・匿名性→liminal space伏線の明示・vaporwave政治的受容の内容面の意義を追加）  
 > 更新4：2026-07-07（6-reorg-2完了後、章冒頭の予告「-wave系列の広がりを…vaporwaveが政治的な読み替えの対象になった出来事を通して確かめる」に対し `## vaporwave の政治的受容` 節本体が応えていない（-wave の枠組みが節末にしか出てこない）という指摘を受け、節全体を再構成する追加作業（⑥-full）を実施。fashwave/synthwave の関係誤りの訂正、出典の明記、文体3周チェック、ユーザーによる事実確認・altcensored.com リンク要否判断を経て、`第6章_reorg_DA-cottagecore_文案.md` ⑥-full として確定し `草稿.md` に反映完了）  
 > きっかけ：cons-1 完了後の通読。第6章のとっちらかりは、節ごとの素材はあるが**流れが作れていない**ことが主因。dark academia / cottagecore が論文依拠過多で、本章の役割から外れている。  
-> 文案の文体は [`文体メモ.md`](./文体メモ.md)・[`project-style-notes.md`](./project-style-notes.md) に合わせる。造語（「準ラベル」「傘ラベル」「結晶する」等）は使わず、既存の語彙（充填・フォークソノミー・追いつく）で書く。
+> 文案の文体は [`文体メモ.md`](文体メモ.md)・[`project-style-notes.md`](project-style-notes.md) に合わせる。造語（「準ラベル」「傘ラベル」「結晶する」等）は使わず、既存の語彙（充填・フォークソノミー・追いつく）で書く。
 
 ---
 
@@ -137,7 +137,7 @@ cottagecore は、`#cottage aesthetic` や `#cottage witch` というタグの�
 
 ### 4-1b. 「サフィックスの生産性」節への追記（現行 L1218 の直後に挿入）
 
-**根拠**：[`サフィックス系譜比較調査ノート.md`](./サフィックス系譜比較調査ノート.md) §2-5。Wiktionaryは「-waveはchillwaveとvaporwaveによって普及した」と明示しており、synthwaveはこの系列への後発合流。
+**根拠**：[`サフィックス系譜比較調査ノート.md`](../サフィックス系譜比較調査ノート.md) §2-5。Wiktionaryは「-waveはchillwaveとvaporwaveによって普及した」と明示しており、synthwaveはこの系列への後発合流。
 
 > -wave はのちに、すでに名前を持っていたジャンルの呼び名まで塗り替えるほどの求心力を持つようになる。2007年ごろから Kavinsky らが「outrun」と呼んでいた1980年代ノスタルジアの電子音楽は、2014年ごろに「synthwave」あるいは「retrowave」という呼び名へ置き換わっていった（[Electrozombies](https://electrozombies.com/magazine/article/what-is-synthwave/)、[Forever Synth](https://www.foreversynth.com/subgenres)）。
 
@@ -167,7 +167,7 @@ cottagecore は、`#cottage aesthetic` や `#cottage witch` というタグの�
 
 **変更理由**：旧案「fashwave論争は美学の語彙が音楽ジャンルの内側で争われている例だ」は、fashwave論争の実質（政治的流用への応答）と噛み合っておらず、こじつけだった。fashwave論争の本章内での役割は、DA/cottagecoreへの前振りではなく、(1) 本節冒頭で見た-waveサフィックスの系列が政治的な文脈でもなお新しい名前を生み出し続けていたことの実例、(2) vaporwaveの知名度がその後の展開（音楽ジャンルを経由しない美学の蓄積）と対比される、ちょうど頂点に向かう時期だったこと、の二点に絞る。
 
-**Google Trends根拠**：[`Google_Trends調査.md`](./Google_Trends調査.md)「vaporwave は 2016-02 に 50%、2017-01 に頂点（なだらかな上昇）」。fashwave論争の時系列（Daily Stormerの宣言が2016年8月、BuzzFeed/Guardianが12月）は、この上昇局面と重なる。
+**Google Trends根拠**：[`Google_Trends調査.md`](../Google_Trends調査.md)「vaporwave は 2016-02 に 50%、2017-01 に頂点（なだらかな上昇）」。fashwave論争の時系列（Daily Stormerの宣言が2016年8月、BuzzFeed/Guardianが12月）は、この上昇局面と重なる。
 
 **追記（2026-07-07）**：上記だけでは「タイミングの符合」にとどまり、本稿全体の論点（インターネット美学の来歴）そのものへの寄与が弱い、という指摘を受けた。これに対しユーザーが示した方向性——「vaporwaveだけが特別ではないが、2016年のオルタナ右翼伸長・トランプ当選という現実への影響の大きさゆえに注目できる」という、独自性を主張しない形の位置づけ——を採用し、政治的読み替えの意義を述べる段落を追加する。2つの段落は別の軸（タイミングの符合／内容面の意義）なので、両方残す。長く感じる場合は6-reorg-1で圧縮する。
 
@@ -179,7 +179,7 @@ cottagecore は、`#cottage aesthetic` や `#cottage witch` というタグの�
 
 ### 4-3. `## 名付け親の分からない美学——dark academia と cottagecore`（新規・統合節）
 
-> **2026-07-07 追記**：本節（4-3・4-4）の文面は [`第6章_reorg_DA-cottagecore_文案.md`](./archive/反映済み文案/第6章_reorg_DA-cottagecore_文案.md) ①⑦⑨で正本化・改訂済み。出典の明記、「起源がない」→「起源が覆い隠されている」への言い換え、dark academia/cottagecore要約の書き直しを反映した最新版は文案ファイル側を参照。以下は設計の経緯を残すための旧稿。
+> **2026-07-07 追記**：本節（4-3・4-4）の文面は [`第6章_reorg_DA-cottagecore_文案.md`](../archive/反映済み文案/第6章_reorg_DA-cottagecore_文案.md) ①⑦⑨で正本化・改訂済み。出典の明記、「起源がない」→「起源が覆い隠されている」への言い換え、dark academia/cottagecore要約の書き直しを反映した最新版は文案ファイル側を参照。以下は設計の経緯を残すための旧稿。
 
 第3章の [seapunk](https://knowyourmeme.com/memes/cultures/seapunk) には、[2011年6月1日のツイート](https://twitter.com/LILINTERNET/status/75846788397006848)という単一の起源があった。特定の日付と人物が、そのまま起源として残る。dark academia と cottagecore は、コミュニティの実践のなかで育ったために、最初の発端が覆い隠されている。
 
@@ -288,7 +288,7 @@ dark academia と cottagecore は、2018〜2019年の時点では Tumblr の外�
 
 触らないもの：normcore / K-HOLE / fashwave 本体（英語圏）、第7章 liminal 以降の構成（L1396の1文を除く）、第8章全体（L1779の1文を除く）。
 
-**6-reorg 全体の完了**：本計画（§4〜§11）に基づく第6章の再構成は、6-reorg-0〜5ですべて完了した。残作業は [`next_tasks.md`](./next_tasks.md) の **cons-2**（timeline／正本ノート還流）以降を参照。
+**6-reorg 全体の完了**：本計画（§4〜§11）に基づく第6章の再構成は、6-reorg-0〜5ですべて完了した。残作業は [`next_tasks.md`](../next_tasks.md) の **cons-2**（timeline／正本ノート還流）以降を参照。
 
 ---
 
@@ -340,13 +340,13 @@ dark academia と cottagecore は、2018〜2019年の時点では Tumblr の外�
 
 ## 参照
 
-- [`草稿.md`](./草稿.md) L1204–1390
-- [`草稿.md`](./草稿.md) L1196–1200（第5章末）
-- [`草稿.md`](./草稿.md) L1396（第7章冒頭・要修正）
-- [`草稿.md`](./草稿.md) L1779（クロニクルの終わりにあたって・要修正）
-- [`第6章_normcore追加_計画.md`](./第6章_normcore追加_計画.md)
-- [`サフィックス系譜比較調査ノート.md`](./サフィックス系譜比較調査ノート.md) §2-5（outrun→synthwave/retrowaveの改称時期）
-- [`Google_Trends調査.md`](./Google_Trends調査.md)（vaporwaveの検索関心の推移）
-- [`文体メモ.md`](./文体メモ.md)／[`project-style-notes.md`](./project-style-notes.md)
-- [`context-map.md`](./context-map.md) §第6章
-- [`next_tasks.md`](./next_tasks.md)
+- [`草稿.md`](../草稿.md) L1204–1390
+- [`草稿.md`](../草稿.md) L1196–1200（第5章末）
+- [`草稿.md`](../草稿.md) L1396（第7章冒頭・要修正）
+- [`草稿.md`](../草稿.md) L1779（クロニクルの終わりにあたって・要修正）
+- [`第6章_normcore追加_計画.md`](第6章_normcore追加_計画.md)
+- [`サフィックス系譜比較調査ノート.md`](../サフィックス系譜比較調査ノート.md) §2-5（outrun→synthwave/retrowaveの改称時期）
+- [`Google_Trends調査.md`](../Google_Trends調査.md)（vaporwaveの検索関心の推移）
+- [`文体メモ.md`](文体メモ.md)／[`project-style-notes.md`](project-style-notes.md)
+- [`context-map.md`](../context-map.md) §第6章
+- [`next_tasks.md`](../next_tasks.md)

@@ -6,10 +6,10 @@
 
 | ファイル | 役割 |
 |---|---|
-| [`草稿.md`](./草稿.md) L17–27, L91–93, L143–175 | aesthetic 逆転論、Megazord／Tumblr、witch house 旧稿 |
-| [`Seapunk取込_6d-review_文案.md`](./Seapunk取込_6d-review_文案.md) L90–110 | witch house 改稿文案 |
-| [`美学ミームの成立条件についての覚書.md`](./美学ミームの成立条件についての覚書.md) §2–3 | Tumblr 構造条件、Megazord 叙述 |
-| [`草稿_レビュー論点メモ.md`](./草稿_レビュー論点メモ.md) | Megazord 訂正、Tumblr 土壌の薄さ |
+| [`草稿.md`](../草稿.md) L17–27, L91–93, L143–175 | aesthetic 逆転論、Megazord／Tumblr、witch house 旧稿 |
+| [`Seapunk取込_6d-review_文案.md`](../Seapunk取込_6d-review_文案.md) L90–110 | witch house 改稿文案 |
+| [`美学ミームの成立条件についての覚書.md`](../美学ミームの成立条件についての覚書.md) §2–3 | Tumblr 構造条件、Megazord 叙述 |
+| [`草稿_レビュー論点メモ.md`](草稿_レビュー論点メモ.md) | Megazord 訂正、Tumblr 土壌の薄さ |
 
 ---
 
@@ -203,7 +203,7 @@ Pitchfork [Giza EP レビュー](https://pitchfork.com/reviews/albums/14980-giza
 - [ ] **Pictureplane**：chillwave／witch house 命名／seapunk 言説（Cluster Mag 2011）の横断結節。
 - [ ] **GATEKEEPER**：MySpace 期 OPN 交流；Sherburne 批評；vaporwave ↔ net art／distroid の結節。
 - [ ] vaporwave ノスタルジア：**chillwave／憑在論以外**に witch house 圏の「過去」感覚（§2.4b）を脚注するか。
-- [ ] Megazord 記述：石膏像だけにしない（[`草稿_レビュー論点メモ.md`](./草稿_レビュー論点メモ.md)）。**Megazord ∥ Zoots** の並行を足す。
+- [ ] Megazord 記述：石膏像だけにしない（[`草稿_レビュー論点メモ.md`](草稿_レビュー論点メモ.md)）。**Megazord ∥ Zoots** の並行を足す。
 
 ### 6.2 第2章 witch house 節（6d-review 反映後）
 

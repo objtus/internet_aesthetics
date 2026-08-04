@@ -121,7 +121,7 @@ seapunk が主流に触れた直後、同じ語彙が批評文脈でも使われ
 **却下理由（2026-06-02）**
 
 1. **Floral Shoppe と "aesthetic" の年代**：『Floral Shoppe』収録曲「リサフランク420 / 現代のコンピュー」の再投稿動画は 2012年2月14日リリースに紐づくが、**コメント欄に "aesthetic" と書き込まれ始めた時期は一次資料で特定できない**。6c-3 文案の「YouTube コメント欄への aesthetic（『Floral Shoppe』、2012年2月）」は不正確。
-2. **L254 の整理タイミング**：Cluster Mag（2011-12）の直後に「転機は2012年から2013年…」があり、Floral Shoppe 段落・6c 挿入後も読み順のねじれは残る。**L254 は 6b-reorg または §9** で aesthetic 節全体と合わせて扱う（[`next_tasks.md`](./next_tasks.md) 横断項目・[`Seapunk調査_取り込み計画.md`](./Seapunk調査_取り込み計画.md) 実行メモ参照）。
+2. **L254 の整理タイミング**：Cluster Mag（2011-12）の直後に「転機は2012年から2013年…」があり、Floral Shoppe 段落・6c 挿入後も読み順のねじれは残る。**L254 は 6b-reorg または §9** で aesthetic 節全体と合わせて扱う（[`next_tasks.md`](./next_tasks.md) 横断項目・[`Seapunk調査_取り込み計画.md`](../../docs/Seapunk調査_取り込み計画.md) 実行メモ参照）。
 
 **反映方針**：**6c-1・6c-2 のみ**草稿に挿入。L254 は現状のまま。
 

@@ -127,7 +127,7 @@
 - [x] 「これは後に検討する」→ aesthetic 節（L273 付近）へ接続
 - [x] 6e-1 は激怒詳述（L252 付近）より前。擁護→their aesthetic 予感→cousin の順
 - [x] 反映用に制作メタなし
-- [x] [`草稿_推敲メモ.md`](./草稿_推敲メモ.md)・[`next_tasks.md`](./next_tasks.md) 更新済み
+- [x] [`草稿_推敲メモ.md`](../../docs/草稿_推敲メモ.md)・[`next_tasks.md`](./next_tasks.md) 更新済み
 
 ---
 

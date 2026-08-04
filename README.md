@@ -19,9 +19,9 @@
 
 1. **正文の正本**は [`草稿.md`](./草稿.md)。分割稿（`第N章_*.md`）は参照用で、食い違えば草稿が正。
 2. **事実・日付の正本**はテーマごとに [`context-map.md`](./context-map.md) §1-2 の表に従う。横断の日付索引は [`timeline.md`](./timeline.md)（本編520項目＋【要検証】V1〜V23）。
-3. **推敲・文体**は汎用 [`文体メモ.md`](./文体メモ.md)（または Claude Code スキル [`.claude/skills/manuscript-style/SKILL.md`](./.claude/skills/manuscript-style/SKILL.md)）＋プロジェクト固有 [`project-style-notes.md`](./project-style-notes.md) を併読する。
-4. **改稿の優先順位**（2026-07-06 通読）は [`草稿_整合性レビュー.md`](./草稿_整合性レビュー.md) の総括 A→B→C→E に従う（旧章番号の相互参照更新が最優先）。
-5. **タスク管理**は [`next_tasks.md`](./next_tasks.md)。反映済み文案は [`archive/反映済み文案/`](./archive/反映済み文案/) へ移す。一次資料（転写・論文）は [`sources/`](./sources/) を正とする。
+3. **推敲・文体**は汎用 [`docs/文体メモ.md`](docs/文体メモ.md)（または Claude Code スキル [`.claude/skills/manuscript-style/SKILL.md`](./.claude/skills/manuscript-style/SKILL.md)）＋プロジェクト固有 [`docs/project-style-notes.md`](docs/project-style-notes.md) を併読する。
+4. **改稿の優先順位**（2026-07-06 通読）は [`docs/草稿_整合性レビュー.md`](docs/草稿_整合性レビュー.md) の総括 A→B→C→E に従う（旧章番号の相互参照更新が最優先）。
+5. **タスク管理**は [`next_tasks.md`](./next_tasks.md)。反映済み文案は [`archive/反映済み文案/`](./archive/反映済み文案/) へ移す。一次資料は [`sources/`](./sources/)、編集・レビュー・計画は [`docs/`](./docs/) を正とする。
 
 資料の優先順位（矛盾時の解決手順の要約）は [`context-map.md`](./context-map.md) §1-3 を参照。
 
@@ -35,11 +35,11 @@
 |---|---|
 | [`context-map.md`](./context-map.md) | **資料全体地図。** 正本ルール（L0〜L5）、章⇔ノート対応、ノート間矛盾、【要検証】V1〜V23、更新が必要な箇所 |
 | [`timeline.md`](./timeline.md) | **日付の統合インデックス**（2026-07-06 生成）。各正本ノートの日付記述を横断参照。原典は L1 ノート |
-| [`草稿_整合性レビュー.md`](./草稿_整合性レビュー.md) | 草稿全文の整合性通読（2026-07-06）。timeline／context-map 照合つき。指摘約60件・修正優先度付き |
-| [`project-style-notes.md`](./project-style-notes.md) | 本稿固有の用語・構成・章参照対応表・出典運用 |
-| [`文体メモ.md`](./文体メモ.md) | **汎用**の文体・推敲基準（プロジェクト非依存） |
+| [`docs/草稿_整合性レビュー.md`](docs/草稿_整合性レビュー.md) | 草稿全文の整合性通読（2026-07-06）。timeline／context-map 照合つき。指摘約60件・修正優先度付き |
+| [`docs/project-style-notes.md`](docs/project-style-notes.md) | 本稿固有の用語・構成・章参照対応表・出典運用 |
+| [`docs/文体メモ.md`](docs/文体メモ.md) | **汎用**の文体・推敲基準（プロジェクト非依存） |
 | [`.claude/skills/manuscript-style/SKILL.md`](./.claude/skills/manuscript-style/SKILL.md) | 文体メモのスキル版（推敲チェックリスト・具体例つき）。Claude Code 用 |
-| [`編集方針.md`](./編集方針.md) | 文案の作成・反映に関する方針（政治化・日本語圏射程・seapunk 読み道） |
+| [`docs/編集方針.md`](docs/編集方針.md) | 文案の作成・反映に関する方針（政治化・日本語圏射程・seapunk 読み道） |
 | [`next_tasks.md`](./next_tasks.md) | タスクトラッカー。進捗管理・調査状況・参照ファイル一覧 |
 
 ### 草稿と関連ファイル
@@ -47,11 +47,11 @@
 | ファイル | 内容 |
 |---|---|
 | [`草稿.md`](./草稿.md) | **本プロジェクトの中心成果物。** 「インターネット美学のクロニクル」序文＋全8章＋後記 |
-| [`草稿_整合性レビュー.md`](./草稿_整合性レビュー.md) | 事実・章参照・出典の横断レビュー（現行の改稿チェックリスト） |
-| [`草稿_推敲メモ.md`](./草稿_推敲メモ.md) | 草稿の通読分析と改稿方針。構造・内容・論理上の問題点と修正優先度 |
-| [`草稿_明晰さレビュー.md`](./草稿_明晰さレビュー.md) | 章ごとの明晰さ評価。誤記・章番号不一致・比重の偏り等の指摘一覧 |
-| [`草稿_ファクト補強調査.md`](./草稿_ファクト補強調査.md) | 事実関係の補強調査 |
-| [`草稿_レビュー論点メモ.md`](./草稿_レビュー論点メモ.md) | レビュー時の論点整理 |
+| [`docs/草稿_整合性レビュー.md`](docs/草稿_整合性レビュー.md) | 事実・章参照・出典の横断レビュー（現行の改稿チェックリスト） |
+| [`docs/草稿_推敲メモ.md`](docs/草稿_推敲メモ.md) | 草稿の通読分析と改稿方針。構造・内容・論理上の問題点と修正優先度 |
+| [`docs/草稿_明晰さレビュー.md`](docs/草稿_明晰さレビュー.md) | 章ごとの明晰さ評価。誤記・章番号不一致・比重の偏り等の指摘一覧 |
+| [`docs/草稿_ファクト補強調査.md`](docs/草稿_ファクト補強調査.md) | 事実関係の補強調査 |
+| [`docs/草稿_レビュー論点メモ.md`](docs/草稿_レビュー論点メモ.md) | レビュー時の論点整理 |
 
 ---
 
@@ -81,7 +81,7 @@
 | [`aesthetic wiki 歴史レポート.md`](./aesthetic%20wiki%20歴史レポート.md) | Aesthetics Wiki（aesthetics.fandom.com）の詳細な機関史 |
 | [`Nanoformatsの概要と歴史.md`](./Nanoformatsの概要と歴史.md) | ハッシュタグ誕生の技術的前史。Microformats→Nanoformats→#tag |
 | [`Web 2.0の詳細年表.md`](./Web%202.0の詳細年表.md) | プラットフォーム生態系の通史（1999〜2021年） |
-| [`文章構成プラン.md`](./文章構成プラン.md) | 草稿の章構成計画 |
+| [`docs/文章構成プラン.md`](docs/文章構成プラン.md) | 草稿の章構成計画 |
 
 ---
 
@@ -141,30 +141,37 @@
 
 ---
 
-### 編集作業ファイル
+### メタ・編集作業（L4）
+
+| パス | 内容 |
+|---|---|
+| [`docs/README.md`](./docs/README.md) | 編集作業フォルダの説明 |
+| [`docs/`](./docs/) | 文体・編集方針、草稿レビュー、章 reorg 計画、取込計画 |
+
+### 編集作業ファイル（詳細）
 
 | ファイル | 内容 |
 |---|---|
-| [`6d-review_aesthetic論点整理.md`](./6d-review_aesthetic論点整理.md) | aesthetic章のレビュー論点整理 |
-| [`6d-review_第2章構成案.md`](./6d-review_第2章構成案.md) | 第2章の構成案 |
-| [`第2章_aesthetic章分離_考察.md`](./第2章_aesthetic章分離_考察.md) | aesthetic章を分離する際の考察 |
-| [`第2章_ed3_seapunk読み道_計画.md`](./第2章_ed3_seapunk読み道_計画.md) | seapunk節の読み道計画 |
-| [`第3章_aesthetic_rev1_考察.md`](./第3章_aesthetic_rev1_考察.md) | aesthetic章の改訂考察 |
-| [`Seapunk調査_取り込み計画.md`](./Seapunk調査_取り込み計画.md) | Seapunk調査の取り込み計画 |
-| [`lofi-HD草稿全体の構造メモ.md`](./lofi-HD草稿全体の構造メモ.md) | lo-fi/HD章と全体構造の検討 |
-| [`src-6_仕分け.md`](./src-6_仕分け.md) | 資料の仕分け |
-| [`intro-kojiateki_引用メモ.md`](./intro-kojiateki_引用メモ.md) | 序文の引用関連メモ |
+| [`docs/6d-review_aesthetic論点整理.md`](docs/6d-review_aesthetic論点整理.md) | aesthetic章のレビュー論点整理 |
+| [`docs/6d-review_第2章構成案.md`](docs/6d-review_第2章構成案.md) | 第2章の構成案 |
+| [`docs/第2章_aesthetic章分離_考察.md`](docs/第2章_aesthetic章分離_考察.md) | aesthetic章を分離する際の考察 |
+| [`docs/第2章_ed3_seapunk読み道_計画.md`](docs/第2章_ed3_seapunk読み道_計画.md) | seapunk節の読み道計画 |
+| [`docs/第3章_aesthetic_rev1_考察.md`](docs/第3章_aesthetic_rev1_考察.md) | aesthetic章の改訂考察 |
+| [`docs/Seapunk調査_取り込み計画.md`](docs/Seapunk調査_取り込み計画.md) | Seapunk調査の取り込み計画 |
+| [`docs/lofi-HD草稿全体の構造メモ.md`](docs/lofi-HD草稿全体の構造メモ.md) | lo-fi/HD章と全体構造の検討 |
+| [`docs/src-6_仕分け.md`](docs/src-6_仕分け.md) | 資料の仕分け |
+| [`docs/intro-kojiateki_引用メモ.md`](docs/intro-kojiateki_引用メモ.md) | 序文の引用関連メモ |
 | [`inv-opn-cook_年表.md`](./inv-opn-cook_年表.md) | OPN・Cook関連年表 |
-| [`第7章_reorg_計画.md`](./第7章_reorg_計画.md) | 第7章「爆発」再構成の計画・帰属確認 |
+| [`docs/第7章_reorg_計画.md`](docs/第7章_reorg_計画.md) | 第7章「爆発」再構成の計画・帰属確認 |
 | [`archive/反映済み文案/第7章_reorg_文案.md`](./archive/反映済み文案/第7章_reorg_文案.md) | 第7章再構成の**文案正本**（`草稿.md` 反映済・2026-07-23） |
-| [`第6章_reorg_計画.md`](./第6章_reorg_計画.md) | 第6章 reorg 計画 |
+| [`docs/第6章_reorg_計画.md`](docs/第6章_reorg_計画.md) | 第6章 reorg 計画 |
 | [`archive/反映済み文案/第6章_reorg_DA-cottagecore_文案.md`](./archive/反映済み文案/第6章_reorg_DA-cottagecore_文案.md) | 第6章 reorg 文案（反映済・2026-07-07） |
 
 ---
 
 ### 個別章ファイル（草稿.mdに統合済み、参照用に保持）
 
-> **注意**：ファイル名は旧6章構成の番号のまま。現行8章との対応は [`context-map.md`](./context-map.md) §2／[`project-style-notes.md`](./project-style-notes.md) §5 を参照。**第2章（シーンと土壌）・第4章（lo-fiとHD）には分割稿がない。** 手動同期のため草稿より遅れることがある——相互参照・事実確認は常に [`草稿.md`](./草稿.md) を正とする。章をまたぐ「第N章で見た」参照の点検表は [`草稿_整合性レビュー.md`](./草稿_整合性レビュー.md) 総括 A。
+> **注意**：ファイル名は旧6章構成の番号のまま。現行8章との対応は [`context-map.md`](./context-map.md) §2／[`docs/project-style-notes.md`](docs/project-style-notes.md) §5 を参照。**第2章（シーンと土壌）・第4章（lo-fiとHD）には分割稿がない。** 手動同期のため草稿より遅れることがある——相互参照・事実確認は常に [`草稿.md`](./草稿.md) を正とする。章をまたぐ「第N章で見た」参照の点検表は [`docs/草稿_整合性レビュー.md`](docs/草稿_整合性レビュー.md) 総括 A。
 
 | ファイル | 対応章（現行8章） |
 |---|---|
@@ -190,7 +197,7 @@
 | ファイル | 内容 |
 |---|---|
 | `googletrendscsv/` | Google Trendsの生データ（CSV）と可視化スクリプト |
-| `img/` | 草稿用スクリーンショット・図版（挿入計画: [`画像bot挿入_計画.md`](./画像bot挿入_計画.md)） |
+| `img/` | 草稿用スクリーンショット・図版（挿入計画: [`docs/画像bot挿入_計画.md`](docs/画像bot挿入_計画.md)） |
 | `リサフランク420_再生数推移.html` / `.png` | リサフランク420のYouTube再生数推移グラフ |
 | `.claude/skills/manuscript-style/` | Claude Code 用推敲スキル |
 
@@ -208,9 +215,9 @@
 | 分類の制度化（Aesthetics Wiki / CARI） | CARIの歴史 / aesthetic wiki歴史レポート / 草稿 第8章 |
 | ハッシュタグ・フォークソノミーの技術的起源 | Nanoformats / Web 2.0年表 / 草稿 第1章 |
 | シーン史（2009〜2013年） | 草稿 第2章 / MP3ブログノート / witchhouse-chillwaveメモ |
-| lo-fi/HD論 | lofi-HD構造メモ / 草稿 第4章 |
-| 日付・矛盾の横断確認 | timeline.md / context-map.md / 草稿_整合性レビュー.md |
-| 推敲・文体 | 文体メモ / project-style-notes / manuscript-style スキル |
+| lo-fi/HD論 | [`docs/lofi-HD草稿全体の構造メモ.md`](docs/lofi-HD草稿全体の構造メモ.md) / 草稿 第4章 |
+| 推敲・文体 | [`docs/文体メモ.md`](docs/文体メモ.md) / [`docs/project-style-notes.md`](docs/project-style-notes.md) / manuscript-style スキル |
+| 日付・矛盾の横断確認 | timeline.md / context-map.md / [`docs/草稿_整合性レビュー.md`](docs/草稿_整合性レビュー.md) |
 
 ---
 

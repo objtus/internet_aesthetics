@@ -1,8 +1,8 @@
 # project-style-notes——「インターネット美学のクロニクル」固有の文体・構成ルール
 
-> 汎用の文体基準は [`文体メモ.md`](./文体メモ.md)（スキル版: `.claude/skills/manuscript-style/SKILL.md`）。本ファイルは**このプロジェクトでのみ**適用する規約を集める。
+> 汎用の文体基準は [`文体メモ.md`](文体メモ.md)（スキル版: `../.claude/skills/manuscript-style/SKILL.md`）。本ファイルは**このプロジェクトでのみ**適用する規約を集める。
 > 旧・文体メモ（2026-06-22版）のプロジェクト固有項目はここへ移した。
-> 正本：[`第3章_aesthetic_rev1_考察.md`](./第3章_aesthetic_rev1_考察.md) §20／[`aesthetic_文法分析メモ.md`](./aesthetic_文法分析メモ.md)／[`編集方針.md`](./編集方針.md)
+> 正本：[`第3章_aesthetic_rev1_考察.md`](第3章_aesthetic_rev1_考察.md) §20／[`aesthetic_文法分析メモ.md`](../aesthetic_文法分析メモ.md)／[`編集方針.md`](編集方針.md)
 
 ---
 
@@ -15,7 +15,7 @@
 - プラットフォーム名の大文字小文字は **Tumblr／Bandcamp／Twitter／Discord／TikTok** に統一（現行草稿には tumblr／bandcamp の揺れが残っており、推敲時に直す）。
 - 分析術語のセット（本文で定義済みのものだけを使う）：
   **命名／充填／制度化／遡行的確定**、**lo-fi／HD**（筆者による遡及的区分であることを毎回明示）、**匿名性の美学**、**ものさし**、**質の複数／種の複数**、**属（上位カテゴリ）**、**物象化**、**サイトスペシフィック**。
-  「ラベル先行型（seapunk型）／実体先行型（dark academia型）」は現行草稿 L1282–1284 にまだ残るが、[`第6章_reorg_計画.md`](./第6章_reorg_計画.md) §2 の見直しにより**廃止予定**（6-reorg-2 で反映）。dark academia と cottagecore は同一の型として括らず、個別の確度で書く。
+  「ラベル先行型（seapunk型）／実体先行型（dark academia型）」は現行草稿 L1282–1284 にまだ残るが、[`第6章_reorg_計画.md`](第6章_reorg_計画.md) §2 の見直しにより**廃止予定**（6-reorg-2 で反映）。dark academia と cottagecore は同一の型として括らず、個別の確度で書く。
 - 「モード」は本文では数字を出さず、用例と文法の形で示す（正本: aesthetic_文法分析メモ）。
 - 比喩（「大きな箱」等）を正式な語にしない。骨格は「属（上位カテゴリ）」。
 
@@ -58,12 +58,12 @@
 | liminal space・Backrooms・TikTok・Dismiss Yourself・brat | 第7章 |
 | CARI・Aesthetics Wiki・Discord 承認・Neocities 対位法・後記 | 第8章 |
 
-（残存する旧番号参照の一覧は [`草稿_整合性レビュー.md`](./草稿_整合性レビュー.md) 総括A参照）
+（残存する旧番号参照の一覧は [`草稿_整合性レビュー.md`](草稿_整合性レビュー.md) 総括A参照）
 
 ## 6. 事実・出典の運用（このリポジトリの手続き）
 
 - 本文に書く出典は**公開URLのみ**。調査ノートの「§」参照を本文に書かない（next_tasks.md 原則）。
-- 事実・日付の正本はテーマごとに [`context-map.md`](./context-map.md) §1-2 の表に従う。矛盾に気づいたら timeline.md の【要検証】（V1〜V23）を確認し、未解決なら本文は両論併記を維持する。
+- 事実・日付の正本はテーマごとに [`context-map.md`](../context-map.md) §1-2 の表に従う。矛盾に気づいたら timeline.md の【要検証】（V1〜V23）を確認し、未解決なら本文は両論併記を維持する。
 - 草稿側で新事実を確定させたら（例: 20jfg 2008年記事の実在確認）、該当ノートと timeline.md へ**還流**する。
 - 確度ラベルの体系はノートごとに異なる（tumblrタイムライン=high/mid、inv-opn-cook=A/B/C、khole=▲）。本文には持ち込まず、語り分け（〜とされる等）に変換する。
 - VICE「Seapunk Washes Up」は掲載URL＋Wayback（図版）併記の定型で引く（Seapunk 詳細調査ノート冒頭の形式）。

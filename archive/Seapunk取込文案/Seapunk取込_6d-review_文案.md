@@ -143,7 +143,7 @@ witch house コミュニティのなかで描かれた歴史観を代表する�
 - [ ] 6d-r1（witch house）反映
 - [ ] L155 締め維持
 - [ ] 反映用に制作メタなし
-- [ ] [`草稿_推敲メモ.md`](./草稿_推敲メモ.md)・[`next_tasks.md`](./next_tasks.md) 更新
+- [ ] [`草稿_推敲メモ.md`](../../docs/草稿_推敲メモ.md)・[`next_tasks.md`](./next_tasks.md) 更新
 
 ---
 

@@ -101,4 +101,4 @@ Lil InternetとLil Governmentの年表をみれば、確かにUltrademonとZombe
 - [x] `## seapunkの死と遺産` 以降無変更。M.I.A. 前史は未挿入（激怒記事の**後**へ追記予定）
 - [x] aesthetic 節：ideology／Dodecahedron は reorg では触れず（6c-2 のみ）
 - [x] 反映用に制作メタなし
-- [x] [`草稿_推敲メモ.md`](./草稿_推敲メモ.md) にログ（続27）
+- [x] [`草稿_推敲メモ.md`](../../docs/草稿_推敲メモ.md) にログ（続27）

@@ -17,7 +17,7 @@
 | **L1 テーマ別正本ノート** | §1-2の表で指定した「そのテーマの正」 | 事実・日付・引用の正。timeline.mdや草稿と食い違ったらまずここに戻る |
 | **L2 統合資料** | `timeline.md`(日付の統合インデックス)、`README.md`(ファイル案内) | 横断参照用。**原典はL1**。timeline.mdの【要検証】V1〜V23は未解決印として維持 |
 | **L3 成果物** | `草稿.md`(序文+全8章+後記) | **本文の正本**。分割稿(第N章_*.md)は手動同期の参照用で、食い違えば草稿.mdが正 |
-| **L4 編集作業ファイル** | 計画・考察・レビュー・文案(取込_*_文案、*_計画、*_考察、レビュー系) | 意思決定の記録。事実の根拠には使わない。`archive/反映済み文案/`は履歴専用 |
+| **L4 編集作業ファイル** | [`docs/`](./docs/) 内の計画・考察・レビュー・文案(取込_*_文案、*_計画、*_考察、レビュー系) | 意思決定の記録。事実の根拠には使わない。`archive/反映済み文案/`は履歴専用 |
 | **L5 旧稿アーカイブ** | 草稿旧第2と3章.md、第3章_aestheticという語archive.md | 引用・根拠に使わない |
 
 ### 1-2. テーマ別の正本(どのノートを正とするか)
@@ -26,14 +26,14 @@
 |---|---|---|---|
 | seapunk(発生・三極構造・死) | **Seapunk 詳細調査ノート.md** | supersuper.md(物理誌面)、vice_seapunkwashesup.md・nytimes_littlemermaidgoespunk.md・SilentGenerationEp22.md(転写)、ファクト補強調査#8〜10 | KYMのKevin Heckart/Pictureplane帰属は**誤り**と確定済み(正はCluster Mag 2011-12-05・Elektro Daily 2012-03-07) |
 | witch house(前史・命名・派生) | **witchhouse-chillwave調査メモ.md** | Seapunk 詳細調査ノート.md §2(witch-house.comタイムライン転記) | 両者は整合。起源「地」はV3で未解決 |
-| vaporwave成立・「aesthetic」語の理論 | **美学ミームの成立条件についての覚書.md** | aestheticに関する手動調査.md、intro-kojiateki_引用メモ.md(新蒸気波要点ガイド) | 覚書§3.4のKYM由来叙述は手動調査の否定的事実で**上書き**(§4-2参照) |
+| vaporwave成立・「aesthetic」語の理論 | **美学ミームの成立条件についての覚書.md** | aestheticに関する手動調査.md、[`docs/intro-kojiateki_引用メモ.md`](./docs/intro-kojiateki_引用メモ.md)(新蒸気波要点ガイド) | 覚書§3.4のKYM由来叙述は手動調査の否定的事実で**上書き**(§4-2参照) |
 | 「aesthetic」の一次検証(X・Wayback・Reddit) | **aestheticに関する手動調査.md** | Google_Trends調査.md(代理指標) | 「否定的事実」(コメント欄にaesthetic無し等)はこのノートのみが持つ |
-| aesthetic文法・数・モード | **aesthetic_文法分析メモ.md** | 第3章_aesthetic_rev1_考察.md(反映記録) | 第5章rev-1の正本 |
+| aesthetic文法・数・モード | **aesthetic_文法分析メモ.md** | [`docs/第3章_aesthetic_rev1_考察.md`](./docs/第3章_aesthetic_rev1_考察.md)(反映記録) | 第5章rev-1の正本 |
 | 「internet aesthetic」語史・Wikipedia/EBSCO制度化 | **internet_aesthetic語と制度化_調査ノート.md** | — | 序文ed-6・第5章rev-2の正本 |
 | hyperpop・PC Music・brat・Drain Gang | **ハイパーポップの歴史.md** | supersuper.md §4(Cook=Roy前史)、inv-opn-cook_年表.md | Spotify Hyperpopプレイリストは**2019-08**が正(2020は誤記——ファクト補強調査で訂正済) |
 | OPN×A.G. Cook交差 | **inv-opn-cook_年表.md** | — | 確度A/B/C表記あり。Guys Next DoorはB〜C=「噂として書く」 |
 | Hippos in Tanks | **HipposInTanks_調査ノート.md** | MP3ブログノート§4(旧・要約版) | 重複時はHITノート優先(日付precisionが高い) |
-| mp3ブログ・20jfg・GATEKEEPER・OESB・Beer on the Rug | **MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md** | src-6_仕分け.md(取込判定) | — |
+| mp3ブログ・20jfg・GATEKEEPER・OESB・Beer on the Rug | **MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md** | [`docs/src-6_仕分け.md`](./docs/src-6_仕分け.md)(取込判定) | — |
 | Post T.V.・AAVV・MSV・lo-fi映像 | **witchhouse-chillwave調査メモ.md §5.4**(inv-msv) | — | ローマ映画祭公式カタログ=一次 |
 | K-HOLE・normcore・VVORK・Archillect・rare.jpg・DIS人脈 | **khole-arena-archillect-researtch.md** | Interview誌オーラルヒストリー(2024-06-03、一次確定) | Brad Troemel経由・89plus委嘱・Estrada起源は**確定** |
 | Are.na設計思想・CARIとの関係 | **Arena設計思想調査ノート.md** | khole-arena-archillect-researtch.md §2 | 創設年の揺れはV7(未解決) |
@@ -49,7 +49,7 @@
 | ハッシュタグ・Nanoformats | **Nanoformatsの概要と歴史.md** | — | — |
 | 個別美学(dark academia・cottagecore・liminal・weirdcore・dreamcore)・発生パターンA〜F | **インターネット美学（Internet Aesthetics）調査ノート.md** | ファクト補強調査#11〜16 | liminalの多層前史(2016 Tumblrチェーン等)はこのノートが最詳 |
 | 検索関心の推移 | **Google_Trends調査.md** | — | **代理指標専用**。起源・因果の根拠にしない(ノート自身のNG表) |
-| lo-fi/HD区分の位置づけ | **lofi-HD草稿全体の構造メモ.md** | — | 区分は**筆者による遡及的確定**であり既存用語ではない、が公式見解 |
+| lo-fi/HD区分の位置づけ | **[`docs/lofi-HD草稿全体の構造メモ.md`](./docs/lofi-HD草稿全体の構造メモ.md)** | — | 区分は**筆者による遡及的確定**であり既存用語ではない、が公式見解 |
 | 匿名性の美学(人→画像) | **匿名性の美学_後半展開_論点ノート.md** | — | — |
 | 日付の横断整合 | **timeline.md** | 本マップ§4 | 520項目+【要検証】V1〜V23 |
 
@@ -71,7 +71,7 @@
 |---|---|---|
 | 「インターネット美学」の定義・語の来歴(2020拡散→2022制度化) | internet_aesthetic語と制度化_調査ノート.md | ed-6(序文取込_ed6meta1、2026-07-01反映) |
 | 「制度化」の操作的定義(命名→充填→プラットフォーム→分類体系→百科→歴史化) | 同上 §2+美学ミーム覚書 | ed-6 |
-| 日本語圏の受容は射程外(カオスラウンジ等) | 編集方針.md §2 | ed-2(反映済) |
+| 日本語圏の受容は射程外(カオスラウンジ等) | [`docs/編集方針.md`](./docs/編集方針.md) §2 | ed-2(反映済) |
 | 執筆動機(捨て垢・布施琳太郎ツイート) | meta-1 | 2026-07-01反映 |
 | 鍵概念: 命名・充填・遡行的確定 | 美学ミームの成立条件についての覚書.md §6〜7 | — |
 
@@ -110,7 +110,7 @@
 | chillwave=Carlesの思いつき命名(候補30語)・hypnagogic pop(Keenan) | 覚書 §3.3(一次: Hipster Runoff 2009-07-27 Wayback) | — |
 | 憑在論と郷愁の言語 | witchhouse-chillwaveメモ §5b+musicplusghost.md | src-1(反映なしと確定) |
 | witch house命名(Pictureplane/Shams・Last.fmタグ・コミュニティ正史) | witchhouse-chillwaveメモ §3.2+Seapunkノート §2 | src-3(r/witchhouse) |
-| seapunk(ツイート→Tropicult→Coral→内紛→三極構造) | **Seapunk 詳細調査ノート.md**(全面) | Seapunk取込6a〜6f、ed-3読み道、編集方針§3(圧縮) |
+| seapunk(ツイート→Tropicult→Coral→内紛→三極構造) | **Seapunk 詳細調査ノート.md**(全面) | Seapunk取込6a〜6f、ed-3読み道、[`docs/編集方針.md`](./docs/編集方針.md)§3(圧縮) |
 | SuperSuper!=記録媒体(nu rave→witch house→seapunk→slimepunk) | supersuper.md | src-2 |
 | seapunkの死(Rihanna SNL・BuzzFeed両論・Bebe Zeva) | Seapunkノート §8+aesthetic手動調査(X転記) | 6b/6c |
 | seapunk→vaporwave継承(cousin記事・Blank Banshee) | Seapunkノート §8-4・10+ファクト補強#2 | 6e。Blank Banshee帰属の揺れはV23(両論併記) |
@@ -119,7 +119,7 @@
 ### 第4章 lo-fiとHD
 | 主張・内容 | 根拠(正) | 補助・文案 |
 |---|---|---|
-| lo-fi/HD区分=筆者の遡及的確定(明示) | **lofi-HD草稿全体の構造メモ.md** | — |
+| lo-fi/HD区分=筆者の遡及的確定(明示) | **[`docs/lofi-HD草稿全体の構造メモ.md`](./docs/lofi-HD草稿全体の構造メモ.md)** | — |
 | Eccojams(2010-08-08) vs Far Side Virtual(2011-10-25) | 覚書 §3.2+HipposInTanks_調査ノート.md | rev-8 |
 | Steyerl「貧しいイメージの擁護」(2009) | inv-steyerl(第2章取込_steyerl_文案)+MP3ブログノート §14 | — |
 | VVORK「無言のキュレーション」(2006〜2012) | khole-arena-archillect-researtch.md §8 | inv-khole-1a(第4章取込_VVORK_文案)+画像bot挿入_計画 |
@@ -184,7 +184,7 @@
 | FairyPageとAesthetics Wiki(設立2018・400万PV・追放2021-02) | aesthetic wiki 歴史レポート.md | ファクト補強#19〜22 |
 | Discordが承認プロセスになる(2020-05投票→開設) | aesthetic wiki 歴史レポート.md §5 | ed-5(r/AestheticWiki) |
 | IndieWeb・Neocitiesの対位法(Bingブロック2026含む) | インディーウェブの歴史年表.md | concl-2(**未反映・☐**) |
-| 後記: 歴史化=制度化(Cookプレイリスト2019-11・FairyPage・本稿のcomplicity) | ハイパーポップの歴史.md §7+編集方針 §4 | ed-4(後記取込_制度化ループ_文案)・匿名性C2/C3 |
+| 後記: 歴史化=制度化(Cookプレイリスト2019-11・FairyPage・本稿のcomplicity) | ハイパーポップの歴史.md §7+[`docs/編集方針.md`](./docs/編集方針.md) §4 | ed-4(後記取込_制度化ループ_文案)・匿名性C2/C3 |
 | Guardian時代診断の問いかけ | CARI_調査ノート §2 | concl-1(反映済) |
 
 ---
@@ -308,9 +308,10 @@
 | 分割稿・同期物(L3参照用) | 序文.md、第1章_土壌.md、第2章_命名の時代.md、第3章_aestheticという語.md、第4章_感情が先に来る.md、第5章_爆発.md、第6章_制度化.md |
 | テーマ別正本ノート(L1) | §1-2の表の24ノート |
 | 一次資料ローカル転写(L0) | [`sources/transcripts/`](./sources/transcripts/)・[`sources/papers/`](./sources/papers/)（vice/nytimes/SilentGeneration/FrankJavCee/musicplusghost/note_極右、RA×2、Vaporwave論文×2、Unveiling_Tumblr's 等） |
-| 統合・案内(L2) | README.md、project-style-notes.md、文体メモ.md |
-| 計画・考察(L4) | 文章構成プラン、編集方針、next_tasks、_next_tasks_head、src-6_仕分け、Seapunk調査_取り込み計画、第2章_ed3計画、第2章_aesthetic章分離_考察、第3章_aesthetic_rev1_考察、6d-review×2、lofi-HD構造メモ、画像bot挿入_計画、第6章_normcore追加_計画 |
-| レビュー(L4) | 草稿_推敲メモ、草稿_明晰さレビュー、草稿_レビュー論点メモ、**草稿_整合性レビュー**、文体メモ、草稿_ファクト補強調査(※事実訂正を含むためL1に準ずる) |
+| 統合・案内(L2) | README.md、[`docs/project-style-notes.md`](./docs/project-style-notes.md)、[`docs/文体メモ.md`](./docs/文体メモ.md) |
+| メタ・編集(L4/L5) | [`docs/`](./docs/)（計画・考察・レビュー・文体・編集方針・旧稿）。`next_tasks.md`・`_next_tasks_head.md`はルート |
+| 計画・考察(L4) | [`docs/`](./docs/)内：文章構成プラン、編集方針、src-6_仕分け、Seapunk調査_取り込み計画、第2章_ed3計画、第2章_aesthetic章分離_考察、第3章_aesthetic_rev1_考察、6d-review×2、lofi-HD構造メモ、画像bot挿入_計画、第6章_normcore追加_計画、第6章/第7章_reorg_計画 |
+| レビュー(L4) | [`docs/`](./docs/)内：草稿_推敲メモ、草稿_明晰さレビュー、草稿_レビュー論点メモ、**草稿_整合性レビュー**、草稿_ファクト補強調査(※事実訂正を含むためL1に準ずる) |
 | Claude Code スキル | `.claude/skills/manuscript-style/SKILL.md`（文体メモの実行用版） |
 | 文案(L4・反映済みはarchiveが原則) | archive/反映済み文案31件+archive/Seapunk取込文案7件（ルート残置なし・2026-08-04整理） |
-| 旧稿(L5) | 草稿旧第2と3章.md、第3章_aestheticという語archive.md、序文_改稿.md(参照メモ化済み) |
+| 旧稿(L5) | [`docs/草稿旧第2と3章.md`](./docs/草稿旧第2と3章.md)、[`docs/第3章_aestheticという語archive.md`](./docs/第3章_aestheticという語archive.md)、序文_改稿.md(参照メモ化済み) |

@@ -2,7 +2,7 @@
 
 **対象**：vaporwave 系譜（Daniel Lopatin / Oneohtrix Point Never）と PC Music（A. G. Cook）の**音源レベルでの交差**を、`### vaporwave との対置` 直後に新設節として追記する。  
 **起点資料**：[`inv-opn-cook_年表.md`](./inv-opn-cook_年表.md)  
-**文体**：[`文体メモ.md`](./文体メモ.md)（人名略称なし・em dash 不使用）
+**文体**：[`文体メモ.md`](../../docs/文体メモ.md)（人名略称なし・em dash 不使用）
 
 ---
 

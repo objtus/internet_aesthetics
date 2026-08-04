@@ -95,7 +95,7 @@
 - [ ] aesthetic 節 L280 と KingTreehouse／Dodecahedron の記述が矛盾しないか
 - [ ] seapunk 節との witch-house.com 開設の三重叙述（6d-opt で調整）
 - [ ] 反映用に「調査ノート」「6d」「§…」等のメタがないか
-- [ ] 反映後：[`草稿_推敲メモ.md`](./草稿_推敲メモ.md) ログ・[`next_tasks.md`](./next_tasks.md) 6d ☐→☑
+- [ ] 反映後：[`草稿_推敲メモ.md`](../../docs/草稿_推敲メモ.md) ログ・[`next_tasks.md`](./next_tasks.md) 6d ☐→☑
 
 ---
 

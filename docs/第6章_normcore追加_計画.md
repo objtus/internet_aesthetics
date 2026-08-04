@@ -31,7 +31,7 @@
 - 第6章のサフィックス来歴では corecore を「-core 増殖の帰結点・メタ批評」として1文触れる
 - 第7章 L1395 yabujincore（「個人名に-coreを付けて汎用ジャンルへ転化する命名」）の近くで、corecore の美学イメージとの近さに軽く触れる。第6章と第7章で corecore が二度出るが、役割が異なる（第6章 = サフィックス史の帰結、第7章 = 美学イメージの具体）ので重複しない
 
-**調査状況**：☑ [`サフィックス系譜比較調査ノート.md`](./サフィックス系譜比較調査ノート.md)（2026-06-28）＋[`scene_subculture_notes.md`](./scene_subculture_notes.md)（2026-06-28）で解決。文案作成に十分な材料がある。
+**調査状況**：☑ [`サフィックス系譜比較調査ノート.md`](../サフィックス系譜比較調査ノート.md)（2026-06-28）＋[`scene_subculture_notes.md`](../scene_subculture_notes.md)（2026-06-28）で解決。文案作成に十分な材料がある。
 
 ### 2. normcore——コンセプトと受容のずれ【調査済み・文案作成可能】
 
@@ -43,7 +43,7 @@
 - ファッション用語化の契機：2014年初頭、New York Magazine の Fiona Duncan の記事が normcore を視覚的ファッションスタイルとして紹介。「ダッドジーンズ、New Balance、Patagonia」が結びついて世界的に拡散
 - K-HOLE の意図（コードスイッチング哲学）から乖離した形でミーム化
 
-**新規追加素材（[`scene_subculture_notes.md`](./scene_subculture_notes.md) より）：**
+**新規追加素材（[`scene_subculture_notes.md`](../scene_subculture_notes.md) より）：**
 
 - **Ryan Estrada の 2008年 webcomic 先行使用**：K-HOLE 以前に normcore という語が存在した。架空の集団を指す語として webcomic *Templar, Arizona* のゲストストリップで使用（Wikipedia/Normcore）。K-HOLE の normcore が「再定義」であることが明確になり、「語義の横領」narrative の層が一つ増える
 - **Greg Fong（K-HOLE）SSENSE 直接引用**：「Normcore was born out of thinking about the end state. How far does authenticity go? Where does it become taxing?」（SSENSE 2024-05）。計画にある「コードスイッチング哲学」より具体的で生き生きした表現。文案で使える
@@ -71,7 +71,7 @@
 - 調査ノートの結論：「独立したプロジェクトだが、同一の人的ネットワーク（Brown/RISD 卒業 NY 系ポスト・インターネットアート圏）から同時期に発生した姉妹的プロジェクト」
 - VVORK キュレーション展（2010年）に Dena Yago・Charles Broskoski・Damon Zucconi が参加（Monoskop 記録）——K-HOLE、Are.na、VVORK が同一の NY ネットアート圏に属していた直接の証拠
 
-**Are.na の設計思想——文案で使える具体的素材（[`Arena設計思想調査ノート.md`](./Arena設計思想調査ノート.md) より）：**
+**Are.na の設計思想——文案で使える具体的素材（[`Arena設計思想調査ノート.md`](../Arena設計思想調査ノート.md) より）：**
 
 Are.na を第6章で紹介する際、以下から選んで1〜2文で特徴づける。
 
@@ -86,7 +86,7 @@ Are.na を第6章で紹介する際、以下から選んで1〜2文で特徴づ�
 
 **推奨**：del.icio.us 起源（プラットフォーム死のテーマとの接続）＋「考えるための道具」（最短の特徴づけ）＋「いいね」不在 or チャンネル観（具体性）から2〜3点を選び、K-HOLE → Are.na の人脈線に続けて1〜2文で書く。慶雲館モデル・connected knowledge collectors は**予備素材**（使わなくてよい）。
 
-**Are.na → CARI の接続（[`Arena設計思想調査ノート.md`](./Arena設計思想調査ノート.md) §6–7 で確定）：**
+**Are.na → CARI の接続（[`Arena設計思想調査ノート.md`](../Arena設計思想調査ノート.md) §6–7 で確定）：**
 - Collins「CARI work is based here on Are.na」——Are.na が CARI の研究基盤であることの一次資料（§6.1、Collins Are.na プロフィール）
 - 各 aesthetic ページに対応 Are.na チャンネルが存在（Internet Awesomesauce、Global Village Coffeehouse 等で実例確認。§6.3）
 - Broskoski が Collins を「最もおもしろいアカウント」と名指し（§6.4、Upstatement インタビュー）——人脈線ではなくユーザーとしての注目。「プラットフォーム共有」に個人的承認の厚みを加える
@@ -124,12 +124,12 @@ vaporwave の政治的受容（L1077〜、既存）
 
 ## 既存の調査ノート
 
-- [`khole-arena-archillect-researtch.md`](./khole-arena-archillect-researtch.md)：K-HOLE / Are.na / Archillect / rare.jpg / 日本語圏の匿名キュレーション問題。K-HOLE の来歴・レポート一覧・normcore の概念と誤解、Are.na の設立経緯と K-HOLE との人的重複、DIS Magazine との共演関係など、本計画の調査項目の大半をカバー。セクション12に CARI の Are.na 活用に関する予備調査あり（2026-06-26追記）
-- [`Arena設計思想調査ノート.md`](./Arena設計思想調査ノート.md)：**inv-cari-arena 成果物**（2026-06-27）。Are.na 設計思想（広告なし・アルゴリズムなし・「考えるための道具」）、CARI の研究基盤としての活用、Discord との三段階知識生産フロー、Broskoski→Collins 言及、「いいね」不在の設計史。一次資料ベース
-- [`サフィックス系譜比較調査ノート.md`](./サフィックス系譜比較調査ノート.md)：**未調査C 成果物**（2026-06-28）。-core/-wave/-punk 三系譜の語源・増殖ロジック・横断比較。chillwave→vaporwave、fashioncore→normcore→corecore、cyberpunk→steampunk→solarpunk。solarpunk Tumblr ケーススタディ
-- [`scene_subculture_notes.md`](./scene_subculture_notes.md)：Scene サブカルチャー・-core サフィックス詳細・Indie Sleaze の調査ノート（2026-06-28）。fashioncore→scene→normcore の系譜、MySpace と aesthetic 生成の共依存、Indie Sleaze の遡及的命名（CARI の命名投票経由）
-- [`CARI_調査ノート.md`](./CARI_調査ノート.md)：CARI 前史（Evan Collins・Y2K 美学）と DIS Magazine / PC Music 系譜の接続。Are.na への言及なし
-- [`CARIの歴史.md`](./CARIの歴史.md)：cari.institute 由来の年表。Are.na への言及なし
+- [`khole-arena-archillect-researtch.md`](../khole-arena-archillect-researtch.md)：K-HOLE / Are.na / Archillect / rare.jpg / 日本語圏の匿名キュレーション問題。K-HOLE の来歴・レポート一覧・normcore の概念と誤解、Are.na の設立経緯と K-HOLE との人的重複、DIS Magazine との共演関係など、本計画の調査項目の大半をカバー。セクション12に CARI の Are.na 活用に関する予備調査あり（2026-06-26追記）
+- [`Arena設計思想調査ノート.md`](../Arena設計思想調査ノート.md)：**inv-cari-arena 成果物**（2026-06-27）。Are.na 設計思想（広告なし・アルゴリズムなし・「考えるための道具」）、CARI の研究基盤としての活用、Discord との三段階知識生産フロー、Broskoski→Collins 言及、「いいね」不在の設計史。一次資料ベース
+- [`サフィックス系譜比較調査ノート.md`](../サフィックス系譜比較調査ノート.md)：**未調査C 成果物**（2026-06-28）。-core/-wave/-punk 三系譜の語源・増殖ロジック・横断比較。chillwave→vaporwave、fashioncore→normcore→corecore、cyberpunk→steampunk→solarpunk。solarpunk Tumblr ケーススタディ
+- [`scene_subculture_notes.md`](../scene_subculture_notes.md)：Scene サブカルチャー・-core サフィックス詳細・Indie Sleaze の調査ノート（2026-06-28）。fashioncore→scene→normcore の系譜、MySpace と aesthetic 生成の共依存、Indie Sleaze の遡及的命名（CARI の命名投票経由）
+- [`CARI_調査ノート.md`](../CARI_調査ノート.md)：CARI 前史（Evan Collins・Y2K 美学）と DIS Magazine / PC Music 系譜の接続。Are.na への言及なし
+- [`CARIの歴史.md`](../CARIの歴史.md)：cari.institute 由来の年表。Are.na への言及なし
 
 ## 調査状況の総括
 
@@ -142,9 +142,9 @@ vaporwave の政治的受容（L1077〜、既存）
 | K-HOLE ↔ DIS Magazine の人脈 | ✅ 確認済み | 調査ノート §7.1–7.2 | DISown ショー共演、レポート #3 掲載、構造的共通性 |
 | K-HOLE ↔ Are.na の人的重複 | ✅ 確認済み | 調査ノート §2.3–2.4 | Chris Sherron・Dena Yago が両方の共同創設者 |
 | Are.na の設立経緯・設計思想 | ✅ 確認済み | 調査ノート §2.1–2.6 | del.icio.us 終了が動機、Ted Nelson/Xanadu 参照 |
-| CARI の Are.na 活用 | ✅ 確認済み | [`Arena設計思想調査ノート.md`](./Arena設計思想調査ノート.md) §6–7, §10 | Collins「CARI work is based here on Are.na」。各 aesthetic に対応チャンネル。三段階知識生産フロー（Discord→Are.na→cari.institute）。利用開始の正確な年月は▲未確定だが文案に支障なし |
-| K-HOLE → Are.na → CARI の人脈的直接接続 | ✅ 確認済み：**なし** | [`Arena設計思想調査ノート.md`](./Arena設計思想調査ノート.md) §6.4 | Broskoski が Collins を「最もおもしろいアカウント」と名指し。人脈線ではなくユーザーとしての注目。**「プラットフォーム共有＋設計思想の構造的親和」**で書く |
-| -core / -wave / -punk サフィックスの系譜 | ✅ 確認済み | [`サフィックス系譜比較調査ノート.md`](./サフィックス系譜比較調査ノート.md) | 三系譜の語源・増殖ロジック・横断比較。chillwave（2009）が最初の -wave マイクロジャンル語。fashioncore（2002）が -core のビジュアル美学転用の起点。三系譜の命名発生様式の違い（上→下／相互作用／下→上）。意味の希薄化→corecore（2020）。solarpunk の Tumblr 媒介（2014）ケーススタディ |
+| CARI の Are.na 活用 | ✅ 確認済み | [`Arena設計思想調査ノート.md`](../Arena設計思想調査ノート.md) §6–7, §10 | Collins「CARI work is based here on Are.na」。各 aesthetic に対応チャンネル。三段階知識生産フロー（Discord→Are.na→cari.institute）。利用開始の正確な年月は▲未確定だが文案に支障なし |
+| K-HOLE → Are.na → CARI の人脈的直接接続 | ✅ 確認済み：**なし** | [`Arena設計思想調査ノート.md`](../Arena設計思想調査ノート.md) §6.4 | Broskoski が Collins を「最もおもしろいアカウント」と名指し。人脈線ではなくユーザーとしての注目。**「プラットフォーム共有＋設計思想の構造的親和」**で書く |
+| -core / -wave / -punk サフィックスの系譜 | ✅ 確認済み | [`サフィックス系譜比較調査ノート.md`](../サフィックス系譜比較調査ノート.md) | 三系譜の語源・増殖ロジック・横断比較。chillwave（2009）が最初の -wave マイクロジャンル語。fashioncore（2002）が -core のビジュアル美学転用の起点。三系譜の命名発生様式の違い（上→下／相互作用／下→上）。意味の希薄化→corecore（2020）。solarpunk の Tumblr 媒介（2014）ケーススタディ |
 
 ## 未調査・調査予定
 
@@ -158,7 +158,7 @@ vaporwave の政治的受容（L1077〜、既存）
 
 ### B. CARI の Are.na 活用の具体像【✅ 調査完了（2026-06-27）】
 
-[`Arena設計思想調査ノート.md`](./Arena設計思想調査ノート.md) で解決済み。文案作成に必要な材料は揃った。
+[`Arena設計思想調査ノート.md`](../Arena設計思想調査ノート.md) で解決済み。文案作成に必要な材料は揃った。
 
 **確定事項**：
 - **Are.na の役割**：CARI の「研究基盤」（Collins「CARI work is based here on Are.na」）。初期アイデア出し・協働研究・視覚コーパス保存の場
@@ -174,7 +174,7 @@ vaporwave の政治的受容（L1077〜、既存）
 
 ### C. サフィックスの系譜【✅ 調査完了（2026-06-28）】
 
-[`サフィックス系譜比較調査ノート.md`](./サフィックス系譜比較調査ノート.md) で解決済み。文案作成に必要な材料は揃った。
+[`サフィックス系譜比較調査ノート.md`](../サフィックス系譜比較調査ノート.md) で解決済み。文案作成に必要な材料は揃った。
 
 **確定事項**：
 - **-punk**：cyberpunk（1983年・Bethke）→ steampunk（1987年・Jeter）で「技術＋punk」定式確立。命名発生様式は**個人→メディア→コミュニティ**（上→下）
@@ -185,12 +185,12 @@ vaporwave の政治的受容（L1077〜、既存）
 - **solarpunk ケーススタディ**：語の命名（2008年・テキスト）とビジュアル aesthetic の確立（2014年・Tumblr @missolivialouise 投稿、26,385リブログ）に6年のタイムラグ。イメージが理論に先行した典型例
 
 **文案で使う素材の推奨**：
-- **fashioncore → normcore → corecore の物語線**（[`scene_subculture_notes.md`](./scene_subculture_notes.md) §4、[`サフィックス系譜比較調査ノート.md`](./サフィックス系譜比較調査ノート.md) §4-3）——サフィックスブロックの叙述的骨格。三系譜の類型論は調査ノートに留め、正文では -core に焦点を絞る
+- **fashioncore → normcore → corecore の物語線**（[`scene_subculture_notes.md`](../scene_subculture_notes.md) §4、[`サフィックス系譜比較調査ノート.md`](../サフィックス系譜比較調査ノート.md) §4-3）——サフィックスブロックの叙述的骨格。三系譜の類型論は調査ノートに留め、正文では -core に焦点を絞る
 - **The Conversation 引用**（Cousins & Wiltshire）: 「It was a time before style was divided into 'aesthetics' and 'cores'」——歴史的境界のマーカー
 - **Grant Barrett NYT 引用**: 「'Core' just seems like a suffix that is going to last and last and last」——外部の辞書学者による -core の評価
 - **「-core は *chic* の後継語」**（Wikipedia/-core）——読者にとって直感的な入口
 - **fashioncore の「侮辱語として発生」**（Loudwire: "coined as an insult"）→ normcore も意図と異なる流通——「名前は蔑称・冗談・誤読から定着する」パターン。第2章 chillwave（Hipster Runoff の揶揄）と共鳴
-- **soft grunge / scene / Indie Sleaze の系譜**（[`scene_subculture_notes.md`](./scene_subculture_notes.md) §8・§10、Wikipedia/Indie sleaze）——第1章 L149 への接続
+- **soft grunge / scene / Indie Sleaze の系譜**（[`scene_subculture_notes.md`](../scene_subculture_notes.md) §8・§10、Wikipedia/Indie sleaze）——第1章 L149 への接続
 - **第7章 `### -core サフィックスの標準化`（L1355）**は確認済み（3行のみ）。第6章への後方参照に書き換え。L1395 yabujincore 近くに corecore との美学イメージの近さを追記
 
 ## 分量の目安
@@ -211,8 +211,8 @@ normcore 自体の詳述に深入りしすぎない。サフィックスの来�
 
 ## 作業手順（2026-06-27 更新）
 
-1. ~~未調査項目 B（CARI の Are.na 活用）を追加調査する~~ → ☑ [`Arena設計思想調査ノート.md`](./Arena設計思想調査ノート.md) で完了
-2. ~~未調査項目 C（サフィックスの系譜）を調査する~~ → ☑ [`サフィックス系譜比較調査ノート.md`](./サフィックス系譜比較調査ノート.md) で完了
+1. ~~未調査項目 B（CARI の Are.na 活用）を追加調査する~~ → ☑ [`Arena設計思想調査ノート.md`](../Arena設計思想調査ノート.md) で完了
+2. ~~未調査項目 C（サフィックスの系譜）を調査する~~ → ☑ [`サフィックス系譜比較調査ノート.md`](../サフィックス系譜比較調査ノート.md) で完了
 3. 未調査項目 A（normcore 受容の詳細）は文案の depth 次第で判断
 4. 第7章 L1355 を第6章への後方参照に書き換える。L1395 yabujincore 近くに corecore との美学イメージの近さを追記
 5. 第1章 L149 付近に Indie Sleaze → Soft Grunge を1-2文追記（「〇〇によれば〜という」形式）
