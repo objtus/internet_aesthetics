@@ -2,7 +2,7 @@
 
 **タスク**：inv-khole-1b
 **ステータス**：☑ **草稿反映済み（2026-06-29）**。4箇所すべて反映。見出しは草稿の第6章階層に合わせて1段繰り上げ（`### → ##`、`#### → ###`）
-**正本**：[`khole-arena-archillect-researtch.md`](../../notes/khole-arena-archillect-researtch.md) §1・§2・§3・§4・§5・§7・§8／[`サフィックス系譜比較調査ノート.md`](../../notes/サフィックス系譜比較調査ノート.md) §3・§4／[`Arena設計思想調査ノート.md`](../../notes/Arena設計思想調査ノート.md)／[`第6章_normcore追加_計画.md`](../../第6章_normcore追加_計画.md)／[`画像bot挿入_計画.md`](../../画像bot挿入_計画.md)
+**正本**：[`khole-arena-archillect-researtch.md`](../../notes/khole-arena-archillect-researtch.md) §1・§2・§3・§4・§5・§7・§8／[`サフィックス系譜比較調査ノート.md`](../../notes/サフィックス系譜比較調査ノート.md) §3・§4／[`Arena設計思想調査ノート.md`](../../notes/Arena設計思想調査ノート.md)／[`第6章_normcore追加_計画.md`](../../docs/第6章_normcore追加_計画.md)／[`画像bot挿入_計画.md`](../../docs/画像bot挿入_計画.md)
 
 **挿入箇所（4か所）**：
 1. 【主】第6章 導入段落（草稿 L1101）の後、`## vaporwave の政治的受容`（L1103）の前。新規 `##` 節。

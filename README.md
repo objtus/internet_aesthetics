@@ -29,7 +29,7 @@
 
 ## ファイル構成
 
-### 作業基盤・横断資料（2026-07 整備）
+### 作業基盤・横断資料（2026-08 整備）
 
 | ファイル | 内容 |
 |---|---|
@@ -93,6 +93,7 @@
 | [`internet_aesthetic語と制度化_調査ノート.md`](notes/internet_aesthetic語と制度化_調査ノート.md) | internet aesthetic 語史 |
 | [`tumblrタイムライン.md`](notes/tumblrタイムライン.md) | Tumblr 企業史 |
 | [`CARIの歴史.md`](notes/CARIの歴史.md) | CARI 機関史 |
+| [`inv-opn-cook_年表.md`](notes/inv-opn-cook_年表.md) | OPN・Cook 交差年表 |
 | その他20ファイル | [`notes/`](./notes/) 内を参照 |
 
 </details>
@@ -145,7 +146,6 @@
 | [`docs/lofi-HD草稿全体の構造メモ.md`](docs/lofi-HD草稿全体の構造メモ.md) | lo-fi/HD章と全体構造の検討 |
 | [`docs/src-6_仕分け.md`](docs/src-6_仕分け.md) | 資料の仕分け |
 | [`docs/intro-kojiateki_引用メモ.md`](docs/intro-kojiateki_引用メモ.md) | 序文の引用関連メモ |
-| [`inv-opn-cook_年表.md`](notes/inv-opn-cook_年表.md) | OPN・Cook関連年表 |
 | [`docs/第7章_reorg_計画.md`](docs/第7章_reorg_計画.md) | 第7章「爆発」再構成の計画・帰属確認 |
 | [`archive/反映済み文案/第7章_reorg_文案.md`](./archive/反映済み文案/第7章_reorg_文案.md) | 第7章再構成の**文案正本**（`草稿.md` 反映済・2026-07-23） |
 | [`docs/第6章_reorg_計画.md`](docs/第6章_reorg_計画.md) | 第6章 reorg 計画 |
@@ -211,4 +211,4 @@
 
 ---
 
-*最終更新：2026-07-07（作業基盤整備：timeline / context-map / 整合性レビュー / 文体分離・スキル化）*
+*最終更新：2026-08-04（`sources/`・`notes/`・`docs/`・`manuscript/` 整備）*

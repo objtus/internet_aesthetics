@@ -1,6 +1,6 @@
 # 第2章取込 SuperSuper! Magazine（src-2）
 
-**対象**：[`草稿.md`](./草稿.md)  
+**対象**：[`草稿.md`](../../草稿.md)  
 **改稿日**：2026-06-02（独立節版）  
 **正本**：[`supersuper.md`](../../notes/supersuper.md)  
 **方針**：分散挿入ではなく **`## SuperSuper! Magazineという記録媒体`** として `## witch-house.com` 直後に新設。年表 L264 は前方参照に圧縮。slimepunk は本節で書き切り、遺産節 NYT 段落は Chino Amobi に集中し1文で接続。

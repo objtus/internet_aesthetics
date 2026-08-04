@@ -1,6 +1,6 @@
 # 第1章取込 GeoCities土壌・Tumblr二つの流れ（rev-2/3）
 
-**対象**：[`草稿.md`](./草稿.md) 第1章  
+**対象**：[`草稿.md`](../../草稿.md) 第1章  
 **操作**：① GeoCities 節末尾に Internet Archaeology＋One Terabyte 追記　② ポストインターネット節に二つの流れ・dump.fm・Jogging・流れ2 追記  
 **反映日**：2026-06-02
 

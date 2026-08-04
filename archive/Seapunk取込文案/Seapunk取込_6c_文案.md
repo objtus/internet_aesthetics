@@ -1,6 +1,6 @@
 # Seapunk 取込 6c（文案）
 
-**対象ファイル**：[`草稿.md`](./草稿.md)  
+**対象ファイル**：[`草稿.md`](../../草稿.md)  
 **行番号の基準**：6b 反映後の草稿（**反映前**の行を指す）  
 **計画 ID**：c01, c02, c03, c04, c05  
 **出典正本**：[`Seapunk 詳細調査ノート.md`](../../notes/Seapunk 詳細調査ノート.md) §8-2a, §9  
@@ -98,7 +98,7 @@ seapunk が主流に触れた直後、同じ語彙が批評文脈でも使われ
 
 **判断**：Tumblr 特集と「ビジュアルは Tumblr から」は**重要**（ユーザー指摘どおり）。aesthetic 節だけに閉じるとプラットフォーム論が薄れるが、aesthetic 節に長く書くと年表が seapunk 節と二重化する。**6c-2 には Zombelle の Tumblr 起源を1文**、厚みは **6b-reorg**（VICE 年表軸のあと、Zombelle／Ultrademon・Coral 側の声として #tumblrwave）がよい。
 
-**草稿の現状**：H∆SHTAG$ は**未出**。Coral／Zombelle は 6b でレーベル・Tropicult 等はあるが、ep5 級の**当事者映像**はまだない。厚みは [`next_tasks.md`](./next_tasks.md) **6b-reorg**（H∆SHTAG$・M.I.A.・Tim and Eric）。Jerome LOL・Reblorg は草稿 L230 済み。
+**草稿の現状**：H∆SHTAG$ は**未出**。Coral／Zombelle は 6b でレーベル・Tropicult 等はあるが、ep5 級の**当事者映像**はまだない。厚みは [`next_tasks.md`](../../next_tasks.md) **6b-reorg**（H∆SHTAG$・M.I.A.・Tim and Eric）。Jerome LOL・Reblorg は草稿 L230 済み。
 
 - Zombelle の "We're not a web joke" は **6b-reorg** 向け（本ブロックでは省略）。
 
@@ -121,7 +121,7 @@ seapunk が主流に触れた直後、同じ語彙が批評文脈でも使われ
 **却下理由（2026-06-02）**
 
 1. **Floral Shoppe と "aesthetic" の年代**：『Floral Shoppe』収録曲「リサフランク420 / 現代のコンピュー」の再投稿動画は 2012年2月14日リリースに紐づくが、**コメント欄に "aesthetic" と書き込まれ始めた時期は一次資料で特定できない**。6c-3 文案の「YouTube コメント欄への aesthetic（『Floral Shoppe』、2012年2月）」は不正確。
-2. **L254 の整理タイミング**：Cluster Mag（2011-12）の直後に「転機は2012年から2013年…」があり、Floral Shoppe 段落・6c 挿入後も読み順のねじれは残る。**L254 は 6b-reorg または §9** で aesthetic 節全体と合わせて扱う（[`next_tasks.md`](./next_tasks.md) 横断項目・[`Seapunk調査_取り込み計画.md`](../../docs/Seapunk調査_取り込み計画.md) 実行メモ参照）。
+2. **L254 の整理タイミング**：Cluster Mag（2011-12）の直後に「転機は2012年から2013年…」があり、Floral Shoppe 段落・6c 挿入後も読み順のねじれは残る。**L254 は 6b-reorg または §9** で aesthetic 節全体と合わせて扱う（[`next_tasks.md`](../../next_tasks.md) 横断項目・[`Seapunk調査_取り込み計画.md`](../../docs/Seapunk調査_取り込み計画.md) 実行メモ参照）。
 
 **反映方針**：**6c-1・6c-2 のみ**草稿に挿入。L254 は現状のまま。
 

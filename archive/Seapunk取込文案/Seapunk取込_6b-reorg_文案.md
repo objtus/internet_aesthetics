@@ -1,12 +1,12 @@
 # Seapunk 取込 6b-reorg（文案）
 
-**対象**：[`草稿.md`](./草稿.md) L179〜L221（`## 2011年6月1日のツイート` 〜 内部対立末尾、`## seapunkの死と遺産` の直前）  
+**対象**：[`草稿.md`](../../草稿.md) L179〜L221（`## 2011年6月1日のツイート` 〜 内部対立末尾、`## seapunkの死と遺産` の直前）  
 **操作**：節全体の**差し替え**（叙述順・見出し分割）  
 **維持**：`## seapunkの死と遺産` 以降（6b-4 反映済み）は触らない
 
 **6f との分担**：VICE 年表の**全文展開・Fig. 解説・2011夏の厚い場面描写**（CMJ・エコシステム段落含む）は **6f-vice**。本 reorg は年表を**叙述の主軸**として要約し、Coral 側・witch-house.com を相対化する。
 
-**6c との重複回避**：H∆SHTAG$ の ideology／Dodecahedron aesthetics／hyper-segmentation は **aesthetic 節（6c-2）に反映済み**。**反映用には ep5 を入れない**（プラットフォーム厚みは下記「除外した段落」に退避。seapunk 節への再配置は [`next_tasks.md`](./next_tasks.md) 横断表参照）。
+**6c との重複回避**：H∆SHTAG$ の ideology／Dodecahedron aesthetics／hyper-segmentation は **aesthetic 節（6c-2）に反映済み**。**反映用には ep5 を入れない**（プラットフォーム厚みは下記「除外した段落」に退避。seapunk 節への再配置は [`next_tasks.md`](../../next_tasks.md) 横断表参照）。
 
 **M.I.A.・Tim and Eric**：反映用・三つの流れには**入れない**。激怒記事（Perpetua）本文のあとに追記予定。文案は「除外した段落」L80。
 
@@ -97,7 +97,7 @@ Lil InternetとLil Governmentの年表をみれば、確かにUltrademonとZombe
 ## 反映チェックリスト
 
 - [x] 文案改稿・反映用確定（ユーザー改稿 2026-06-02）
-- [x] [`草稿.md`](./草稿.md) `## 2011年6月1日のツイート`〜`## seapunkの死と遺産` 直前を「反映用」で差し替え（2026-06-02・改稿版）
+- [x] [`草稿.md`](../../草稿.md) `## 2011年6月1日のツイート`〜`## seapunkの死と遺産` 直前を「反映用」で差し替え（2026-06-02・改稿版）
 - [x] `## seapunkの死と遺産` 以降無変更。M.I.A. 前史は未挿入（激怒記事の**後**へ追記予定）
 - [x] aesthetic 節：ideology／Dodecahedron は reorg では触れず（6c-2 のみ）
 - [x] 反映用に制作メタなし

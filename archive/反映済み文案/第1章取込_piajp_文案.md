@@ -1,7 +1,7 @@
 # 第1章取込_日本のポストインターネットアート受容_文案（inv-piajp）
 
 **対象**：日本語圏におけるポストインターネットアート受容の簡単な紹介（雑誌特集2誌）。
-**調査正本**：[`next_tasks.md`](./next_tasks.md) inv-piajp 詳細節／[IDEA No.366](https://www.idea-mag.com/en/idea_magazine/366/)／[美術手帖 2015年6月号](https://bijutsutecho.com/backnumber/749)／[CBCNET 紹介記事](https://www.cbc-net.com/topic/2014/08/idea-mag366-post-internet/)
+**調査正本**：[`next_tasks.md`](../../next_tasks.md) inv-piajp 詳細節／[IDEA No.366](https://www.idea-mag.com/en/idea_magazine/366/)／[美術手帖 2015年6月号](https://bijutsutecho.com/backnumber/749)／[CBCNET 紹介記事](https://www.cbc-net.com/topic/2014/08/idea-mag366-post-internet/)
 
 ---
 

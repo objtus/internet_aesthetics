@@ -1,9 +1,9 @@
 # コンテキストマップ——「インターネット美学のクロニクル」調査資料の全体地図
 
-> 生成日: 2026-07-06
-> 対象: `F:\project\internet_aesthetics` 直下の全Markdownファイル(74件)+`archive/`(反映済み文案27件・Seapunk取込文案7件)+`timeline.md`
+> 生成日: 2026-07-06（構成更新: 2026-08-04 — `sources/`・`notes/`・`docs/`・`manuscript/` 整備）
+> 対象: ルート作業基盤（`草稿.md`・`timeline.md`・`next_tasks.md` 等）＋[`sources/`](./sources/)・[`notes/`](./notes/)・[`docs/`](./docs/)・[`manuscript/`](./manuscript/)・[`archive/`](./archive/)
 > 用途: どのノートがどの章・どの主張の根拠か/ノート間の矛盾/未解決の【要検証】/更新が必要な箇所を一覧し、**根拠の優先順位(正本ルール)**を確定する。
-> 読み落とし検証: ファイル一覧(`ls`)との突き合わせを30ファイルごとに3パスで実施(§7)。全74ファイル+archiveを分類済み。
+> 読み落とし検証: 2026-07-06 時点の全件分類（§7）。**2026-08-04** に `sources/`・`notes/`・`docs/`・`manuscript/` へ再配置済み。
 
 ---
 
@@ -18,7 +18,7 @@
 | **L2 統合資料** | `timeline.md`(日付の統合インデックス)、`README.md`(ファイル案内) | 横断参照用。**原典はL1**。timeline.mdの【要検証】V1〜V23は未解決印として維持 |
 | **L3 成果物** | `草稿.md`(序文+全8章+後記)、[`manuscript/`](./manuscript/)内の分割稿（参照用） | **本文の正本**は `草稿.md`。分割稿は手動同期の参照用で、食い違えば草稿.mdが正 |
 | **L4 編集作業ファイル** | [`docs/`](./docs/) 内の計画・考察・レビュー・文案(取込_*_文案、*_計画、*_考察、レビュー系) | 意思決定の記録。事実の根拠には使わない。`archive/反映済み文案/`は履歴専用 |
-| **L5 旧稿アーカイブ** | 草稿旧第2と3章.md、第3章_aestheticという語archive.md | 引用・根拠に使わない |
+| **L5 旧稿アーカイブ** | [`docs/草稿旧第2と3章.md`](./docs/草稿旧第2と3章.md)、[`docs/第3章_aestheticという語archive.md`](./docs/第3章_aestheticという語archive.md) | 引用・根拠に使わない |
 
 ### 1-2. テーマ別の正本(どのノートを正とするか)
 
@@ -267,14 +267,14 @@
 
 | # | 箇所 | 問題 | 推奨対応 |
 |---|---|---|---|
-| 1 | **README.md** | ~~「調査参照ファイル」「個別調査ノート」表に後発ノートが未収載~~ → **2026-07-07 更新済**（timeline・context-map・整合性レビュー・project-style-notes・文体分離・スキル・後発ノート追記・分割稿注意書き）。残: Web 2.0年表誤記(V10/V11)等は #4 参照 | — |
+| 1 | **README.md** | ~~「調査参照ファイル」「個別調査ノート」表に後発ノートが未収載~~ → **2026-07-07 更新済**。**2026-08-04** に `sources/`・`notes/`・`docs/`・`manuscript/` へ再配置済み。残: Web 2.0年表誤記(V10/V11)等は #4 参照 | — |
 | 2 | **美学ミーム覚書 §3.4** | KYM由来の「リサフランク420→aesthetic定着」叙述が、aesthetic手動調査(2026-06-02)の否定的事実を還流していない(草稿側は修正済み、ノート側が旧) | 覚書に手動調査への相互参照と限定を追記 |
 | 3 | **インターネット美学ノート §10-2(未調査リスト)** | 「-coreサフィックスの意味論」「Y2K aesthetic」「AestheticsWikiの役割」は後発ノート(サフィックス系譜・CARIの歴史・aesthetic wikiレポート・internet_aesthetic語ノート)で調査済みなのに未更新 | チェックを付け相互参照を張る |
 | 4 | **Web 2.0の詳細年表** | Instagram(V10)・Vine(V11)の誤記疑い。末尾「2021年後半」の文が途切れている | 訂正または注記。timeline.mdのV10/V11を還流 |
 | 5 | **tumblrタイムライン.md**(作成2026-05) | 2026-03-16リブログ抗議の「その後」(Staff対応の帰結)が未追跡 | 任意で追記 |
 | 6 | **Google_Trends調査** | 2026-06-23取得のスナップショット。Trendsは再正規化されるため経時劣化する | 再取得時に差分メモ(ノート自身のTODO) |
-| 7 | **分割稿6ファイル+序文.md** | 手動同期のため草稿.mdより遅れる(ノート自身が明記)。番号も旧構成 | フェーズ7(全面同期)まで参照は草稿.md優先 |
-| 8 | **草稿旧第2と3章.md/第3章_aestheticという語archive.md** | 旧稿。現行の主張(例: aesthetic節の独立章化前の構成)と食い違う | 引用禁止の明示(本マップL5) |
+| 7 | **分割稿（`manuscript/`）** | 手動同期のため草稿.mdより遅れる。ファイル名は旧6章番号 | 参照は [`草稿.md`](./草稿.md) 優先。[`manuscript/README.md`](./manuscript/README.md) 参照 |
+| 8 | **旧稿（`docs/` L5）** | [`docs/草稿旧第2と3章.md`](./docs/草稿旧第2と3章.md) 等。現行の主張と食い違う | 引用禁止（本マップ L5） |
 | 9 | **_next_tasks_head.md** | next_tasks.mdの旧ヘッドコピー(重複) | 削除候補または「スナップショット」と明記 |
 | 10 | **khole-arena-archillect-researtch §12** | CARIのAre.na利用(2026-06-26予備調査)の未確認事項がArena設計思想ノート(2026-06-27)で一部解消済み(Discord設立日・機能分担)だが、§12側は未更新 | Arena設計思想ノートへのポインタ追記 |
 | 11 | **note_極右の世界のBGM.md** | Vice記事日付(12/15)とRave News実話扱いの二点が政治化ノートで訂正済み | 転写ファイル冒頭に「二次・訂正あり」の注記(既に政治化ノート側にはあり) |
@@ -294,7 +294,7 @@
 
 ## 7. 読み落とし検証(ファイル一覧との突き合わせ)
 
-`ls *.md`(74件)+`archive/`に対し、30ファイルごとに3パスで全件を以下のいずれかに分類したことを確認済み(2026-07-06)。
+`ls` 相当の一覧（2026-07-06 時点・74件+archive）に対し、30ファイルごとに3パスで全件を以下のいずれかに分類したことを確認済み。**2026-08-04** に L1→`notes/`、L4/L5→`docs/`、分割稿→`manuscript/`、L0→`sources/` へ移動。
 
 - **パス1(1〜30件目)**: _next_tasks_head/§8-2/6d-review×2/aesthetic wiki/aesthetic_文法/aesthetic手動/Arena/CARI_調査/CARIの歴史/FrankJavCee/Google_Trends/HIT/internet_aesthetic語/intro-kojiateki/inv-opn-cook/khole/lofi-HD/MP3ブログ/musicplusghost/Nanoformats/next_tasks/note_極右/nytimes/RA×2/README/scene/Seapunk詳細/Seapunk取り込み計画 → 全て§1〜§5に分類済み
 - **パス2(31〜60件目)**: SilentGeneration/src-6/supersuper/timeline/tumblrタイムライン/Unveiling/Vaporwave論文×2/vaporwave政治化/vice/Web2.0/witchhouse-chillwave/インターネット美学/インディーウェブ/サフィックス/ハイパーポップ/画像bot/序文/序文_改稿/草稿/ファクト補強/レビュー論点/推敲メモ/明晰さレビュー/草稿旧/第1章_土壌/第2章_aesthetic分離/第2章_ed3/第2章_命名/第3章_rev1/第3章_aestheticという語 → 全て分類済み

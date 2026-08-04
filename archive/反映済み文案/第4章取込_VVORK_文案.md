@@ -3,7 +3,7 @@
 **タスク**：inv-khole-1a  
 **反映日**：2026-06-29  
 **挿入位置（確定）**：第4章 lo-fiとHD。Hito Steyerl 節の移行文（草稿 L730）の直後、`## distroid——充填されなかった名前`（L751）の前。新規 `### VVORK と「無言のキュレーション」`（L734–746、6段落）。  
-**正本**：[`khole-arena-archillect-researtch.md`](../../notes/khole-arena-archillect-researtch.md) §7.2・§7.3・§8.1〜8.6・§9／[`画像bot挿入_計画.md`](../../画像bot挿入_計画.md) 第4章セクション／美術手帖 Nukeme 記事  
+**正本**：[`khole-arena-archillect-researtch.md`](../../notes/khole-arena-archillect-researtch.md) §7.2・§7.3・§8.1〜8.6・§9／[`画像bot挿入_計画.md`](../../docs/画像bot挿入_計画.md) 第4章セクション／美術手帖 Nukeme 記事  
 **役割**：仕込み（第6章 inv-khole-1b で Archillect/rare.jpg として回収、第8章 inv-khole-1c で Are.na として回収）
 
 **ステータス**：☑ 草稿反映済（2026-06-29）

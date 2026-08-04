@@ -1,6 +1,6 @@
 # Seapunk 取込 6d（文案）
 
-**対象ファイル**：[`草稿.md`](./草稿.md)  
+**対象ファイル**：[`草稿.md`](../../草稿.md)  
 **行番号の基準**：6e 反映後の草稿（**反映前**の行を指す）  
 **計画 ID**：d01〜d04（§12 レーベル比較表全文は本文に入れない）  
 **出典正本**：[`Seapunk 詳細調査ノート.md`](../../notes/Seapunk 詳細調査ノート.md) §2（2-1〜2-8）；[witch-house.com THE TIMELINE](https://witch-house.com/thetimeline/)
@@ -95,7 +95,7 @@
 - [ ] aesthetic 節 L280 と KingTreehouse／Dodecahedron の記述が矛盾しないか
 - [ ] seapunk 節との witch-house.com 開設の三重叙述（6d-opt で調整）
 - [ ] 反映用に「調査ノート」「6d」「§…」等のメタがないか
-- [ ] 反映後：[`草稿_推敲メモ.md`](../../docs/草稿_推敲メモ.md) ログ・[`next_tasks.md`](./next_tasks.md) 6d ☐→☑
+- [ ] 反映後：[`草稿_推敲メモ.md`](../../docs/草稿_推敲メモ.md) ログ・[`next_tasks.md`](../../next_tasks.md) 6d ☐→☑
 
 ---
 
@@ -112,4 +112,4 @@
 
 ---
 
-*更新：2026-06-02。方針改訂（小節内詳述・§2 還流）。草稿反映済み。**推敲は [`next_tasks.md`](./next_tasks.md) §6d-review 参照。*
+*更新：2026-06-02。方針改訂（小節内詳述・§2 還流）。草稿反映済み。**推敲は [`next_tasks.md`](../../next_tasks.md) §6d-review 参照。*

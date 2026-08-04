@@ -1,6 +1,6 @@
 # Seapunk 取込 6d-review（文案）
 
-**対象ファイル**：[`草稿.md`](./草稿.md)  
+**対象ファイル**：[`草稿.md`](../../草稿.md)  
 **行番号の基準**：6f 反映後の草稿（**反映前**の行を指す）  
 **性質**：**改稿**。節構成を **chillwave＋hypnagogic pop＋憑在論 → witch house** の順に再編する。
 
@@ -143,7 +143,7 @@ witch house コミュニティのなかで描かれた歴史観を代表する�
 - [ ] 6d-r1（witch house）反映
 - [ ] L155 締め維持
 - [ ] 反映用に制作メタなし
-- [ ] [`草稿_推敲メモ.md`](../../docs/草稿_推敲メモ.md)・[`next_tasks.md`](./next_tasks.md) 更新
+- [ ] [`草稿_推敲メモ.md`](../../docs/草稿_推敲メモ.md)・[`next_tasks.md`](../../next_tasks.md) 更新
 
 ---
 

@@ -1,6 +1,6 @@
 # Seapunk 取込 6e（文案）
 
-**対象ファイル**：[`草稿.md`](./草稿.md)  
+**対象ファイル**：[`草稿.md`](../../草稿.md)  
 **行番号の基準**：6b-reorg 反映後の草稿（**反映前**の行を指す）  
 **計画 ID**：e01, e02, e03（e03＝Vatican Vibes／distroid は **6e-1 内で簡潔に**。DMY 節で詳述）  
 **出典正本**：[`Seapunk 詳細調査ノート.md`](../../notes/Seapunk 詳細調査ノート.md) §8-4, §10；[`aestheticに関する手動調査.md`](../../notes/aestheticに関する手動調査.md)（r/vaporwave Wayback）
@@ -11,7 +11,7 @@
 
 **DMY 節との分担**：第2章 `## 2012年7月12〜13日、DMY Magazine`（L338 付近）に Harper・Jones（distroid）の展開は既出。6e-1 は擁護記事・cousin・Harper 要約と **Jones／Vatican Vibes への1文**まで。DMY 節との**三重叙述**に注意。
 
-**6b-reorg 後続**：M.I.A.／Tim and Eric は [`Seapunk取込_6b-reorg_文案.md`](./Seapunk取込_6b-reorg_文案.md) 除外箱。本フェーズでは扱わない。
+**6b-reorg 後続**：M.I.A.／Tim and Eric は [`Seapunk取込_6b-reorg_文案.md`](../../archive/Seapunk取込文案/Seapunk取込_6b-reorg_文案.md) 除外箱。本フェーズでは扱わない。
 
 ---
 
@@ -127,7 +127,7 @@
 - [x] 「これは後に検討する」→ aesthetic 節（L273 付近）へ接続
 - [x] 6e-1 は激怒詳述（L252 付近）より前。擁護→their aesthetic 予感→cousin の順
 - [x] 反映用に制作メタなし
-- [x] [`草稿_推敲メモ.md`](../../docs/草稿_推敲メモ.md)・[`next_tasks.md`](./next_tasks.md) 更新済み
+- [x] [`草稿_推敲メモ.md`](../../docs/草稿_推敲メモ.md)・[`next_tasks.md`](../../next_tasks.md) 更新済み
 
 ---
 

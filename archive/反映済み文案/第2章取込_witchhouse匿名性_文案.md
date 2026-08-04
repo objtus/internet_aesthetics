@@ -129,5 +129,5 @@ Neocities（L1063、Kyle Drake "anonymous, uncensored"）の匿名性は、ペ�
 3. 草稿 総括に Insertion C（2段落挿入＋締め段落改稿）
 4. 分割稿 `[第2章_命名の時代.md](../../manuscript/第2章_命名の時代.md)` 同期（該当3箇所）
 5. `[草稿_推敲メモ.md](../../docs/草稿_推敲メモ.md)` に src-6f 改稿ログ
-6. `[src-6_仕分け.md](../../docs/src-6_仕分け.md)`・`[next_tasks.md](./next_tasks.md)` 更新（src-6f ☑、rev-9 ☑、§7 ☑）
+6. `[src-6_仕分け.md](../../docs/src-6_仕分け.md)`・`[next_tasks.md](../../next_tasks.md)` 更新（src-6f ☑、rev-9 ☑、§7 ☑）
 

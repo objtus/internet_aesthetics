@@ -48,7 +48,7 @@ Post T.V. のプログラムノートが言っていた「粗いピクセルや�
 | poor image の定義（copy in motion, deteriorates as it accelerates） | 同上。原文："The poor image is a copy in motion. Its quality is bad, its resolution substandard. As it accelerates, it deteriorates." |
 | 展示価値→カルト価値／流通への転換 | 同上。原文："It transforms quality into accessibility, exhibition value into cult value" |
 | ポストインターネット文脈での位置づけ・HD 路線との対比メモ | [`MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md`](../../notes/MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md) §14 L723、§15 L735–737 |
-| Post T.V. プログラムノートの粒状感・グリッチ | [`第2章取込_lofi映像Post-TV_文案.md`](./第2章取込_lofi映像Post-TV_文案.md)／[公式プログラムブログ](https://lofifortheeyes.blogspot.com/) |
+| Post T.V. プログラムノートの粒状感・グリッチ | [`第2章取込_lofi映像Post-TV_文案.md`](../../archive/反映済み文案/第2章取込_lofi映像Post-TV_文案.md)／[公式プログラムブログ](https://lofifortheeyes.blogspot.com/) |
 
 **URL 訂正**：next_tasks.md 旧記載の `/62162/` は誤り。正は `/61362/`。
 

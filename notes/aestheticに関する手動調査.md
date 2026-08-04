@@ -1,7 +1,7 @@
 # aesthetic に関する手動調査
 
 **調査日**：2026-06-02  
-**用途**：[`草稿.md`](../草稿.md) aesthetic 節（§9）、[`Seapunk取込_6c_文案.md`](../Seapunk取込_6c_文案.md)、[`docs/草稿_ファクト補強調査.md`](docs/草稿_ファクト補強調査.md) のファクト根拠。以下は**作業ログ**（X 検索・Wayback・Reddit・二次サイト転記）。
+**用途**：[`草稿.md`](../草稿.md) aesthetic 節（§9）、[`Seapunk取込_6c_文案.md`](../archive/Seapunk取込文案/Seapunk取込_6c_文案.md)、[`docs/草稿_ファクト補強調査.md`](../docs/草稿_ファクト補強調査.md) のファクト根拠。以下は**作業ログ**（X 検索・Wayback・Reddit・二次サイト転記）。
 
 ---
 

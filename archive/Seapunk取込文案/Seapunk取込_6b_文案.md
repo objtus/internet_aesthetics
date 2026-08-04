@@ -1,6 +1,6 @@
 # Seapunk 取込 6b（文案）
 
-**対象ファイル**：[`草稿.md`](./草稿.md)  
+**対象ファイル**：[`草稿.md`](../../草稿.md)  
 **行番号の基準**：本文案作成時点の草稿（**反映前**）。ブロックを順に反映すると行番号はずれる。下書きの「挿入位置」は**反映前**の行を指す。  
 **計画 ID**：b01, b02, b03, b04, b05, b06（b07 は任意・文末に記載）  
 **出典正本**：[`Seapunk 詳細調査ノート.md`](../../notes/Seapunk 詳細調査ノート.md) §4, §5, §6, §7, §8-2a  
@@ -278,6 +278,6 @@ Volume 1 のリリースから約1ヶ月後の同年10月、Coral Records はブ
 
 *作成：2026-06-02。6b-1〜6b-4b は草稿反映済み。*
 
-**保留（6b-reorg）**：初期節の叙述順・トーン整理は **6c 完了後**に [`next_tasks.md`](./next_tasks.md) の **6b-reorg** で実施。VICE 年表を軸に、対立の有事実 → Zombelle／Ultrademon（Tropicult・Coral）→ witch-house.com → 三流れのまとめ、の順への再配置と節分割を検討。草稿 L220 付近（Detrick／嘘の文）は攻撃的に読まれうるため reorg で調整。
+**保留（6b-reorg）**：初期節の叙述順・トーン整理は **6c 完了後**に [`next_tasks.md`](../../next_tasks.md) の **6b-reorg** で実施。VICE 年表を軸に、対立の有事実 → Zombelle／Ultrademon（Tropicult・Coral）→ witch-house.com → 三流れのまとめ、の順への再配置と節分割を検討。草稿 L220 付近（Detrick／嘘の文）は攻撃的に読まれうるため reorg で調整。
 
 *6c 以降の文案も本ファイルのフォーマット規約に従う。*

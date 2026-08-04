@@ -1,6 +1,6 @@
 # §9 aesthetic 語法年表（文案）
 
-**対象**：[`草稿.md`](./草稿.md) `## 「aesthetic」という語——包含関係の逆転`（L305–371 付近）  
+**対象**：[`草稿.md`](../../草稿.md) `## 「aesthetic」という語——包含関係の逆転`（L305–371 付近）  
 **正本素材**：[`aestheticに関する手動調査.md`](../../notes/aestheticに関する手動調査.md)（サマリー）、[`序文_改稿.md`](../../manuscript/序文_改稿.md)（KYM Wayback・三段論）、[`FrankJavCee文字起こし.md`](../../sources/transcripts/FrankJavCee文字起こし.md)  
 **方針**：6c-1/2・6e は維持。**Floral Shoppe コメント起源説を緩和**。包含関係の逆転を **KYM サイト分類／語彙の汎化／CARI・Wiki 制度化** の三段で再確定。
 

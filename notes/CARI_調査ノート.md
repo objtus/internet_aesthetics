@@ -405,5 +405,5 @@ CARI だけの話ではない。seapunk も 2011年夏に Ultrademon の**秘密
 - [`CARIの歴史.md`](./CARIの歴史.md) — CARI 公式年表の和訳・整理
 - [`草稿.md`](../草稿.md) — 第5章 L780–805、第2章 distroid／PC Music
 - [`supersuper.md`](./supersuper.md) — PC Music 前史（SuperSuper! 経由の AG Cook）
-- [`docs/編集方針.md`](docs/編集方針.md)
+- [`docs/編集方針.md`](../docs/編集方針.md)
 - [`next_tasks.md`](../next_tasks.md) — Global Village Coffeehouse と CARI
