@@ -123,6 +123,8 @@
 | [`nytimes_littlemermaidgoespunk.md`](./sources/transcripts/nytimes_littlemermaidgoespunk.md) | NYT seapunk 記事転写 |
 | [`note_極右の世界のBGM.md`](./sources/transcripts/note_極右の世界のBGM.md) | note 転写（**二次資料**。正文出典にしない） |
 | [`musicplusghost.md`](./sources/transcripts/musicplusghost.md) | FEECO *MUSIC + GHOST* 全文転写（src-1 正本） |
+| [`tumblrwave_speakers.srt`](./sources/transcripts/tumblrwave_speakers.srt) | H∆SHTAG$ ep5「#Tumblrwave」話者確定字幕（2013-03-06） |
+| [`blogpop_speakers.srt`](./sources/transcripts/blogpop_speakers.srt) | H∆SHTAG$ ep6「#BlogPop」話者確定字幕（2013-03-13・一部聞き取り未確認） |
 
 ---
 

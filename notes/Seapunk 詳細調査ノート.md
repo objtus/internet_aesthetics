@@ -658,13 +658,13 @@ ep5にはDaniel Dodecahedron（BlackBlackGold/GucciGoth）も出演している�
 
 #### ep5における各出演者の発言（話者確定済み・一次資料）
 
-以下は動画視聴による話者確定・タイムスタンプ修正済みの記録。字幕ファイルとして tumblrwave_speakers.srt を作成した。
+以下は動画視聴による話者確定・タイムスタンプ修正済みの記録。字幕ファイル：[`tumblrwave_speakers.srt`](../sources/transcripts/tumblrwave_speakers.srt)（L0 正本）。
 
 **Zombelle**
 
 > "This is, like, the worst article, except for, like, Lil Internet and Pendu, it is an inside web joke that feeds off its own ridiculousness. That's pretty funny."（`00:03`〜）
 
-冒頭でseapunkに関する記事を引用・批評する発言。Pendu（Todd Brooks）とLil Internetへの言及がある。
+冒頭で、画面に映し出された『New York Times』（Ben Detrick、2012年3月）の seapunk 記事から *"Like LOLcats and pedobear, it is an inside Web joke that feeds off its own ridiculousness."* を読み上げ、続けて *That's pretty funny* と付け加える。**字幕の "Pendu" は pedobear の誤記**（Todd "Pendu" Brooks ではない）。転写：[`nytimes_littlemermaidgoespunk.md`](../sources/transcripts/nytimes_littlemermaidgoespunk.md) L25。
 
 > "We don't want to be seen as, like, teens in their room trying to make web art."（`00:56`〜）
 
@@ -774,8 +774,23 @@ seapunkというラベルから逃れたら今度はgay rapというラベルが
 URL：https://www.youtube.com/watch?v=DRtR_mEUiXE  
 参照：H∆SHTAG$ ep5 動画（Red Bull）  
 URL：https://www.redbull.com/int-en/videos/h%E2%88%86shtag-episode-5-don%E2%80%99t-call-it-tumblrwave  
+参照：H∆SHTAG$ ep5 文字起こし（話者確定字幕）  
+[`tumblrwave_speakers.srt`](../sources/transcripts/tumblrwave_speakers.srt)  
 参照：Complex記事（2013年3月6日）  
 URL：https://www.complex.com/music/2013/03/kilo-kish-le1f-and-others-speak-on-the-misperception-of-tumblrwave
+
+### 9-3b. ep6「Don't Call It #BlogPop」（2013年3月13日）
+
+seapunk 当事者は出演しないが、S1 最終回として Tumblr 世代の「Blog Pop」論点（インターネット行動・ジャンル境界・配信）を記録している。
+
+話者確定字幕：[`blogpop_speakers.srt`](../sources/transcripts/blogpop_speakers.srt)（2026-08 作成）。AlunaGeorge、Charli XCX、Katy B、Teengirl Fantasy、Blood Diamond、Ruth Saxelby（ナレーション）ほか。
+
+**聞き取り未確認**（映像照合前）：ナレーション "dude in all culture"、"post-mart duo"、"third floor cream"；AlunaGeorge 発言内 "post-mart" 等。本文引用時は要再確認。
+
+参照：H∆SHTAG$ S1 エピソード一覧（§9-2 表 Ep6）  
+URL：https://daily.redbullmusicacademy.com/2013/03/hashtags-video-series/
+
+---
 
 ### 9-4. 「Don't Call It」というタイトル形式の意味
 
@@ -869,7 +884,7 @@ Dan Hancoxによる記事。グライムはシーズン1のpostdubstepとも接�
 
 ### 9-6. H∆SHTAG$の資料的意義
 
-1. **当事者の一次証言のアーカイブ**：Zombelle・Ultrademon・Le1f・Kilo Kish・Daniel Dodecahedronへのインタビューが映像として残されている。話者を特定した文字起こしは本調査で作成した（tumblrwave_speakers.srt）。
+1. **当事者の一次証言のアーカイブ**：Zombelle・Ultrademon・Le1f・Kilo Kish・Daniel Dodecahedronへのインタビューが映像として残されている。話者を特定した文字起こし：ep5 [`tumblrwave_speakers.srt`](../sources/transcripts/tumblrwave_speakers.srt)、ep6 [`blogpop_speakers.srt`](../sources/transcripts/blogpop_speakers.srt)（いずれも `sources/transcripts/`）。
 
 2. **制作タイミング**：seapunk崩壊直後（2013年初頭）という時期に制作されており、当事者たちが「終わったもの」としてではなく現役の立場から語っている。
 
@@ -1149,7 +1164,8 @@ Discogs "Coral Records Internazionale"：https://www.discogs.com/label/369506-Co
 | H∆SHTAG$ ep5 動画（YouTube） | 一次資料（映像） | https://www.youtube.com/watch?v=DRtR_mEUiXE |
 | H∆SHTAG$ ep5 動画（Red Bull） | 一次資料（映像） | https://www.redbull.com/int-en/videos/h%E2%88%86shtag-episode-5-don%E2%80%99t-call-it-tumblrwave |
 | Complex "Kilo Kish, Le1f and Others Speak on the Misperception of Tumblrwave" | 二次資料（ジャーナリズム） | https://www.complex.com/music/2013/03/kilo-kish-le1f-and-others-speak-on-the-misperception-of-tumblrwave |
-| tumblrwave_speakers.srt（本調査作成・話者確定字幕） | 一次資料（文字起こし） | 本調査作成ファイル |
+| tumblrwave_speakers.srt（ep5・話者確定字幕） | 一次資料（文字起こし） | [`sources/transcripts/tumblrwave_speakers.srt`](../sources/transcripts/tumblrwave_speakers.srt) |
+| blogpop_speakers.srt（ep6・話者確定字幕） | 一次資料（文字起こし） | [`sources/transcripts/blogpop_speakers.srt`](../sources/transcripts/blogpop_speakers.srt)（**一部聞き取り未確認**） |
 | BuzzFeed "Web Artists Are Furious At Rihanna And Azealia Banks"（2012年11月12日、Matthew Perpetua） | 一次資料（ジャーナリズム） | https://www.buzzfeed.com/perpetua/web-artists-are-furious-at-rihanna-and-azealia-ban |
 | BuzzFeed "Why Rihanna Going Seapunk Is Totally OK"（2012年11月17日、Matthew Perpetua） | 二次資料（ジャーナリズム） | https://www.buzzfeed.com/perpetua/why-rihanna-going-seapunk-is-totally-okay |
 | Dummy Magazine / DMY "Vaporwave and the Pop-Art of the Virtual Plaza"（Adam Harper、2012年7月12日） | 二次資料（批評） | https://dmy.co/news/adam-harper-vaporwave |

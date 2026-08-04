@@ -361,6 +361,7 @@ inv-khole-1c（第8章 CARI Are.na。実行可能——三段階知識生産フ�
 |---|---|---|---|
 | **6b-reorg 後続** | M.I.A.・Tim and Eric（激怒記事直後） | ☑ | [`Seapunk取込_6b-reorg後続_MIA_TimEric_文案.md`](./archive/反映済み文案/Seapunk取込_6b-reorg後続_MIA_TimEric_文案.md) |
 | **6b-reorg 後続** | H∆SHTAG$ ep5 厚み（seapunk 節） | — 任意 | aesthetic 6c-2 ☑ |
+| **RBMA字幕** | ep5/ep6 字幕の草稿反映（Zombelle NYT・Nate・Le1f・Charli） | ☐ | [`docs/RBMA反映計画.md`](docs/RBMA反映計画.md)（Saxelby 等見送り） |
 | **6c 残** | L254 接続文・年表順の整理 | ☐ | Cluster Mag 直後 |
 | **6d-review 残** | 分量・時系列、seapunk 節との接続 | ☐ | witch house 節 |
 | **6b 残** | 文案メタ混入チェック、VICE 年表著者明示 | ☐ | 完了済み節の品質確認 |
@@ -1471,6 +1472,8 @@ reorg-0/1/2 ☑／aesthetic-rev-1 ☑（草稿 L687–870）／aesthetic-rev-2 �
 | [`序文_改稿.md`](manuscript/序文_改稿.md) | §9 保留論点・KYM Wayback 年表 |
 | [`§8-2_Tumblr_ForYou_調査メモ.md`](notes/§8-2_Tumblr_ForYou_調査メモ.md) | Tumblr アルゴリズム年表 |
 | [`FrankJavCee文字起こし.md`](./sources/transcripts/FrankJavCee文字起こし.md) | §9 FrankJavCee 分析の正本 |
+| [`tumblrwave_speakers.srt`](./sources/transcripts/tumblrwave_speakers.srt) | H∆SHTAG$ ep5 話者確定字幕（6c-2 正本） |
+| [`blogpop_speakers.srt`](./sources/transcripts/blogpop_speakers.srt) | H∆SHTAG$ ep6 話者確定字幕（S1 横断参照） |
 | [`aestheticに関する手動調査.md`](notes/aestheticに関する手動調査.md) | aesthetic 語法・Floral Shoppe コメント年代・X 検索ログ（2026-06-02） |
 | [`archive/Seapunk取込文案/Seapunk取込_6d-review_文案.md`](./archive/Seapunk取込文案/Seapunk取込_6d-review_文案.md) | 6d-review 反映用本文（アーカイブ） |
 | [`docs/6d-review_aesthetic論点整理.md`](docs/6d-review_aesthetic論点整理.md) | aesthetic 零れ落ち・層A–E |

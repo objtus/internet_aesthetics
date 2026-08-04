@@ -137,7 +137,9 @@
 | 音楽ジャンルに添えられたaesthetic(witch house 2010〜・Cluster Mag 2011-12) | aesthetic手動調査(X転記)+ファクト補強#9ブロックF | — |
 | 批評の語彙になるaesthetic(Perpetua/Bebe Zeva 2012-11) | Seapunkノート §8-2a+手動調査 | 6c-1 |
 | リサフランク420とコメント欄ミーム——**起源説は緩める** | **aestheticに関する手動調査.md**(否定的事実が正) | V2。KYM叙述をそのまま書かない |
-| H∆SHTAG$(2013)・話者確定 | Seapunkノート §9(tumblrwave_speakers.srt) | 6c-2 |
+| H∆SHTAG$(2013) ep5・話者確定 | [`sources/transcripts/tumblrwave_speakers.srt`](./sources/transcripts/tumblrwave_speakers.srt)／Seapunkノート §9 | 6c-2 |
+| H∆SHTAG$(2013) ep6・Blog Pop | [`sources/transcripts/blogpop_speakers.srt`](./sources/transcripts/blogpop_speakers.srt)／Seapunkノート §9-3b | 参照用（seapunk 非出演） |
+| RBMA 字幕→草稿反映計画 | [`docs/RBMA反映計画.md`](./docs/RBMA反映計画.md) | r01–r04 採用／Saxelby 等見送り |
 | Savvy J「AESTHETIC」(2013-11-24)・FrankJavCee(2014-07) | 覚書 §3.4+FrankJavCee文字起こし.md | — |
 | サブレディット分離(2014-10/12)・KYM項目の系列変更(2015秋) | aesthetic手動調査+覚書 §3.4(Wayback) | — |
 | 文法(数・冠詞・モード)の整理 | aesthetic_文法分析メモ.md | aesthetic-rev-1 |
