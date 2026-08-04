@@ -361,7 +361,7 @@ inv-khole-1c（第8章 CARI Are.na。実行可能——三段階知識生産フ�
 |---|---|---|---|
 | **6b-reorg 後続** | M.I.A.・Tim and Eric（激怒記事直後） | ☑ | [`Seapunk取込_6b-reorg後続_MIA_TimEric_文案.md`](./archive/反映済み文案/Seapunk取込_6b-reorg後続_MIA_TimEric_文案.md) |
 | **6b-reorg 後続** | H∆SHTAG$ ep5 厚み（seapunk 節） | — 任意 | aesthetic 6c-2 ☑ |
-| **RBMA字幕** | ep5/ep6 字幕の草稿反映（Zombelle NYT・Nate・Le1f・Charli） | ☐ | [`docs/RBMA反映計画.md`](docs/RBMA反映計画.md)（Saxelby 等見送り） |
+| **RBMA字幕** | ep5/ep6 字幕の草稿反映（Zombelle NYT・Nate・Le1f・Charli） | ☑ | [`docs/RBMA反映計画.md`](docs/RBMA反映計画.md)（2026-08 反映済） |
 | **6c 残** | L254 接続文・年表順の整理 | ☐ | Cluster Mag 直後 |
 | **6d-review 残** | 分量・時系列、seapunk 節との接続 | ☐ | witch house 節 |
 | **6b 残** | 文案メタ混入チェック、VICE 年表著者明示 | ☐ | 完了済み節の品質確認 |

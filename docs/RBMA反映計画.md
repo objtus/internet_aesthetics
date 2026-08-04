@@ -1,15 +1,29 @@
 # RBMA『H∆SHTAG$』字幕——草稿反映計画
 
-**状態**：挿入位置確定・**差し替え案記載済**・草稿未反映  
+**状態**：**草稿反映済**（2026-08）。下記文案・行番号は計画時点のメモ。草稿実態との照合は行わない。  
 **正本字幕**：[`tumblrwave_speakers.srt`](../sources/transcripts/tumblrwave_speakers.srt)（ep5）、[`blogpop_speakers.srt`](../sources/transcripts/blogpop_speakers.srt)（ep6）  
 **反映先正本**：[`草稿.md`](../草稿.md)  
 **関連調査**：[`Seapunk 詳細調査ノート.md`](../notes/Seapunk%20詳細調査ノート.md) §9・§9-3b  
 
 **方針**（2026-08 確定）：字幕・動画の素材を**すべて引用しない**。草稿の既存叙述を補強する程度に、**短い一次ソース参照**（「RBMA ep5 で Zombelle は～と語る」程度）にとどめる。長い直引用・Blog Pop 全体の要約・Ruth Saxelby の理論的二文・Kilo Kish 等は今回の対象外。
 
-**既反映済み**（[`Seapunk調査_取り込み計画.md`](Seapunk調査_取り込み計画.md) c03–c05）：草稿 L1197–1201 の RBMA 節——Ultrademon ideology、Zombelle web joke 否定、Dodecahedron aesthetics／hyper-segmentation。**ただし L1197–1199 の構成は章役割とずれており、本計画では r00＋s01–s04 として組み替える**（下 §章配置の再検討）。
-
 **執筆ルール**：正文は公開 URL のみ。計画書・文案の行番号・§参照は執筆メモに限定。
+
+### 草稿反映メモ（2026-08）
+
+本計画の方針（第1章初出・第3章 seapunk 当事者・第5章 Dodecahedron 圧縮）に沿って [`草稿.md`](../草稿.md) へ反映した。文案どおりではなく、執筆中に位置変更・削除・統合を行った。
+
+| 項目 | 計画からの変更 |
+|---|---|
+| **r00＋r02＋r04** | reblog 節・soft grunge 節への差し込みではなく、第1章独立節 `## RBMA『H∆SHTAG$』` に統合 |
+| **r01＋s01＋s02** | Fokkawolfe 直後ではなく、第3章 `### レーベルと正史` 内 `#### RBMA H∆SHTAG$ での seapunk` に統合。web joke 対句と ideology を同ブロックに |
+| **Tumblrwave 枠** | s03（"It's Tumblr" 1文）は見送りのまま。代わりにタイトルと中身のずれ（Don't Call It #Tumblrwave／Don't Call It A #Wave）を第3章小節で記述 |
+| **s04** | 第5章 `### 過剰な細分化と命名の政治` へ。旧 L1197–1201 の seapunk 再叙述は削除 |
+| **r03** | Le1f avatar — **草稿には未反映**（見送り） |
+| **引用** | pedobear 全文・Charli の ep6 直引用（*"mind like my tumblr"* 等）は省略。NYT 読み上げは「一部を読み上げ」、Charli は IRL London レギンス経由で記述 |
+| **s02 拡張** | meta-texture 段落への ideology 追記・Swoon 等 — **別タスク**のまま |
+
+第5章に残っていた seapunk 当事者ブロック（旧 L1197–1199 相当）は第3章へ移し、第5章は Dodecahedron 論旨のみに圧縮した。
 
 ---
 
@@ -19,15 +33,15 @@
 
 | ID | 確定位置 | 備考 |
 |---|---|---|
-| **r00** | 第1章 L167 直後（Eyebeam の次、`### タグ` の前） | r02 と連続 |
-| **r02** | r00 直後 | seapunk は前方参照 |
-| **r04** | 第1章 L266–268 付近（`#### 二つの流れの対比`） | Charli×soft grunge **関連**可（下 §r04） |
+| **r00** | 第1章 `#### RBMA『H∆SHTAG$』`（`#### 二つの流れの対比` 直後） | r02・r04 と連続 |
+| **r02** | 同上（RBMA 節内） | seapunk は前方参照 |
+| **r04** | 同上（RBMA 節内） | Charli×soft grunge **関連**可 |
 | **r01＋s01** | 第3章 L771 Fokkawolfe **直後** | web joke 対句。L765 橋渡しは**省略可** |
 | **s02** | 第3章 L785 **meta-texture 段落** | ideology（ep5）を統合。**拡張予定**（下 §s02） |
 | **s03** | — | **見送り** |
-| **s04＋r03** | 第5章 L1197–1201 圧縮 | L1199 削除→第3章。Dodecahedron＋hyper-seg＋Le1f avatar |
+| **s04＋r03** | 第5章 `### 過剰な細分化と命名の政治` | Dodecahedron＋hyper-seg＋Le1f avatar |
 
-**未確定（任意）**：第5章見出し `### RBMA『H∆SHTAG$』` 維持 vs 変更。
+**未確定（任意）**：~~第5章見出し `### RBMA『H∆SHTAG$』` 維持 vs 変更~~ → **2026-08 確定**：第1章 `#### RBMA『H∆SHTAG$』`、第5章 `### 過剰な細分化と命名の政治`
 
 ---
 
@@ -125,16 +139,15 @@
 
 | ID | 素材（短ラベル） | 草稿の行先 | 判定 | 想定 | 出典 | 文案 | 草稿反映 | メモ |
 |---|---|---|---|---|---|---|---|---|
-| r00 | RBMA／H∆SHTAG$ シリーズ説明（初出） | 第1章 `### リブログ`、r02 直前 | 追記 | 1〜2文 | [S1 一覧](https://daily.redbullmusicacademy.com/2013/03/hashtags-video-series/) | ☐ | ☐ | **読順上の初出**。第5章 L1197 の説明はここへ移す |
-| r01 | Zombelle、NYT pedobear 文を読み上げ | **第3章** `### レーベルと正史`（L771 直後推奨） | 追記 | 1文 | ep5 `00:00:03` | ☐ | ☐ | **L759 直後は不可**。年表＝Lil Internet 視点 |
-| s01 | web joke 否定（*"We're not a web joke"*） | **第3章** r01 と同ブロック（レーベルと正史） | **移動** | 1文 | ep5 | ☐ | ☐ | Lil Internet「ジョーク」叙述への**対句** |
-| r04 | Charli XCX／soft grunge 関連＋ep6 | 第1章 L266–268 付近 | 追記 | 1〜2文 | ep6、[Soft grunge Wiki](https://en.wikipedia.org/wiki/Soft_grunge) | ☐ | ☐ | **確定**。関連性可／固定ラベル・「代表」不可 |
-| s02 | Ultrademon ideology（ep5） | **第3章 L785 meta-texture 段落** | **移動** | 1文 | ep5、Elektro Daily 2012-03 | ☐ | ☐ | **確定**。meta-texture **拡張は別タスク** |
-| s03 | Tumblrwave 編集説明 | 第3章 seapunk 遺産（任意） | 移動 or 見送り | 0〜1文 | ep5 | ☐ | ☐ | 第5章からは外す |
-| s04 | L1197–1201 圧縮（Dodecahedron＋hyper-seg のみ） | 第5章 RBMA 節 | **叙述修正** | 1段落 | ep5 | ☐ | ☐ | 「第1章・第3章で触れた」参照形 |
-| r02 | Nate Auerbach、reblog＝サンプリング／seapunk 例 | 第1章 `### リブログ`（r00 直後） | 追記 | 1文 | ep5 `02:29` | ☐ | ☐ |
-| r03 | Le1f、アバター | 第5章 L1201 末尾（s04 後） | 追記 | 1文 | ep5 `06:41` | ☐ | ☐ |
-| r04 | Charli XCX、「made by the internet」／tumblr＝頭の中 | 第1章 `#### soft grunge と tumblr`（L251–264 付近） | 追記 | 1〜2文 | ep6 | ☐ | ☐ | 「同シリーズ第6話」——r00 再説明不要 |
+| r00 | RBMA／H∆SHTAG$ シリーズ説明（初出） | 第1章 `### リブログ`、r02 直前 | 追記 | 1〜2文 | [S1 一覧](https://daily.redbullmusicacademy.com/2013/03/hashtags-video-series/) | ☑ | ☑ | **読順上の初出**。第5章 L1197 の説明はここへ移す |
+| r01 | Zombelle、NYT pedobear 文を読み上げ | **第3章** `### レーベルと正史`（L771 直後推奨） | 追記 | 1文 | ep5 `00:00:03` | ☑ | ☑ | **L759 直後は不可**。年表＝Lil Internet 視点 |
+| s01 | web joke 否定（*"We're not a web joke"*） | **第3章** r01 と同ブロック（レーベルと正史） | **移動** | 1文 | ep5 | ☑ | ☑ | Lil Internet「ジョーク」叙述への**対句** |
+| r04 | Charli XCX／soft grunge 関連＋ep6 | 第1章 L266–268 付近 | 追記 | 1〜2文 | ep6、[Soft grunge Wiki](https://en.wikipedia.org/wiki/Soft_grunge) | ☑ | ☑ | **確定**。関連性可／固定ラベル・「代表」不可 |
+| s02 | Ultrademon ideology（ep5） | **第3章 L785 meta-texture 段落** | **移動** | 1文 | ep5、Elektro Daily 2012-03 | ☑ | ☑ | **確定**。草稿では RBMA 小節に統合。meta-texture **拡張は別タスク** |
+| s03 | Tumblrwave 編集説明 | 第3章 seapunk 遺産（任意） | 移動 or 見送り | 0〜1文 | ep5 | — | — | 第5章からは外す |
+| s04 | L1197–1201 圧縮（Dodecahedron＋hyper-seg のみ） | 第5章 RBMA 節 | **叙述修正** | 1段落 | ep5 | ☑ | ☑ | 「第1章・第3章で触れた」参照形 |
+| r02 | Nate Auerbach、reblog＝サンプリング／seapunk 例 | 第1章 `### リブログ`（r00 直後） | 追記 | 1文 | ep5 `02:29` | ☑ | ☑ |
+| r03 | Le1f、アバター | 第5章 L1201 末尾（s04 後） | 追記 | 1文 | ep5 `06:41` | ☑ | — | **草稿未反映**（見送り） |
 | — | Ruth Saxelby 二文 | — | **見送り** | 0 | ep6 | — | — | 草稿序文・第5章と論旨重複。Blog Pop を引用しない方針と整合 |
 | — | Kilo Kish／Le1f ラベル連鎖／Milly McMahon 等 ep5 其余 | — | **見送り** | 0 | ep5 | — | — | ユーザー判断（2026-08） |
 | — | Charli「In Real Life London」レギンス／IRL 優先の締め | — | **見送り** | 0 | ep6 | — | — | r04 では「made by the internet」「mind like tumblr」のみ |
@@ -310,14 +323,9 @@ seapunkのビジュアルは、1990年代デジタル文化の残骸をノスタ
 
 - [x] 採用／見送りをユーザー方針で確定  
 - [x] Zombelle／NYT／pedobear 誤記を確定  
-- [x] 草稿既出（L1197–1201）との重複を整理  
-- [x] **r00**：L167 直後 — 確定  
-- [x] **r04**：L266–268、Charli×soft grunge 関連可 — 確定  
-- [x] **r01＋s01**：L771 直後 — 確定  
-- [x] **s02**：L785 meta-texture 段落 — 確定（拡張は別タスク）  
-- [x] **s03**：見送り  
-- [x] **修正前原文と差し替え案**（本計画 §修正前原文と差し替え案 A–F）  
-- [ ] 草稿への反映  
+- [x] 草稿既出（旧第5章 RBMA 節）との重複を整理  
+- [x] 草稿への反映（2026-08）——位置・文案は上 **草稿反映メモ** のとおり計画から変更あり  
+- [ ] **別タスク**：s02 meta-texture 拡張（Swoon 等）  
 
 ---
 
