@@ -502,7 +502,7 @@
 | 2020 | 「corecore」発生(-core濫用へのメタ批評)。2022年に拡散 | https://en.wikipedia.org/wiki/-core | サフィックス系譜比較調査ノート.md |
 | 2020-03 | COVID-19パンデミックでリモートワーク普及、Webサービス利用急増 | https://en.wikipedia.org/wiki/Web_2.0 | Web 2.0の詳細年表.md |
 | 2020-03 | COVID-19ロックダウンで#cottagecoreがTumblr Week in Reviewの上位に急浮上 | https://fandom.tumblr.com/post/636605468894232576/cottagecore | インターネット美学（Internet Aesthetics）調査ノート.md |
-| 2020-04-09 | DavidCrypt「Pictures that feel strangely familiar but uncomfortable」コンピ(liminal系4月拡散の先行例。strangely familiarタイトル族) | https://www.youtube.com/watch?v=WMVeFaiQ_bo（公開日: [Wayback 2020-06-18](https://web.archive.org/web/20200618221721/https://www.youtube.com/watch?v=WMVeFaiQ_bo)） | [`第7章_reorg_文案.md`](./第7章_reorg_文案.md)・[プレイリスト liminal space前史](https://www.youtube.com/playlist?list=PLIH37AqPkdeA) |
+| 2020-04-09 | DavidCrypt「Pictures that feel strangely familiar but uncomfortable」コンピ(liminal系4月拡散の先行例。strangely familiarタイトル族) | https://www.youtube.com/watch?v=WMVeFaiQ_bo（公開日: [Wayback 2020-06-18](https://web.archive.org/web/20200618221721/https://www.youtube.com/watch?v=WMVeFaiQ_bo)） | [`第7章_reorg_文案.md`](./archive/反映済み文案/第7章_reorg_文案.md)・[プレイリスト liminal space前史](https://www.youtube.com/playlist?list=PLIH37AqPkdeA) |
 | 2020-04-15 | float「Strangely Familiar Places with Unnerving Music」コンピ(約200万再生。以降同型を量産) | https://www.youtube.com/watch?v=VqZEfqoTA7M（公開日: [Wayback 2020-06-01](https://web.archive.org/web/20200601161630/https://www.youtube.com/watch?v=VqZEfqoTA7M)） | 同上 |
 | 2020-04 | liminal space画像コレクションが複数プラットフォームで連鎖的拡散(r/Weirdlyfamiliar 4/1設立、Tumblrコレクション、上記YouTubeコンピ等) | https://www.youtube.com/playlist?list=PLIH37AqPkdeA | インターネット美学（Internet Aesthetics）調査ノート.md |
 | 2020-04-30 | Bloody Disgusting「The Backrooms Game」レビュー(Sandal)。Backroomsをcreepypastaとして紹介(liminal/cursed語なし) | https://bloody-disgusting.com/editorials/3614536/play-shadows-backrooms-game-brings-modern-creepypasta-life/ | [`liminal_制度化_Backrooms_言説メモ.md`](./liminal_制度化_Backrooms_言説メモ.md) §6.3 |
@@ -514,7 +514,7 @@
 | 2020-07 | Taylor Swift『Folklore』リリース。cottagecoreの主流化の決定打(翌月Google検索400%増) | https://fandom.tumblr.com/post/636605468894232576/cottagecore | インターネット美学（Internet Aesthetics）調査ノート.md |
 | 2020-07-10 | 『1000 gecs and the Tree of Clues』リミックス盤(Charli XCX/Fall Out Boy等参加) | https://en.wikipedia.org/wiki/1000_gecs_and_the_Tree_of_Clues | ハイパーポップの歴史.md |
 | 2020-07-11 | Solar Sands「Liminal Spaces (Exploring an Altered Reality)」動画(約200万再生、aestheticのパッケージ化に寄与) | https://www.youtube.com/watch?v=N63pQGhvK4M | インターネット美学（Internet Aesthetics）調査ノート.md |
-| 2020-08-01 | Twitterボット@SpaceLiminalBot稼働(r/LiminalSpaceから画像共有) | https://x.com/SpaceLiminalBot | [`第7章_reorg_文案.md`](./第7章_reorg_文案.md) |
+| 2020-08-01 | Twitterボット@SpaceLiminalBot稼働(r/LiminalSpaceから画像共有) | https://x.com/SpaceLiminalBot | [`第7章_reorg_文案.md`](./archive/反映済み文案/第7章_reorg_文案.md) |
 | 2020-08-17 | KYM条目創設(V1・R-Switz)。タイトル「Images With Elegiac Auras / Liminal Spaces」。cursed imagesサブジャンル・Origin 2018-04-21(黄色画像のcursed系スレ日) | KYM編集履歴・[`KYM_liminal_編集史メモ.md`](./KYM_liminal_編集史メモ.md) | 同上 |
 | 2020-08-12 | A. G. Cook『7G』「Lil Song」(written by A. G. Cook & Daniel Lopatin) 〔A〕 | https://agcook.bandcamp.com/album/7g-2 | inv-opn-cook_年表.md |
 | 2020-09 | Google Trends: 「aesthetic」(単数形)検索関心が全期間ピーク(TikTok期のタグ用法一般化と整合) 〔代理指標〕 | Google Trends CSV | Google_Trends調査.md |

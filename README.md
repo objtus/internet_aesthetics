@@ -148,7 +148,9 @@
 | [`intro-kojiateki_引用メモ.md`](./intro-kojiateki_引用メモ.md) | 序文の引用関連メモ |
 | [`inv-opn-cook_年表.md`](./inv-opn-cook_年表.md) | OPN・Cook関連年表 |
 | [`第7章_reorg_計画.md`](./第7章_reorg_計画.md) | 第7章「爆発」再構成の計画・帰属確認 |
-| [`第7章_reorg_文案.md`](./第7章_reorg_文案.md) | 第7章再構成の**文案正本**（`草稿.md` 反映前。全文差し替え用） |
+| [`archive/反映済み文案/第7章_reorg_文案.md`](./archive/反映済み文案/第7章_reorg_文案.md) | 第7章再構成の**文案正本**（`草稿.md` 反映済・2026-07-23） |
+| [`第6章_reorg_計画.md`](./第6章_reorg_計画.md) | 第6章 reorg 計画 |
+| [`archive/反映済み文案/第6章_reorg_DA-cottagecore_文案.md`](./archive/反映済み文案/第6章_reorg_DA-cottagecore_文案.md) | 第6章 reorg 文案（反映済・2026-07-07） |
 
 ---
 
@@ -172,7 +174,7 @@
 
 | ディレクトリ | 内容 |
 |---|---|
-| [`archive/反映済み文案/`](./archive/反映済み文案/) | 草稿に反映済みの文案ファイル（27件） |
+| [`archive/反映済み文案/`](./archive/反映済み文案/) | 草稿に反映済みの文案ファイル（31件・2026-08-04整理） |
 | [`archive/Seapunk取込文案/`](./archive/Seapunk取込文案/) | Seapunk調査の取り込み文案 |
 
 ### データファイル

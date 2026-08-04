@@ -179,7 +179,7 @@ cottagecore は、`#cottage aesthetic` や `#cottage witch` というタグの�
 
 ### 4-3. `## 名付け親の分からない美学——dark academia と cottagecore`（新規・統合節）
 
-> **2026-07-07 追記**：本節（4-3・4-4）の文面は [`第6章_reorg_DA-cottagecore_文案.md`](./第6章_reorg_DA-cottagecore_文案.md) ①⑦⑨で正本化・改訂済み。出典の明記、「起源がない」→「起源が覆い隠されている」への言い換え、dark academia/cottagecore要約の書き直しを反映した最新版は文案ファイル側を参照。以下は設計の経緯を残すための旧稿。
+> **2026-07-07 追記**：本節（4-3・4-4）の文面は [`第6章_reorg_DA-cottagecore_文案.md`](./archive/反映済み文案/第6章_reorg_DA-cottagecore_文案.md) ①⑦⑨で正本化・改訂済み。出典の明記、「起源がない」→「起源が覆い隠されている」への言い換え、dark academia/cottagecore要約の書き直しを反映した最新版は文案ファイル側を参照。以下は設計の経緯を残すための旧稿。
 
 第3章の [seapunk](https://knowyourmeme.com/memes/cultures/seapunk) には、[2011年6月1日のツイート](https://twitter.com/LILINTERNET/status/75846788397006848)という単一の起源があった。特定の日付と人物が、そのまま起源として残る。dark academia と cottagecore は、コミュニティの実践のなかで育ったために、最初の発端が覆い隠されている。
 

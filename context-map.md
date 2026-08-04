@@ -165,7 +165,7 @@
 | The Backrooms→A24 | インターネット美学ノート §8-2 | ファクト補強#16 |
 | 2020-04拡散・@elegiac_images・Solar Sands | インターネット美学ノート §8 | — |
 | KYM liminal条目の編集史(2020-08創設・2021-05改稿・2023-09 Dreamcoreタイトル) | [`KYM_liminal_編集史メモ.md`](./KYM_liminal_編集史メモ.md) | 文案・timeline還流済み(2026-07-17)。**7-reorg-1d** |
-| liminal制度化・Backrooms言説・メディア対照 | [`liminal_制度化_Backrooms_言説メモ.md`](./liminal_制度化_Backrooms_言説メモ.md) | **7-reorg-1e**→[`第7章_reorg_文案.md`](./第7章_reorg_文案.md) |
+| liminal制度化・Backrooms言説・メディア対照 | [`liminal_制度化_Backrooms_言説メモ.md`](./liminal_制度化_Backrooms_言説メモ.md) | **7-reorg-1e**→[`第7章_reorg_文案.md`](./archive/反映済み文案/第7章_reorg_文案.md) |
 | cottagecoreの爆発(Tumblr Week in Review・Folklore 400%) | インターネット美学ノート §7 | — |
 | TikTokというアーキテクチャ転換(For You対比) | §8-2_Tumblr_ForYou_調査メモ.md | 文案A+(2026-06反映) |
 | -core標準化・corecore | サフィックス系譜ノート+scene_subculture_notes.md | — |
@@ -312,5 +312,5 @@
 | 計画・考察(L4) | 文章構成プラン、編集方針、next_tasks、_next_tasks_head、src-6_仕分け、Seapunk調査_取り込み計画、第2章_ed3計画、第2章_aesthetic章分離_考察、第3章_aesthetic_rev1_考察、6d-review×2、lofi-HD構造メモ、画像bot挿入_計画、第6章_normcore追加_計画 |
 | レビュー(L4) | 草稿_推敲メモ、草稿_明晰さレビュー、草稿_レビュー論点メモ、**草稿_整合性レビュー**、文体メモ、草稿_ファクト補強調査(※事実訂正を含むためL1に準ずる) |
 | Claude Code スキル | `.claude/skills/manuscript-style/SKILL.md`（文体メモの実行用版） |
-| 文案(L4・反映済みはarchiveが原則) | 第4章取込_VVORK_文案、第6章_normcore追加_文案、第8章取込_CARI_Arena_文案(ルート残置3件)+archive/反映済み文案27件+archive/Seapunk取込文案7件 |
+| 文案(L4・反映済みはarchiveが原則) | archive/反映済み文案31件+archive/Seapunk取込文案7件（ルート残置なし・2026-08-04整理） |
 | 旧稿(L5) | 草稿旧第2と3章.md、第3章_aestheticという語archive.md、序文_改稿.md(参照メモ化済み) |
