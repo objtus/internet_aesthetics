@@ -1,7 +1,7 @@
 # src-6 仕分け——MP3ブログ時代とエクスペリメンタル・シーン
 
 **状態**：**6a–6f 完了**（2026-06-16）。草稿・分割稿反映済。派生調査：**inv-vektroid** ☐  
-**正本調査資料**：[`MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md`](../MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md)  
+**正本調査資料**：[`MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md`](../notes/MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md)  
 **反映先正本**：[`草稿.md`](../草稿.md)  
 **タスク索引**：[`next_tasks.md`](../next_tasks.md) §src-6
 
@@ -70,7 +70,7 @@
 |---|---|---|---|
 | HIT 設立・Giza・Games・20jfg ネットワーク | src-5 ☑ | L247–251 | 本仕分け §4 |
 | *Condo Pets*／*Far Side Virtual* | **rev-8** | L525 は distroid 文脈のみ | Eccojams 対比 |
-| Arca *&&&&&*／Grimes *Darkbloom* | **第4章** | [`HipposInTanks_調査ノート.md`](../HipposInTanks_調査ノート.md) 方針 | src-4 節と整合 |
+| Arca *&&&&&*／Grimes *Darkbloom* | **第4章** | [`HipposInTanks_調査ノート.md`](../notes/HipposInTanks_調査ノート.md) 方針 | src-4 節と整合 |
 | Gatekeeper *Exo*／Nguzunguzu | **§14** or 第4章 | L521 で名前のみ | 詳述は任意 |
 | Machat 2015 閉幕 | 任意1文 | — | Fader 2015 のみ。閉幕明示なし |
 | *Young Chronos* | src-5／HIT ノート | — | §16 射程外 |

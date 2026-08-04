@@ -2,7 +2,7 @@
 
 **対象**：2010年前後の「lo-fi映像のブーム」を、第2章のなかで一つのシーン現象として可視化する新規節の追加。
 **起点資料**：Rome Film Festival 2010 公式カタログ／[公式プログラムブログ](https://lofifortheeyes.blogspot.com/)／[OESB Blog](https://oesbee.blogspot.com/2010/11/post-tv-lo-fi-for-eyes-today-at-rome.html)
-**調査正本**：[`witchhouse-chillwave調査メモ.md`](./witchhouse-chillwave調査メモ.md) §5.4.3（重点資料・公式確認済）
+**調査正本**：[`witchhouse-chillwave調査メモ.md`](../../notes/witchhouse-chillwave調査メモ.md) §5.4.3（重点資料・公式確認済）
 
 ---
 

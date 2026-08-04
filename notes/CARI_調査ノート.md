@@ -2,7 +2,7 @@
 
 > 作成日：2026年6月  
 > 目的：CARI 前史（Evan Collins・Y2K 美学）と、DIS Magazine／PC Music 系譜の**遠回りな接続**を記録する。年表の正本は [`CARIの歴史.md`](./CARIの歴史.md)（cari.institute 由来）。本ノートは草稿第5章 `## CARIの起源`（L780 付近）への追記候補を整理する。  
-> **タスク**：調査＝[`next_tasks.md`](./next_tasks.md) **cari-inv**／草稿反映＝**cari-draft**（**src-2・src-4 後**）。結論の問いかけ＝**concl-1**。  
+> **タスク**：調査＝[`next_tasks.md`](../next_tasks.md) **cari-inv**／草稿反映＝**cari-draft**（**src-2・src-4 後**）。結論の問いかけ＝**concl-1**。  
 > 方針：因果を断定せず、時期・媒体・人物の接点として記録。正文反映時は公開 URL のみ。
 
 ---
@@ -308,7 +308,7 @@ flowchart LR
 2. **1段落の核（案）**：「vaporwave コミュニティから生まれた Y2K 美学のアーカイブ（のちの CARI）と、DIS Magazine 周辺の PC Music 系譜は、直接つながったわけではない。しかし Priz Tats や DV-i を介した 2013–2016 のリリースと、2016年の Guardian 記事は、**ミレニアム前後の企業テック想像**を vaporwave／Neo-Y2K として並列表示する回路を示す」
 2b. **vaporwave 隙間論（§2）**：Collins の *prior eras* 対 *late 1990s–early 2000s* は、CARI 前史の動機を説明する**メディア化済みの引用**として使える。r/Vaporwave 投稿（2014）と併記するとよい
 2c. **SOPHIE & QT（§2）**：第2章 PC Music 節への逆参照は不要。第5章 CARI 節では「Guardian が PC Music を Neo-Y2K 音楽例として Collins 経由で言及」程度に留める
-2d. **結論の問いかけ**：本論考の `## クロニクルの終わりにあたって` または `## ＜後記＞` への借用候補。**タスク**：[`next_tasks.md`](./next_tasks.md) **concl-1**（記事をさらりと明示。1段落以内）
+2d. **結論の問いかけ**：本論考の `## クロニクルの終わりにあたって` または `## ＜後記＞` への借用候補。**タスク**：[`next_tasks.md`](../next_tasks.md) **concl-1**（記事をさらりと明示。1段落以内）
 3. **Collins 年齢**：正文に入れる必要性は低い。調査ノート・執筆メモ用
 4. **分量**：編集方針上、第5章 CARI 節への**1段落追記**が上限目安。第2章への分散は任意
 5. **Facebook 制度化（§9）**：L803「命名する意志」と L807「Facebookグループ、Discord、公式サイト」のあいだに、**Facebook が制度化の第一層**だったことを1文足す余地がある。L839「Discordが承認プロセスになる」は Aesthetics Wiki（2020）の話であり、CARI 路線の Facebook 段階と混同しない
@@ -403,7 +403,7 @@ CARI だけの話ではない。seapunk も 2011年夏に Ultrademon の**秘密
 ## 関連ファイル
 
 - [`CARIの歴史.md`](./CARIの歴史.md) — CARI 公式年表の和訳・整理
-- [`草稿.md`](./草稿.md) — 第5章 L780–805、第2章 distroid／PC Music
+- [`草稿.md`](../草稿.md) — 第5章 L780–805、第2章 distroid／PC Music
 - [`supersuper.md`](./supersuper.md) — PC Music 前史（SuperSuper! 経由の AG Cook）
 - [`docs/編集方針.md`](docs/編集方針.md)
-- [`next_tasks.md`](./next_tasks.md) — Global Village Coffeehouse と CARI
+- [`next_tasks.md`](../next_tasks.md) — Global Village Coffeehouse と CARI

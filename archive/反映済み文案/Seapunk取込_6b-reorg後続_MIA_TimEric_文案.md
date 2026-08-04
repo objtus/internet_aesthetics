@@ -3,7 +3,7 @@
 **タスク**：6b-reorg 後続  
 **反映先**：[`草稿.md`](./草稿.md) `## seapunkの死と遺産` → 激怒記事段落（Jerome LOL／Reblorg）の**直後**、擁護記事段落の**直前**  
 **出典**：Matthew Perpetua「[Web Artists Are Furious At Rihanna And Azealia Banks](https://www.buzzfeed.com/perpetua/web-artists-are-furious-at-rihanna-and-azealia-ban)」（BuzzFeed、2012-11-12）記事末尾  
-**正本調査**：[`Seapunk 詳細調査ノート.md`](./Seapunk%20詳細調査ノート.md) §8-2（Tim and Eric・M.I.A.・XXXO）
+**正本調査**：[`Seapunk 詳細調査ノート.md`](../../notes/Seapunk 詳細調査ノート.md) §8-2（Tim and Eric・M.I.A.・XXXO）
 
 ---
 

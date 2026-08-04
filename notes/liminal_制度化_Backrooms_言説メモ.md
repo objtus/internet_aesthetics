@@ -1,7 +1,7 @@
 # liminal space の制度化と The Backrooms——言説・ラベル仮説メモ
 
 **目的**：第7章 reorg 文案の新節「## liminal space の制度化と The Backrooms との関係」用。  
-**正本連携**：[`KYM_liminal_編集史メモ.md`](./KYM_liminal_編集史メモ.md)、[`インターネット美学（Internet Aesthetics）調査ノート.md`](./インターネット美学（Internet Aesthetics）調査ノート.md) §8、`next_tasks.md` **7-reorg-1e**（文案反映・要確認）。
+**正本連携**：[`KYM_liminal_編集史メモ.md`](./KYM_liminal_編集史メモ.md)、[`インターネット美学（Internet Aesthetics）調査ノート.md`](./インターネット美学（Internet Aesthetics）調査ノート.md) §8、[`next_tasks.md`](../next_tasks.md) **7-reorg-1e**（文案反映・要確認）。
 
 **立場**：本章は「単一起源」ではなく**二層時系列**（感覚・画像の拡散／ラベル・目録の遅れ・経路依存）を採用する。本メモはその上に、**The Backrooms を論じる二次言説**が **liminal space** を傘語にしやすかった、という**解釈仮説**を整理する。因果の厳密証明は期待しない。
 

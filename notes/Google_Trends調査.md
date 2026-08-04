@@ -2,7 +2,7 @@
 
 本書（*internet aesthetics*）の執筆補助として、検索語の時系列関心を Google Trends から取得・可視化した。**代理指標**として使う。一次史料（Wayback・Reddit・記事）の代替ではない。
 
-関連タスク: [`next_tasks.md`](./next_tasks.md) §9-man 追補（任意）、[`aestheticに関する手動調査.md`](./aestheticに関する手動調査.md) §全体像 4.
+関連タスク: [`next_tasks.md`](../next_tasks.md) §9-man 追補（任意）、[`aestheticに関する手動調査.md`](./aestheticに関する手動調査.md) §全体像 4.
 
 ---
 
@@ -141,13 +141,13 @@
 
 ### インタラクティブ（推奨）
 
-[`googletrendscsv/trends.html`](./googletrendscsv/trends.html) をブラウザで開く。
+[`googletrendscsv/trends.html`](../googletrendscsv/trends.html) をブラウザで開く。
 
 - patch 1–4 タブ切替
 - 系列チェックボックスで ON/OFF（すべて ON/OFF ボタン付き）
 - 表示系列に応じて**縦軸を自動再スケール**（非表示にした語のピークが上限から外れると、残り系列のピークが頂点に来る）
 - イベント注釈（破線 + ラベル、グラフ下に一覧）
-- デザイン参考: [`リサフランク420_再生数推移.html`](./リサフランク420_再生数推移.html)
+- デザイン参考: [`リサフランク420_再生数推移.html`](../リサフランク420_再生数推移.html)
 
 **再ビルド**（CSV 更新時）:
 
@@ -216,7 +216,7 @@ python googletrendscsv/plot_patch1.py
 | cottagecore / dark academia 2020–2021 | 第4–5章の**パンデミック美学**の外部指標 |
 | aesthetic 2020-09 vs aesthetics 2026-05 | 単数・複数の**ピーク時期のずれ** — 第3章 Wikipedia 単複議論の背景データ候補 |
 | internet aesthetic(s) は patch 内で低い | 複合語・上位概念としての検索は、ミーム語より**弱い**（定義語は検索されにくい） |
-| 再生数推移（Wayback）との併用 | [`リサフランク420_再生数推移.html`](./リサフランク420_再生数推移.html) と並べると「プラットフォーム内行動 vs 検索行動」の対比になる |
+| 再生数推移（Wayback）との併用 | [`リサフランク420_再生数推移.html`](../リサフランク420_再生数推移.html) と並べると「プラットフォーム内行動 vs 検索行動」の対比になる |
 
 **未反映**: 上記は調査メモ段階。`草稿.md` への直接引用・図表挿入は未着手（任意タスク）。
 

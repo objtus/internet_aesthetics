@@ -2,7 +2,7 @@
 
 **タスク**：inv-khole-1c
 **ステータス**：☑ 草稿反映済み（2026-06-29）
-**正本**：[`Arena設計思想調査ノート.md`](../../Arena設計思想調査ノート.md) §6・§7・§9・§10／[`khole-arena-archillect-researtch.md`](../../khole-arena-archillect-researtch.md) §2／[`画像bot挿入_計画.md`](../../画像bot挿入_計画.md) 第8章セクション／[`第6章_normcore追加_計画.md`](../../第6章_normcore追加_計画.md) §3
+**正本**：[`Arena設計思想調査ノート.md`](../../notes/Arena設計思想調査ノート.md) §6・§7・§9・§10／[`khole-arena-archillect-researtch.md`](../../notes/khole-arena-archillect-researtch.md) §2／[`画像bot挿入_計画.md`](../../画像bot挿入_計画.md) 第8章セクション／[`第6章_normcore追加_計画.md`](../../第6章_normcore追加_計画.md) §3
 
 **挿入箇所**：第8章 `## CARI設立とプラットフォームの意味` 節の末尾（草稿 L1569「…グループの林立を鎮めたかもしれない。」の直後、`## FairyPageとAesthetics Wiki` の前）。
 

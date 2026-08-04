@@ -1,7 +1,7 @@
 # 第2章取込_steyerl「貧しい映像の擁護」_文案（inv-steyerl）
 
 **対象**：Hito Steyerl「In Defense of the Poor Image」（2009, *e-flux journal* #10）の短い紹介節。
-**調査正本**：[`MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md`](./MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md) §14（ポストインターネット文脈）／§15（lo-fi と HD の横断）
+**調査正本**：[`MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md`](../../notes/MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md) §14（ポストインターネット文脈）／§15（lo-fi と HD の横断）
 
 ---
 
@@ -47,7 +47,7 @@ Post T.V. のプログラムノートが言っていた「粗いピクセルや�
 | 論考タイトル・著者・媒体・年月 | [In Defense of the Poor Image（e-flux journal #10, November 2009）](https://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image/) |
 | poor image の定義（copy in motion, deteriorates as it accelerates） | 同上。原文："The poor image is a copy in motion. Its quality is bad, its resolution substandard. As it accelerates, it deteriorates." |
 | 展示価値→カルト価値／流通への転換 | 同上。原文："It transforms quality into accessibility, exhibition value into cult value" |
-| ポストインターネット文脈での位置づけ・HD 路線との対比メモ | [`MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md`](./MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md) §14 L723、§15 L735–737 |
+| ポストインターネット文脈での位置づけ・HD 路線との対比メモ | [`MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md`](../../notes/MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md) §14 L723、§15 L735–737 |
 | Post T.V. プログラムノートの粒状感・グリッチ | [`第2章取込_lofi映像Post-TV_文案.md`](./第2章取込_lofi映像Post-TV_文案.md)／[公式プログラムブログ](https://lofifortheeyes.blogspot.com/) |
 
 **URL 訂正**：next_tasks.md 旧記載の `/62162/` は誤り。正は `/61362/`。

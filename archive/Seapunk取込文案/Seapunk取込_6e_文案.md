@@ -3,7 +3,7 @@
 **対象ファイル**：[`草稿.md`](./草稿.md)  
 **行番号の基準**：6b-reorg 反映後の草稿（**反映前**の行を指す）  
 **計画 ID**：e01, e02, e03（e03＝Vatican Vibes／distroid は **6e-1 内で簡潔に**。DMY 節で詳述）  
-**出典正本**：[`Seapunk 詳細調査ノート.md`](./Seapunk%20詳細調査ノート.md) §8-4, §10；[`aestheticに関する手動調査.md`](./aestheticに関する手動調査.md)（r/vaporwave Wayback）
+**出典正本**：[`Seapunk 詳細調査ノート.md`](../../notes/Seapunk 詳細調査ノート.md) §8-4, §10；[`aestheticに関する手動調査.md`](../../notes/aestheticに関する手動調査.md)（r/vaporwave Wayback）
 
 **6c との分担**：Perpetua の *aesthetic* 地の文・Bebe Zeva は **6c-1 反映済み**（aesthetic 節）。本フェーズは **seapunk と vaporwave の接続・系譜の言語化**のみ。
 

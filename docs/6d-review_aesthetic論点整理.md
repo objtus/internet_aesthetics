@@ -8,7 +8,7 @@
 |---|---|
 | [`草稿.md`](../草稿.md) L17–27, L91–93, L143–175 | aesthetic 逆転論、Megazord／Tumblr、witch house 旧稿 |
 | [`Seapunk取込_6d-review_文案.md`](../Seapunk取込_6d-review_文案.md) L90–110 | witch house 改稿文案 |
-| [`美学ミームの成立条件についての覚書.md`](../美学ミームの成立条件についての覚書.md) §2–3 | Tumblr 構造条件、Megazord 叙述 |
+| [`美学ミームの成立条件についての覚書.md`](../notes/美学ミームの成立条件についての覚書.md) §2–3 | Tumblr 構造条件、Megazord 叙述 |
 | [`草稿_レビュー論点メモ.md`](草稿_レビュー論点メモ.md) | Megazord 訂正、Tumblr 土壌の薄さ |
 
 ---

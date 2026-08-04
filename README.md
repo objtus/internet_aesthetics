@@ -21,7 +21,7 @@
 2. **事実・日付の正本**はテーマごとに [`context-map.md`](./context-map.md) §1-2 の表に従う。横断の日付索引は [`timeline.md`](./timeline.md)（本編520項目＋【要検証】V1〜V23）。
 3. **推敲・文体**は汎用 [`docs/文体メモ.md`](docs/文体メモ.md)（または Claude Code スキル [`.claude/skills/manuscript-style/SKILL.md`](./.claude/skills/manuscript-style/SKILL.md)）＋プロジェクト固有 [`docs/project-style-notes.md`](docs/project-style-notes.md) を併読する。
 4. **改稿の優先順位**（2026-07-06 通読）は [`docs/草稿_整合性レビュー.md`](docs/草稿_整合性レビュー.md) の総括 A→B→C→E に従う（旧章番号の相互参照更新が最優先）。
-5. **タスク管理**は [`next_tasks.md`](./next_tasks.md)。反映済み文案は [`archive/反映済み文案/`](./archive/反映済み文案/) へ移す。一次資料は [`sources/`](./sources/)、編集・レビュー・計画は [`docs/`](./docs/) を正とする。
+5. **タスク管理**は [`next_tasks.md`](./next_tasks.md)。反映済み文案は [`archive/反映済み文案/`](./archive/反映済み文案/) へ移す。一次資料は [`sources/`](./sources/)、編集・レビューは [`docs/`](./docs/)、調査ノート（L1）は [`notes/`](./notes/) を正とする。
 
 資料の優先順位（矛盾時の解決手順の要約）は [`context-map.md`](./context-map.md) §1-3 を参照。
 
@@ -71,47 +71,31 @@
 
 ---
 
-### 調査参照ファイル
+### 調査ノート（L1）
+
+| パス | 内容 |
+|---|---|
+| [`notes/README.md`](./notes/README.md) | テーマ別正本ノートの説明・索引 |
+| [`notes/`](./notes/) | 事実・日付の正本（29ファイル・フラット）。テーマ対応は [`context-map.md`](./context-map.md) §1-2 |
+
+<details>
+<summary>全ファイル一覧（クリックで展開）</summary>
 
 | ファイル | 内容 |
 |---|---|
-| [`インターネット美学（Internet Aesthetics）調査ノート.md`](./インターネット美学（Internet%20Aesthetics）調査ノート.md) | メインの調査記録。個別美学の発生史、語義転換史、発生パターン分類（A〜F）、先行研究 |
-| [`美学ミームの成立条件についての覚書.md`](./美学ミームの成立条件についての覚書.md) | 理論的考察。フォークソノミー、包含関係の逆転、充填、遡行的確定 |
-| [`CARIの歴史.md`](./CARIの歴史.md) | Consumer Aesthetics Research Instituteの機関史 |
-| [`aesthetic wiki 歴史レポート.md`](./aesthetic%20wiki%20歴史レポート.md) | Aesthetics Wiki（aesthetics.fandom.com）の詳細な機関史 |
-| [`Nanoformatsの概要と歴史.md`](./Nanoformatsの概要と歴史.md) | ハッシュタグ誕生の技術的前史。Microformats→Nanoformats→#tag |
-| [`Web 2.0の詳細年表.md`](./Web%202.0の詳細年表.md) | プラットフォーム生態系の通史（1999〜2021年） |
-| [`docs/文章構成プラン.md`](docs/文章構成プラン.md) | 草稿の章構成計画 |
+| [`インターネット美学（Internet Aesthetics）調査ノート.md`](notes/インターネット美学（Internet Aesthetics）調査ノート.md) | メイン調査記録・発生パターン A〜F |
+| [`美学ミームの成立条件についての覚書.md`](notes/美学ミームの成立条件についての覚書.md) | 理論考察（命名・充填・遡行的確定） |
+| [`Seapunk 詳細調査ノート.md`](notes/Seapunk 詳細調査ノート.md) | Seapunk 詳細調査 |
+| [`vaporwave政治化_調査ノート.md`](notes/vaporwave政治化_調査ノート.md) | vaporwave 政治化 |
+| [`witchhouse-chillwave調査メモ.md`](notes/witchhouse-chillwave調査メモ.md) | witch house・chillwave |
+| [`MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md`](notes/MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md) | mp3 ブログ時代 |
+| [`aestheticに関する手動調査.md`](notes/aestheticに関する手動調査.md) | aesthetic 一次検証 |
+| [`internet_aesthetic語と制度化_調査ノート.md`](notes/internet_aesthetic語と制度化_調査ノート.md) | internet aesthetic 語史 |
+| [`tumblrタイムライン.md`](notes/tumblrタイムライン.md) | Tumblr 企業史 |
+| [`CARIの歴史.md`](notes/CARIの歴史.md) | CARI 機関史 |
+| その他20ファイル | [`notes/`](./notes/) 内を参照 |
 
----
-
-### 個別調査ノート
-
-| ファイル | 内容 |
-|---|---|
-| [`Seapunk 詳細調査ノート.md`](./Seapunk%20詳細調査ノート.md) | Seapunkの一次資料に基づく詳細調査 |
-| [`CARI_調査ノート.md`](./CARI_調査ノート.md) | CARI関連の調査メモ |
-| [`vaporwave政治化_調査ノート.md`](./vaporwave政治化_調査ノート.md) | vaporwaveの政治化に関する調査 |
-| [`witchhouse-chillwave調査メモ.md`](./witchhouse-chillwave調査メモ.md) | witch house・chillwaveの調査 |
-| [`HipposInTanks_調査ノート.md`](./HipposInTanks_調査ノート.md) | Hippos in Tanksレーベルの調査 |
-| [`MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md`](./MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md) | mp3ブログ時代の調査 |
-| [`internet_aesthetic語と制度化_調査ノート.md`](./internet_aesthetic語と制度化_調査ノート.md) | 「internet aesthetic」の語と制度化 |
-| [`Google_Trends調査.md`](./Google_Trends調査.md) | Google Trendsデータ分析（**代理指標**。起源・因果の根拠にしない） |
-| [`ハイパーポップの歴史.md`](./ハイパーポップの歴史.md) | hyperpopの発展史 |
-| [`インディーウェブの歴史年表.md`](./インディーウェブの歴史年表.md) | IndieWeb・Neocities・cursed images 関連の年表 |
-| [`tumblrタイムライン.md`](./tumblrタイムライン.md) | Tumblrの歴史的タイムライン |
-| [`§8-2_Tumblr_ForYou_調査メモ.md`](./§8-2_Tumblr_ForYou_調査メモ.md) | Tumblr For You アルゴリズムの調査 |
-| [`aesthetic_文法分析メモ.md`](./aesthetic_文法分析メモ.md) | 「aesthetic」の文法的用法の分析 |
-| [`aestheticに関する手動調査.md`](./aestheticに関する手動調査.md) | aesthetic関連の手動調査（X・Wayback・Reddit） |
-| [`匿名性の美学_後半展開_論点ノート.md`](./匿名性の美学_後半展開_論点ノート.md) | 匿名性と美学に関する論点 |
-| [`KYM_liminal_編集史メモ.md`](./KYM_liminal_編集史メモ.md) | Know Your Meme liminal 条目の編集史（2020-08〜2023-09） |
-| [`liminal_制度化_Backrooms_言説メモ.md`](./liminal_制度化_Backrooms_言説メモ.md) | liminal space の制度化・メディア言説・Backrooms とのラベル分岐（第7章文案用） |
-| [`khole-arena-archillect-researtch.md`](./khole-arena-archillect-researtch.md) | K-HOLE・normcore・VVORK・Archillect・rare.jpg・DIS 人脈 |
-| [`Arena設計思想調査ノート.md`](./Arena設計思想調査ノート.md) | Are.na 設計思想・CARI との関係 |
-| [`サフィックス系譜比較調査ノート.md`](./サフィックス系譜比較調査ノート.md) | -core/-wave/-punk サフィックスの系譜 |
-| [`scene_subculture_notes.md`](./scene_subculture_notes.md) | Scene・Indie Sleaze・Soft Grunge・MySpace サブカル |
-| [`supersuper.md`](./supersuper.md) | SuperSuper! Magazine（nu rave→witch house→seapunk 系譜） |
-| [`timeline.md`](./timeline.md) | 日付の横断統合インデックス（詳細は上記「作業基盤」） |
+</details>
 
 ---
 
@@ -161,7 +145,7 @@
 | [`docs/lofi-HD草稿全体の構造メモ.md`](docs/lofi-HD草稿全体の構造メモ.md) | lo-fi/HD章と全体構造の検討 |
 | [`docs/src-6_仕分け.md`](docs/src-6_仕分け.md) | 資料の仕分け |
 | [`docs/intro-kojiateki_引用メモ.md`](docs/intro-kojiateki_引用メモ.md) | 序文の引用関連メモ |
-| [`inv-opn-cook_年表.md`](./inv-opn-cook_年表.md) | OPN・Cook関連年表 |
+| [`inv-opn-cook_年表.md`](notes/inv-opn-cook_年表.md) | OPN・Cook関連年表 |
 | [`docs/第7章_reorg_計画.md`](docs/第7章_reorg_計画.md) | 第7章「爆発」再構成の計画・帰属確認 |
 | [`archive/反映済み文案/第7章_reorg_文案.md`](./archive/反映済み文案/第7章_reorg_文案.md) | 第7章再構成の**文案正本**（`草稿.md` 反映済・2026-07-23） |
 | [`docs/第6章_reorg_計画.md`](docs/第6章_reorg_計画.md) | 第6章 reorg 計画 |
@@ -209,7 +193,7 @@
 |---|---|
 | 「aesthetic」という語の歴史 | aesthetic手動調査 / internet_aesthetic語ノート / 草稿 第5章 |
 | 個別美学の発生史 | 調査ノート / timeline.md / 草稿 第3章・第6章・第7章 |
-| liminal space・Backrooms・KYM編集史・メディア制度化 | [`liminal_制度化_Backrooms_言説メモ.md`](./liminal_制度化_Backrooms_言説メモ.md) / [`KYM_liminal_編集史メモ.md`](./KYM_liminal_編集史メモ.md) / timeline.md |
+| liminal space・Backrooms・KYM編集史・メディア制度化 | [`liminal_制度化_Backrooms_言説メモ.md`](notes/liminal_制度化_Backrooms_言説メモ.md) / [`KYM_liminal_編集史メモ.md`](notes/KYM_liminal_編集史メモ.md) / timeline.md |
 | 美学ミームの発生パターン分類 | 覚書 / 調査ノート |
 | 充填という概念・成立条件の理論化 | 覚書 / 草稿 第3章・第5章 |
 | 分類の制度化（Aesthetics Wiki / CARI） | CARIの歴史 / aesthetic wiki歴史レポート / 草稿 第8章 |

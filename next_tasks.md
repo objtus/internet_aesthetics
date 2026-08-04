@@ -25,7 +25,7 @@
 
 **直近完了（2026-07-23）**：**crw-1** 一部——[`草稿.md`](./草稿.md) L1–L156 認知リズム推敲（検討・反映）。序文 L1–L58、第1章 GeoCities／mp3ブログ／MySpace／Tumblr／フォークソノミー
 
-**直近完了（2026-07-23）**：**7-reorg-0〜2** ☑（**1d・1e** 含む）——第7章「爆発」の reorg パイプライン完了。計画 [`docs/第7章_reorg_計画.md`](docs/第7章_reorg_計画.md)、文案 [`第7章_reorg_文案.md`](./archive/反映済み文案/第7章_reorg_文案.md)。KYM 編集史・制度化節（[`KYM_liminal_編集史メモ.md`](./KYM_liminal_編集史メモ.md)／[`liminal_制度化_Backrooms_言説メモ.md`](./liminal_制度化_Backrooms_言説メモ.md)）反映済み。`草稿.md` L1362–1644 へ全文差替え（章末 `## アーキテクチャ：TikTokとDiscordという対照` 復元含む）。**7-reorg-3／4** はユーザー判断でスコープ外（計画・文案タスクはここで終了）
+**直近完了（2026-07-23）**：**7-reorg-0〜2** ☑（**1d・1e** 含む）——第7章「爆発」の reorg パイプライン完了。計画 [`docs/第7章_reorg_計画.md`](docs/第7章_reorg_計画.md)、文案 [`第7章_reorg_文案.md`](./archive/反映済み文案/第7章_reorg_文案.md)。KYM 編集史・制度化節（[`KYM_liminal_編集史メモ.md`](notes/KYM_liminal_編集史メモ.md)／[`liminal_制度化_Backrooms_言説メモ.md`](notes/liminal_制度化_Backrooms_言説メモ.md)）反映済み。`草稿.md` L1362–1644 へ全文差替え（章末 `## アーキテクチャ：TikTokとDiscordという対照` 復元含む）。**7-reorg-3／4** はユーザー判断でスコープ外（計画・文案タスクはここで終了）
 
 **次にやる1件**：**fractal-1-meta**（第1章全体・**節レベル→章レベル**の推敲。完了後 **fractal-2** 以降で第2章〜へ同順序で続行）
 
@@ -161,23 +161,23 @@ meta-2 振り返りパート新設 ──── 草稿**末尾**・単独可（�
 | **7-reorg-0b** | ユーザー判断の確定（hyperpop＝C案／poor image＝D/W節本籍／見出し確定／D/W移動＋lo-fi/HD回収段落＝Y-light） | ☑ | 7-reorg-0 ☑ | 計画 更新1（2026-07-12） |
 | **7-reorg-0c** | 帰属確認（「4chan起源」通説の出どころ／Augé 参照の公開URL） | ☑ | 7-reorg-0 ☑ | 計画 更新2（2026-07-12）。①英語版Wikipedia②Aesthetics Wiki |
 | **7-reorg-1** | **文案正本化**——再構成後の第7章**全文**＋変更点一覧（M1〜7・A1〜16・C1〜6・S1〜10） | ☑ | 7-reorg-0c ☑ | [`第7章_reorg_文案.md`](./archive/反映済み文案/第7章_reorg_文案.md)（2026-07-12 正本化。2026-07-23 草稿反映で確定） |
-| **7-reorg-1d** | **KYM liminal 編集史**を文案へ反映（L140 ほか。正本 [`KYM_liminal_編集史メモ.md`](./KYM_liminal_編集史メモ.md)） | ☑ | 7-reorg-1 ☑ | 制度化節・爆発節へ反映済み（2026-07-23） |
-| **7-reorg-1e** | **制度化節**（Backrooms×liminal 言説仮説）文案確定・[`liminal_制度化_Backrooms_言説メモ.md`](./liminal_制度化_Backrooms_言説メモ.md) 照合。重複段落削除・WP URL | ☑ | 7-reorg-1 ☑ | [`草稿.md`](./草稿.md) L1508–1548（2026-07-23） |
+| **7-reorg-1d** | **KYM liminal 編集史**を文案へ反映（L140 ほか。正本 [`KYM_liminal_編集史メモ.md`](notes/KYM_liminal_編集史メモ.md)） | ☑ | 7-reorg-1 ☑ | 制度化節・爆発節へ反映済み（2026-07-23） |
+| **7-reorg-1e** | **制度化節**（Backrooms×liminal 言説仮説）文案確定・[`liminal_制度化_Backrooms_言説メモ.md`](notes/liminal_制度化_Backrooms_言説メモ.md) 照合。重複段落削除・WP URL | ☑ | 7-reorg-1 ☑ | [`草稿.md`](./草稿.md) L1508–1548（2026-07-23） |
 | **7-reorg-2** | **第7章 reorg 草稿反映**（章全体を文案 §1 で丸ごと差し替え） | ☑ | 7-reorg-1d・1e ☑ | [`草稿.md`](./草稿.md) L1362–1644（2026-07-23）。§2・§3-2 目視照合は任意 |
 | **7-reorg-3** | クロスチャプター点検（計画 §7 の表＋grep 全数） | — | — | **スコープ外**（2026-07-23。ユーザー判断で reorg パイプライン終了。必要なら cons-2 等で随時） |
 | **7-reorg-4** | 通読・next_tasks／context-map／timeline 還流（cons-2 と合流） | — | — | **スコープ外**（同上。第7章還流は cons-2 に統合） |
 
 | ID | 内容 | 状態 | 依存 | 正本・文案 |
 |---|---|---|---|---|
-| **rev-7** | 2016 vaporwave 政治化（コミュニティの応答） | ☑ | — | [`vaporwave政治化_調査ノート.md`](./vaporwave政治化_調査ノート.md) → [`第2章取込_vaporwave政治化_文案.md`](./archive/反映済み文案/第2章取込_vaporwave政治化_文案.md) |
+| **rev-7** | 2016 vaporwave 政治化（コミュニティの応答） | ☑ | — | [`vaporwave政治化_調査ノート.md`](notes/vaporwave政治化_調査ノート.md) → [`第2章取込_vaporwave政治化_文案.md`](./archive/反映済み文案/第2章取込_vaporwave政治化_文案.md) |
 | **ed-1** | 編集方針 §1 政治化 | ☑ | rev-7 と同一 | 上記（2026-06-02 反映） |
 
 ### 第2章・外部ノート（rev-7 後 or 並行）
 
 | ID | 内容 | 状態 | 依存 | 正本・文案 |
 |---|---|---|---|---|
-| **src-2** | SuperSuper! Magazine 追記 | ☑ | rev-7 後推奨 | [`supersuper.md`](./supersuper.md) → [`第2章取込_SuperSuper_文案.md`](./archive/反映済み文案/第2章取込_SuperSuper_文案.md) |
-| **src-5** | vaporwave前史見直し（Hippos In Tanks） | ☑ | **src-2 直後** | [`HipposInTanks_調査ノート.md`](./HipposInTanks_調査ノート.md) → [`第2章取込_vaporwave前史_文案.md`](./archive/反映済み文案/第2章取込_vaporwave前史_文案.md) |
+| **src-2** | SuperSuper! Magazine 追記 | ☑ | rev-7 後推奨 | [`supersuper.md`](notes/supersuper.md) → [`第2章取込_SuperSuper_文案.md`](./archive/反映済み文案/第2章取込_SuperSuper_文案.md) |
+| **src-5** | vaporwave前史見直し（Hippos In Tanks） | ☑ | **src-2 直後** | [`HipposInTanks_調査ノート.md`](notes/HipposInTanks_調査ノート.md) → [`第2章取込_vaporwave前史_文案.md`](./archive/反映済み文案/第2章取込_vaporwave前史_文案.md) |
 | **src-6a** | MP3ブログ調査ノート——仕分け確定 | ☑ | §1–§19 確定済 | [`docs/src-6_仕分け.md`](docs/src-6_仕分け.md) |
 | **src-6b** | 第2章・前史（§2・§3・§6） | ☑ | 草稿反映済（2026-06-16） | [`第2章取込_mp3blog前史_文案.md`](./archive/反映済み文案/第2章取込_mp3blog前史_文案.md) |
 | **src-6c** | 第1章・プラットフォーム（§1 mp3ブログ・§17 MySpace・§18 Tumblr補強） | ☑ | 草稿反映済（2026-06-16） | [`第1章取込_プラットフォーム_文案.md`](./archive/反映済み文案/第1章取込_プラットフォーム_文案.md) |
@@ -193,9 +193,9 @@ meta-2 振り返りパート新設 ──── 草稿**末尾**・単独可（�
 | **inv-tabor** | Tabor Robak ネットワーク整理・BrandNewPaintJob.exe（Jon Rafman との共作） | ☐ | 並行可 | [taborrobak.com](https://www.taborrobak.com/) / 草稿 L318・L439・L598・L994 既出 |
 | **inv-oesb** | OESB（Todd Ledford）× OPN「Time Decanted」MV 接点 | ☑ | 草稿反映済（2026-06-17） | [Vimeo](https://vimeo.com/7616034) / 草稿 L314 |
 | **inv-frkwys** | FRKWYS Vol.7（RVNG Intl.）——Ferraro・OPN・Laurel Halo 同席の記録 | ☑ | 草稿反映済（2026-06-17） | [Discogs](https://www.discogs.com/ja/master/353721-Borden-Ferraro-Godin-Halo-Lopatin-FRKWYS-7-) / 2011年7月 |
-| **inv-opn-cook** | OPN × A. G. Cook——**vaporwave 系譜と PC Music の交差**（コラボ年表） | ☑ | 並行可。src-4 ☑ 後推奨 | [`inv-opn-cook_年表.md`](./inv-opn-cook_年表.md) → [`第2章取込_OPN_Cook_文案.md`](./archive/反映済み文案/第2章取込_OPN_Cook_文案.md)。草稿 L733 直後反映（2026-06-22） |
+| **inv-opn-cook** | OPN × A. G. Cook——**vaporwave 系譜と PC Music の交差**（コラボ年表） | ☑ | 並行可。src-4 ☑ 後推奨 | [`inv-opn-cook_年表.md`](notes/inv-opn-cook_年表.md) → [`第2章取込_OPN_Cook_文案.md`](./archive/反映済み文案/第2章取込_OPN_Cook_文案.md)。草稿 L733 直後反映（2026-06-22） |
 | **intro-kojiateki** | **骨架的**インタビュー挿話——「その頃のインターネットの雰囲気」（**第2章冒頭・新設節**） | ☑ | 単独可。引用 ☑（書籍確認済） | [`第2章取込_骨架的挿話_文案.md`](./archive/反映済み文案/第2章取込_骨架的挿話_文案.md)／[`docs/intro-kojiateki_引用メモ.md`](docs/intro-kojiateki_引用メモ.md)。草稿 L238 付近反映（2026-06-22） |
-| **src-4** | ハイパーポップの歴史（PC Music 2013–2016 厚み） | ☑ | src-2 後（src-5 と並行可） | [`ハイパーポップの歴史.md`](./ハイパーポップの歴史.md) → `archive/反映済み文案/第2章取込_ハイパーポップ_文案.md` |
+| **src-4** | ハイパーポップの歴史（PC Music 2013–2016 厚み） | ☑ | src-2 後（src-5 と並行可） | [`ハイパーポップの歴史.md`](notes/ハイパーポップの歴史.md) → `archive/反映済み文案/第2章取込_ハイパーポップ_文案.md` |
 | **src-4b** | ハイパーポップ追記（Spotify「Hyperpop」命名→brat summer） | ☑ | src-4 ☑ | [`第4章取込_hyperpop_Spotify-bratsummer_文案.md`](./archive/反映済み文案/第4章取込_hyperpop_Spotify-bratsummer_文案.md)。草稿反映（2026-06-22） |
 | **src-1** | musicplusghost 洗い出し | ☑ | 草稿反映なし（2026-06-22 確定） | [`musicplusghost.md`](./sources/transcripts/musicplusghost.md) |
 | **src-3** | r/witchhouse 歴史スレ参照 | ☑ | rev-9 と重複なし | `#### コミュニティの正史` 末尾1文+URL（2026-06-17 反映済） |
@@ -208,12 +208,12 @@ meta-2 振り返りパート新設 ──── 草稿**末尾**・単独可（�
 
 | ID | 内容 | 状態 | 依存 | 正本・文案 |
 |---|---|---|---|---|
-| **cari-inv** | CARI 調査（§8 要確認・Global Village 等） | ☑ | — | [`CARI_調査ノート.md`](./CARI_調査ノート.md)。2026-06-17 完了判定：DV-i ☑、Shenzhen Miracle ☑、GVC ☑。§8 残3件（Collins URL・トレーラー照合・Terrell Davis）は**任意** |
+| **cari-inv** | CARI 調査（§8 要確認・Global Village 等） | ☑ | — | [`CARI_調査ノート.md`](notes/CARI_調査ノート.md)。2026-06-17 完了判定：DV-i ☑、Shenzhen Miracle ☑、GVC ☑。§8 残3件（Collins URL・トレーラー照合・Terrell Davis）は**任意** |
 | **cari-draft** | CARI 草稿反映（Guardian・Neo-Y2K 1段落、Facebook 補強） | ☑ | **src-2＋src-4 後** | 同上 → `archive/反映済み文案/第5章取込_CARI_文案.md` |
 | **concl-1** | Guardian 2016 結論の時代診断問いかけ（ユーザー改稿・案A） | ☑ | cari-draft ☑ | [`第5章取込_結論_Guardian問いかけ_文案.md`](./archive/反映済み文案/第5章取込_結論_Guardian問いかけ_文案.md) |
 | **concl-2** | 末尾——HTML後方互換・アーカイブ危機・ベンダーロックイン（軽く触れる） | ☐ | 単独可。**優先度低・最後** | 下記詳細節。`## クロニクルの終わりにあたって` または `## ＜後記＞` 末尾 |
 | **ed-2** | 日本語圏は射程外（1〜3文） | ☑ | 単独可 | [`序文取込_ed2_日本語圏射程_文案.md`](./archive/反映済み文案/序文取込_ed2_日本語圏射程_文案.md) |
-| **ed-6** | 序文——「インターネット美学」と「制度化」の説明節 | ☑ | 単独可。**aesthetic-rev-2 と分担** | [`internet_aesthetic語と制度化_調査ノート.md`](./internet_aesthetic語と制度化_調査ノート.md) → `archive/反映済み文案/序文取込_ed6meta1_文案.md`（2026-07-01反映） |
+| **ed-6** | 序文——「インターネット美学」と「制度化」の説明節 | ☑ | 単独可。**aesthetic-rev-2 と分担** | [`internet_aesthetic語と制度化_調査ノート.md`](notes/internet_aesthetic語と制度化_調査ノート.md) → `archive/反映済み文案/序文取込_ed6meta1_文案.md`（2026-07-01反映） |
 | **ed-4** | 本稿の制度化・Cook 歴史化・著者の不确定性（後記） | ☑ | concl-1 と同批 | [`後記取込_制度化ループ_文案.md`](./archive/反映済み文案/後記取込_制度化ループ_文案.md) |
 | **ed-5** | r/AestheticWiki 制度化追記（what aesthetic is this?） | ☑ | 単独可 | 第5章「分類する欲望」節（2026-06-17 反映済） |
 
@@ -232,8 +232,8 @@ meta-2 振り返りパート新設 ──── 草稿**末尾**・単独可（�
 | **aesthetic-reorg-0** | 第2章 `## 「aesthetic」という語` の**独立章化——考察・必要性測定** | ☑ | 単独可。**最初** | [`docs/第2章_aesthetic章分離_考察.md`](docs/第2章_aesthetic章分離_考察.md)（2026-06-19。**分離推奨・案A**） |
 | **aesthetic-reorg-1** | 章分離実行（草稿・分割稿の機械移動） | ☑ | reorg-0 ☑ | 2026-06-19 反映済 |
 | **aesthetic-reorg-2** | 章番号付け直し・序文章概観・相互参照・橋渡し | ☑ | reorg-1 後 | 下記詳細節 |
-| **aesthetic-rev-1** | aesthetic 節/章——**文法分析**に基づく書き換え・拡張 | ☑ | reorg-0 後（reorg-1 後推奨） | [`aesthetic_文法分析メモ.md`](./aesthetic_文法分析メモ.md) |
-| **aesthetic-rev-2** | aesthetic 節/章＋第5章——**制度化調査ノート**反映（ed-6 とセット） | ☑ | reorg-0 後。**ed-6 と並行可** | [`internet_aesthetic語と制度化_調査ノート.md`](./internet_aesthetic語と制度化_調査ノート.md) |
+| **aesthetic-rev-1** | aesthetic 節/章——**文法分析**に基づく書き換え・拡張 | ☑ | reorg-0 後（reorg-1 後推奨） | [`aesthetic_文法分析メモ.md`](notes/aesthetic_文法分析メモ.md) |
+| **aesthetic-rev-2** | aesthetic 節/章＋第5章——**制度化調査ノート**反映（ed-6 とセット） | ☑ | reorg-0 後。**ed-6 と並行可** | [`internet_aesthetic語と制度化_調査ノート.md`](notes/internet_aesthetic語と制度化_調査ノート.md) |
 
 **推奨パイプライン（aesthetic 節のみ）**
 
@@ -245,16 +245,16 @@ aesthetic-reorg-1 → aesthetic-reorg-2（分離・番号・橋渡し）
 aesthetic-rev-1（文法）＋ aesthetic-rev-2（制度化・ed-6 分担）
 ```
 
-**ed-6 との分担**（[`aesthetic_文法分析メモ.md`](./aesthetic_文法分析メモ.md) 補遺A）：序文＝制度化の最小定義＋カテゴリ語の予告。**Wikipedia AfD・EBSCO・単複論争**は aesthetic-rev-2／第5章へ。
+**ed-6 との分担**（[`aesthetic_文法分析メモ.md`](notes/aesthetic_文法分析メモ.md) 補遺A）：序文＝制度化の最小定義＋カテゴリ語の予告。**Wikipedia AfD・EBSCO・単複論争**は aesthetic-rev-2／第5章へ。
 
-**注意**：[`khole-arena-archillect-researtch.md`](./khole-arena-archillect-researtch.md) の取込（**inv-khole-***）は**別調査・別パイプライン**。aesthetic 節の reorg／rev とは**独立**（下記）。
+**注意**：[`khole-arena-archillect-researtch.md`](notes/khole-arena-archillect-researtch.md) の取込（**inv-khole-***）は**別調査・別パイプライン**。aesthetic 節の reorg／rev とは**独立**（下記）。
 
 ### 匿名キュレーション・normcore・Are.na（inv-khole-* / inv-cari-arena）
 
 | ID | 内容 | 状態 | 依存 | 正本・文案 |
 |---|---|---|---|---|
 | **inv-khole-0** | **挿入位置の測定**（VVORK→Archillect 系譜／K-HOLE／normcore／Are.na） | ☑ | — | [`docs/第6章_normcore追加_計画.md`](docs/第6章_normcore追加_計画.md)＋[`docs/画像bot挿入_計画.md`](docs/画像bot挿入_計画.md) |
-| **inv-cari-arena** | **CARI の Are.na 活用——追加調査** | ☑ | inv-khole-0 ☑ | [`Arena設計思想調査ノート.md`](./Arena設計思想調査ノート.md)（2026-06-27） |
+| **inv-cari-arena** | **CARI の Are.na 活用——追加調査** | ☑ | inv-khole-0 ☑ | [`Arena設計思想調査ノート.md`](notes/Arena設計思想調査ノート.md)（2026-06-27） |
 | **inv-khole-1a** | 文案：**第4章** VVORK 節（画像bot仕込み） | ☑ | inv-cari-arena ☑ | [`archive/反映済み文案/第4章取込_VVORK_文案.md`](./archive/反映済み文案/第4章取込_VVORK_文案.md)。草稿 L734–746（6段落） |
 | **inv-khole-1b** | 文案：**第6章** サフィックス来歴（~10行）＋normcore＋K-HOLE→DIS→Are.na＋Archillect/rare.jpg（短節8-15行）。**第1章** L155 Indie Sleaze→Soft Grunge 追記（1-2文）。**第7章** L1381 を第6章後方参照に書き換え＋L1421 corecore/yabujincore 追記 | ☑ | inv-cari-arena ☑ | 草稿 `## ラベルが増えるとき` L1103–1141（6小節）＋第1章 L155＋第7章 L1383/L1421。文案 [`第6章_normcore追加_文案.md`](./archive/反映済み文案/第6章_normcore追加_文案.md) |
 | **inv-khole-1c** | 文案：**第8章** CARI の Are.na 追記（L1484〜プラットフォーム論補完） | ☑ | 草稿 L1571–1577 反映済み（2026-06-29） | 同上 |
@@ -314,7 +314,7 @@ inv-khole-1c（第8章 CARI Are.na。実行可能——三段階知識生産フ�
 | 糸 | 章 | 出典・草稿位置 |
 |---|---|---|
 | ヴァナキュラーウェブ（vernacular web） | 第1章 | Olia Lialina の用語。草稿 L71 |
-| 匿名性の美学（作り手のペルソナ→画像の出自の消失） | 第2・4・7章 | rev-9／src-6f→[`匿名性の美学_後半展開_論点ノート.md`](./匿名性の美学_後半展開_論点ノート.md)。草稿 L1448 |
+| 匿名性の美学（作り手のペルソナ→画像の出自の消失） | 第2・4・7章 | rev-9／src-6f→[`匿名性の美学_後半展開_論点ノート.md`](notes/匿名性の美学_後半展開_論点ノート.md)。草稿 L1448 |
 | poor image／ゴミ画像 | 第4章 | Hito Steyerl・Nukeme。草稿 L832–838（inv-steyerl ☑）・L850–852 |
 | non-place（非-場所）／anemoia | 第7章 | Marc Augé・John Koenig。草稿 L1460（liminal space節）・L1520（Dreamcore節） |
 
@@ -389,7 +389,7 @@ inv-khole-1c（第8章 CARI Are.na。実行可能——三段階知識生産フ�
 | 7 | ドキュメント整理③（Seapunk 取込後） | ☑ | 第2–4章分割稿・§5 還流・後記 L841（2026-06-02） |
 | §8 | 序文改稿・Tumblr For You・KYM Wayback | ☑ | 草稿・分割稿一部（§8-1〜3、2026-06-01） |
 | **§9** | aesthetic 包含関係・語法分析 | ☑ | 文案→草稿 aesthetic 節（2026-06-02） |
-| **§9-man** | [`aestheticに関する手動調査.md`](./aestheticに関する手動調査.md)——草稿反映 | ☑ | §9 文案に統合反映 |
+| **§9-man** | [`aestheticに関する手動調査.md`](notes/aestheticに関する手動調査.md)——草稿反映 | ☑ | §9 文案に統合反映 |
 
 **依存関係（完了フェーズ・履歴）**
 
@@ -430,7 +430,7 @@ inv-khole-1c（第8章 CARI Are.na。実行可能——三段階知識生産フ�
 
 ### rev-7 進捗——**完了（2026-06-02 拡張反映）**
 
-☑ 調査 [`vaporwave政治化_調査ノート.md`](./vaporwave政治化_調査ノート.md) → [`第2章取込_vaporwave政治化_文案.md`](./archive/反映済み文案/第2章取込_vaporwave政治化_文案.md) → 草稿 L426–452・分割稿同期。推敲メモ 続45。
+☑ 調査 [`vaporwave政治化_調査ノート.md`](notes/vaporwave政治化_調査ノート.md) → [`第2章取込_vaporwave政治化_文案.md`](./archive/反映済み文案/第2章取込_vaporwave政治化_文案.md) → 草稿 L426–452・分割稿同期。推敲メモ 続45。
 
 **任意残**：obakeweb／togetter、Boriswave（同ノート §6）。r/vaporwave 声明・weaponized nostalgia は打ち切り ☒。
 
@@ -490,16 +490,16 @@ inv-khole-1c（第8章 CARI Are.na。実行可能——三段階知識生産フ�
 
 ### src-2. SuperSuper! Magazine——**完了（2026-06-11）**
 
-☑ [`supersuper.md`](./supersuper.md) → [`第2章取込_SuperSuper_文案.md`](./archive/反映済み文案/第2章取込_SuperSuper_文案.md) → 草稿・分割稿同期。推敲メモ 続50–51。
+☑ [`supersuper.md`](notes/supersuper.md) → [`第2章取込_SuperSuper_文案.md`](./archive/反映済み文案/第2章取込_SuperSuper_文案.md) → 草稿・分割稿同期。推敲メモ 続50–51。
 
 ### src-5. vaporwave前史（HIT）——**完了（2026-06-11）**
 
-☑ [`HipposInTanks_調査ノート.md`](./HipposInTanks_調査ノート.md) → [`第2章取込_vaporwave前史_文案.md`](./archive/反映済み文案/第2章取込_vaporwave前史_文案.md) → 草稿 L239–249。推敲メモ 続52–53。
+☑ [`HipposInTanks_調査ノート.md`](notes/HipposInTanks_調査ノート.md) → [`第2章取込_vaporwave前史_文案.md`](./archive/反映済み文案/第2章取込_vaporwave前史_文案.md) → 草稿 L239–249。推敲メモ 続52–53。
 
 ### src-6. MP3ブログ時代とエクスペリメンタル・シーン——段階取込
 
 **正本（仕分け・フェーズ）**：[`docs/src-6_仕分け.md`](docs/src-6_仕分け.md)  
-**調査資料**：[`MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md`](./MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md)
+**調査資料**：[`MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md`](notes/MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md)
 
 第1章〜第2章にまたがる19節＋スレッド3本。**1文案にまとめられない**ため Seapunk 6a 型で段階化。
 
@@ -676,7 +676,7 @@ Daniel Lopatin（Oneohtrix Point Never、OPN）は、『Memory Vague』（2009�
 3. ユーザー承認 → [`草稿.md`](./草稿.md) 反映 → [`第2章_命名の時代.md`](./第2章_命名の時代.md) 同期  
 4. **em dash 不使用**
 
-**ステータス**：☑ 草稿反映済（2026-06-22）。[`inv-opn-cook_年表.md`](./inv-opn-cook_年表.md) → [`第2章取込_OPN_Cook_文案.md`](./archive/反映済み文案/第2章取込_OPN_Cook_文案.md)。`### vaporwave との対置` 直後（L733 付近）。分割稿 [`第2章_命名の時代.md`](./第2章_命名の時代.md) 同期済。
+**ステータス**：☑ 草稿反映済（2026-06-22）。[`inv-opn-cook_年表.md`](notes/inv-opn-cook_年表.md) → [`第2章取込_OPN_Cook_文案.md`](./archive/反映済み文案/第2章取込_OPN_Cook_文案.md)。`### vaporwave との対置` 直後（L733 付近）。分割稿 [`第2章_命名の時代.md`](./第2章_命名の時代.md) 同期済。
 
 ---
 
@@ -749,14 +749,14 @@ Daniel Lopatin（Oneohtrix Point Never、OPN）は、『Memory Vague』（2009�
 
 ### src-4. ハイパーポップの歴史——**完了**
 
-☑ [`ハイパーポップの歴史.md`](./ハイパーポップの歴史.md) → `archive/反映済み文案/第2章取込_ハイパーポップ_文案.md` → 第2章 PC Music 節（2026-06-11 前後）。
+☑ [`ハイパーポップの歴史.md`](notes/ハイパーポップの歴史.md) → `archive/反映済み文案/第2章取込_ハイパーポップ_文案.md` → 第2章 PC Music 節（2026-06-11 前後）。
 
 ### src-4b. ハイパーポップ追記——Spotify「Hyperpop」命名から brat summer まで
 
 **背景**  
 **src-4** ☑ は第2章 PC Music 節（2013–2016）のみ。第4章 [`## hyperpopの浮上`](./草稿.md)（L1013–1026）は第2章分岐の要約＋Spotify プレイリスト1文だが、**名称の由来**（2019年8月）から **brat summer**（2024）までの厚みが不足している。[`第2章取込_ハイパーポップ_文案.md`](./archive/反映済み文案/第2章取込_ハイパーポップ_文案.md) 執筆メモでも §7・§13 は「第4章へ保留」と明記済み。
 
-**正本**：[`ハイパーポップの歴史.md`](./ハイパーポップの歴史.md) **§7–§13**（§1–6 は src-4 ☑ 済）
+**正本**：[`ハイパーポップの歴史.md`](notes/ハイパーポップの歴史.md) **§7–§13**（§1–6 は src-4 ☑ 済）
 
 **射程（ユーザー指定：Spotify プレイリスト由来→brat summer）**
 
@@ -805,12 +805,12 @@ Daniel Lopatin（Oneohtrix Point Never、OPN）は、『Memory Vague』（2009�
 
 | ID | 内容 | 状態 | 成果物 |
 |---|---|---|---|
-| cari-inv | 調査 | ☑ | [`CARI_調査ノート.md`](./CARI_調査ノート.md)。2026-06-17 完了判定。§8 残3件は任意 |
+| cari-inv | 調査 | ☑ | [`CARI_調査ノート.md`](notes/CARI_調査ノート.md)。2026-06-17 完了判定。§8 残3件は任意 |
 | cari-draft | 草稿反映 | ☑ | `archive/反映済み文案/第5章取込_CARI_文案.md` → 第5章 L780–807 付近 |
 
 ### cari-inv. 調査——**完了（2026-06-17）**
 
-☑ [`CARI_調査ノート.md`](./CARI_調査ノート.md)。§8 残3件（Collins URL・トレーラー照合・Terrell Davis）は**任意**。
+☑ [`CARI_調査ノート.md`](notes/CARI_調査ノート.md)。§8 残3件（Collins URL・トレーラー照合・Terrell Davis）は**任意**。
 
 ### cari-draft. 草稿反映——**完了**
 
@@ -1006,7 +1006,7 @@ Daniel Lopatin（Oneohtrix Point Never、OPN）は、『Memory Vague』（2009�
 草稿は序文 L9・第5章題で「**制度化**」を使うが、読者向けの定義節がない。同様に「**インターネット美学**」カテゴリの来歴も序盤で説明されていない。序盤に説明節を設けたい。
 
 **調査の結論（暫定）**  
-[`internet_aesthetic語と制度化_調査ノート.md`](./internet_aesthetic語と制度化_調査ノート.md) に整理済。
+[`internet_aesthetic語と制度化_調査ノート.md`](notes/internet_aesthetic語と制度化_調査ノート.md) に整理済。
 
 | 論点 | 要点 |
 |---|---|
@@ -1043,7 +1043,7 @@ Daniel Lopatin（Oneohtrix Point Never、OPN）は、『Memory Vague』（2009�
 3. [`第1章_土壌.md`](./第1章_土壌.md) 等の分割稿は序文があれば同期要否を判断  
 4. 本ファイル・[`docs/草稿_推敲メモ.md`](docs/草稿_推敲メモ.md) 更新  
 
-**正本**：[`internet_aesthetic語と制度化_調査ノート.md`](./internet_aesthetic語と制度化_調査ノート.md)
+**正本**：[`internet_aesthetic語と制度化_調査ノート.md`](notes/internet_aesthetic語と制度化_調査ノート.md)
 
 **ステータス**：☑ 完了（2026-07-01）。序文に独立節「### 「インターネット美学」という言葉の来歴」として反映（口語用法との層の違い→2020 Washington Post→2022制度化→Wikipedia AfD/日本語版→EBSCO）。文案は`archive/反映済み文案/序文取込_ed6meta1_文案.md`。あわせて序文冒頭に新設節「### 「インターネット美学」とは何か」（日本語版Wikipedia・アニヲタWiki・美学ウィキの3定義踏査、美学／美学ミーム／インターネット美学の用語3層整理）を追加し、旧「### aesthetic という語」節は第5章と重複するため削除。「### アーキテクチャと各章」の章番号ずれ（第2〜7章の言及が実際の章立てと1つずつずれていた）も修正。
 
@@ -1057,8 +1057,8 @@ reorg-0/1/2 ☑／aesthetic-rev-1 ☑（草稿 L687–870）／aesthetic-rev-2 �
 |---|---|
 | [`docs/第2章_aesthetic章分離_考察.md`](docs/第2章_aesthetic章分離_考察.md) | reorg 考察 |
 | [`docs/第3章_aesthetic_rev1_考察.md`](docs/第3章_aesthetic_rev1_考察.md) | rev-1 考察・§21 プラン |
-| [`aesthetic_文法分析メモ.md`](./aesthetic_文法分析メモ.md) | 文法分析 |
-| [`internet_aesthetic語と制度化_調査ノート.md`](./internet_aesthetic語と制度化_調査ノート.md) | 制度化調査 |
+| [`aesthetic_文法分析メモ.md`](notes/aesthetic_文法分析メモ.md) | 文法分析 |
+| [`internet_aesthetic語と制度化_調査ノート.md`](notes/internet_aesthetic語と制度化_調査ノート.md) | 制度化調査 |
 | [`docs/草稿_推敲メモ.md`](docs/草稿_推敲メモ.md) | reorg/rev ログ（2026-06-19–22） |
 
 分割稿 [`第3章_aestheticという語.md`](./第3章_aestheticという語.md) は**手動同期（ユーザー）**。
@@ -1066,7 +1066,7 @@ reorg-0/1/2 ☑／aesthetic-rev-1 ☑（草稿 L687–870）／aesthetic-rev-2 �
 ## 匿名キュレーション・normcore・Are.na（inv-khole-* / inv-cari-arena）
 
 **背景（2026-06-19 開始、2026-06-26 計画確定）**  
-[`khole-arena-archillect-researtch.md`](./khole-arena-archillect-researtch.md) は、K-HOLE／Are.na／Archillect／VVORK／rare.jpg 等の**画像キュレーション・ポストインターネット圏**をまとめた調査。aesthetic 節の reorg／rev とは**独立したパイプライン**。
+[`khole-arena-archillect-researtch.md`](notes/khole-arena-archillect-researtch.md) は、K-HOLE／Are.na／Archillect／VVORK／rare.jpg 等の**画像キュレーション・ポストインターネット圏**をまとめた調査。aesthetic 節の reorg／rev とは**独立したパイプライン**。
 
 2026-06-26 の検討で、挿入位置が確定し、normcore／サフィックス／Are.na の第6章挿入計画と、画像bot（VVORK / Archillect / rare.jpg）の章別分担計画が文書化された。CARI–Are.na 調査を先行させ、その結果を踏まえて文案を作成する順序とした。
 
@@ -1077,7 +1077,7 @@ reorg-0/1/2 ☑／aesthetic-rev-1 ☑（草稿 L687–870）／aesthetic-rev-2 �
 | **VVORK** | 無言のキュレーション、DIS と同一シーン | **第4章** DIS 節延長（L733〜L762） | [`docs/画像bot挿入_計画.md`](docs/画像bot挿入_計画.md) |
 | **K-HOLE／normcore／Are.na** | サフィックス生産性、normcore 充填、K-HOLE→DIS→Are.na 接続 | **第6章** 冒頭挿入（L1075 後） | [`docs/第6章_normcore追加_計画.md`](docs/第6章_normcore追加_計画.md) |
 | **Archillect／rare.jpg** | VVORK の Twitter 移植、著者性の消去 | **第6章** normcore 挿入の近くで短く言及 | [`docs/画像bot挿入_計画.md`](docs/画像bot挿入_計画.md) |
-| **CARI の Are.na 活用** | プラットフォーム論の補完 | **第8章** L1484〜（inv-cari-arena ☑。**実行可能**） | [`docs/第6章_normcore追加_計画.md`](docs/第6章_normcore追加_計画.md)＋[`Arena設計思想調査ノート.md`](./Arena設計思想調査ノート.md) |
+| **CARI の Are.na 活用** | プラットフォーム論の補完 | **第8章** L1484〜（inv-cari-arena ☑。**実行可能**） | [`docs/第6章_normcore追加_計画.md`](docs/第6章_normcore追加_計画.md)＋[`Arena設計思想調査ノート.md`](notes/Arena設計思想調査ノート.md) |
 | **Giolo & Berghman** | aggregation＝internet aesthetics | 第6章 or 第8章に1文で引用可。単独の節は不要 | — |
 | **§11 日本語圏** | カオスラウンジ、パクツイ等 | **射程外**（ed-2）。本文に入れない | — |
 
@@ -1101,7 +1101,7 @@ reorg-0/1/2 ☑／aesthetic-rev-1 ☑（草稿 L687–870）／aesthetic-rev-2 �
 
 ### inv-cari-arena. CARI の Are.na 活用——追加調査——**完了（2026-06-27）**
 
-☑ [`Arena設計思想調査ノート.md`](./Arena設計思想調査ノート.md)（全11節）。一次資料ベースで Are.na 設計思想・CARI との関係・Discord 構造を整理。
+☑ [`Arena設計思想調査ノート.md`](notes/Arena設計思想調査ノート.md)（全11節）。一次資料ベースで Are.na 設計思想・CARI との関係・Discord 構造を整理。
 
 **調査結果の要点**
 
@@ -1143,7 +1143,7 @@ reorg-0/1/2 ☑／aesthetic-rev-1 ☑（草稿 L687–870）／aesthetic-rev-2 �
 
 ### inv-khole-1b. 文案：第6章 normcore＋サフィックス＋Are.na＋Archillect/rare.jpg
 
-**前提**：inv-cari-arena ☑。未調査C ☑（[`サフィックス系譜比較調査ノート.md`](./サフィックス系譜比較調査ノート.md)）。**着手可能**。
+**前提**：inv-cari-arena ☑。未調査C ☑（[`サフィックス系譜比較調査ノート.md`](notes/サフィックス系譜比較調査ノート.md)）。**着手可能**。
 
 **内容**：第6章冒頭（L1075 後、`## vaporwave の政治的受容` L1077 の前）に数段落を挿入。
 1. サフィックスの生産性（-core / -wave / -punk）＝言語的アーキテクチャ
@@ -1151,7 +1151,7 @@ reorg-0/1/2 ☑／aesthetic-rev-1 ☑（草稿 L687–870）／aesthetic-rev-2 �
 3. K-HOLE → DIS Magazine → Are.na の接続（人脈線）＋ Are.na の特徴づけ（1〜2文）
 4. Archillect / rare.jpg を短節（8-15行）で回収（VVORK の Twitter 移植、bot／匿名人力の二分岐、著者性の消去）
 
-**ブロック1 で使う具体的素材**（[`サフィックス系譜比較調査ノート.md`](./サフィックス系譜比較調査ノート.md) より）：
+**ブロック1 で使う具体的素材**（[`サフィックス系譜比較調査ノート.md`](notes/サフィックス系譜比較調査ノート.md) より）：
 - 三系譜の命名発生様式の違い：-punk＝作家個人→メディア→コミュニティ（上→下）、-wave＝ブロガー→コミュニティ→アーティスト（複雑な相互作用）、-core＝コミュニティ内部→メディア→プラットフォーム（下→上）
 - chillwave（2009年・Hipster Runoff）が最初のインターネットマイクロジャンル -wave 語。vaporwave はその「皮肉的変種」
 - fashioncore（2002年・Eighteen Visions）が -core のビジュアル美学への最初の転用（侮辱語として発生）
@@ -1166,7 +1166,7 @@ reorg-0/1/2 ☑／aesthetic-rev-1 ☑（草稿 L687–870）／aesthetic-rev-2 �
 - 第8章（inv-khole-1c）への**予告**にとどめ、CARI との関係の詳細はここでは書かない
 
 **未調査依存**（[`docs/第6章_normcore追加_計画.md`](docs/第6章_normcore追加_計画.md) §未調査 参照）：
-- ~~C. サフィックスの系譜（優先度：中〜高）~~ → ☑ [`サフィックス系譜比較調査ノート.md`](./サフィックス系譜比較調査ノート.md)（2026-06-28）
+- ~~C. サフィックスの系譜（優先度：中〜高）~~ → ☑ [`サフィックス系譜比較調査ノート.md`](notes/サフィックス系譜比較調査ノート.md)（2026-06-28）
 - A. normcore 受容の詳細（優先度：低）——文案の depth 次第
 
 **文案ファイル（案）**：[`archive/反映済み文案/第6章_normcore追加_文案.md`](./archive/反映済み文案/第6章_normcore追加_文案.md)
@@ -1317,7 +1317,7 @@ reorg-0/1/2 ☑／aesthetic-rev-1 ☑（草稿 L687–870）／aesthetic-rev-2 �
 
 ## 結論部改稿（concl-*）
 
-正本：[`CARI_調査ノート.md`](./CARI_調査ノート.md) §2（Guardian 2016・Leigh Alexander）、§7 執筆メモ 2d。**cari-draft 後推奨**（同一記事の別端。rev-7 の fashwave 記事とは別）。
+正本：[`CARI_調査ノート.md`](notes/CARI_調査ノート.md) §2（Guardian 2016・Leigh Alexander）、§7 執筆メモ 2d。**cari-draft 後推奨**（同一記事の別端。rev-7 の fashwave 記事とは別）。
 
 | ID | 内容 | 状態 | 文案（案） |
 |---|---|---|---|
@@ -1405,7 +1405,7 @@ reorg-0/1/2 ☑／aesthetic-rev-1 ☑（草稿 L687–870）／aesthetic-rev-2 �
 | 4 ファクト補強 #11〜22 | 2025-05-31 | ファクト補強調査・推敲メモ 続12〜13 |
 | 5 ドキュメント整理② | 2025-05-31 | 第3〜5章分割稿・README |
 | §8-1 序文・aesthetic 統合稿 | 2026-06-01 | 推敲メモ 続17・[`序文_改稿.md`](./序文_改稿.md) |
-| §8-2 Tumblr For You | 2026-06-01 | [`§8-2_Tumblr_ForYou_調査メモ.md`](./§8-2_Tumblr_ForYou_調査メモ.md)・推敲メモ 続18 |
+| §8-2 Tumblr For You | 2026-06-01 | [`§8-2_Tumblr_ForYou_調査メモ.md`](notes/§8-2_Tumblr_ForYou_調査メモ.md)・推敲メモ 続18 |
 | §8-3 KYM Wayback 訂正 | 2026-06-01 | 序文_改稿・第2章分割稿・覚書 L129 |
 
 ---
@@ -1466,34 +1466,34 @@ reorg-0/1/2 ☑／aesthetic-rev-1 ☑（草稿 L687–870）／aesthetic-rev-2 �
 | [`草稿.md`](./草稿.md) | 正本 |
 | [`docs/草稿_推敲メモ.md`](docs/草稿_推敲メモ.md) | 改稿ログ（完了フェーズの詳細） |
 | [`docs/草稿_ファクト補強調査.md`](docs/草稿_ファクト補強調査.md) | ファクト候補 #6〜22 |
-| [`Seapunk 詳細調査ノート.md`](./Seapunk%20詳細調査ノート.md) | Seapunk 横断調査の正本 |
+| [`Seapunk 詳細調査ノート.md`](notes/Seapunk 詳細調査ノート.md) | Seapunk 横断調査の正本 |
 | [`docs/Seapunk調査_取り込み計画.md`](docs/Seapunk調査_取り込み計画.md) | 6a 成果物——行単位の取込タスク |
 | [`序文_改稿.md`](./序文_改稿.md) | §9 保留論点・KYM Wayback 年表 |
-| [`§8-2_Tumblr_ForYou_調査メモ.md`](./§8-2_Tumblr_ForYou_調査メモ.md) | Tumblr アルゴリズム年表 |
+| [`§8-2_Tumblr_ForYou_調査メモ.md`](notes/§8-2_Tumblr_ForYou_調査メモ.md) | Tumblr アルゴリズム年表 |
 | [`FrankJavCee文字起こし.md`](./sources/transcripts/FrankJavCee文字起こし.md) | §9 FrankJavCee 分析の正本 |
-| [`aestheticに関する手動調査.md`](./aestheticに関する手動調査.md) | aesthetic 語法・Floral Shoppe コメント年代・X 検索ログ（2026-06-02） |
+| [`aestheticに関する手動調査.md`](notes/aestheticに関する手動調査.md) | aesthetic 語法・Floral Shoppe コメント年代・X 検索ログ（2026-06-02） |
 | [`archive/Seapunk取込文案/Seapunk取込_6d-review_文案.md`](./archive/Seapunk取込文案/Seapunk取込_6d-review_文案.md) | 6d-review 反映用本文（アーカイブ） |
 | [`docs/6d-review_aesthetic論点整理.md`](docs/6d-review_aesthetic論点整理.md) | aesthetic 零れ落ち・層A–E |
 | [`docs/6d-review_第2章構成案.md`](docs/6d-review_第2章構成案.md) | #### 案・フェーズ分割 |
-| [`witchhouse-chillwave調査メモ.md`](./witchhouse-chillwave調査メモ.md) | witch house／chillwave 調査 |
+| [`witchhouse-chillwave調査メモ.md`](notes/witchhouse-chillwave調査メモ.md) | witch house／chillwave 調査 |
 | [`docs/草稿_レビュー論点メモ.md`](docs/草稿_レビュー論点メモ.md) | レビュー論点の正本・rev-* ロードマップ |
 | [`musicplusghost.md`](./sources/transcripts/musicplusghost.md) | FEECO *MUSIC + GHOST* 全文テキスト（src-1 正本） |
-| [`supersuper.md`](./supersuper.md) | SuperSuper! 号別調査・PC Music 前史（src-2 正本） |
-| [`HipposInTanks_調査ノート.md`](./HipposInTanks_調査ノート.md) | HIT カタログ・vaporwave 前史（src-5 正本） |
-| [`MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md`](./MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md) | MP3ブログ・レーベル史・MySpace/Tumblr設計史（src-6 調査正本） |
+| [`supersuper.md`](notes/supersuper.md) | SuperSuper! 号別調査・PC Music 前史（src-2 正本） |
+| [`HipposInTanks_調査ノート.md`](notes/HipposInTanks_調査ノート.md) | HIT カタログ・vaporwave 前史（src-5 正本） |
+| [`MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md`](notes/MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md) | MP3ブログ・レーベル史・MySpace/Tumblr設計史（src-6 調査正本） |
 | [`docs/src-6_仕分け.md`](docs/src-6_仕分け.md) | src-6a 成果物——節別仕分け・フェーズ6b–6f・委譲表 |
-| [`vaporwave政治化_調査ノート.md`](./vaporwave政治化_調査ノート.md) | rev-7 正本（2016 fashwave・コミュニティ応答・Boriswave） |
+| [`vaporwave政治化_調査ノート.md`](notes/vaporwave政治化_調査ノート.md) | rev-7 正本（2016 fashwave・コミュニティ応答・Boriswave） |
 | [`Vaporwave Is (Not) a Critique of Capitalism_Genre Work in An Online Music Scene.md`](./sources/papers/Vaporwave%20Is%20(Not)%20a%20Critique%20of%20Capitalism_Genre%20Work%20in%20An%20Online%20Music%20Scene.md) | Whelan & Nowak 2018 全文（@ccchristtt 引用含む） |
 | [`Vaporwave_Politics_Protest_and_Identity.md`](./sources/papers/Vaporwave_Politics_Protest_and_Identity.md) | McLeod 2018 全文（PDF 抽出） |
 | [`note_極右の世界のBGM.md`](./sources/transcripts/note_極右の世界のBGM.md) | ykic 二次・fashwave 年表（Vice 日付は14日に訂正） |
-| [`CARI_調査ノート.md`](./CARI_調査ノート.md) | cari-inv／cari-draft 正本（Guardian・Facebook 制度化・Priz Tats） |
-| [`internet_aesthetic語と制度化_調査ノート.md`](./internet_aesthetic語と制度化_調査ノート.md) | **ed-6**／**aesthetic-rev-2** 正本（語史・Wikipedia・制度化） |
-| [`aesthetic_文法分析メモ.md`](./aesthetic_文法分析メモ.md) | **aesthetic-rev-1** 正本（三モード・質/種・二軸統合） |
-| [`khole-arena-archillect-researtch.md`](./khole-arena-archillect-researtch.md) | **inv-khole-*** 正本（K-HOLE／Are.na／VVORK→Archillect。**aesthetic-reorg とは独立**） |
-| [`Arena設計思想調査ノート.md`](./Arena設計思想調査ノート.md) | **inv-cari-arena** 成果物（Are.na 設計思想・CARI 研究基盤・Discord 三段階フロー。2026-06-27） |
-| [`サフィックス系譜比較調査ノート.md`](./サフィックス系譜比較調査ノート.md) | **未調査C** 成果物（-core/-wave/-punk 三系譜の語源・増殖ロジック・横断比較。2026-06-28） |
-| [`scene_subculture_notes.md`](./scene_subculture_notes.md) | Scene サブカルチャー・-core サフィックス詳細・Indie Sleaze 調査（2026-06-28）。fashioncore→scene→normcore 系譜、MySpace 共依存、Indie Sleaze 遡及的命名 |
-| [`CARIの歴史.md`](./CARIの歴史.md) | CARI 公式年表の和訳 |
+| [`CARI_調査ノート.md`](notes/CARI_調査ノート.md) | cari-inv／cari-draft 正本（Guardian・Facebook 制度化・Priz Tats） |
+| [`internet_aesthetic語と制度化_調査ノート.md`](notes/internet_aesthetic語と制度化_調査ノート.md) | **ed-6**／**aesthetic-rev-2** 正本（語史・Wikipedia・制度化） |
+| [`aesthetic_文法分析メモ.md`](notes/aesthetic_文法分析メモ.md) | **aesthetic-rev-1** 正本（三モード・質/種・二軸統合） |
+| [`khole-arena-archillect-researtch.md`](notes/khole-arena-archillect-researtch.md) | **inv-khole-*** 正本（K-HOLE／Are.na／VVORK→Archillect。**aesthetic-reorg とは独立**） |
+| [`Arena設計思想調査ノート.md`](notes/Arena設計思想調査ノート.md) | **inv-cari-arena** 成果物（Are.na 設計思想・CARI 研究基盤・Discord 三段階フロー。2026-06-27） |
+| [`サフィックス系譜比較調査ノート.md`](notes/サフィックス系譜比較調査ノート.md) | **未調査C** 成果物（-core/-wave/-punk 三系譜の語源・増殖ロジック・横断比較。2026-06-28） |
+| [`scene_subculture_notes.md`](notes/scene_subculture_notes.md) | Scene サブカルチャー・-core サフィックス詳細・Indie Sleaze 調査（2026-06-28）。fashioncore→scene→normcore 系譜、MySpace 共依存、Indie Sleaze 遡及的命名 |
+| [`CARIの歴史.md`](notes/CARIの歴史.md) | CARI 公式年表の和訳 |
 | 新蒸気波要点ガイド（佐藤秀彦編・DU BOOKS 2019） | 第3章 aesthetic 節（ばるぼら年表・大辞典）。**骨架的インタビュー**は **intro-kojiateki** |
 | [`docs/草稿_明晰さレビュー.md`](docs/草稿_明晰さレビュー.md) | **明晰さレビュー**（2026-06-25・章別評価＋全体課題6点＋誤記一覧） |
 | [`docs/編集方針.md`](docs/編集方針.md) | ed-1〜3 の根拠 |
@@ -1506,7 +1506,7 @@ reorg-0/1/2 ☑／aesthetic-rev-1 ☑（草稿 L687–870）／aesthetic-rev-2 �
 *更新：2026-07-23。**crw-1** 進捗——L1–L156 反映済（序文＋第1章 GeoCities／mp3／MySpace／Tumblr／フォークソノミー）。*
 *更新：2026-07-23。**crw-1** 追加——草稿全体の認知リズム推敲を**最優先**に設定（正本 [`cognitive-rhythm-writing/SKILL.md`](./cognitive-rhythm-writing/SKILL.md)）。**cons-2** はその次。*
 *更新：2026-07-23。**7-reorg-0〜2** ☑（**1d・1e** 含む）——第7章「爆発」reorg 完了。[`docs/第7章_reorg_計画.md`](docs/第7章_reorg_計画.md)／[`第7章_reorg_文案.md`](./archive/反映済み文案/第7章_reorg_文案.md) を正本とし、[`草稿.md`](./草稿.md) L1362–1644 へ全文差替え（前史→COVID→爆発→制度化→D/W→cottagecore→TikTok→hyperpop/brat→Discord→章末アーキテクチャ）。**7-reorg-3／4** はユーザー判断でスコープ外。*
-*更新：2026-07-17。**7-reorg-1d／1e** 進行中（[`第7章_reorg_文案.md`](./archive/反映済み文案/第7章_reorg_文案.md)＋[`liminal_制度化_Backrooms_言説メモ.md`](./liminal_制度化_Backrooms_言説メモ.md)）。`timeline.md`／`README.md`／`context-map.md` に liminal 制度化年表・新規メモを還流。完了後 **7-reorg-2**（草稿全文差し替え）。*
+*更新：2026-07-17。**7-reorg-1d／1e** 進行中（[`第7章_reorg_文案.md`](./archive/反映済み文案/第7章_reorg_文案.md)＋[`liminal_制度化_Backrooms_言説メモ.md`](notes/liminal_制度化_Backrooms_言説メモ.md)）。`timeline.md`／`README.md`／`context-map.md` に liminal 制度化年表・新規メモを還流。完了後 **7-reorg-2**（草稿全文差し替え）。*
 *更新：2026-07-07。**6-reorg-0〜5** ☑——第6章「名前があとから来る」の再構成が完了。（1）章冒頭に-wave/-coreサフィックスの求心力を追記、（2）normcoreの読み筋（-coreラベルが一般に広く知られた最初の事例／Aesthetics Wiki項目）を冒頭と結びの2箇所に明示、（3）匿名性の美学（Archillect/rare.jpg）から第7章liminal spaceへの伏線を1文追加、（4）`## 名付け親の分からない美学——dark academia と cottagecore` 統合節を新設し、旧`実体先行型`等の型語彙を廃止して具体的なタグ・投稿・日付ベースの記述に書き換え（第7章冒頭・クロニクル末の相互参照2箇所も同様に修正）、（5）`## vaporwave の政治的受容` 節全体を再構成（⑥-full。当初計画は接続文の追加のみだったが、章冒頭予告に節本体が応えていないという指摘を受けて追加）——fashwaveとsynthwaveの関係の誤り（Anglinが「オルタナ右翼の公式サウンドトラック」と呼んだのはsynthwave、BuzzFeedが"the sound of young white nationalism"としたのはfashwave）を訂正し、出典を明記、文体チェックを3周実施、ユーザーによる事実確認（Cybernazi投稿日、BuzzFeed Japan訳、Rave News引用、Anglinの肩書き=創設者、altcensored.comリンク3件の要否）を経て確定。文案は[`第6章_reorg_DA-cottagecore_文案.md`](./archive/反映済み文案/第6章_reorg_DA-cottagecore_文案.md)、経緯・妥当性評価は[`docs/第6章_reorg_計画.md`](docs/第6章_reorg_計画.md)。すべて`草稿.md`第6章に反映済み。次は**cons-2**（timeline／context-map還流。第6章分を追加）。*
 *更新：2026-07-01。**ed-6** ☑・**meta-1** ☑——序文を全面改稿。新設節「### 「インターネット美学」とは何か」（冒頭。日本語版Wikipedia「インターネット・エスセティック」／アニヲタWiki（仮）／美学ウィキ（Scrapbox「美学ミーム」ページ、fairypage 2021年定義・Aesthetics Wikiの視覚的多様性ポリシー）の3定義を踏査。「複数の媒体を並行して同時に占めることが美学として成立する条件」という論点をAesthetics Wikiの特筆性ポリシーで裏付け。vaporwaveを「音楽ジャンルとして生まれ、のちに美学のひとつとなった」例として提示。用語を3層整理：美学＝個々の様式／美学ミーム＝命名を通じて美学を作り出す動き／インターネット美学＝美学の総体）。「### 系譜の空白と本稿の射程」に動機ツイート2件（捨て垢sute_aca 2026-05-27・布施琳太郎2026-03-17）を要約統合（meta-1）。新設節「### 「インターネット美学」という言葉の来歴」（ed-6。口語用法と今日的カテゴリ用法の層の違い→2020 Washington Post→2022年Aesthetics Wiki/Wikipedia制度化→2025 EBSCO）。「### アーキテクチャと各章」の章番号ずれ（第2〜7章の言及が実際の章立てと1つずつずれていた旧バグ）を修正。第5章と内容が重複する旧「### aesthetic という語」節は削除。「### 充填、フォークソノミー、横断性」は圧縮。あわせて`草稿.md`本体で「美学ミーム」の用法を監査（24箇所）し、個体扱いになっていた2箇所（L207「美学ミームの群れ」→「美学の群れ」、L1319「ひとつの美学ミームとして」→「ひとつの美学として」）を修正。序文は約3500字→約5650字。文案は`archive/反映済み文案/序文取込_ed6meta1_文案.md`。*
 
@@ -1516,7 +1516,7 @@ reorg-0/1/2 ☑／aesthetic-rev-1 ☑（草稿 L687–870）／aesthetic-rev-2 �
 
 *更新：2026-06-29。**inv-khole-1a** ☑——第4章 Steyerl 直後に `### VVORK と「無言のキュレーション」`（6段落、L734–746）反映。VVORK 形式＋MULTIPLEX 人脈＋The Jogging 比較＋nukeme「ゴミ画像」＋横断比較（poor image→DIS 伏線）＋Are.na 仕込み。K-HOLE/Are.na 初出。文案 → archive。次は inv-khole-1b。*
 *更新：2026-06-29（早）。**inv-khole-1a** 草稿初反映（3段落版）。のち Steyerl 直後へ移動・6段落へ拡張。*
-*更新：2026-06-28。**未調査C** ☑——[`サフィックス系譜比較調査ノート.md`](./サフィックス系譜比較調査ノート.md) 完成。-core/-wave/-punk 三系譜の語源・増殖ロジック・横断比較。inv-khole-1b の全前提解消。*
+*更新：2026-06-28。**未調査C** ☑——[`サフィックス系譜比較調査ノート.md`](notes/サフィックス系譜比較調査ノート.md) 完成。-core/-wave/-punk 三系譜の語源・増殖ロジック・横断比較。inv-khole-1b の全前提解消。*
 *更新：2026-06-27。**inv-cari-arena** ☑——Are.na 設計思想・CARI 研究基盤・Discord 三段階知識生産フロー調査完了。「プラットフォーム共有＋設計思想の構造的親和」で確定。inv-khole-1a/1b/1c 全て着手可能に。*
 *更新：2026-06-22。**ed-3** ☑——seapunk 読み道 Phase 1–2 草稿反映完了。分割稿同期は任意。*
 *更新：2026-06-19（続36）。**intro-kojiateki** 更新——引用 ☑、挿入位置を**第2章冒頭・新設節**（序文・L269案は却下）、エクスペリメンタル接点を明記。*
@@ -1527,7 +1527,7 @@ reorg-0/1/2 ☑／aesthetic-rev-1 ☑（草稿 L687–870）／aesthetic-rev-2 �
 *更新：2026-06-19（続31）。**aesthetic-reorg-0〜2**／**aesthetic-rev-1/2** タスク群追加（第2章 aesthetic 節の独立章化考察→書き換え）。*
 *更新：2026-06-17（続30）。**6b-reorg 後続** M.I.A.・Tim and Eric ☑（seapunk「死」節・激怒記事直後）。*
 *更新：2026-06-17（続29）。**concl-2** タスク追加（末尾・HTML後方互換／アーカイブ危機／ベンダーロックイン）。*
-*更新：2026-06-17（続28）。**ed-6** タスク追加（序文・インターネット美学と制度化の説明節）。調査ノート [`internet_aesthetic語と制度化_調査ノート.md`](./internet_aesthetic語と制度化_調査ノート.md) 新設。*
+*更新：2026-06-17（続28）。**ed-6** タスク追加（序文・インターネット美学と制度化の説明節）。調査ノート [`internet_aesthetic語と制度化_調査ノート.md`](notes/internet_aesthetic語と制度化_調査ノート.md) 新設。*
 *更新：2026-06-17（続27）。**meta-3** タスク追加（遡行的確定・本稿の自己言及——後記追記）。*
 *更新：2026-06-17（続25）。**inv-piajp** ☑ 文案＋草稿反映（第1章・『アイデア』366号／美術手帖2015/6）。*
 *更新：2026-06-17（続17）。**inv-steyerl** ☑ 文案＋草稿反映（Post T.V. 節末 `####`）。*

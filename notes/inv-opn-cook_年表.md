@@ -2,7 +2,7 @@
 
 **目的**：vaporwave 系譜（Daniel Lopatin / Oneohtrix Point Never）と PC Music（A. G. Cook）の**音源レベルでの交差**を時系列で確定する。  
 **調査日**：2026-06-22（初版）／2026-06-22（ユーザー追記・網羅改訂）  
-**本文反映**：[`第2章取込_OPN_Cook_文案.md`](./第2章取込_OPN_Cook_文案.md) → [`草稿.md`](./草稿.md) `### Daniel Lopatin と A. G. Cook`（2026-06-22 年表網羅版）
+**本文反映**：[`第2章取込_OPN_Cook_文案.md`](../第2章取込_OPN_Cook_文案.md) → [`草稿.md`](../草稿.md) `### Daniel Lopatin と A. G. Cook`（2026-06-22 年表網羅版）
 
 ---
 

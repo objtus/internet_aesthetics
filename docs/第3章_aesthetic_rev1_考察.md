@@ -1,7 +1,7 @@
 # 第3章 aesthetic-rev-1——再組織化の考察
 
 **日付**：2026-06-19（草稿反映：2026-06-22）  
-**正本**：[`aesthetic_文法分析メモ.md`](../aesthetic_文法分析メモ.md)  
+**正本**：[`aesthetic_文法分析メモ.md`](../notes/aesthetic_文法分析メモ.md)  
 **対象**：[`草稿.md`](../草稿.md) 第3章 L687–870  
 **ステータス**：☑ 草稿反映済。分割稿は手動同期。
 
@@ -897,4 +897,4 @@ reorg 現行（書き直し後の L 番号）での候補：
 
 ---
 
-*関連：[`第2章_aesthetic章分離_考察.md`](第2章_aesthetic章分離_考察.md) §7 章間分担／[`aesthetic_文法分析メモ.md`](../aesthetic_文法分析メモ.md)（三モード・二軸統合・バックボーン候補・補遺A–C・用例年表）／[`internet_aesthetic語と制度化_調査ノート.md`](../internet_aesthetic語と制度化_調査ノート.md)（複合語・Wikipedia・制度化）／[`next_tasks.md`](../next_tasks.md) aesthetic-rev-1 節／本ファイル §20 文体ガイド*
+*関連：[`第2章_aesthetic章分離_考察.md`](第2章_aesthetic章分離_考察.md) §7 章間分担／[`aesthetic_文法分析メモ.md`](../notes/aesthetic_文法分析メモ.md)（三モード・二軸統合・バックボーン候補・補遺A–C・用例年表）／[`internet_aesthetic語と制度化_調査ノート.md`](../notes/internet_aesthetic語と制度化_調査ノート.md)（複合語・Wikipedia・制度化）／[`next_tasks.md`](../next_tasks.md) aesthetic-rev-1 節／本ファイル §20 文体ガイド*

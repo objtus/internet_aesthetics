@@ -3,8 +3,8 @@
 > 作成日：2026-06-02  
 > 更新日：2026-06-10（ファクト補強・年表追記完了）  
 > 目的：レーベル Hippos In Tanks（HIT）の沿革・主要リリース・草稿 `## vaporwaveという名前以前に` への接続を記録する  
-> 関連タスク：**src-5**（[`next_tasks.md`](./next_tasks.md)）  
-> 草稿の当該節：[`草稿.md`](./草稿.md) `## vaporwaveという名前以前に`（L225 付近。GATEKEEPER『Giza』VHS・Games／OPN・Megazord アートワーク等を追記中）
+> 関連タスク：**src-5**（[`next_tasks.md`](../next_tasks.md)）  
+> 草稿の当該節：[`草稿.md`](../草稿.md) `## vaporwaveという名前以前に`（L225 付近。GATEKEEPER『Giza』VHS・Games／OPN・Megazord アートワーク等を追記中）
 
 **ステータス**：ファクト調査完了。引用・URL付き。本文反映は src-5 文案経由。
 
@@ -476,9 +476,9 @@ HIT・OESB・Tri Angle・RVNG Intl.という四レーベルが横並びで言及
 
 | ファイル | 関連 |
 |---|---|
-| [`草稿.md`](./草稿.md) L225–258 | 反映先（見直し対象） |
+| [`草稿.md`](../草稿.md) L225–258 | 反映先（見直し対象） |
 | [`supersuper.md`](./supersuper.md) | Thunder Horse／Nguzunguzu（Vol 2 #001） |
-| [`next_tasks.md`](./next_tasks.md) §src-5 | タスク手順 |
+| [`next_tasks.md`](../next_tasks.md) §src-5 | タスク手順 |
 | rev-8 | Eccojams vs Far Side Virtual |
 | [`MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md`](./MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md) | HITの既述あり（§4）。本ノートとの重複整理が必要（→ src-6） |
 

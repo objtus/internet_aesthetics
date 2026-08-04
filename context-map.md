@@ -14,7 +14,7 @@
 | 階層 | 内容 | 優先順位の扱い |
 |---|---|---|
 | **L0 一次資料** | 各ノートが引用する公開URL(Wayback・公式カタログ・当事者ツイート等)と、[`sources/`](./sources/) 内のローカル転写・論文抽出 | 最終的な根拠。草稿に書くのは**公開URLのみ**(調査ノート§参照は書かない——next_tasks.md原則) |
-| **L1 テーマ別正本ノート** | §1-2の表で指定した「そのテーマの正」 | 事実・日付・引用の正。timeline.mdや草稿と食い違ったらまずここに戻る |
+| **L1 テーマ別正本ノート** | [`notes/`](./notes/) 内のフラット配置（§1-2の表で指定した「そのテーマの正」） | 事実・日付・引用の正。timeline.mdや草稿と食い違ったらまずここに戻る |
 | **L2 統合資料** | `timeline.md`(日付の統合インデックス)、`README.md`(ファイル案内) | 横断参照用。**原典はL1**。timeline.mdの【要検証】V1〜V23は未解決印として維持 |
 | **L3 成果物** | `草稿.md`(序文+全8章+後記) | **本文の正本**。分割稿(第N章_*.md)は手動同期の参照用で、食い違えば草稿.mdが正 |
 | **L4 編集作業ファイル** | [`docs/`](./docs/) 内の計画・考察・レビュー・文案(取込_*_文案、*_計画、*_考察、レビュー系) | 意思決定の記録。事実の根拠には使わない。`archive/反映済み文案/`は履歴専用 |
@@ -164,8 +164,8 @@
 | liminal spaceの多層的誕生(GSV 2008〜/cursed images 2015/Tumblrチェーン2016/4chan 2019) | インターネット美学ノート §8(最詳) | rev-10(9 Eyes)。「2019年4chan起源」通説の修正が本稿の主張 |
 | The Backrooms→A24 | インターネット美学ノート §8-2 | ファクト補強#16 |
 | 2020-04拡散・@elegiac_images・Solar Sands | インターネット美学ノート §8 | — |
-| KYM liminal条目の編集史(2020-08創設・2021-05改稿・2023-09 Dreamcoreタイトル) | [`KYM_liminal_編集史メモ.md`](./KYM_liminal_編集史メモ.md) | 文案・timeline還流済み(2026-07-17)。**7-reorg-1d** |
-| liminal制度化・Backrooms言説・メディア対照 | [`liminal_制度化_Backrooms_言説メモ.md`](./liminal_制度化_Backrooms_言説メモ.md) | **7-reorg-1e**→[`第7章_reorg_文案.md`](./archive/反映済み文案/第7章_reorg_文案.md) |
+| KYM liminal条目の編集史(2020-08創設・2021-05改稿・2023-09 Dreamcoreタイトル) | [`KYM_liminal_編集史メモ.md`](notes/KYM_liminal_編集史メモ.md) | 文案・timeline還流済み(2026-07-17)。**7-reorg-1d** |
+| liminal制度化・Backrooms言説・メディア対照 | [`liminal_制度化_Backrooms_言説メモ.md`](notes/liminal_制度化_Backrooms_言説メモ.md) | **7-reorg-1e**→[`第7章_reorg_文案.md`](./archive/反映済み文案/第7章_reorg_文案.md) |
 | cottagecoreの爆発(Tumblr Week in Review・Folklore 400%) | インターネット美学ノート §7 | — |
 | TikTokというアーキテクチャ転換(For You対比) | §8-2_Tumblr_ForYou_調査メモ.md | 文案A+(2026-06反映) |
 | -core標準化・corecore | サフィックス系譜ノート+scene_subculture_notes.md | — |
@@ -306,7 +306,7 @@
 |---|---|
 | 成果物(L3) | 草稿.md、timeline.md、context-map.md(本書) |
 | 分割稿・同期物(L3参照用) | 序文.md、第1章_土壌.md、第2章_命名の時代.md、第3章_aestheticという語.md、第4章_感情が先に来る.md、第5章_爆発.md、第6章_制度化.md |
-| テーマ別正本ノート(L1) | §1-2の表の24ノート |
+| テーマ別正本ノート(L1) | [`notes/`](./notes/)（§1-2の表・29ファイル・フラット） |
 | 一次資料ローカル転写(L0) | [`sources/transcripts/`](./sources/transcripts/)・[`sources/papers/`](./sources/papers/)（vice/nytimes/SilentGeneration/FrankJavCee/musicplusghost/note_極右、RA×2、Vaporwave論文×2、Unveiling_Tumblr's 等） |
 | 統合・案内(L2) | README.md、[`docs/project-style-notes.md`](./docs/project-style-notes.md)、[`docs/文体メモ.md`](./docs/文体メモ.md) |
 | メタ・編集(L4/L5) | [`docs/`](./docs/)（計画・考察・レビュー・文体・編集方針・旧稿）。`next_tasks.md`・`_next_tasks_head.md`はルート |

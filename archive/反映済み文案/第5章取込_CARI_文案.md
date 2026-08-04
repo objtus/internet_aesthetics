@@ -2,7 +2,7 @@
 
 **対象**：[`草稿.md`](./草稿.md) `## CARIの起源`〜`## Discordが承認プロセスになる`  
 **改稿日**：2026-06-11（初回反映＋追補反映済み）  
-**正本**：[`CARI_調査ノート.md`](./CARI_調査ノート.md) §2–§6・§9  
+**正本**：[`CARI_調査ノート.md`](../../notes/CARI_調査ノート.md) §2–§6・§9  
 **方針**：Guardian／Facebook は**複数段落可**。Priz Tats（Christmas 2.0、Aurora Memoria＝VN＋5曲 EP）を Guardian 第2段落に追加。Discord 節は CARI と Aesthetics Wiki の**並行制度化**を前面に。Facebook 選定理由は断定せず研究志向の可能性のみ。em dash 不使用。
 
 ---

@@ -1,7 +1,7 @@
 # aesthetic に関する手動調査
 
 **調査日**：2026-06-02  
-**用途**：[`草稿.md`](./草稿.md) aesthetic 節（§9）、[`Seapunk取込_6c_文案.md`](./Seapunk取込_6c_文案.md)、[`docs/草稿_ファクト補強調査.md`](docs/草稿_ファクト補強調査.md) のファクト根拠。以下は**作業ログ**（X 検索・Wayback・Reddit・二次サイト転記）。
+**用途**：[`草稿.md`](../草稿.md) aesthetic 節（§9）、[`Seapunk取込_6c_文案.md`](../Seapunk取込_6c_文案.md)、[`docs/草稿_ファクト補強調査.md`](docs/草稿_ファクト補強調査.md) のファクト根拠。以下は**作業ログ**（X 検索・Wayback・Reddit・二次サイト転記）。
 
 ---
 
@@ -161,7 +161,7 @@
 5. **2012年11月の X・BuzzFeed は seapunk 中心**（Rihanna SNL 週）。**Bebe Zeva** が内部言語（100% aesthetic／the Aesthetic）の**要**。**事後の知名度は vaporwave 側に移る**が、同年11月のメディアはすでに cousin 記事で「次」を vaporwave と書いている（**6e**）。
 6. **r/vaporwave（2012-07）** は chillwave 系譜を**公式概要に刻んだ**当時の音楽コミュニティ認識。seapunk 論争とは**別回路**だが、草稿で vaporwave の「土壌」を書くとき**特記**に値する。
 
-### 草稿への含意（[`next_tasks.md`](./next_tasks.md) 横断項目と一致）
+### 草稿への含意（[`next_tasks.md`](../next_tasks.md) 横断項目と一致）
 
 | 草稿 | 扱い |
 |---|---|
@@ -1081,7 +1081,7 @@ Show more
 
 ## http://www.youtube.com/watch?v=cU8HrO7XuiE再生数の推移
 
-**グラフ：** [リサフランク420_再生数推移.html](./リサフランク420_再生数推移.html)（スクリーンショット用）
+**グラフ：** [リサフランク420_再生数推移.html](../リサフランク420_再生数推移.html)（スクリーンショット用）
 
 2013 jun 07 https://web.archive.org/web/20130607225546/http://www.youtube.com/watch?v=cU8HrO7XuiE
  70,800

@@ -2,7 +2,7 @@
 
 **対象**：[`草稿.md`](./草稿.md) `## vaporwaveという名前以前に`（L225 付近）  
 **改稿日**：2026-06-11  
-**正本**：[`HipposInTanks_調査ノート.md`](./HipposInTanks_調査ノート.md)  
+**正本**：[`HipposInTanks_調査ノート.md`](../../notes/HipposInTanks_調査ノート.md)  
 **方針**：GATEKEEPER／HIT ブロックの段落整理とレーベル文脈の追加。FSV・Arca・Yung Lean は射程外（rev-8／第4章）。MySpace は witch house 節（L205）との重複を前方参照で圧縮。
 
 ---

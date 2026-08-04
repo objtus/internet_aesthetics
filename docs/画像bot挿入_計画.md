@@ -47,7 +47,7 @@
 
 **現状の草稿**：L1484–1497 は CARI のプラットフォーム遷移を **Facebook グループ（2014-12）→ Discord（2020頃〜）→ cari.institute** という時系列で論じている。Are.na への言及は**完全に不在**。
 
-**Are.na の位置づけ**：Are.na は上記の時系列的遷移の一ステップ**ではない**。Facebook → Discord → cari.institute という「議論・命名の場」の遷移と**並行して**、**視覚資料のアーカイブ・協働研究の場**として機能している（[`Arena設計思想調査ノート.md`](../Arena設計思想調査ノート.md) §6.5・§10.5）。したがって「Facebook の次が Are.na」ではなく、「遷移の横で Are.na が研究の視覚的基盤として存在する」と書く。
+**Are.na の位置づけ**：Are.na は上記の時系列的遷移の一ステップ**ではない**。Facebook → Discord → cari.institute という「議論・命名の場」の遷移と**並行して**、**視覚資料のアーカイブ・協働研究の場**として機能している（[`Arena設計思想調査ノート.md`](../notes/Arena設計思想調査ノート.md) §6.5・§10.5）。したがって「Facebook の次が Are.na」ではなく、「遷移の横で Are.na が研究の視覚的基盤として存在する」と書く。
 
 **挿入位置**：**L1497 の直後**（Discord → cari.institute の構造が完成した、という記述の後）。Discord と cari.institute の関係を述べた直後に「さらに、視覚資料の蓄積には別のプラットフォームが使われている」と受ける。
 
@@ -58,7 +58,7 @@
 3. **三段階知識生産フロー**：Discord（リアルタイム議論・命名投票・Maintenance Effort）→ Are.na（視覚コーパスの蓄積・公開）→ cari.institute（確定テキスト・公式定義）。Maintenance Effort（2021–2024）では 92 aesthetics 中 58 のチャンネル説明を改訂し、その成果が Website に移植された（CARI Project History）
 4. **機能分担の明示**：Discord＝動的・会話的、Are.na＝静的・参照的・公開、cari.institute＝規範的・公開。Facebook は歴史的・漸減
 
-**使える具体的事実（[`Arena設計思想調査ノート.md`](../Arena設計思想調査ノート.md) より）**：
+**使える具体的事実（[`Arena設計思想調査ノート.md`](../notes/Arena設計思想調査ノート.md) より）**：
 
 | 事実 | 出典（§） | 使い方 |
 |---|---|---|
@@ -113,8 +113,8 @@
 
 ## 関連ファイル
 
-- [`khole-arena-archillect-researtch.md`](../khole-arena-archillect-researtch.md) §3–8：Archillect、rare.jpg、VVORK、画像キュレーション系譜の調査
-- [`Arena設計思想調査ノート.md`](../Arena設計思想調査ノート.md)：**inv-cari-arena 成果物**（2026-06-27）。第8章 CARI Are.na 追記の材料
-- [`サフィックス系譜比較調査ノート.md`](../サフィックス系譜比較調査ノート.md)：**未調査C 成果物**（2026-06-28）。-core/-wave/-punk 三系譜。第6章サフィックスブロックの材料
+- [`khole-arena-archillect-researtch.md`](../notes/khole-arena-archillect-researtch.md) §3–8：Archillect、rare.jpg、VVORK、画像キュレーション系譜の調査
+- [`Arena設計思想調査ノート.md`](../notes/Arena設計思想調査ノート.md)：**inv-cari-arena 成果物**（2026-06-27）。第8章 CARI Are.na 追記の材料
+- [`サフィックス系譜比較調査ノート.md`](../notes/サフィックス系譜比較調査ノート.md)：**未調査C 成果物**（2026-06-28）。-core/-wave/-punk 三系譜。第6章サフィックスブロックの材料
 - [`第6章_normcore追加_計画.md`](第6章_normcore追加_計画.md)：normcore / サフィックス / Are.na の挿入計画（本計画と連動）
 - 美術手帖 nukeme 記事（https://bijutsutecho.com/magazine/news/report/21127 ）：「ゴミ画像」証言。第4章 VVORK 節に反映済

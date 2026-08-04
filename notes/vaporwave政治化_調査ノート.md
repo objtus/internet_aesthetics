@@ -3,7 +3,7 @@
 > 作成日：2026年6月  
 > 目的：第2章 DMY 節（草稿.md L420-421、Harper のvaporwave＝「Nick Landの加速主義のサウンドトラック」評）の後続として、2016年のfashwave/trumpwave騒動と、それに対するコミュニティの応答を「記録」として追加するための一次・二次資料収集  
 > 方針：[`docs/編集方針.md`](docs/編集方針.md) §1「政治化は『コミュニティの応答』として短く入れる」に基づく。政治分析ではなく「コミュニティが何をしたか」の記録として使う素材を優先  
-> 関連：[`次のタスク`](./next_tasks.md) rev-7、`草稿_レビュー論点メモ` §6–7
+> 関連：[`次のタスク`](../next_tasks.md) rev-7、`草稿_レビュー論点メモ` §6–7
 
 ---
 
@@ -74,7 +74,7 @@
 
 > （記事の結語として、SPLC等が二次引用する形でしばしば参照される）"Its compatibility with the mainstream is the potentially poisonous thing"／fashwaveを "the first pop music of the far right that doesn't sound like it was made by and for people who had chosen to completely alienate themselves from the world" と評する
 
-**一次確認済み（2026-06-02）**：Wayback（2017-01-01 キャプチャ）で原文を照合。Robert Parker 発言および Hann の結語（"potentially poisonous thing"／"first pop music of the far right"）は本文反映済み（[`第2章取込_vaporwave政治化_文案.md`](./第2章取込_vaporwave政治化_文案.md)）。
+**一次確認済み（2026-06-02）**：Wayback（2017-01-01 キャプチャ）で原文を照合。Robert Parker 発言および Hann の結語（"potentially poisonous thing"／"first pop music of the far right"）は本文反映済み（[`第2章取込_vaporwave政治化_文案.md`](../第2章取込_vaporwave政治化_文案.md)）。
 
 ---
 
@@ -220,7 +220,7 @@ Whelan & Nowak 2018 はこのツイートを本文で引用し、Sweetheart's Pa
 
 ### (a) 日本語圏への紹介（2017〜2019）——木澤・現代ビジネス論争ほか
 
-**草稿反映**：☑ L447–452（2026-06-02 改稿同期）。[`第2章_命名の時代.md`](./第2章_命名の時代.md)・[`第2章取込_vaporwave政治化_文案.md`](./第2章取込_vaporwave政治化_文案.md)・[`next_tasks.md`](./next_tasks.md) 同期済。L454「話を戻そう。」で distroid 節（2012-07-13）へ回帰。
+**草稿反映**：☑ L447–452（2026-06-02 改稿同期）。[`第2章_命名の時代.md`](../第2章_命名の時代.md)・[`第2章取込_vaporwave政治化_文案.md`](../第2章取込_vaporwave政治化_文案.md)・[`next_tasks.md`](../next_tasks.md) 同期済。L454「話を戻そう。」で distroid 節（2012-07-13）へ回帰。
 
 **論旨（草稿）**：英語圏の2016〜17 fashwave 報道は日本語圏では**直接的紹介なし**。Harper＝資本主義批判／加速主義の読みはショコラ訳・SR 系ブログ等で先行。2019年に vaporwave＋fashwave が一括紹介され、L452 で「2012年批評語彙＋2016年以降政治化」が結びつけて受容されたと締める。
 
@@ -360,5 +360,5 @@ WebFetchが本セッションで機能しない（全URLで403）ため、以下
 ## 関連ファイル
 
 - [`docs/編集方針.md`](docs/編集方針.md) — 本調査の前提となる編集方針
-- [`次のタスク`](./next_tasks.md) rev-7（三読み＋2016 vaporwave 政治化）
+- [`次のタスク`](../next_tasks.md) rev-7（三読み＋2016 vaporwave 政治化）
 - [`草稿_レビュー論点メモ`](docs/草稿_レビュー論点メモ.md) §6–7

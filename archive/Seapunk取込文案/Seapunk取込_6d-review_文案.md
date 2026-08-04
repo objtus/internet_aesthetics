@@ -8,7 +8,7 @@
 
 | 優先 | ファイル | 使い方 |
 |---|---|---|
-| 高 | [`witchhouse-chillwave調査メモ.md`](./witchhouse-chillwave調査メモ.md) §5b | 憑在論・chillwave 比較；witch house 節の対比 |
+| 高 | [`witchhouse-chillwave調査メモ.md`](../../notes/witchhouse-chillwave調査メモ.md) §5b | 憑在論・chillwave 比較；witch house 節の対比 |
 | 高 | 同上 §2〜5 | witch house 来歴・レーベル・アーティスト |
 | 参照 | [witch-house.com THE TIMELINE](https://witch-house.com/thetimeline/) | witch house 節で**参照の一つ**と明記 |
 

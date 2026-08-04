@@ -137,7 +137,7 @@ cottagecore は、`#cottage aesthetic` や `#cottage witch` というタグの�
 
 ### 4-1b. 「サフィックスの生産性」節への追記（現行 L1218 の直後に挿入）
 
-**根拠**：[`サフィックス系譜比較調査ノート.md`](../サフィックス系譜比較調査ノート.md) §2-5。Wiktionaryは「-waveはchillwaveとvaporwaveによって普及した」と明示しており、synthwaveはこの系列への後発合流。
+**根拠**：[`サフィックス系譜比較調査ノート.md`](../notes/サフィックス系譜比較調査ノート.md) §2-5。Wiktionaryは「-waveはchillwaveとvaporwaveによって普及した」と明示しており、synthwaveはこの系列への後発合流。
 
 > -wave はのちに、すでに名前を持っていたジャンルの呼び名まで塗り替えるほどの求心力を持つようになる。2007年ごろから Kavinsky らが「outrun」と呼んでいた1980年代ノスタルジアの電子音楽は、2014年ごろに「synthwave」あるいは「retrowave」という呼び名へ置き換わっていった（[Electrozombies](https://electrozombies.com/magazine/article/what-is-synthwave/)、[Forever Synth](https://www.foreversynth.com/subgenres)）。
 
@@ -167,7 +167,7 @@ cottagecore は、`#cottage aesthetic` や `#cottage witch` というタグの�
 
 **変更理由**：旧案「fashwave論争は美学の語彙が音楽ジャンルの内側で争われている例だ」は、fashwave論争の実質（政治的流用への応答）と噛み合っておらず、こじつけだった。fashwave論争の本章内での役割は、DA/cottagecoreへの前振りではなく、(1) 本節冒頭で見た-waveサフィックスの系列が政治的な文脈でもなお新しい名前を生み出し続けていたことの実例、(2) vaporwaveの知名度がその後の展開（音楽ジャンルを経由しない美学の蓄積）と対比される、ちょうど頂点に向かう時期だったこと、の二点に絞る。
 
-**Google Trends根拠**：[`Google_Trends調査.md`](../Google_Trends調査.md)「vaporwave は 2016-02 に 50%、2017-01 に頂点（なだらかな上昇）」。fashwave論争の時系列（Daily Stormerの宣言が2016年8月、BuzzFeed/Guardianが12月）は、この上昇局面と重なる。
+**Google Trends根拠**：[`Google_Trends調査.md`](../notes/Google_Trends調査.md)「vaporwave は 2016-02 に 50%、2017-01 に頂点（なだらかな上昇）」。fashwave論争の時系列（Daily Stormerの宣言が2016年8月、BuzzFeed/Guardianが12月）は、この上昇局面と重なる。
 
 **追記（2026-07-07）**：上記だけでは「タイミングの符合」にとどまり、本稿全体の論点（インターネット美学の来歴）そのものへの寄与が弱い、という指摘を受けた。これに対しユーザーが示した方向性——「vaporwaveだけが特別ではないが、2016年のオルタナ右翼伸長・トランプ当選という現実への影響の大きさゆえに注目できる」という、独自性を主張しない形の位置づけ——を採用し、政治的読み替えの意義を述べる段落を追加する。2つの段落は別の軸（タイミングの符合／内容面の意義）なので、両方残す。長く感じる場合は6-reorg-1で圧縮する。
 
@@ -345,8 +345,8 @@ dark academia と cottagecore は、2018〜2019年の時点では Tumblr の外�
 - [`草稿.md`](../草稿.md) L1396（第7章冒頭・要修正）
 - [`草稿.md`](../草稿.md) L1779（クロニクルの終わりにあたって・要修正）
 - [`第6章_normcore追加_計画.md`](第6章_normcore追加_計画.md)
-- [`サフィックス系譜比較調査ノート.md`](../サフィックス系譜比較調査ノート.md) §2-5（outrun→synthwave/retrowaveの改称時期）
-- [`Google_Trends調査.md`](../Google_Trends調査.md)（vaporwaveの検索関心の推移）
+- [`サフィックス系譜比較調査ノート.md`](../notes/サフィックス系譜比較調査ノート.md) §2-5（outrun→synthwave/retrowaveの改称時期）
+- [`Google_Trends調査.md`](../notes/Google_Trends調査.md)（vaporwaveの検索関心の推移）
 - [`文体メモ.md`](文体メモ.md)／[`project-style-notes.md`](project-style-notes.md)
 - [`context-map.md`](../context-map.md) §第6章
 - [`next_tasks.md`](../next_tasks.md)

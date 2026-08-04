@@ -3,7 +3,7 @@
 **対象ファイル**：[`草稿.md`](./草稿.md)  
 **行番号の基準**：6e 反映後の草稿（**反映前**の行を指す。6d 未反映なら反映後に再採番）  
 **計画 ID**：f-vice, f-massage, f-slime  
-**出典正本**：[`Seapunk 詳細調査ノート.md`](./Seapunk%20詳細調査ノート.md) §4, §6, §7, §8；[`vice_seapunkwashesup.md`](../../sources/transcripts/vice_seapunkwashesup.md)（作業用・Fig. 確認）；[`nytimes_littlemermaidgoespunk.md`](../../sources/transcripts/nytimes_littlemermaidgoespunk.md)
+**出典正本**：[`Seapunk 詳細調査ノート.md`](../../notes/Seapunk 詳細調査ノート.md) §4, §6, §7, §8；[`vice_seapunkwashesup.md`](../../sources/transcripts/vice_seapunkwashesup.md)（作業用・Fig. 確認）；[`nytimes_littlemermaidgoespunk.md`](../../sources/transcripts/nytimes_littlemermaidgoespunk.md)
 
 **6b-reorg との分担**：VICE「Seapunk Washes Up」年表の**骨格要約**（夢→夏→SuperSuper!→DIS→対立→Coral→NYT→#waverave）は **`## Lil Internet と Lil Government の年表`（L181–198 付近）に反映済み**。本フェーズは **年表の二重展開を避け**、reorg で入っていないファクトと、遺産節の日本語圏・派生語のみを足す。
 

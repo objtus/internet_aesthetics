@@ -3,7 +3,7 @@
 **対象ファイル**：[`草稿.md`](./草稿.md)  
 **行番号の基準**：6e 反映後の草稿（**反映前**の行を指す）  
 **計画 ID**：d01〜d04（§12 レーベル比較表全文は本文に入れない）  
-**出典正本**：[`Seapunk 詳細調査ノート.md`](./Seapunk%20詳細調査ノート.md) §2（2-1〜2-8）；[witch-house.com THE TIMELINE](https://witch-house.com/thetimeline/)
+**出典正本**：[`Seapunk 詳細調査ノート.md`](../../notes/Seapunk 詳細調査ノート.md) §2（2-1〜2-8）；[witch-house.com THE TIMELINE](https://witch-house.com/thetimeline/)
 
 **方針（改訂 2026-06-02）**：`### hypnagogic popとwitch house` は第2章序盤の **witch house 専用小節**。調査ノート §2 のファクトを**日付（日単位）付きで**反映する。旧案の「最小1段落挿入」は廃止し、**L143 段落を差し替え・拡張**する（L141 hypnagogic pop は維持）。
 
@@ -65,7 +65,7 @@
 **執筆メモ**
 
 - **§2 還流一覧**：2-1 Urdiales／2-2 Salem 媒体日付／2-3 Pitchfork・WITCH HΔVS／2-4 witch-house.com・DiS／2-5 Disaro・Tri Angle（表は入れない）／2-6 Mario Zoots／2-8 Last.fm タグ・グループ。Tundra Dubs は seapunk（Tropicult）節のため**本小節では省略**。
-- **DiS 日付**：[`美学ミームの成立条件についての覚書.md`](./美学ミームの成立条件についての覚書.md)・Wayback より **2010年5月13日**。witch-house.com 開設 **5月14日** と併記（別イベント）。
+- **DiS 日付**：[`美学ミームの成立条件についての覚書.md`](../../notes/美学ミームの成立条件についての覚書.md)・Wayback より **2010年5月13日**。witch-house.com 開設 **5月14日** と併記（別イベント）。
 - **§12 レーベル比較表**：計画どおり本文全文は入れない。Disaro／Tri Angle は各1文。
 - **6d-opt**：反映後、seapunk 節 `## witch-house.com`（L219 付近）の「2010年5月に管理者 zin…開設された」は、本小節で日付済みなら「すでに存在していた witch house のコミュニティが…」に冒頭を寄せ、開設日の**二重記述**を避けてよい。
 - 段落数は **6**。第2章序盤のバランス上、これ以上の Salem 引用・Dangerous Minds（Tundra）・hyper-segmentation 逆説は入れない。

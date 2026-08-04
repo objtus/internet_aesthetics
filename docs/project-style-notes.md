@@ -2,7 +2,7 @@
 
 > 汎用の文体基準は [`文体メモ.md`](文体メモ.md)（スキル版: `../.claude/skills/manuscript-style/SKILL.md`）。本ファイルは**このプロジェクトでのみ**適用する規約を集める。
 > 旧・文体メモ（2026-06-22版）のプロジェクト固有項目はここへ移した。
-> 正本：[`第3章_aesthetic_rev1_考察.md`](第3章_aesthetic_rev1_考察.md) §20／[`aesthetic_文法分析メモ.md`](../aesthetic_文法分析メモ.md)／[`編集方針.md`](編集方針.md)
+> 正本：[`第3章_aesthetic_rev1_考察.md`](第3章_aesthetic_rev1_考察.md) §20／[`aesthetic_文法分析メモ.md`](../notes/aesthetic_文法分析メモ.md)／[`編集方針.md`](編集方針.md)
 
 ---
 
