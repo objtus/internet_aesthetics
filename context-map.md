@@ -13,7 +13,7 @@
 
 | 階層 | 内容 | 優先順位の扱い |
 |---|---|---|
-| **L0 一次資料** | 各ノートが引用する公開URL(Wayback・公式カタログ・当事者ツイート等)と、ローカル転写(vice_seapunkwashesup.md 等) | 最終的な根拠。草稿に書くのは**公開URLのみ**(調査ノート§参照は書かない——next_tasks.md原則) |
+| **L0 一次資料** | 各ノートが引用する公開URL(Wayback・公式カタログ・当事者ツイート等)と、[`sources/`](./sources/) 内のローカル転写・論文抽出 | 最終的な根拠。草稿に書くのは**公開URLのみ**(調査ノート§参照は書かない——next_tasks.md原則) |
 | **L1 テーマ別正本ノート** | §1-2の表で指定した「そのテーマの正」 | 事実・日付・引用の正。timeline.mdや草稿と食い違ったらまずここに戻る |
 | **L2 統合資料** | `timeline.md`(日付の統合インデックス)、`README.md`(ファイル案内) | 横断参照用。**原典はL1**。timeline.mdの【要検証】V1〜V23は未解決印として維持 |
 | **L3 成果物** | `草稿.md`(序文+全8章+後記) | **本文の正本**。分割稿(第N章_*.md)は手動同期の参照用で、食い違えば草稿.mdが正 |
@@ -307,7 +307,7 @@
 | 成果物(L3) | 草稿.md、timeline.md、context-map.md(本書) |
 | 分割稿・同期物(L3参照用) | 序文.md、第1章_土壌.md、第2章_命名の時代.md、第3章_aestheticという語.md、第4章_感情が先に来る.md、第5章_爆発.md、第6章_制度化.md |
 | テーマ別正本ノート(L1) | §1-2の表の24ノート |
-| 一次資料ローカル転写(L0) | vice_seapunkwashesup、nytimes_littlemermaidgoespunk、SilentGenerationEp22、FrankJavCee文字起こし、musicplusghost、RA×2、Vaporwave論文×2、note_極右(※二次)、Unveiling_Tumblr's |
+| 一次資料ローカル転写(L0) | [`sources/transcripts/`](./sources/transcripts/)・[`sources/papers/`](./sources/papers/)（vice/nytimes/SilentGeneration/FrankJavCee/musicplusghost/note_極右、RA×2、Vaporwave論文×2、Unveiling_Tumblr's 等） |
 | 統合・案内(L2) | README.md、project-style-notes.md、文体メモ.md |
 | 計画・考察(L4) | 文章構成プラン、編集方針、next_tasks、_next_tasks_head、src-6_仕分け、Seapunk調査_取り込み計画、第2章_ed3計画、第2章_aesthetic章分離_考察、第3章_aesthetic_rev1_考察、6d-review×2、lofi-HD構造メモ、画像bot挿入_計画、第6章_normcore追加_計画 |
 | レビュー(L4) | 草稿_推敲メモ、草稿_明晰さレビュー、草稿_レビュー論点メモ、**草稿_整合性レビュー**、文体メモ、草稿_ファクト補強調査(※事実訂正を含むためL1に準ずる) |

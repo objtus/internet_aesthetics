@@ -197,7 +197,7 @@ meta-2 振り返りパート新設 ──── 草稿**末尾**・単独可（�
 | **intro-kojiateki** | **骨架的**インタビュー挿話——「その頃のインターネットの雰囲気」（**第2章冒頭・新設節**） | ☑ | 単独可。引用 ☑（書籍確認済） | [`第2章取込_骨架的挿話_文案.md`](./archive/反映済み文案/第2章取込_骨架的挿話_文案.md)／[`intro-kojiateki_引用メモ.md`](./intro-kojiateki_引用メモ.md)。草稿 L238 付近反映（2026-06-22） |
 | **src-4** | ハイパーポップの歴史（PC Music 2013–2016 厚み） | ☑ | src-2 後（src-5 と並行可） | [`ハイパーポップの歴史.md`](./ハイパーポップの歴史.md) → `archive/反映済み文案/第2章取込_ハイパーポップ_文案.md` |
 | **src-4b** | ハイパーポップ追記（Spotify「Hyperpop」命名→brat summer） | ☑ | src-4 ☑ | [`第4章取込_hyperpop_Spotify-bratsummer_文案.md`](./archive/反映済み文案/第4章取込_hyperpop_Spotify-bratsummer_文案.md)。草稿反映（2026-06-22） |
-| **src-1** | musicplusghost 洗い出し | ☑ | 草稿反映なし（2026-06-22 確定） | [`musicplusghost.md`](./musicplusghost.md) |
+| **src-1** | musicplusghost 洗い出し | ☑ | 草稿反映なし（2026-06-22 確定） | [`musicplusghost.md`](./sources/transcripts/musicplusghost.md) |
 | **src-3** | r/witchhouse 歴史スレ参照 | ☑ | rev-9 と重複なし | `#### コミュニティの正史` 末尾1文+URL（2026-06-17 反映済） |
 | **rev-8** | Eccojams vs Far Side Virtual | ☑ | 草稿反映済（2026-06-16） | [`第2章取込_FSV対比_文案.md`](./archive/反映済み文案/第2章取込_FSV対比_文案.md) |
 | **rev-9** | witch house 匿名性 | ☑ | src-6f に統合済（2026-06-16） | [`第2章取込_witchhouse匿名性_文案.md`](./archive/反映済み文案/第2章取込_witchhouse匿名性_文案.md) |
@@ -449,7 +449,7 @@ inv-khole-1c（第8章 CARI Are.na。実行可能——三段階知識生産フ�
 ### src-1. musicplusghost.md——参考箇所の洗い出し——**完了（2026-06-22）**
 
 **背景**  
-平山悠編『MUSIC + GHOST : FEECO Magazine extra issue』（憑在論・Ghost Box・英国郊区派）。草稿 `#### 憑在論と郷愁の言語`（L173）で ZINE 名と [atochietebura リンク](https://atochietebura.com/HD/h024.html) は**既出**。本タスクは全文（[`musicplusghost.md`](./musicplusghost.md)）から**追記に値する箇所を選別**する。
+平山悠編『MUSIC + GHOST : FEECO Magazine extra issue』（憑在論・Ghost Box・英国郊区派）。草稿 `#### 憑在論と郷愁の言語`（L173）で ZINE 名と [atochietebura リンク](https://atochietebura.com/HD/h024.html) は**既出**。本タスクは全文（[`musicplusghost.md`](./sources/transcripts/musicplusghost.md)）から**追記に値する箇所を選別**する。
 
 **洗い出し候補（優先度順）**
 
@@ -462,7 +462,7 @@ inv-khole-1c（第8章 CARI Are.na。実行可能——三段階知識生産フ�
 
 **手順**
 
-1. [`musicplusghost.md`](./musicplusghost.md) を章単位で読み、上表に**採用／保留／射程外**を付ける  
+1. [`musicplusghost.md`](./sources/transcripts/musicplusghost.md) を章単位で読み、上表に**採用／保留／射程外**を付ける  
 2. 採用候補ごとに公開 URL・部分引用を文案に整理（正文は URL のみ）  
 3. [`草稿.md`](./草稿.md) 反映 → 分割稿同期  
 
@@ -1470,22 +1470,22 @@ reorg-0/1/2 ☑／aesthetic-rev-1 ☑（草稿 L687–870）／aesthetic-rev-2 �
 | [`Seapunk調査_取り込み計画.md`](./Seapunk調査_取り込み計画.md) | 6a 成果物——行単位の取込タスク |
 | [`序文_改稿.md`](./序文_改稿.md) | §9 保留論点・KYM Wayback 年表 |
 | [`§8-2_Tumblr_ForYou_調査メモ.md`](./§8-2_Tumblr_ForYou_調査メモ.md) | Tumblr アルゴリズム年表 |
-| [`FrankJavCee文字起こし.md`](./FrankJavCee文字起こし.md) | §9 FrankJavCee 分析の正本 |
+| [`FrankJavCee文字起こし.md`](./sources/transcripts/FrankJavCee文字起こし.md) | §9 FrankJavCee 分析の正本 |
 | [`aestheticに関する手動調査.md`](./aestheticに関する手動調査.md) | aesthetic 語法・Floral Shoppe コメント年代・X 検索ログ（2026-06-02） |
 | [`archive/Seapunk取込文案/Seapunk取込_6d-review_文案.md`](./archive/Seapunk取込文案/Seapunk取込_6d-review_文案.md) | 6d-review 反映用本文（アーカイブ） |
 | [`6d-review_aesthetic論点整理.md`](./6d-review_aesthetic論点整理.md) | aesthetic 零れ落ち・層A–E |
 | [`6d-review_第2章構成案.md`](./6d-review_第2章構成案.md) | #### 案・フェーズ分割 |
 | [`witchhouse-chillwave調査メモ.md`](./witchhouse-chillwave調査メモ.md) | witch house／chillwave 調査 |
 | [`草稿_レビュー論点メモ.md`](./草稿_レビュー論点メモ.md) | レビュー論点の正本・rev-* ロードマップ |
-| [`musicplusghost.md`](./musicplusghost.md) | FEECO *MUSIC + GHOST* 全文テキスト（src-1 正本） |
+| [`musicplusghost.md`](./sources/transcripts/musicplusghost.md) | FEECO *MUSIC + GHOST* 全文テキスト（src-1 正本） |
 | [`supersuper.md`](./supersuper.md) | SuperSuper! 号別調査・PC Music 前史（src-2 正本） |
 | [`HipposInTanks_調査ノート.md`](./HipposInTanks_調査ノート.md) | HIT カタログ・vaporwave 前史（src-5 正本） |
 | [`MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md`](./MP3ブログ時代とエクスペリメンタル・シーン調査ノート.md) | MP3ブログ・レーベル史・MySpace/Tumblr設計史（src-6 調査正本） |
 | [`src-6_仕分け.md`](./src-6_仕分け.md) | src-6a 成果物——節別仕分け・フェーズ6b–6f・委譲表 |
 | [`vaporwave政治化_調査ノート.md`](./vaporwave政治化_調査ノート.md) | rev-7 正本（2016 fashwave・コミュニティ応答・Boriswave） |
-| [`Vaporwave Is (Not) a Critique of Capitalism_Genre Work in An Online Music Scene.md`](./Vaporwave%20Is%20(Not)%20a%20Critique%20of%20Capitalism_Genre%20Work%20in%20An%20Online%20Music%20Scene.md) | Whelan & Nowak 2018 全文（@ccchristtt 引用含む） |
-| [`Vaporwave_Politics_Protest_and_Identity.md`](./Vaporwave_Politics_Protest_and_Identity.md) | McLeod 2018 全文（PDF 抽出） |
-| [`note_極右の世界のBGM.md`](./note_極右の世界のBGM.md) | ykic 二次・fashwave 年表（Vice 日付は14日に訂正） |
+| [`Vaporwave Is (Not) a Critique of Capitalism_Genre Work in An Online Music Scene.md`](./sources/papers/Vaporwave%20Is%20(Not)%20a%20Critique%20of%20Capitalism_Genre%20Work%20in%20An%20Online%20Music%20Scene.md) | Whelan & Nowak 2018 全文（@ccchristtt 引用含む） |
+| [`Vaporwave_Politics_Protest_and_Identity.md`](./sources/papers/Vaporwave_Politics_Protest_and_Identity.md) | McLeod 2018 全文（PDF 抽出） |
+| [`note_極右の世界のBGM.md`](./sources/transcripts/note_極右の世界のBGM.md) | ykic 二次・fashwave 年表（Vice 日付は14日に訂正） |
 | [`CARI_調査ノート.md`](./CARI_調査ノート.md) | cari-inv／cari-draft 正本（Guardian・Facebook 制度化・Priz Tats） |
 | [`internet_aesthetic語と制度化_調査ノート.md`](./internet_aesthetic語と制度化_調査ノート.md) | **ed-6**／**aesthetic-rev-2** 正本（語史・Wikipedia・制度化） |
 | [`aesthetic_文法分析メモ.md`](./aesthetic_文法分析メモ.md) | **aesthetic-rev-1** 正本（三モード・質/種・二軸統合） |

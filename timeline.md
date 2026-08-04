@@ -608,7 +608,7 @@
 | 2026-02 | Ars Technica取材後、NeocitiesのBingブロック部分的解消 | https://arstechnica.com/tech-policy/2026/02/neocities-founder-stuck-in-chatbot-hell-after-bing-blocked-1-5m-sites/ | インディーウェブの歴史年表.md |
 | 2026-03-16 | Tumblrリブログのノート集計方式変更、大規模抗議 〔high〕 | https://changes.tumblr.com/post/811254427035074560 | tumblrタイムライン.md |
 | 2026-05 | Aesthetics Wiki現況: 約1,179記事、画像24,560点、月間読者約30万人 | https://aesthetics.fandom.com/wiki/Aesthetics_Wiki | aesthetic wiki 歴史レポート.md |
-| 2026-06-05 | Gabriel SzatanがResident Advisorに「No Music on a Dead Internet」「There Is No Sound of the 2020s Yet」掲載(2020年代の音楽的アイデンティティ不在とデッドインターネット論) | https://ja.ra.co/ | RA_No-Music-on-a-Dead-Internet.md / RA_There-Is-No-Sound-Of-The-2020s-Yet.md |
+| 2026-06-05 | Gabriel SzatanがResident Advisorに「No Music on a Dead Internet」「There Is No Sound of the 2020s Yet」掲載(2020年代の音楽的アイデンティティ不在とデッドインターネット論) | https://ja.ra.co/ | [`sources/papers/`](./sources/papers/) |
 
 ---
 

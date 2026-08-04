@@ -21,7 +21,7 @@
 2. **事実・日付の正本**はテーマごとに [`context-map.md`](./context-map.md) §1-2 の表に従う。横断の日付索引は [`timeline.md`](./timeline.md)（本編520項目＋【要検証】V1〜V23）。
 3. **推敲・文体**は汎用 [`文体メモ.md`](./文体メモ.md)（または Claude Code スキル [`.claude/skills/manuscript-style/SKILL.md`](./.claude/skills/manuscript-style/SKILL.md)）＋プロジェクト固有 [`project-style-notes.md`](./project-style-notes.md) を併読する。
 4. **改稿の優先順位**（2026-07-06 通読）は [`草稿_整合性レビュー.md`](./草稿_整合性レビュー.md) の総括 A→B→C→E に従う（旧章番号の相互参照更新が最優先）。
-5. **タスク管理**は [`next_tasks.md`](./next_tasks.md)。反映済み文案は [`archive/反映済み文案/`](./archive/反映済み文案/) へ移す。
+5. **タスク管理**は [`next_tasks.md`](./next_tasks.md)。反映済み文案は [`archive/反映済み文案/`](./archive/反映済み文案/) へ移す。一次資料（転写・論文）は [`sources/`](./sources/) を正とする。
 
 資料の優先順位（矛盾時の解決手順の要約）は [`context-map.md`](./context-map.md) §1-3 を参照。
 
@@ -111,25 +111,33 @@
 | [`サフィックス系譜比較調査ノート.md`](./サフィックス系譜比較調査ノート.md) | -core/-wave/-punk サフィックスの系譜 |
 | [`scene_subculture_notes.md`](./scene_subculture_notes.md) | Scene・Indie Sleaze・Soft Grunge・MySpace サブカル |
 | [`supersuper.md`](./supersuper.md) | SuperSuper! Magazine（nu rave→witch house→seapunk 系譜） |
-| [`musicplusghost.md`](./musicplusghost.md) | musicplusghost 関連の洗い出し |
 | [`timeline.md`](./timeline.md) | 日付の横断統合インデックス（詳細は上記「作業基盤」） |
 
 ---
+
+### 一次資料（L0）
+
+| パス | 内容 |
+|---|---|
+| [`sources/README.md`](./sources/README.md) | 一次資料フォルダの説明 |
+| [`sources/transcripts/`](./sources/transcripts/) | 記事・動画・ZINE・note の転写 |
+| [`sources/papers/`](./sources/papers/) | 学術論文・批評記事の全文抽出（.md）と PDF |
 
 ### 資料・文字起こし
 
 | ファイル | 内容 |
 |---|---|
-| [`FrankJavCee文字起こし.md`](./FrankJavCee文字起こし.md) | FrankJavCee動画の文字起こし |
-| [`SilentGenerationEp22.md`](./SilentGenerationEp22.md) | Silent Generation Ep.22の記録 |
-| [`Vaporwave Is (Not) a Critique of Capitalism_Genre Work in An Online Music Scene.md`](<./Vaporwave Is (Not) a Critique of Capitalism_Genre Work in An Online Music Scene.md>) | 論文メモ |
-| [`Vaporwave_Politics_Protest_and_Identity.md`](./Vaporwave_Politics_Protest_and_Identity.md) | 論文メモ |
-| [`RA_No-Music-on-a-Dead-Internet.md`](./RA_No-Music-on-a-Dead-Internet.md) | Resident Advisor記事メモ |
-| [`RA_There-Is-No-Sound-Of-The-2020s-Yet.md`](./RA_There-Is-No-Sound-Of-The-2020s-Yet.md) | Resident Advisor記事メモ |
-| [`Unveiling_Tumblr's_Unique_Subcultures-Digital_Tribes_and_Self-Expression.md`](./Unveiling_Tumblr's_Unique_Subcultures-Digital_Tribes_and_Self-Expression.md) | Tumblrサブカルチャー論文メモ |
-| [`vice_seapunkwashesup.md`](./vice_seapunkwashesup.md) | VICE「Seapunk Washes Up」転写 |
-| [`nytimes_littlemermaidgoespunk.md`](./nytimes_littlemermaidgoespunk.md) | NYT seapunk 記事転写 |
-| [`note_極右の世界のBGM.md`](./note_極右の世界のBGM.md) | note 転写（**二次資料**。正文出典にしない） |
+| [`FrankJavCee文字起こし.md`](./sources/transcripts/FrankJavCee文字起こし.md) | FrankJavCee動画の文字起こし |
+| [`SilentGenerationEp22.md`](./sources/transcripts/SilentGenerationEp22.md) | Silent Generation Ep.22の記録 |
+| [<./sources/papers/Vaporwave Is (Not) a Critique of Capitalism_Genre Work in An Online Music Scene.md>](<./sources/papers/Vaporwave Is (Not) a Critique of Capitalism_Genre Work in An Online Music Scene.md>) | 論文メモ |
+| [`Vaporwave_Politics_Protest_and_Identity.md`](./sources/papers/Vaporwave_Politics_Protest_and_Identity.md) | 論文メモ |
+| [`RA_No-Music-on-a-Dead-Internet.md`](./sources/papers/RA_No-Music-on-a-Dead-Internet.md) | Resident Advisor記事メモ |
+| [`RA_There-Is-No-Sound-Of-The-2020s-Yet.md`](./sources/papers/RA_There-Is-No-Sound-Of-The-2020s-Yet.md) | Resident Advisor記事メモ |
+| [`Unveiling_Tumblr's_Unique_Subcultures-Digital_Tribes_and_Self-Expression.md`](./sources/papers/Unveiling_Tumblr's_Unique_Subcultures-Digital_Tribes_and_Self-Expression.md) | Tumblrサブカルチャー論文メモ |
+| [`vice_seapunkwashesup.md`](./sources/transcripts/vice_seapunkwashesup.md) | VICE「Seapunk Washes Up」転写 |
+| [`nytimes_littlemermaidgoespunk.md`](./sources/transcripts/nytimes_littlemermaidgoespunk.md) | NYT seapunk 記事転写 |
+| [`note_極右の世界のBGM.md`](./sources/transcripts/note_極右の世界のBGM.md) | note 転写（**二次資料**。正文出典にしない） |
+| [`musicplusghost.md`](./sources/transcripts/musicplusghost.md) | FEECO *MUSIC + GHOST* 全文転写（src-1 正本） |
 
 ---
 

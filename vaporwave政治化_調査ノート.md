@@ -106,7 +106,7 @@
 | URL | https://www.vice.com/en/article/fashwave-neo-nazi-music/ |
 | 別URL | https://www.vice.com/en/article/d7jw7v/fashwave-neo-nazi-music |
 | 著者 | **Alexander Iadarola**（☑ 2026-06-02 確認） |
-| 日付 | **2016年12月14日 18:18**（EST 表記 6:18pm）（☑ 2026-06-02 確認）。BuzzFeed（12月13日）の翌日。日本語二次 [`note_極右の世界のBGM.md`](./note_極右の世界のBGM.md) は「12月15日」とするが、一次メタデータは14日 |
+| 日付 | **2016年12月14日 18:18**（EST 表記 6:18pm）（☑ 2026-06-02 確認）。BuzzFeed（12月13日）の翌日。日本語二次 [`note_極右の世界のBGM.md`](./sources/transcripts/note_極右の世界のBGM.md) は「12月15日」とするが、一次メタデータは14日 |
 
 > "As its name suggests, the 'genre' involves a crude combination of fascist ideology with the vintage electronic music of synthwave"
 
@@ -131,7 +131,7 @@
 
 #### (a) McLeod, Ken (2018)「Vaporwave: Politics, Protest, and Identity」
 
-**ローカル正本**：[`Vaporwave_Politics_Protest_and_Identity.pdf`](./Vaporwave_Politics_Protest_and_Identity.pdf)／[`Vaporwave_Politics_Protest_and_Identity.md`](./Vaporwave_Politics_Protest_and_Identity.md)（☑ 2026-06-02。pypdf 抽出）。fashwave／Trumpwave／alt-right 流用を後半で論じる。
+**ローカル正本**：[`Vaporwave_Politics_Protest_and_Identity.pdf`](./sources/papers/Vaporwave_Politics_Protest_and_Identity.pdf)／[`Vaporwave_Politics_Protest_and_Identity.md`](./sources/papers/Vaporwave_Politics_Protest_and_Identity.md)（☑ 2026-06-02。pypdf 抽出）。fashwave／Trumpwave／alt-right 流用を後半で論じる。
 
 | 項目 | 内容 |
 |---|---|
@@ -144,7 +144,7 @@
 
 #### (b) Whelan, Andrew & Nowak, Raphaël (2018)「'Vaporwave Is (Not) a Critique of Capitalism': Genre Work in An Online Music Scene」
 
-**ローカル正本**：[`Vaporwave Is (Not) a Critique of Capitalism_Genre Work in An Online Music Scene.md`](./Vaporwave%20Is%20(Not)%20a%20Critique%20of%20Capitalism_Genre%20Work%20in%20An%20Online%20Music%20Scene.md)（☑ 2026-06-02 保存）。§3-3 @ccchristtt ツイート全文を本文・Works Cited で引用。
+**ローカル正本**：[`Vaporwave Is (Not) a Critique of Capitalism_Genre Work in An Online Music Scene.md`](./sources/papers/Vaporwave%20Is%20(Not)%20a%20Critique%20of%20Capitalism_Genre%20Work%20in%20An%20Online%20Music%20Scene.md)（☑ 2026-06-02 保存）。§3-3 @ccchristtt ツイート全文を本文・Works Cited で引用。
 
 | 項目 | 内容 |
 |---|---|
@@ -198,7 +198,7 @@
 
 > is it just me or is this 'critique of capitalist culture' thing associated with vaporwave a joke? like it's just a blanket term that early journalists used to give the genre a 'deeper meaning' in the beginning. people who still bring that shit up hold it back imo.
 
-Whelan & Nowak 2018 はこのツイートを本文で引用し、Sweetheart's Paradise Ltd.（Finley Michaels）との返信スレッドとして genre work の具体例にしている。正本テキスト：[`Vaporwave Is (Not) a Critique of Capitalism_Genre Work in An Online Music Scene.md`](./Vaporwave%20Is%20(Not)%20a%20Critique%20of%20Capitalism_Genre%20Work%20in%20An%20Online%20Music%20Scene.md)（DOI: https://doi.org/10.1515/culture-2018-0041 ）。
+Whelan & Nowak 2018 はこのツイートを本文で引用し、Sweetheart's Paradise Ltd.（Finley Michaels）との返信スレッドとして genre work の具体例にしている。正本テキスト：[`Vaporwave Is (Not) a Critique of Capitalism_Genre Work in An Online Music Scene.md`](./sources/papers/Vaporwave%20Is%20(Not)%20a%20Critique%20of%20Capitalism_Genre%20Work%20in%20An%20Online%20Music%20Scene.md)（DOI: https://doi.org/10.1515/culture-2018-0041 ）。
 
 **草稿での扱い**：☑ L447 直接引用反映（2017-11-27 JST）。政治的流用への拒否（Parker・Ten S.）とは別層の「内側から批評ラベルを問い直す」動き。
 
@@ -261,7 +261,7 @@ Whelan & Nowak 2018 はこのツイートを本文で引用し、Sweetheart's Pa
 
 | 項目 | 内容 |
 |---|---|
-| ykic note | 2019-02-10、木澤記事を受けて動物豆知識bot が「[極右の世界のBGM/スキンズ、RAC、Fashwave の話](https://note.com/ykic/n/n6590a1678623)」——[`note_極右の世界のBGM.md`](./note_極右の世界のBGM.md) |
+| ykic note | 2019-02-10、木澤記事を受けて動物豆知識bot が「[極右の世界のBGM/スキンズ、RAC、Fashwave の話](https://note.com/ykic/n/n6590a1678623)」——[`note_極右の世界のBGM.md`](./sources/transcripts/note_極右の世界のBGM.md) |
 | 現代思想2019年6月号 | 加速主義特集（木澤 Mark Fisher 私論も収録）。[青土社](https://www.seidosha.co.jp/book/index.php?id=3300) |
 | ユリイカ2019年12月号 | vaporwave 特集。ショコラ訳 Harper 再掲。[青土社](https://www.seidosha.co.jp/book/index.php?id=3364) |
 
@@ -289,13 +289,13 @@ Whelan & Nowak 2018 はこのツイートを本文で引用し、Sweetheart's Pa
 | 項目 | 内容 |
 |---|---|
 | URL | https://note.com/ykic/n/n6590a1678623 |
-| ローカル転記 | [`note_極右の世界のBGM.md`](./note_極右の世界のBGM.md)（☑ 2026-06-02） |
+| ローカル転記 | [`note_極右の世界のBGM.md`](./sources/transcripts/note_極右の世界のBGM.md)（☑ 2026-06-02） |
 
 fashwave 年表（Daily Stormer 2016-08-13、BuzzFeed 2016-12-13、Vice 2016-12-**15** 表記）、4chan/pol 2014年の synthwave 言及、Ten S. の BuzzFeed 取材要約など。**二次資料**——正文の一次出典にしない。
 
 **要注意**：L27–28 は Rave News（2016-02）を「2016年にアーティストらによるディスカッション」と書くが、**追記でフェイクニュースと訂正**している（草稿 §3-4 と整合）。Vice (a) の日付は本文が「12月15日」だが、一次メタデータは **12月14日**（§2-4(a)）。
 
-**Sleep ∞ Over／「weaponized nostalgia」**：[`note_極右の世界のBGM.md`](./note_極右の世界のBGM.md) 転記内に当該語は**なし**（ykic 原文の別箇所か要約の可能性）。確認できたのは [Vice 2017-01 trumpwave](https://www.vice.com/en/article/trumpwave-fashwave-far-right-appropriation-vaporwave-synthwave/) が THUMP 取材の Stefanie Franciotti（Sleep ∞ Over）を引用し、fashwave を **"weaponized nostalgia"** と述べた、と報じる一文。直引用は *"By connecting an easily digestible message to the soundtrack of our youth, the alt-right seeks to subvert our critical thinking and directly appeal to our emotional selves."* ——「weaponized nostalgia」が本人の言葉か記者のラベルかは THUMP 原文未確認。SoundCloud 上の Sleep ∞ Over ページからは当該フレーズは検索でヒットせず。
+**Sleep ∞ Over／「weaponized nostalgia」**：[`note_極右の世界のBGM.md`](./sources/transcripts/note_極右の世界のBGM.md) 転記内に当該語は**なし**（ykic 原文の別箇所か要約の可能性）。確認できたのは [Vice 2017-01 trumpwave](https://www.vice.com/en/article/trumpwave-fashwave-far-right-appropriation-vaporwave-synthwave/) が THUMP 取材の Stefanie Franciotti（Sleep ∞ Over）を引用し、fashwave を **"weaponized nostalgia"** と述べた、と報じる一文。直引用は *"By connecting an easily digestible message to the soundtrack of our youth, the alt-right seeks to subvert our critical thinking and directly appeal to our emotional selves."* ——「weaponized nostalgia」が本人の言葉か記者のラベルかは THUMP 原文未確認。SoundCloud 上の Sleep ∞ Over ページからは当該フレーズは検索でヒットせず。
 
 ---
 
@@ -327,7 +327,7 @@ WebFetchが本セッションで機能しない（全URLで403）ため、以下
 | https://www.theguardian.com/music/musicblog/2016/dec/14/fashwave-synth-music-co-opted-by-the-far-right | ☑ 2026-06-02 Wayback 照合済み（Parker・Hann 結語は草稿反映済み） |
 | https://www.buzzfeednews.com/article/reggieugwu/fashwave | ☑ 2026-06-02 Wayback 照合済み（Ten S.・"young white nationalism" は草稿反映済み） |
 | https://twitter.com/ccchristtt/status/934884934187212800 | ☑ 2026-06-02 原文確認。§3-3 反映。Whelan & Nowak 2018 が全文引用 |
-| https://www.degruyterbrill.com/document/doi/10.1515/culture-2018-0041/html | ☑ ローカル MD 保存済み（[`Vaporwave Is (Not) a Critique...md`](./Vaporwave%20Is%20(Not)%20a%20Critique%20of%20Capitalism_Genre%20Work%20in%20An%20Online%20Music%20Scene.md)）。@ccchristtt ☑ 草稿 L447 |
+| https://www.degruyterbrill.com/document/doi/10.1515/culture-2018-0041/html | ☑ ローカル MD 保存済み（[`Vaporwave Is (Not) a Critique...md`](./sources/papers/Vaporwave%20Is%20(Not)%20a%20Critique%20of%20Capitalism_Genre%20Work%20in%20An%20Online%20Music%20Scene.md)）。@ccchristtt ☑ 草稿 L447 |
 | https://gendai.media/articles/-/59738 | ☑ 木澤 2019-02-07。タイトル改題・fashwave は本文後半。草稿 L451 |
 | https://toshinoukyouko.hatenablog.com/entry/2018/08/24/230418 | ☑ Mal d'archive。草稿 L451 |
 | https://ameblo.jp/chocolat-et-framboise/entry-12413541077.html | ☑ ショコラ訳 Harper。2017後半〜継続翻訳。草稿 L449 |
@@ -335,8 +335,8 @@ WebFetchが本セッションで機能しない（全URLで403）ため、以下
 | https://sites.google.com/view/local-visions/ | ☑ Local Visions。捨て垢（@sute_aca_）2018設立。草稿 L451 |
 | https://www.vice.com/en/article/fashwave-neo-nazi-music/ | ☑ 2026-06-02。**Alexander Iadarola**、**2016-12-14 18:18** |
 | https://www.ravenews.ca/en/read/2016/february/09/ | ☑ 2026-06-02 確認済み。風刺・実在集会なし。草稿 L439–445 反映済み |
-| https://note.com/ykic/n/n6590a1678623 | ☑ 転記 [`note_極右の世界のBGM.md`](./note_極右の世界のBGM.md)。weaponized nostalgia は Vice 2017-01 経由のみ（§3-4 要注意） |
-| https://online.ucpress.edu/jpms/article/30/4/123/106377/VaporwavePolitics-Protest-and-Identity | ☑ PDF＋MD（[`Vaporwave_Politics_Protest_and_Identity.md`](./Vaporwave_Politics_Protest_and_Identity.md)） |
+| https://note.com/ykic/n/n6590a1678623 | ☑ 転記 [`note_極右の世界のBGM.md`](./sources/transcripts/note_極右の世界のBGM.md)。weaponized nostalgia は Vice 2017-01 経由のみ（§3-4 要注意） |
+| https://online.ucpress.edu/jpms/article/30/4/123/106377/VaporwavePolitics-Protest-and-Identity | ☑ PDF＋MD（[`Vaporwave_Politics_Protest_and_Identity.md`](./sources/papers/Vaporwave_Politics_Protest_and_Identity.md)） |
 | https://obakeweb.hatenablog.com/entry/vaporwave_worldmap | 政治化に関する直接の言及・引用可能な一文があるか |
 | https://togetter.com/li/2029593 （ミラー：https://posfie.com/@pareorogas/p/9d8Aq4H?page=2 ） | スレッドの正確な引用文・時系列の出典 |
 | r/vaporwave モデレーター声明 | ☒ 2026-06-02 **未発見**。サブreddit https://www.reddit.com/r/vaporwave/ および Wayback（2016-12〜2017-01）を調べても、政治的流用への**公式声明URLは特定できず**。存在しない可能性が高い——正文には書かない |

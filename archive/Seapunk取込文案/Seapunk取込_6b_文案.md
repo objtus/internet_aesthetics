@@ -140,7 +140,7 @@ Lil Internet や Lil Government、Teams らにとって、seapunk はファッ�
 
 - VICE 年表の全文展開・2011年夏〜2012年春の各節（SuperSuper!、DIS、IRL パーティー等）は **6f-vice**（後続タスク）。本ブロックは 6b 用に内部対立の要約のみ。
 - Wikipedia 削除エピソード（Zombelle 2024 podcast）は **6f-vice または横断**へ移管済み（6b-3 から削除）。
-- 内部正本：`vice_seapunkwashesup.md`（公開 URL は VICE 記事）。
+- 内部正本：[`vice_seapunkwashesup.md`](../../sources/transcripts/vice_seapunkwashesup.md)（公開 URL は VICE 記事）。
 
 ---
 
@@ -237,7 +237,7 @@ Volume 1 のリリースから約1ヶ月後の同年10月、Coral Records はブ
 | Lil Internet ジョーク／制度化／w-h フォーラム | 6b-1 | b01 | seapunk 節・2011年の物語 |
 | Tropicult・内部対立 | 6b-2, 6b-3 | b02〜b04 | 同上 |
 | SNL 日付・Interview 激怒・Atlantis・BuzzFeed リンク | **6b-4a** | ref04, VICE・BuzzFeed・NYT | 「死と遺産」の**事件**（公開 URL のみ） |
-| VICE 年表に基づくコミュニティ史セクション | **6f-vice** | — | **6b 外**。`vice_seapunkwashesup.md` 作業用 |
+| VICE 年表に基づくコミュニティ史セクション | **6f-vice** | — | **6b 外**。[`vice_seapunkwashesup.md`](../../sources/transcripts/vice_seapunkwashesup.md) 作業用 |
 | MASSAGE 9・VICE 年表訳・対談並記 | **6f-massage** | — | **6b 外** |
 | slimepunk（Zombelle 命名） | **6f-slime** | — | **6b 外**。1〜2文想定 |
 | Jerome LOL・Reblorg | **6b-4b** | b06 | 激怒の**論点の具体**（語法ではない） |

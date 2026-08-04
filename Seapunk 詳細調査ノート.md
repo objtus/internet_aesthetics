@@ -11,7 +11,7 @@
 |---|---|---|
 | **掲載（現行）** | https://www.vice.com/en/article/r795xr/seapunk-washes-up | 本文テキスト・年表の節見出し（2012年3月9日掲載） |
 | **Internet Archive** | https://web.archive.org/web/20201112024823/https://www.vice.com/en/article/r795xr/seapunk-washes-up | **年表内の画像（Fig. 1–11）**。現行ページでは画像がリンク切れのため、図版確認は Wayback を用いる |
-| **作業用転写** | [`vice_seapunkwashesup.md`](./vice_seapunkwashesup.md) | 全文テキスト（画像は含まない） |
+| **作業用転写** | [`vice_seapunkwashesup.md`](./sources/transcripts/vice_seapunkwashesup.md) | 全文テキスト（画像は含まない） |
 
 草稿・文案での引用形式（併記）：`[VICE](掲載URL)（[Wayback](Archive URL)）`
 
