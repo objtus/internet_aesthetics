@@ -9,6 +9,8 @@
 **認知リズム**：[`cognitive-rhythm-writing/SKILL.md`](./cognitive-rhythm-writing/SKILL.md)（**crw-*** 推敲の正本）  
 **フラクタル推敲**：[`fractal-revision-guide/SKILL.md`](./fractal-revision-guide/SKILL.md)（**fractal-*** 推敲の正本。文→段落→節→章の順）
 
+**直近完了（2026-08）**：**RBMA字幕** ☑——ep5/ep6 字幕の草稿反映（第1章 `## RBMA『H∆SHTAG$』`、第3章 seapunk 小節、第5章 Dodecahedron 圧縮）。Le1f avatar（r03）は**意図的に未反映**。位置変更・統合あり → [`docs/RBMA反映計画.md`](docs/RBMA反映計画.md) 草稿反映メモ
+
 **直近完了（2026-08-01）**：**fractal-1** ☑——第1章・**文／段落レベル**（全節）を [`fractal-revision-guide/SKILL.md`](./fractal-revision-guide/SKILL.md) で点検・反映。序文 L3–L69、GeoCities／mp3ブログ／MySpace／Tumblr／フォークソノミー／ポストインターネット（A1–A6・B1–B3）／James Bridle・Reblorg（A1–A4・B5–B7・「more overtly arty corners」意訳）／`## アーキテクチャが開いた可能性の空間` L344–L368。第1章末 L370 直前まで
 
 **直近完了（2026-07-07）**：**6-reorg-0〜5** ☑——第6章「名前があとから来る」の再構成が完了。normcore読み筋・匿名性→liminal space伏線・`## 名付け親の分からない美学` 統合節（dark academia／cottagecore）に加え、`## vaporwave の政治的受容` 節全体を -wave サフィックス系列の実例として再構成（⑥-full。当初計画になかった追加作業）。文案は [`第6章_reorg_DA-cottagecore_文案.md`](./archive/反映済み文案/第6章_reorg_DA-cottagecore_文案.md)、経緯は [`docs/第6章_reorg_計画.md`](docs/第6章_reorg_計画.md)。すべて `草稿.md` へ反映済み
@@ -360,8 +362,8 @@ inv-khole-1c（第8章 CARI Are.na。実行可能——三段階知識生産フ�
 | ID | 内容 | 状態 | 備考 |
 |---|---|---|---|
 | **6b-reorg 後続** | M.I.A.・Tim and Eric（激怒記事直後） | ☑ | [`Seapunk取込_6b-reorg後続_MIA_TimEric_文案.md`](./archive/反映済み文案/Seapunk取込_6b-reorg後続_MIA_TimEric_文案.md) |
-| **6b-reorg 後続** | H∆SHTAG$ ep5 厚み（seapunk 節） | — 任意 | aesthetic 6c-2 ☑ |
-| **RBMA字幕** | ep5/ep6 字幕の草稿反映（Zombelle NYT・Nate・Le1f・Charli） | ☑ | [`docs/RBMA反映計画.md`](docs/RBMA反映計画.md)（2026-08 反映済） |
+| **6b-reorg 後続** | H∆SHTAG$ ep5 厚み（seapunk 節） | ☑ | RBMA字幕反映でカバー（2026-08） |
+| **RBMA字幕** | ep5/ep6 字幕の草稿反映（Zombelle NYT・Nate・Charli 等） | ☑ | [`docs/RBMA反映計画.md`](docs/RBMA反映計画.md)（2026-08）。**Le1f avatar（r03）は意図的に削除** |
 | **6c 残** | L254 接続文・年表順の整理 | ☐ | Cluster Mag 直後 |
 | **6d-review 残** | 分量・時系列、seapunk 節との接続 | ☐ | witch house 節 |
 | **6b 残** | 文案メタ混入チェック、VICE 年表著者明示 | ☐ | 完了済み節の品質確認 |
