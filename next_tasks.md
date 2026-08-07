@@ -11,7 +11,7 @@
 
 **直近完了（2026-08-07）**：**fractal-2** ☑——第2章・**全12節**を [`fractal-revision-guide/SKILL.md`](./fractal-revision-guide/SKILL.md) で点検・反映（文／段落レベル→段落／節レベル再点検・厳格判定→章レベル確認まで完走）。主な作業：全節の文レベル指摘反映、段落の孤立文統合・密度分割（Luke Wyatt段落・アーキテクチャ節の667/671行等）、節をまたいだ重複の前方参照化（witch house「暗いルート」「Unicode記号」等）、第7節見出し変更、アーキテクチャ節を3中見出しに再構成。詳細は git log（`claude/chapter-2-revision-7xq8sg` ブランチ、コミット 61219d7〜6364ca3）参照。**fractal-1-meta を経ずに fractal-2 に着手**（ユーザー指示で第2章を先行）
 
-**進行中（2026-08-07）**：**fractal-3**——第3章・文／段落レベルを節ごとに点検中。完了：`## vaporwaveという名前の登場`、`## 名前は冗談から生まれる`（chillwave・hypnagogic pop／憑在論と郷愁の言語）、`## witch house——命名と充填`（全3小節）、`## seapunk` の `### 2011年6月1日のツイート` まで。次：`### Lil Internet と Lil Government の年表`以降。コミット d63a6a8〜1a7dc47（同ブランチ）
+**直近完了（2026-08-07）**：**fractal-3** ☑——第3章・**全節**を [`fractal-revision-guide/SKILL.md`](./fractal-revision-guide/SKILL.md) で点検・反映（文／段落レベル→章レベル確認まで完走）。主な作業：`Lil Internet と Lil Government の年表`〜`レーベルと正史`〜`SuperSuper! Magazine`〜`seapunkの死と遺産`〜`DMY Magazine`の全節で文レベル指摘反映（表記ゆれ・反復・段落分割）、章レベル確認で3件指摘——`witch-house.com`見出しの重複的な命名を解消（→「witch-house.com フォーラムとseapunkの受容」）、DMY Magazine節の時系列逆行は再検討の結果**現状維持**（Adam Harperの伏線＝715行と「引用が原典を歪める」という構成上の山場を優先）、seapunk節への記述配分の偏りは節冒頭に前置き文を追加して対応。詳細は git log（`claude/chapter-2-revision-7xq8sg` ブランチ、コミット 046adf9〜8bf8992）参照
 
 **直近完了（2026-08）**：**ed-7** ☑——序文圧縮（[`草稿.md`](./草稿.md) L3–L41・**3 `###` 節**）。削除：`### 制度化`（→第5章初出定義）、`### 「インターネット美学」という言葉の来歴`、`### アーキテクチャと各章`。末尾は問い3つ＋第1章への繋ぎ文。**分割稿同期・fractal-1-meta 序文パスは任意**
 
@@ -35,7 +35,7 @@
 
 **直近完了（2026-07-23）**：**7-reorg-0〜2** ☑（**1d・1e** 含む）——第7章「爆発」の reorg パイプライン完了。計画 [`docs/第7章_reorg_計画.md`](docs/第7章_reorg_計画.md)、文案 [`第7章_reorg_文案.md`](./archive/反映済み文案/第7章_reorg_文案.md)。KYM 編集史・制度化節（[`KYM_liminal_編集史メモ.md`](notes/KYM_liminal_編集史メモ.md)／[`liminal_制度化_Backrooms_言説メモ.md`](notes/liminal_制度化_Backrooms_言説メモ.md)）反映済み。`草稿.md` L1362–1644 へ全文差替え（章末 `## アーキテクチャ：TikTokとDiscordという対照` 復元含む）。**7-reorg-3／4** はユーザー判断でスコープ外（計画・文案タスクはここで終了）
 
-**次にやる1件**：**fractal-3**（第3章・文／段落レベルの続き。`## seapunk` の `### Lil Internet と Lil Government の年表` 以降。完了後、節レベル→章レベルへ）。**fractal-1-meta**（第1章・節→章レベル）は保留中——着手順はユーザー判断で第2・3章を先行
+**次にやる1件**：**fractal-1-meta**（第1章・節→章レベル。文／段落レベルは fractal-1 で完了済み）。着手順はユーザー判断——第2・3章（fractal-2・fractal-3）を先行完了済み。あるいは第4章以降への fractal-4 着手も選択肢
 
 **その次**：**cons-2**（timeline／context-map／分割稿還流。ban-cons 残：tumblrタイムライン L285–290 の CNBC 投稿数と 30% 減の整理、第7章分割稿の旧 Discord 叙述）
 
