@@ -89,6 +89,57 @@ RA Part.2 Chapter II:
 
 **注記**：草稿にWhat.cdへの言及はない。CARIの「Pending Research」やAesthetics Wikiの記事作成基準（アーカイブ必須）が体現している倫理と響き合うが、直接の接続点ではなく、単独で引用する場合は文脈の追加説明が要る。優先度は他の4点より低い。
 
+### 1-7. Mark Fisher / accelerationism ——同一の思想家、ただしRA側の粗さに注意（一致度：高、要調整）
+
+RA Part.1 Chapter I:
+> "as the great accelerationist theorists Mark Fisher and Franco Berardi have previously argued"
+
+草稿 第3章 L711–715（憑在論と郷愁の言語）:
+> Mark FisherとSimon Reynoldsが憑在論を批評へ広めた経緯。FisherはCCRUでNick Landに学んだが、Landが加速主義・暗黒啓蒙へ向かったのに対し、Fisherは『資本主義リアリズム』で資本主義の停滞・想像力の喪失を嘆いた、という**対立**として記述。vaporwaveの多義的な解釈（Fisher的郷愁 対 Adam HarperによるLand的加速主義の読み）もこの分岐から生まれるとしている。
+
+**注記**：草稿の記述に従うなら、Fisherは加速主義者ではなくその対抗者にあたる。RA記事の「Fisher and Berardi = accelerationist theorists」という括りは不正確（Fisherは資本主義批評・憑在論の理論家であり、加速主義はLandの系譜）。**直接引用する場合はこの粗さを輸入しないよう注意。** 使うなら「RA記事はFisherを加速主義の理論家として引くが、草稿がすでに見たように、Fisherの立場はむしろLandの加速主義への異論だった」という形で、ズレそのものを指摘する書き方もできる。
+
+### 1-8. Simon Reynolds ——retromaniaの語源、かつ草稿内の「命名の失敗」の実例（一致度：最重要）
+
+草稿には Simon Reynolds が二箇所で登場する。
+
+- 第3章 L711：Mark Fisherと並ぶ憑在論の紹介者。
+- 第4章 L1067：2019年10月、Pitchforkで"conceptronica"という語を提唱したが定着しなかった人物として。「命名者が『ジャンルではない』と最初から言うと、コミュニティが充填するための問いへの答えとして機能しにくいのかもしれない」という一文が付く。distroidと同型の「充填されなかった命名」の実例として明示的に扱われている。
+
+RA Part.1 Chapter IIが2010年代の三大ムーブメントの一つに挙げる **"retromania"** という語そのものが、Simon Reynoldsの2011年の著書『*Retromania: Pop Culture's Addiction to Its Own Past*』に由来する（RA本文はこの由来に触れていない）。
+
+**注記**：草稿がすでに「命名に失敗した人物」として描いている当人が、同じ音楽系譜（vaporwave／OPN／The Caretaker）に対して10年前に別の語をすでに与えて定着させていた、という事実になる。「遡行的確定」「命名の成否」という第8章のテーマに直接刺さる。使うなら、RA本文がこの由来に触れていない点（RAは"retromania"を無自覚に固有名詞化して使っている）も含めて書けると、草稿側の観察の深さが際立つ。
+
+### 1-9. The Caretaker ——1-7・1-8と同じ段落圏の固有名（一致度：中、単独では弱いが1-4・1-8と合わせて厚みが出る）
+
+RA Part.1 Chapter II（retromania段落）:
+> "some of the more intriguing work to break out of electronic music, from The Caretaker and Oneohtrix Point Never to vaporwave and synthwave"
+
+草稿 第3章 L713（Fisher/憑在論段落、1-7と同一パラグラフ）:
+> 「同じ憑在論の回路には The Caretaker（Leyland Kirby）も代表例として挙げられる。」
+
+**注記**：単独の一致としては弱いが、1-4（retromania≒lo-fi/HD）・1-7（Mark Fisher）・1-8（Simon Reynolds）と合わせると、RA Part.1のこの一角（Chapter I〜II）は草稿第3章の憑在論パラグラフと第4章のlo-fi/HD区分を、ほぼそのまま裏側からなぞっている状態に近い。
+
+### 1-10. PC Music / Throbbing Gristle ——「後で正しかったと分かる」という進行中の実例（一致度：高、ch8のテーマに直結）
+
+RA Part.1 Chapter V:
+> "The past is pockmarked by naysayers who mocked Throbbing Gristle as wreckers of civilisation, lobbed axes at Suicide, cried foul about the satanism of acid house, swiped at digital DJing as a low-bitrate bastardisation and dismissed PC Music as shallow art trash. You never want to be on the wrong side of history when it happens."
+
+草稿の対応箇所：
+- 第2章 L480–484（Throbbing Gristle専用節）：『20 Jazz Funk Greats』（1979年）を「Pitchforkは後年これを史上最高のインダストリアル作品に挙げた」と明記。20jazzfunkgreatsブログの名前の由来でもある。
+- 第4章：PC Musicはdistroid〜hyperpopの系譜の中心。
+
+**注記**：RAが「後になって正しかったと分かる」の一般論として挙げる二つの固有名（Throbbing Gristle・PC Music）を、草稿はすでに**同じ主張を自前の一次資料で裏づけて**書いている（特にThrobbing Gristleは「当初は悪名、後年Pitchforkが最高評価」という完全な実例が揃っている）。1-1〜1-4より前面に出しやすい、ch8の制度化・遡行的確定というテーマに直結する一節。
+
+### 1-11. DJ Harveyの発言 ——孫引き・一次確認未了（優先度は高いが要検証）
+
+RA Part.1 Chapter V:
+> "I'm sure somewhere there's a scene that's peaking right now that we know nothing about," noted DJ Harvey, of all people, two years ago. "We won't even like it because we don't understand it. It'll be young people doing something we have no idea about, and we'll hate every bit of it because we're old, and it'll be amazing."
+
+一次出典としてRAがリンクしているのは SSense の記事（URL末尾 `dj-harvey-interview-howlin`）。Szatanの記述では「2年前」（掲載日2026/06/05から逆算しておよそ2024年）の発言。
+
+**未確認**：`www.ssense.com` はこのセッションのネットワークプロキシでアクセスがブロックされ、一次記事のタイトル・掲載日・正確な文脈を直接確認できていない。**草稿で使う場合は「RA（Szatan, 2026）が引くDJ Harveyの発言（SSense、2024年ごろ、一次未確認）」という形で孫引きであることを明示する。** 別ルートでの一次確認を今後試みる余地あり。
+
 ---
 
 ## 2. 現状の第8章末尾の構造（参照用）
@@ -115,10 +166,18 @@ RA Part.2 Chapter II:
 ## 3. 未決定事項（次に考えること）
 
 1. **MySpace年号の扱い**：RA記事に直接言及する場合、2015年（移行）/2019年（発覚・草稿の現行表記）をどう整理するか。無視して独立記述のままにするか、両方明示するか。
-2. **どの接続点を実際に使うか**：1-1〜1-4は強度が高い一方、4点すべてを後記に詰め込むと密度過多になりかねない。優先順位（体感では1-4「lo-fi/HD≒retromania/hyperpop」が最重量、1-1「Altered Zones」が最も具体的で短く使える）を次回相談する。
-3. **配置**：後記のどの段落の前後に置くか（前回案：hyperpop/Spotify段落の後、「わたしにはわからない」の後、最後の一文の前）。この案自体を今回の突き合わせを踏まえて見直すか。
+2. **どの接続点を実際に使うか**：接続点が当初の6個から11個に増えたため、絞り込みが必須。現時点の体感優先順位：
+   - 最重量：1-4（retromania≒lo-fi/HD、OPN名指し）＋1-8（Simon Reynolds＝retromaniaの語源、かつ草稿内の「命名の失敗」の実例）。この二つは同じ話の表裏なので併用しても重複にならない。
+   - 次点：1-10（PC Music／Throbbing Gristle、「後で正しかったと分かる」の実例。ch8のテーマに最も直結）。
+   - 具体的で短く使える：1-1（Altered Zones、同一対象）。
+   - 補助線：1-7（Mark Fisher。ただしRA側の粗さを踏まえた書き方が必要）、1-9（The Caretaker、単独では弱い）。
+   - 感情的に強いが要検証：1-11（DJ Harvey、孫引き・一次未確認）。
+   - 優先度低：1-2（GeoCities/MySpace、年号要確認）、1-3（indie sleaze）、1-5（ピーク不可視化の逆方向）、1-6（What.cd）。
+   全部は使わない前提で、3〜5点に絞る方向で次回相談する。
+3. **配置**：後記のどの段落の前後に置くか（前回案：hyperpop/Spotify段落の後、「わたしにはわからない」の後、最後の一文の前）。この案自体を今回の突き合わせを踏まえて見直すか。接続点が増えたことで、1段落ではなく2段落（例：命名・遡行的確定の系統＝1-4/1-8、制度化・後年の評価の系統＝1-10）に分けて配置する案も検討可。
 4. **「クロニクルの終わりにあたって」との役割分担**：内部回顧／外部呼応という前回の整理を維持するか。
-5. **1-5（ピークが見えなくなる逆方向の変化）・1-6（What.cd引用）を使うか**：優先度は低いが、余地があれば検討。
+5. **DJ Harvey発言の一次確認**：`ssense.com` はこのセッションのプロキシでブロック済み。別ルート（キャッシュ・アーカイブ等）での確認を試みるか、孫引き明示のまま使うか。
+6. **Mark Fisher/加速主義の書き方**：RA側の粗さ（Fisherを加速主義者として括る）をどう扱うか。訂正しつつ引くか、その粗さ自体を論点にするか、使わないか。
 
 この文書をもとに、次の会話で使う接続点と配置を確定してから、後記の文案（段落ベース）を書く。
 
