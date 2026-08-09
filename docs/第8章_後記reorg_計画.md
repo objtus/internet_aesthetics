@@ -131,14 +131,18 @@ RA Part.1 Chapter V:
 
 **注記**：RAが「後になって正しかったと分かる」の一般論として挙げる二つの固有名（Throbbing Gristle・PC Music）を、草稿はすでに**同じ主張を自前の一次資料で裏づけて**書いている（特にThrobbing Gristleは「当初は悪名、後年Pitchforkが最高評価」という完全な実例が揃っている）。1-1〜1-4より前面に出しやすい、ch8の制度化・遡行的確定というテーマに直結する一節。
 
-### 1-11. DJ Harveyの発言 ——孫引き・一次確認未了（優先度は高いが要検証）
+### 1-11. DJ Harveyの発言 ——一次確認済み（2026-08-09）
 
 RA Part.1 Chapter V:
 > "I'm sure somewhere there's a scene that's peaking right now that we know nothing about," noted DJ Harvey, of all people, two years ago. "We won't even like it because we don't understand it. It'll be young people doing something we have no idea about, and we'll hate every bit of it because we're old, and it'll be amazing."
 
-一次出典としてRAがリンクしているのは SSense の記事（URL末尾 `dj-harvey-interview-howlin`）。Szatanの記述では「2年前」（掲載日2026/06/05から逆算しておよそ2024年）の発言。
+**一次資料確認済み**：Sam Cole, "DJ Harvey Has No Idea Who He's Passing the Aux To," *SSense*, January 10, 2024（撮影：Kevin Amato）。https://www.ssense.com/en-gb/editorial/music/dj-harvey-interview-howlin （著者が直接アクセスし本文を確認・共有。このセッションからは同URLへアクセス不可のままだった）。
 
-**未確認**：`www.ssense.com` はこのセッションのネットワークプロキシでアクセスがブロックされ、一次記事のタイトル・掲載日・正確な文脈を直接確認できていない。**草稿で使う場合は「RA（Szatan, 2026）が引くDJ Harveyの発言（SSense、2024年ごろ、一次未確認）」という形で孫引きであることを明示する。** 別ルートでの一次確認を今後試みる余地あり。
+RAの引用は正確だが、原文の後半を切っている。原文の完全な文言（インタビュー本文「Which artists or DJs are shaping the future of dance music?」への回答）：
+
+> "Absolutely no idea. I'm sure somewhere, there's a scene that's peaking right now that we know nothing about. We won't even like it because we don't understand it. It'll be young people doing something we have no idea about, and we'll hate every bit of it because we're old, and it'll be amazing. Maybe there's a little commune in the desert that smashed their computers ten years ago and developed something so wonderful. By the time we find out about it, it'll be over, and we'll have to buy a commercialized, homogenized, hormone-infested version of it."
+
+RAが切った「砂漠のコミューン」以降の続きは、[`第8章_後記_文案.md`](第8章_後記_文案.md)では拡張版として採用（採用可否は文案側の判断）。孫引き・未確認の注記は不要になった。
 
 ---
 
