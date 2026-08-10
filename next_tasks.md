@@ -11,6 +11,10 @@
 
 **直近完了（2026-08-07）**：**fractal-2** ☑——第2章・**全12節**を [`fractal-revision-guide/SKILL.md`](./fractal-revision-guide/SKILL.md) で点検・反映（文／段落レベル→段落／節レベル再点検・厳格判定→章レベル確認まで完走）。主な作業：全節の文レベル指摘反映、段落の孤立文統合・密度分割（Luke Wyatt段落・アーキテクチャ節の667/671行等）、節をまたいだ重複の前方参照化（witch house「暗いルート」「Unicode記号」等）、第7節見出し変更、アーキテクチャ節を3中見出しに再構成。詳細は git log（`claude/chapter-2-revision-7xq8sg` ブランチ、コミット 61219d7〜6364ca3）参照。**fractal-1-meta を経ずに fractal-2 に着手**（ユーザー指示で第2章を先行）
 
+**直近完了（2026-08-09）**：**8-reorg-0**（計画）——第8章「クロニクルの終わりにあたって」「＜後記＞」の再構成計画を作成。RA（Resident Advisor）特集記事2本（[`sources/papers/RA_There-Is-No-Sound-Of-The-2020s-Yet.md`](sources/papers/RA_There-Is-No-Sound-Of-The-2020s-Yet.md)／[`sources/papers/RA_No-Music-on-a-Dead-Internet.md`](sources/papers/RA_No-Music-on-a-Dead-Internet.md)）と草稿の接続点11個（Altered Zones・GeoCities/MySpace・indie sleaze・retromania≒lo-fi/HD・Mark Fisher・Simon Reynolds・The Caretaker・PC Music/Throbbing Gristle・DJ Harvey発言等）を整理。アーキテクチャ節は新設しない方針。計画は[`docs/第8章_後記reorg_計画.md`](docs/第8章_後記reorg_計画.md)。**次：後記の段落配置・文案化**（ユーザー判断で8-reorgを次に進める）
+
+**直近完了（2026-08-09）**：**inv-hypnagogic**（調査）——第2章L385・第3章L695〜707の「hypnagogic popはchillwaveとほぼ同じ音楽群」「しばしば同義に使われた」という記述を裏取り。結論：「同義に使われた」自体は誇張ではなく良く裏付けられるが、Reynolds『Retromania』の3層アーティスト分類とKeenan自身の後年の分岐宣言（chillwaveを「堕落形」と呼ぶ）を使えば、より正確で聴感の違和感とも整合する記述に書き換えられる。調査は[`notes/chillwave-hypnagogicpop-Retromania_調査ノート.md`](notes/chillwave-hypnagogicpop-Retromania_調査ノート.md)（Retromania本文p.345–349の逐語確認・The Wire誌306号「Childhood's End」書誌確認・glo-fi命名史含む）。**文案・草稿反映は未着手**
+
 **直近完了（2026-08-07）**：**fractal-3** ☑——第3章・**全節**を [`fractal-revision-guide/SKILL.md`](./fractal-revision-guide/SKILL.md) で点検・反映（文／段落レベル→章レベル確認まで完走）。主な作業：`Lil Internet と Lil Government の年表`〜`レーベルと正史`〜`SuperSuper! Magazine`〜`seapunkの死と遺産`〜`DMY Magazine`の全節で文レベル指摘反映（表記ゆれ・反復・段落分割）、章レベル確認で3件指摘——`witch-house.com`見出しの重複的な命名を解消（→「witch-house.com フォーラムとseapunkの受容」）、DMY Magazine節の時系列逆行は再検討の結果**現状維持**（Adam Harperの伏線＝715行と「引用が原典を歪める」という構成上の山場を優先）、seapunk節への記述配分の偏りは節冒頭に前置き文を追加して対応。詳細は git log（`claude/chapter-2-revision-7xq8sg` ブランチ、コミット 046adf9〜8bf8992）参照
 
 **直近完了（2026-08）**：**ed-7** ☑——序文圧縮（[`草稿.md`](./草稿.md) L3–L41・**3 `###` 節**）。削除：`### 制度化`（→第5章初出定義）、`### 「インターネット美学」という言葉の来歴`、`### アーキテクチャと各章`。末尾は問い3つ＋第1章への繋ぎ文。**分割稿同期・fractal-1-meta 序文パスは任意**
@@ -35,7 +39,11 @@
 
 **直近完了（2026-07-23）**：**7-reorg-0〜2** ☑（**1d・1e** 含む）——第7章「爆発」の reorg パイプライン完了。計画 [`docs/第7章_reorg_計画.md`](docs/第7章_reorg_計画.md)、文案 [`第7章_reorg_文案.md`](./archive/反映済み文案/第7章_reorg_文案.md)。KYM 編集史・制度化節（[`KYM_liminal_編集史メモ.md`](notes/KYM_liminal_編集史メモ.md)／[`liminal_制度化_Backrooms_言説メモ.md`](notes/liminal_制度化_Backrooms_言説メモ.md)）反映済み。`草稿.md` L1362–1644 へ全文差替え（章末 `## アーキテクチャ：TikTokとDiscordという対照` 復元含む）。**7-reorg-3／4** はユーザー判断でスコープ外（計画・文案タスクはここで終了）
 
-**次にやる1件**：**fractal-1-meta**（第1章・節→章レベル。文／段落レベルは fractal-1 で完了済み）。着手順はユーザー判断——第2・3章（fractal-2・fractal-3）を先行完了済み。あるいは第4章以降への fractal-4 着手も選択肢
+**直近完了（2026-08-10）**：**8-reorg-1・8-reorg-2** ☑——第8章末尾を[`docs/第8章_後記_文案.md`](docs/第8章_後記_文案.md)（第9稿）の内容で`草稿.md`へ反映。「## クロニクルの終わりにあたって」「## ＜後記＞」の二見出し・全17段落を、「## クロニクルの終わりにあたって」一つ＋`###`二節（「十年後にどう見えるか、という問い」「語り直すために、アーカイブが要る」）構成に統合。RA（Resident Advisor）特集記事2本を軸に、indie sleaze／seapunk／FairyPageの反復パターン、PC Music・Throbbing Gristleの評価反転、A.G. Cook/Spotify論争、DJ Harvey発言などを配置。**次：反映後の通読チェック**（下記「8-reorg-3」参照）
+
+**その次**：**inv-hypnagogic の文案化**（第2章L385・第3章L695〜707。調査は[`notes/chillwave-hypnagogicpop-Retromania_調査ノート.md`](notes/chillwave-hypnagogicpop-Retromania_調査ノート.md) ☑ 完了）
+
+**以降**：**fractal-1-meta**（第1章・節→章レベル。文／段落レベルは fractal-1 で完了済み）。着手順はユーザー判断——第2・3章（fractal-2・fractal-3）を先行完了済み。あるいは第4章以降への fractal-4 着手も選択肢
 
 **その次**：**cons-2**（timeline／context-map／分割稿還流。ban-cons 残：tumblrタイムライン L285–290 の CNBC 投稿数と 30% 減の整理、第7章分割稿の旧 Discord 叙述）
 
@@ -176,6 +184,10 @@ meta-2 振り返りパート新設 ──── 草稿**末尾**・単独可（�
 | **7-reorg-2** | **第7章 reorg 草稿反映**（章全体を文案 §1 で丸ごと差し替え） | ☑ | 7-reorg-1d・1e ☑ | [`草稿.md`](./草稿.md) L1362–1644（2026-07-23）。§2・§3-2 目視照合は任意 |
 | **7-reorg-3** | クロスチャプター点検（計画 §7 の表＋grep 全数） | — | — | **スコープ外**（2026-07-23。ユーザー判断で reorg パイプライン終了。必要なら cons-2 等で随時） |
 | **7-reorg-4** | 通読・next_tasks／context-map／timeline 還流（cons-2 と合流） | — | — | **スコープ外**（同上。第7章還流は cons-2 に統合） |
+| **8-reorg-0** | **第8章 後記 reorg 計画**——RA記事2本と草稿の接続点整理・現状の後記構造の課題整理 | ☑ 2026-08-09 | — | [`docs/第8章_後記reorg_計画.md`](docs/第8章_後記reorg_計画.md)。アーキテクチャ節は新設しない方針で確定 |
+| **8-reorg-1** | **後記の段落配置・文案化**——接続点11個から使うもの3〜5点を絞り込み、段落順を確定して文案を書く | ☑ 2026-08-10 | 8-reorg-0 ☑ | [`docs/第8章_後記_文案.md`](docs/第8章_後記_文案.md)（第9稿まで確定。「十年後にどう見えるか、という問い」「語り直すために、アーカイブが要る」の`###`二節構成） |
+| **8-reorg-2** | **第8章 草稿反映**——見出し「## クロニクルの終わりにあたって」「## ＜後記＞」を統合し、[`docs/第8章_後記_文案.md`](docs/第8章_後記_文案.md)の本文で丸ごと置き換え | ☑ 2026-08-10 | 8-reorg-1 ☑ | [`草稿.md`](./草稿.md) L2003以降（旧L2001–2034を置換）。「## ＜後記＞」見出しは削除済み |
+| **8-reorg-3** | **草稿反映後の残課題**——①「十年後の今から振り返ったとき……それは**この文章**自体が設定した図式によるものだ。」（L2015付近）が「本稿」統一方針から外れたまま残存。同段落の直前文はすでに「筆者が持ち込んだ図式だ」と修正済みで、表現が重複気味でもある。②「いま／今」の表記ゆれ・反復は著者が別途自分で直す予定（対応不要） | ☐ ①要判断 ②対応不要 | 8-reorg-2 ☑ | `草稿.md` 第8章末尾。①は著者判断待ち（文言の要否含む） |
 
 | ID | 内容 | 状態 | 依存 | 正本・文案 |
 |---|---|---|---|---|
@@ -201,6 +213,7 @@ meta-2 振り返りパート新設 ──── 草稿**末尾**・単独可（�
 | **inv-steyerl** | Hito Steyerl「貧しいイメージの擁護（In Defense of the Poor Image）」節の追加 | ☑ | Post T.V. 節反映済（2026-06-17） | [`第2章取込_steyerl_文案.md`](./archive/反映済み文案/第2章取込_steyerl_文案.md)（Post T.V. 節末 `####`）。下記詳細節 |
 | **inv-piajp** | 日本のポストインターネットアート受容——雑誌特集の簡単な紹介節 | ☑ | 草稿反映済（2026-06-17） | [`第1章取込_piajp_文案.md`](./archive/反映済み文案/第1章取込_piajp_文案.md)（第1章・Designing Tumblr 直後）。下記詳細節 |
 | **inv-tabor** | Tabor Robak ネットワーク整理・BrandNewPaintJob.exe（Jon Rafman との共作） | ☐ | 並行可 | [taborrobak.com](https://www.taborrobak.com/) / 草稿 L318・L439・L598・L994 既出 |
+| **inv-hypnagogic** | chillwave／hypnagogic popの命名史・音楽的異同——調査完了、**文案は未着手** | ☑ 調査／☐ 文案 | 並行可 | [`notes/chillwave-hypnagogicpop-Retromania_調査ノート.md`](notes/chillwave-hypnagogicpop-Retromania_調査ノート.md)。第2章L385・第3章L695〜707が対象。下記詳細節 |
 | **inv-oesb** | OESB（Todd Ledford）× OPN「Time Decanted」MV 接点 | ☑ | 草稿反映済（2026-06-17） | [Vimeo](https://vimeo.com/7616034) / 草稿 L314 |
 | **inv-frkwys** | FRKWYS Vol.7（RVNG Intl.）——Ferraro・OPN・Laurel Halo 同席の記録 | ☑ | 草稿反映済（2026-06-17） | [Discogs](https://www.discogs.com/ja/master/353721-Borden-Ferraro-Godin-Halo-Lopatin-FRKWYS-7-) / 2011年7月 |
 | **inv-opn-cook** | OPN × A. G. Cook——**vaporwave 系譜と PC Music の交差**（コラボ年表） | ☑ | 並行可。src-4 ☑ 後推奨 | [`inv-opn-cook_年表.md`](notes/inv-opn-cook_年表.md) → [`第2章取込_OPN_Cook_文案.md`](./archive/反映済み文案/第2章取込_OPN_Cook_文案.md)。草稿 L733 直後反映（2026-06-22） |
@@ -313,9 +326,30 @@ inv-khole-1c（第8章 CARI Are.na。実行可能——三段階知識生産フ�
 | — | 第5章 Frutiger Aero 節との整合 | 任意 | cari-draft 後でも可 | 境界論・第2章フェーズ2 |
 | — | 第4章 L640 TikTok/Discord 文案 B | 任意 | — | §8 残 |
 | — | KYM 訂正ログ（ファクト補強調査） | 任意 | — | §8 残 |
+| — | **MySpaceデータ消失年の精度修正**——第1章L117「2019年、サーバー移行の不手際によって」は移行（2018年初頭）と公表（2019年3月）を混同している可能性。著者調査：[BBC「MySpace admits losing 12 years' worth of music uploads」](https://www.bbc.com/news/technology-47610936)。「2018年のサーバー移行、2019年3月に発覚」等へ精度を上げる | 任意 | 8-reorg（RA記事読み合わせ）で発見（2026-08-09） | 第1章L117 |
+| — | **RA記事Aの「世代間の断絶」（第IV章）の取り込み検討**——業界と若い世代の好みのギャップという論点。本稿の「2014 Tumblrリバイバル」「TikTok世代への継承」（第7章）と接続できる可能性。DJ Harveyの引用（第8章後記で使用済み）自体がこのテーマを体現している | ☐ 考察のみ | 8-reorg（RA記事読み合わせ）で発見（2026-08-09） | 第7章 or 第8章 |
 | — | Google Trends（aesthetic） | 任意 | — | §9-man 追補 |
 | — | ブロック F →「確定」 | 任意 | — | ファクト補強 §9 |
 | **inv-vernacular-photo** | non-place・匿名性の美学・poor image・ヴァナキュラー写真の接続——考察 | ☐ 考察のみ・正文未定 | 匿名性ノートの延長・並行可 | 下記詳細節 |
+
+### inv-hypnagogic. chillwave／hypnagogic popの命名史・音楽的異同
+
+**背景（著者提起・2026-08-09）**：第2章L385・第3章L695〜707は「hypnagogic popはchillwaveとほぼ同じ音楽群」「しばしば同義に使われた」とフラットに書いているが、実際に両ジャンルの代表曲を聴き比べると音楽的にかなり異なる（chillwaveはポップ/ダンス寄り、hypnagogic popは実験音楽/ドローン寄りで荒い）。
+
+**調査結果（[`notes/chillwave-hypnagogicpop-Retromania_調査ノート.md`](notes/chillwave-hypnagogicpop-Retromania_調査ノート.md)、一次資料確認済み）**：
+
+- 「同義に使われた」という記述自体は誇張ではない。2009年のPitchfork（Marc Hoganが5語を互換的に列挙）、2012年のLA Weekly、2025年12月のSimon Reynolds自身のブログ（"chillwave a/k/a hypnagogic pop"）まで、16年間一貫して同義的に扱われている。**ここは削らない**。
+- ただし「同義」＝「ほぼ同じ音楽」ではない。Reynolds『Retromania』本文（p.345–346、一次確認済み）は、この一群を**3層**（chillwave寄り：Ariel Pink's Haunted Graffiti・Neon Indian・Washed Out等／コズミック・シンセ寄り：Emeralds・OPN等／トライバル・エキゾチカ寄り：James Ferraro・Sun Araw等）に分けている。CarlesがchillwaveとしたWashed Out・Neon Indianと、Keenanが2011年のFrieze誌でhypnagogic pop側として名指ししたFerraro・Sun Araw・Spencer Clark等は、ほぼ重ならない。
+- David Keenan自身が2011年1月（The Wire誌323号）、chillwaveを自分が名付けた運動の「意味のない通称」「無思考で脱政治化された」堕落形と呼び、**分岐を宣言**している。
+- 「数週間後」という時系列表現は要再検討（The Wire306号の実発売日が表紙月表記より早い可能性、状況証拠のみで確定はしていない）。
+
+**反映方針（未定稿）**：「批評語としては同義的に流通したが、名指しされた顔ぶれは最初からズレており、のちに命名者自身が『商業性 vs 実験性』の分岐を宣言した」という弧のある記述に書き換える。詳細は調査ノート§4。
+
+**手順**：①調査ノート§4を踏まえ文案を書く（第2章L385は短く、第3章L695〜707は分岐の経緯まで含めて厚めに） ②草稿反映 ③分割稿同期は任意。
+
+**ステータス**：☑ 調査完了（2026-08-09）。☐ 文案・草稿反映は未着手。**8-reorg 系列の後に着手**（ユーザー判断・2026-08-09）。
+
+---
 
 ### inv-vernacular-photo. non-place・匿名性の美学・poor image・ヴァナキュラー写真——接続の考察
 
