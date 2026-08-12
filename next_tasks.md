@@ -39,6 +39,8 @@
 
 **直近完了（2026-07-23）**：**7-reorg-0〜2** ☑（**1d・1e** 含む）——第7章「爆発」の reorg パイプライン完了。計画 [`docs/第7章_reorg_計画.md`](docs/第7章_reorg_計画.md)、文案 [`第7章_reorg_文案.md`](./archive/反映済み文案/第7章_reorg_文案.md)。KYM 編集史・制度化節（[`KYM_liminal_編集史メモ.md`](notes/KYM_liminal_編集史メモ.md)／[`liminal_制度化_Backrooms_言説メモ.md`](notes/liminal_制度化_Backrooms_言説メモ.md)）反映済み。`草稿.md` L1362–1644 へ全文差替え（章末 `## アーキテクチャ：TikTokとDiscordという対照` 復元含む）。**7-reorg-3／4** はユーザー判断でスコープ外（計画・文案タスクはここで終了）
 
+**直近完了（2026-08-12）**：**fractal-4** ☑——第4章「lo-fiとHD」を[`fractal-revision-guide/SKILL.md`](./fractal-revision-guide/SKILL.md)で全節点検・反映（文／段落→節→章）。合計25件の指摘（反映23件・保留2件）。主な内容：主題の一意性違反（「は」複数）を7件分割、節をまたいだ内容の重複（Eccojams/Far Side Virtual、PC Music/SOPHIE再掲、vaporwave対置・hyperpop命名の逐語反復）を前方参照化、密度ピーク文の分割、誤植（半角スペース混入）4件、段落の一段落一トピック違反1件を3段落に分割。セッション運用ルール（2段落ずつ・節レベルで逆アウトライン+語句重複を明示・番号付き報告・反映前に必ず確認）を`next_tasks.md`に明文化、fractal-5〜8で再利用予定。**次：fractal-5（第5章）**
+
 **直近完了（2026-08-11）**：**8-reorg-3** ☑——[`草稿.md`](./草稿.md) L2009・L2015の重複する「持ち込んだ図式」告白を1箇所へ統合（本稿が持ち込んだ図式にすぎない）。「この文章」→「本稿」表記統一も解消。**次：inv-hypnagogicの文案化**
 
 **直近完了（2026-08-10）**：**8-reorg-1・8-reorg-2** ☑——第8章末尾を[`docs/第8章_後記_文案.md`](docs/第8章_後記_文案.md)（第9稿）の内容で`草稿.md`へ反映。「## クロニクルの終わりにあたって」「## ＜後記＞」の二見出し・全17段落を、「## クロニクルの終わりにあたって」一つ＋`###`二節（「十年後にどう見えるか、という問い」「語り直すために、アーカイブが要る」）構成に統合。RA（Resident Advisor）特集記事2本を軸に、indie sleaze／seapunk／FairyPageの反復パターン、PC Music・Throbbing Gristleの評価反転、A.G. Cook/Spotify論争、DJ Harvey発言などを配置。**次：反映後の通読チェック**（下記「8-reorg-3」参照）
@@ -87,8 +89,9 @@ fractal-1 第1章・文／段落（各節）────────────
          │
          └→ fractal-2 第2章（文／段落→節→章）─────→ ☑ 2026-08-07（fractal-1-meta 未経由で先行着手）
                     └→ fractal-3 第3章（文／段落）──→ ☑ 2026-08-07
-                              └→ fractal-4 第4章（文／段落→節→章）→ ☐ 進行中（distroid節まで。運用ルールは下記§参照）
-                                        └→ fractal-5〜8 … 同順序
+                              └→ fractal-4 第4章（文／段落→節→章）→ ☑ 2026-08-12（運用ルールは下記§参照）
+                                        └→ fractal-5 第5章 → ☐ 次に着手
+                                                  └→ fractal-6〜8 … 同順序
 ```
 
 **規範**：[`fractal-revision-guide/SKILL.md`](./fractal-revision-guide/SKILL.md)＋[`manuscript-style`](./.claude/skills/manuscript-style/SKILL.md)／[`docs/project-style-notes.md`](docs/project-style-notes.md)。**原意保持・最小介入**。段落分割・主語明示・密度管理可。**crw-1**（認知リズム・削除のみ）とは別線。
@@ -957,7 +960,7 @@ Daniel Lopatin（Oneohtrix Point Never、OPN）は、『Memory Vague』（2009�
 
 ### fractal-4. 第4章——文／段落レベル（節ごと進行中）
 
-**ステータス**：☐ **進行中**。節ごとに文／段落レベルを点検・反映中（2026-08-12開始）。
+**ステータス**：☑ **完了**（2026-08-12）。節ごとに文／段落レベルを点検・反映。章レベル点検も実施（リング構成を確認、節をまたいだ重複4件を解消）。合計25件の指摘（反映23件・保留2件）。詳細は下記進捗テーブルおよびgit log参照。
 
 **進捗**
 
@@ -980,7 +983,7 @@ Daniel Lopatin（Oneohtrix Point Never、OPN）は、『Memory Vague』（2009�
 | ### コラム：Daniel Lopatin と A. G. Cook（#### 5小節含む） | ☑ | 主題の一意性2件（は2回×2）を分割。密度候補多数は証拠列挙として保留。節レベル点検済 |
 | ## deconstructed clubという並走（Night Slugs/Future Brown/Daniel Swan/IDLコラム含む） | ☑ | 密度ピーク文2件を分割（Daniel Swan段落、IDLモチーフ段落）、年号重複1件削除。節レベル点検済 |
 | ## hyperpopの浮上 | ☑ | 節冒頭の重複は保留(道標文)、PC Music/SOPHIE再掲を圧縮（評価文は温存）、誤植1件（4回目）、vaporwave対置節との逐語重複を解消。節レベル点検済 |
-| ## アーキテクチャ：lo-fiとHD | ☐ | — |
+| ## アーキテクチャ：lo-fiとHD | ☑ | 指摘なし。「遡及的確定として」節の冒頭との反復は意図的なリング構成と判断し無変更。章レベル点検済 |
 
 **台帳（誤植パターン）**：句読点・鍵括弧直後に余分な半角スペースが入る誤植を3回確認（L1021「。 The Jogging」、旧L1047「さらに、 Tabor」、旧L1055「「HDIY」 はその」）。3回目に達したため、章の残りでも同型の誤植に注意する。
 
@@ -990,8 +993,8 @@ Daniel Lopatin（Oneohtrix Point Never、OPN）は、『Memory Vague』（2009�
 
 | ID | 章 | 行（目安） | 状態 |
 |---|---|---|---|
-| **fractal-4** | 第4章　lo-fiとHD | — | ☐ **進行中** |
-| **fractal-5** | 第5章 | — | ☐ |
+| **fractal-4** | 第4章　lo-fiとHD | — | ☑ 2026-08-12 |
+| **fractal-5** | 第5章 | — | ☐ **次に着手** |
 | **fractal-6** | 第6章 | — | ☐ |
 | **fractal-7** | 第7章 | — | ☐ |
 | **fractal-8** | 第8章＋後記 | — | ☐ |
