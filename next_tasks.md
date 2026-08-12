@@ -974,7 +974,7 @@ Daniel Lopatin（Oneohtrix Point Never、OPN）は、『Memory Vague』（2009�
 | ### 継承と conceptronica | ☑ | 主題の一意性（は2回）を分割。体言止め列挙+「こうした要素は」型構文が4回目出現（下記台帳参照、ユーザー判断で容認・記録のみ） |
 | ### Gamsonite と DIS Magazine | ☑ | 主題の一意性（は2回）を分割。節レベル点検済（橋渡し良好） |
 | ### SuperSuper! と人脈の形成 | ☑ | 密度分割+重複解消(Polly Salmon)、GFOTY名義の時系列を訂正（著者確認：2012年春以降）、主題の一意性+帰属主語の曖昧さ解消(Roy=A.G.Cook)、入れ子修飾(7要素)解消。節レベル点検済 |
-| ### PC Music の設立と SOPHIE | ☐ | — |
+| ### PC Music の設立と SOPHIE | ☑ | 主述のねじれ（運用は/Dazedが）を修正。密度候補（伝記的事実の連なり）は保留 |
 | ### QT と Charli XCX | ☐ | — |
 | ### vaporwave との対置 | ☐ | — |
 | ### コラム：Daniel Lopatin と A. G. Cook | ☐ | — |
