@@ -1017,6 +1017,8 @@ Daniel Lopatin（Oneohtrix Point Never、OPN）は、『Memory Vague』（2009�
 
 **台帳**：同型の誤植・構文パターンは都度記録し、3回目の出現で意識に上げる（fractal-4では半角スペース混入の誤植が3回出現）。
 
+**文案作成時の注意**：新しく文を書く・書き換える際は[`docs/文体メモ.md`](docs/文体メモ.md)・[`docs/project-style-notes.md`](docs/project-style-notes.md)の禁止事項も確認する（例：em-dash「——」は本文で使わない。fractal-4で誤って使用し、指摘を受けて修正した実例あり）。
+
 ---
 
 ## 認知リズム推敲（crw-*）
