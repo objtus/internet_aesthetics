@@ -966,7 +966,8 @@ Daniel Lopatin（Oneohtrix Point Never、OPN）は、『Memory Vague』（2009�
 | 本章の視点：遡及的確定としてのlo-fi/HD区分 | ☑ | 「この文章自身」→「本稿自身」（用語統一） |
 | proto-vaporwaveの音——EccojamsとFar Side Virtual | ☑ | 指摘なし（曲名列挙の密度候補は非対称性テストで保留） |
 | Hito Steyerl「貧しいイメージの擁護」（### VVORKと「無言のキュレーション」含む） | ☑ | 誤植1件（余分なスペース）、文末表現の反復1件を修正 |
-| distroid——充填されなかった名前 ### Charlie Jones 記事と distroid の定義 | ☑ | 主題の一意性違反（は2回・逆接1文）を分割 |
+| **## distroid——充填されなかった名前**（全体） | ☑ | 節レベル点検完了（逆アウトライン一致・テーマ反復は意図的と判断、新規指摘なし） |
+| ### Charlie Jones 記事と distroid の定義 | ☑ | 主題の一意性違反（は2回・逆接1文）を分割 |
 | ### DIS Magazine と #HDBOYZ | ☑ | 主題の一意性（は3回）＋帰属の遅延を修正 |
 | ### Gatekeeper『Exo』と HDIY | ☑ | 段落を3分割（一段落一トピック違反）、入れ子修飾の深さ・主題の一意性を解消、誤植2件（余分なスペース） |
 | ### 命名の失敗と James Ferraro | ☑ | 主語交代の連鎖(3回)を分割。proto-vaporwave節との節またぎ重複(ほぼ逐語)を2箇所前方参照化 |
