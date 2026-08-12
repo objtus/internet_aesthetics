@@ -979,7 +979,7 @@ Daniel Lopatin（Oneohtrix Point Never、OPN）は、『Memory Vague』（2009�
 | ### vaporwave との対置 | ☑ | 指摘なし。体言止め列挙+「この方向性は」型構文が5回目出現（記録のみ） |
 | ### コラム：Daniel Lopatin と A. G. Cook（#### 5小節含む） | ☑ | 主題の一意性2件（は2回×2）を分割。密度候補多数は証拠列挙として保留。節レベル点検済 |
 | ## deconstructed clubという並走（Night Slugs/Future Brown/Daniel Swan/IDLコラム含む） | ☑ | 密度ピーク文2件を分割（Daniel Swan段落、IDLモチーフ段落）、年号重複1件削除。節レベル点検済 |
-| ## hyperpopの浮上 | ☐ | — |
+| ## hyperpopの浮上 | ☑ | 節冒頭の重複は保留(道標文)、PC Music/SOPHIE再掲を圧縮（評価文は温存）、誤植1件（4回目）、vaporwave対置節との逐語重複を解消。節レベル点検済 |
 | ## アーキテクチャ：lo-fiとHD | ☐ | — |
 
 **台帳（誤植パターン）**：句読点・鍵括弧直後に余分な半角スペースが入る誤植を3回確認（L1021「。 The Jogging」、旧L1047「さらに、 Tabor」、旧L1055「「HDIY」 はその」）。3回目に達したため、章の残りでも同型の誤植に注意する。
