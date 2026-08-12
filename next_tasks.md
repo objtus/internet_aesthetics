@@ -969,7 +969,7 @@ Daniel Lopatin（Oneohtrix Point Never、OPN）は、『Memory Vague』（2009�
 | distroid——充填されなかった名前 ### Charlie Jones 記事と distroid の定義 | ☑ | 主題の一意性違反（は2回・逆接1文）を分割 |
 | ### DIS Magazine と #HDBOYZ | ☑ | 主題の一意性（は3回）＋帰属の遅延を修正 |
 | ### Gatekeeper『Exo』と HDIY | ☑ | 段落を3分割（一段落一トピック違反）、入れ子修飾の深さ・主題の一意性を解消、誤植2件（余分なスペース） |
-| ### 命名の失敗と James Ferraro | ☐ 進行中 | L1059の主語交代の連鎖（3回）を分割。L1063–1065（Far Side Virtualの続き）は未着手 |
+| ### 命名の失敗と James Ferraro | ☑ | 主語交代の連鎖(3回)を分割。proto-vaporwave節との節またぎ重複(ほぼ逐語)を2箇所前方参照化 |
 | ### 継承と conceptronica | ☐ | — |
 | ## PC Musicという継承（### Gamsonite以下） | ☐ | — |
 | ## deconstructed clubという並走 | ☐ | — |
