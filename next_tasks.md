@@ -972,7 +972,12 @@ Daniel Lopatin（Oneohtrix Point Never、OPN）は、『Memory Vague』（2009�
 | ### Gatekeeper『Exo』と HDIY | ☑ | 段落を3分割（一段落一トピック違反）、入れ子修飾の深さ・主題の一意性を解消、誤植2件（余分なスペース） |
 | ### 命名の失敗と James Ferraro | ☑ | 主語交代の連鎖(3回)を分割。proto-vaporwave節との節またぎ重複(ほぼ逐語)を2箇所前方参照化 |
 | ### 継承と conceptronica | ☑ | 主題の一意性（は2回）を分割。体言止め列挙+「こうした要素は」型構文が4回目出現（下記台帳参照、ユーザー判断で容認・記録のみ） |
-| ## PC Musicという継承（### Gamsonite以下） | ☐ | — |
+| ### Gamsonite と DIS Magazine | ☑ | 主題の一意性（は2回）を分割。節レベル点検済（橋渡し良好） |
+| ### SuperSuper! と人脈の形成 | ☐ | — |
+| ### PC Music の設立と SOPHIE | ☐ | — |
+| ### QT と Charli XCX | ☐ | — |
+| ### vaporwave との対置 | ☐ | — |
+| ### コラム：Daniel Lopatin と A. G. Cook | ☐ | — |
 | ## deconstructed clubという並走 | ☐ | — |
 | ## hyperpopの浮上 | ☐ | — |
 | ## アーキテクチャ：lo-fiとHD | ☐ | — |
