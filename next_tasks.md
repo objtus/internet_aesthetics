@@ -978,7 +978,7 @@ Daniel Lopatin（Oneohtrix Point Never、OPN）は、『Memory Vague』（2009�
 | ### QT と Charli XCX | ☑ | 指摘なし |
 | ### vaporwave との対置 | ☑ | 指摘なし。体言止め列挙+「この方向性は」型構文が5回目出現（記録のみ） |
 | ### コラム：Daniel Lopatin と A. G. Cook（#### 5小節含む） | ☑ | 主題の一意性2件（は2回×2）を分割。密度候補多数は証拠列挙として保留。節レベル点検済 |
-| ## deconstructed clubという並走 | ☐ | — |
+| ## deconstructed clubという並走（Night Slugs/Future Brown/Daniel Swan/IDLコラム含む） | ☑ | 密度ピーク文2件を分割（Daniel Swan段落、IDLモチーフ段落）、年号重複1件削除。節レベル点検済 |
 | ## hyperpopの浮上 | ☐ | — |
 | ## アーキテクチャ：lo-fiとHD | ☐ | — |
 
