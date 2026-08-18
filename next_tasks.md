@@ -9,7 +9,7 @@
 **認知リズム**：[`cognitive-rhythm-writing/SKILL.md`](./cognitive-rhythm-writing/SKILL.md)（**crw-*** 推敲の正本）  
 **フラクタル推敲**：[`fractal-revision-guide/SKILL.md`](./fractal-revision-guide/SKILL.md)（**fractal-*** 推敲の正本。文→段落→節→章の順）
 
-**直近完了（2026-08-17）**：**fractal-6** ☑——第6章「名前があとから来る（2015〜2019年）」を[`fractal-revision-guide/SKILL.md`](./fractal-revision-guide/SKILL.md)で全節点検・反映（文／段落→節→章。全5節・13コミット）。主な内容：情報量のピーク分割11件（出典と役割・団体説明とメンバー列挙・事実と解釈など、いずれも非対称に割れる箇所）、誤植（余分な半角スペース・引用符前のスペース）4件、ブロック引用の訳の欠落1件（Ryanの投稿、文体メモ§5準拠で訳を追加）、章参照の追加1件（Jon Rafman「9 Eyes」→第4章）、表記ゆれ1件（instagram→Instagram、原稿全体に同型の揺れが残存・要フォロー）。節をまたいだ重複は確認されず。運用面：fractal-5で改訂したトピック展開単位の逆アウトラインを継続使用。**次：fractal-7（第7章）**
+**直近完了（2026-08-18）**：**fractal-7** ☑——第7章「爆発（2020〜2021年）」を[`fractal-revision-guide/SKILL.md`](./fractal-revision-guide/SKILL.md)で全節点検・反映（文／段落→節→章。全10節・15コミット）。主な内容：表記ゆれ8件（reddit/tiktok/wikipedia/youtube/instagram/tumblrの小文字→大文字統一）、誤記1件（Dissmiss Yourself→Dismiss Yourself）、余分な半角スペース6件、情報量のピーク分割6件（いずれも非対称に割れる箇所）、主語交代の連鎖の解消2件、帰属の遅延の解消1件、宙に浮いた主題の修正1件（「このラベルは」の述語欠落）、主語の曖昧性・欠落の修正2件（コラム内・Dismiss Yourself冒頭）、論理の骨格の明確化1件（受動→能動、「フレーム」→「呼び名」への言い換え、ユーザー協働で反復修正）、内容面のニュアンス追加1件（The Backroomsの匿名性＝返信の連鎖から生まれたことを明示）、同一フレーズの段落内反復の削除2件、節冒頭の橋渡し文の追加1件（hyperpop節→Dismiss Yourself節、TikTok/Discord対照の伏線）。節をまたいだ重複は確認されず（前方参照は適切）。運用面：短文の語尾（「〜た。」）連続や動画年表の時制混在は**著者判断でリズムのための意図的な表現**として複数箇所で保留——単純な「規範違反→修正」ではなく、リズム調整の意図を確認してから判断する運用が有効だった。**次：fractal-8（第8章＋後記）**
 
 **直近完了（2026-08-15）**：**fractal-5** ☑——第5章「「aesthetic」という語——包含関係の逆転」を[`fractal-revision-guide/SKILL.md`](./fractal-revision-guide/SKILL.md)で全節点検・反映（文／段落→節→章。全7節・19コミット）。主な内容：自己言及文の反復（「本章で見るのは」型が1節に3回）を統合、誤植（余分な半角スペース）5件、英語引用の形式不統一・訳の欠落5件（文体メモに「簡潔な引用は訳を省略可」の基準を新設）、主題の一意性＋情報量のピーク分割6件、帰属の遅延1件、確信度の書き分け不整合1件（伝聞と断定の混在）、括弧の入れ子（3層）を分割で解消、第3章L733との事実不整合（日付精度・名義の前後関係）を修正、project-style-notes§2の禁止例（「人は二つのものさしで見ていた」）とほぼ同型だった断定文を受け身化、体言止めの断片文を修正。節をまたいだ最大の重複（「プラットフォームと速度のずれ」節と「振り返り」節末尾）は**振り返り節の要約機能として現状維持**と判断。運用面：節レベル点検の逆アウトラインは段落単位ではなく**トピック展開単位**（論理的な繋がりを追う）に変更、fractal-6〜8で継続。**次：fractal-6（第6章）**
 
@@ -98,8 +98,8 @@ fractal-1 第1章・文／段落（各節）────────────
                               └→ fractal-4 第4章（文／段落→節→章）→ ☑ 2026-08-12（運用ルールは下記§参照）
                                         └→ fractal-5 第5章（文／段落→節→章）→ ☑ 2026-08-15
                                                   └→ fractal-6 第6章（文／段落→節→章）→ ☑ 2026-08-17
-                                                            └→ fractal-7 第7章 → ☐ 次に着手
-                                                                      └→ fractal-8 … 同順序
+                                                            └→ fractal-7 第7章（文／段落→節→章）→ ☑ 2026-08-18
+                                                                      └→ fractal-8 第8章＋後記 → ☐ 次に着手
 ```
 
 **規範**：[`fractal-revision-guide/SKILL.md`](./fractal-revision-guide/SKILL.md)＋[`manuscript-style`](./.claude/skills/manuscript-style/SKILL.md)／[`docs/project-style-notes.md`](docs/project-style-notes.md)。**原意保持・最小介入**。段落分割・主語明示・密度管理可。**crw-1**（認知リズム・削除のみ）とは別線。
@@ -1056,17 +1056,42 @@ Daniel Lopatin（Oneohtrix Point Never、OPN）は、『Memory Vague』（2009�
 
 **台帳（誤植パターン）**：余分な半角スペースの誤植を第6章で計3件確認（句読点前後・引用符前）。fractal-4〜5に続きこのパターンが原稿全体で繰り返し出現している。読点直後・日本語文字前のスペースという稀なパターン（本文全体で2箇所）も1件発見・修正。
 
-**台帳（表記ゆれ）**：「instagram」表記が原稿全体で6箇所（うち第6章1箇所を今回修正）、「Instagram」表記が4箇所。project-style-notes §1のプラットフォーム名統一ルールに沿って、他章分は要フォロー。
+**台帳（表記ゆれ）**：「instagram」表記が原稿全体で6箇所（うち第6章1箇所を今回修正）、「Instagram」表記が4箇所。project-style-notes §1のプラットフォーム名統一ルールに沿って、他章分は要フォロー。→ **fractal-7で解消**（第7章1箇所を修正。grep確認の結果、地の文の小文字表記は原稿全体で0件・残るのは全てURL内の`instagram.com`のみ）。
 
 **台帳（章参照）**：VVORKへの複数回言及について、章参照（「第4章で見た」）を追加するかどうかユーザー判断を仰いだ結果、**追加しない**方針が確定（2026-08-17）。Jon Rafman「9 Eyes」には追加。既出概念の再言及に一律で章参照を求めるのではなく、文脈の自己完結性で個別判断する運用とする。
+
+### fractal-7. 第7章——文／段落／節／章レベル
+
+**ステータス**：☑ **完了**（2026-08-18）。全10節（liminal spaceの前史／世界がliminal化した／liminal spaceの爆発／liminal spaceの制度化とThe Backroomsとの関係／dreamcoreとweirdcore／cottagecoreの爆発／TikTokというアーキテクチャの転換／hyperpopのその後／Dismiss Yourself／アーキテクチャ：TikTokとDiscordという対照）を文／段落→節→章レベルで点検・反映。トピック展開単位の逆アウトラインで章レベル点検を実施、節をまたいだ重複は発見されず。15コミット。
+
+**進捗**
+
+| 節 | 状態 | 主な反映 |
+|---|---|---|
+| liminal spaceの前史（ストリートビューの視線／cursed imagesとTumblrチェーン／Twitter上のliminal space／The Backroomsと4chanスレッド／r/LiminalSpaceとReddit） | ☑ | 密度分割2件、帰属の遅延1件、コラム内の主語欠落1件、主語交代の連鎖1件（内容面：The Backroomsの匿名性＝返信の連鎖から生まれたことを明示）、論理の骨格の明確化1件（「フレーム」→「呼び名」） |
+| 世界がliminal化した | ☑ | 密度分割1件（BBCの2つのデータを分離） |
+| liminal spaceの爆発（2020年4月の拡散／Images with Elegiac Auras） | ☑ | 宙に浮いた主題の修正1件、同一フレーズの段落内反復の削除1件。動画年表の時制混在は著者判断で保留（リズムのための意図的表現） |
+| liminal spaceの制度化とThe Backroomsとの関係（制度化のずれ／拡散の流れとメディアでの位置づけ／なぜ結びついたのか） | ☑ | 指摘なし（対句構文・確信度のヘッジ枠組みとも良好） |
+| dreamcoreとweirdcore | ☑ | 指摘なし（軽微な密度候補1件は保留） |
+| cottagecoreの爆発 | ☑ | 密度分割1件、主語のねじれ＋語の反復解消1件（dark academia段落） |
+| TikTokというアーキテクチャの転換（Tumblrの回路を読み返す／2014 Tumblrリバイバル／-coreサフィックスの標準化） | ☑ | 密度分割1件（Twitter/Patreon移行とDiscordの位置づけ） |
+| hyperpopのその後 | ☑ | 指摘なし |
+| Dismiss Yourself：Discordが音楽コミュニティになる | ☑ | 節冒頭の橋渡し文の追加1件（hyperpop節→本節、TikTok/Discord対照の伏線）、主語の曖昧性の解消1件 |
+| アーキテクチャ：TikTokとDiscordという対照 | ☑ | 主語交代の連鎖1件 |
+
+**節をまたいだ重複**：発見されず。DavidCrypt・Solar Sands・cottagecore/dark academia・images/pictures/places混在の話への複数回言及はいずれも「前節で見たように」等の明示的な前方参照で適切に処理済み。
+
+**台帳（誤植パターン）**：プラットフォーム名の小文字表記（reddit/tiktok/wikipedia/youtube/instagram/tumblr）を第7章で計8箇所修正。fractal-6のinstagram表記ゆれ指摘（原稿全体に残存・要フォロー）を含め、他章分は未フォロー。余分な半角スペースを6件確認・修正（fractal-4〜6に続き頻出パターン）。
+
+**運用面の所見**：本章は史実の年表的記述が多く、短文の語尾が「〜た。」で連続する箇所や動画年表内の時制混在（現在形／ている形／過去形が混在）が複数見つかったが、いずれも**著者判断でリズムのための意図的な表現**として保留された。文レベルの機械的な規範違反だけでなく、リズムの意図を確認してから判断する運用が有効だった。次章以降も同型の指摘は「候補として提示→著者に意図を確認」の手順を踏む。
 
 ### fractal-6 以降
 
 | ID | 章 | 行（目安） | 状態 |
 |---|---|---|---|
 | **fractal-6** | 第6章　名前があとから来る | — | ☑ 2026-08-17 |
-| **fractal-7** | 第7章 | — | ☐ **次に着手** |
-| **fractal-8** | 第8章＋後記 | — | ☐ |
+| **fractal-7** | 第7章　爆発 | — | ☑ 2026-08-18 |
+| **fractal-8** | 第8章＋後記 | — | ☐ **次に着手** |
 
 各章は **fractal-1 と同型**（文／段落→節→章）で進める。章 ID は着手時に行番号を更新する。
 
@@ -1694,8 +1719,8 @@ reorg-0/1/2 ☑／aesthetic-rev-1 ☑（草稿 L687–870）／aesthetic-rev-2 �
 
 | 段階 | 次の1手 |
 |---|---|
-| **今** | **fractal-7**（第7章。fractal-4〜6 の厳格ルールを維持——下記 §セッション運用ルール） |
-| **その次** | **fractal-7 → 8**、および §確定タスク（誤字2件・MySpace年号・章番号・第3章アーキテクチャ節・corecore・inv-hypnagogic 文案・instagram表記統一） |
+| **今** | **fractal-8**（第8章＋後記。fractal-4〜7 の厳格ルールを維持——下記 §セッション運用ルール） |
+| **その次** | §確定タスク（誤字2件・MySpace年号・章番号・第3章アーキテクチャ節・corecore・inv-hypnagogic 文案） |
 | **8月末〆でスコープ外の候補** | cons-2／inv-swan／inv-tabor／inv-vektroid／inv-vernacular-photo／rev-4／rev-12／meta-2／concl-2／fractal-1-meta（**未決**——切るかどうかは筆者判断） |
 | **クローズ済み（2026-08-13 検証）** | fractal-3 ☑／meg-1〜3 ☑／inv-khole-1b ☑／inv-khole-1c ☑／6b残 ☑／明晰さレビュー誤字4件 ☑／crw-1 ☑／meta-3 ☑ |
 
