@@ -9,7 +9,7 @@
 **認知リズム**：[`cognitive-rhythm-writing/SKILL.md`](./cognitive-rhythm-writing/SKILL.md)（**crw-*** 推敲の正本）  
 **フラクタル推敲**：[`fractal-revision-guide/SKILL.md`](./fractal-revision-guide/SKILL.md)（**fractal-*** 推敲の正本。文→段落→節→章の順）
 
-**直近完了（2026-08-19）**：**inv-hypnagogic 反映分の再推敲** ☑——著者がmainに直接反映した第2章L379・L385、第3章「名前は冗談から生まれる——chillwave・hypnagogic pop」節（新設）・「憑在論と郷愁の言語」節（再配置・格上げ）を、ブランチをoriginから作り直した上で[`fractal-revision-guide/SKILL.md`](./fractal-revision-guide/SKILL.md)の手順で再点検。文レベルの指摘1件（「James Ferraro は…語ったと紹介する」の帰属主体の曖昧さ→「…語った、と Simon Reynolds は紹介する」に修正）を反映。「憑在論と郷愁の言語」節は前節（chillwave・hypnagogic pop命名）からの橋渡し・次節（vaporwave）への橋渡しともに良好で、旧明晰さレビュー指摘（情報過密段落）も段落分割で解消済みと確認。[`docs/inv-hypnagogic_取り込み計画.md`](docs/inv-hypnagogic_取り込み計画.md)の「反映後チェックリスト」8項目もgrep照合ですべて充足を確認しチェック済みに更新。**次：§確定タスクの残り（MySpace年号・章番号詳細・第3章アーキテクチャ節・corecore・IndieWeb節の扱い）**
+**直近完了（2026-08-19）**：**inv-hypnagogic 反映分の再推敲** ☑——著者がmainに直接反映した第2章L379・L385、第3章「名前は冗談から生まれる——chillwave・hypnagogic pop」節（新設）・「憑在論と郷愁の言語」節（再配置・格上げ）を、ブランチをoriginから作り直した上で[`fractal-revision-guide/SKILL.md`](./fractal-revision-guide/SKILL.md)の手順で再点検。まず節レベルの確認（「憑在論と郷愁の言語」節の前後橋渡し良好、旧明晰さレビュー指摘の情報過密段落も分割済みと確認）を行い、続けて上から4段落ずつ、文体メモも参照しながら文レベル・段落レベルを詳細に再点検（対象：L677-729、chillwave・hypnagogic pop命名の2小節＋憑在論節）。反映した指摘は計9件——帰属の曖昧さ解消1件（James Ferraro発言の紹介者を明確化）、情報量のピーク分割5件（Wire306流通経緯の文／Keenanの定義文／Carles・Keenanの命名理論化文／glo-fiレビューの事実と推論の分離／Retromania3層分類）、訳語1件（oneiric→「夢想的な」、既出の「夢」モチーフに合わせた）、出典への誠実さ1件（Keenan「堕落形」宣言に英語原文を追加、文体メモ§5）、語順1件（第3章冒頭「の上で」→「を踏まえ」）。時制の不統一（地の文の記述文と資料説明文での書き分け）は著者判断で**現状維持**（日本語として自然、統一不要）。[`docs/inv-hypnagogic_取り込み計画.md`](docs/inv-hypnagogic_取り込み計画.md)の「反映後チェックリスト」8項目もgrep照合ですべて充足を確認しチェック済みに更新。**次：§確定タスクの残り（MySpace年号・章番号詳細・第3章アーキテクチャ節・corecore・IndieWeb節の扱い）、または新規追加ファイル（`docs/inv-hypnagogic_取り込み計画.md`／`notes/chillwave-hypnagogicpop-Retromania_調査ノート.md`）の内容確認**
 
 **直近完了（2026-08-18）**：**明晰さレビュー全章検証** ☑——2026-06-25版[`docs/草稿_明晰さレビュー.md`](docs/草稿_明晰さレビュー.md)の指摘（全体課題6点＋章別指摘28件）を序文＋全8章にわたって現物と照合。既存指摘の再検証というアプローチで実施（新規通読は行わず）。結果、大半がfractal-1〜8・各種reorg作業で既に構造ごと解消済みと判明。未解消として残った3件（第4章：第3章末尾との記述重複／第4章：末尾アーキテクチャ節の薄さ／第8章：「遡行的確定」の術語注釈なし）は著者確認のうえ**いずれも対応不要と判断**し、明晰さレビューは全項目クローズ。詳細は下記§明晰さレビュー節。**次：§確定タスク（MySpace年号・章番号詳細・第3章アーキテクチャ節・corecore・inv-hypnagogic文案・IndieWeb節の扱い）**
 
@@ -978,7 +978,7 @@ Daniel Lopatin（Oneohtrix Point Never、OPN）は、『Memory Vague』（2009�
 | 節 | 状態 | 主な反映 |
 |---|---|---|
 | vaporwaveという名前の登場 | ☑ | 動詞反復解消、二重帰属表現の整理 |
-| 名前は冗談から生まれる——chillwave・hypnagogic pop | ☑ | 第2章との章またぎ重複を前方参照化（2件）、密度の高い段落を分割。**2026-08-19：inv-hypnagogic反映後に節そのものを新設・全面差替、憑在論節を本節直後に再配置・格上げ。再推敲済**（帰属の曖昧さ1件修正） |
+| 名前は冗談から生まれる——chillwave・hypnagogic pop | ☑ | 第2章との章またぎ重複を前方参照化（2件）、密度の高い段落を分割。**2026-08-19：inv-hypnagogic反映後に節そのものを新設・全面差替、憑在論節を本節直後に再配置・格上げ。上から4段落ずつ文体メモも参照して再推敲済**（帰属の曖昧さ1件、情報量のピーク分割5件、訳語1件、出典への誠実さ1件、語順1件＝計9件反映。時制の不統一は著者判断で現状維持） |
 | witch house——命名と充填 | ☑ | 語の反復解消、段落間の空行欠落を2箇所修正、Rhinoceropolis段落を分割 |
 | seapunk（`### 2011年6月1日のツイート`まで） | ☑ | 「夢の断片」反復解消。体言止め列挙＋「これらは」型の構文が3回目の出現（台帳記録・保留） |
 | seapunk（`### Lil Internet と Lil Government の年表`以降） | ☑ | 年表〜レーベルと正史節の推敲、`witch-house.com` 見出しを明確化、節冒頭に記述配分の前置きを追加 |
