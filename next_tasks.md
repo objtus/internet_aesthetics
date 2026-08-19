@@ -245,7 +245,7 @@ fractal-5〜8 の主線とは別に、**現物確認で残存が確定した**�
 | **inv-steyerl** | Hito Steyerl「貧しいイメージの擁護（In Defense of the Poor Image）」節の追加 | ☑ | Post T.V. 節反映済（2026-06-17） | [`第2章取込_steyerl_文案.md`](./archive/反映済み文案/第2章取込_steyerl_文案.md)（Post T.V. 節末 `####`）。下記詳細節 |
 | **inv-piajp** | 日本のポストインターネットアート受容——雑誌特集の簡単な紹介節 | ☑ | 草稿反映済（2026-06-17） | [`第1章取込_piajp_文案.md`](./archive/反映済み文案/第1章取込_piajp_文案.md)（第1章・Designing Tumblr 直後）。下記詳細節 |
 | **inv-tabor** | Tabor Robak ネットワーク整理・BrandNewPaintJob.exe（Jon Rafman との共作） | ☐ | 並行可 | [taborrobak.com](https://www.taborrobak.com/) / 草稿 L318・L439・L598・L994 既出 |
-| **inv-hypnagogic** | chillwave／hypnagogic popの命名史・音楽的異同——調査完了、**文案は未着手** | ☑ 調査／☐ 文案 | 並行可 | [`notes/chillwave-hypnagogicpop-Retromania_調査ノート.md`](notes/chillwave-hypnagogicpop-Retromania_調査ノート.md)。第2章L385・第3章L695〜707が対象。下記詳細節 |
+| **inv-hypnagogic** | chillwave／hypnagogic popの命名史・音楽的異同——**草稿反映済**（2026-08-19） | ☑ 調査／☑ 反映 | 推敲・詰め | 計画 [`docs/inv-hypnagogic_取り込み計画.md`](docs/inv-hypnagogic_取り込み計画.md)／調査 [`notes/chillwave-hypnagogicpop-Retromania_調査ノート.md`](notes/chillwave-hypnagogicpop-Retromania_調査ノート.md) |
 | **inv-oesb** | OESB（Todd Ledford）× OPN「Time Decanted」MV 接点 | ☑ | 草稿反映済（2026-06-17） | [Vimeo](https://vimeo.com/7616034) / 草稿 L314 |
 | **inv-frkwys** | FRKWYS Vol.7（RVNG Intl.）——Ferraro・OPN・Laurel Halo 同席の記録 | ☑ | 草稿反映済（2026-06-17） | [Discogs](https://www.discogs.com/ja/master/353721-Borden-Ferraro-Godin-Halo-Lopatin-FRKWYS-7-) / 2011年7月 |
 | **inv-opn-cook** | OPN × A. G. Cook——**vaporwave 系譜と PC Music の交差**（コラボ年表） | ☑ | 並行可。src-4 ☑ 後推奨 | [`inv-opn-cook_年表.md`](notes/inv-opn-cook_年表.md) → [`第2章取込_OPN_Cook_文案.md`](./archive/反映済み文案/第2章取込_OPN_Cook_文案.md)。草稿 L733 直後反映（2026-06-22） |
@@ -379,7 +379,9 @@ inv-khole-1c（第8章 CARI Are.na。実行可能——三段階知識生産フ�
 
 **手順**：①調査ノート§4を踏まえ文案を書く（第2章L385は短く、第3章L695〜707は分岐の経緯まで含めて厚めに） ②草稿反映 ③分割稿同期は任意。
 
-**ステータス**：☑ 調査完了（2026-08-09）。☐ 文案・草稿反映は未着手。**8-reorg 系列の後に着手**（ユーザー判断・2026-08-09）。
+**計画正本**：[`docs/inv-hypnagogic_取り込み計画.md`](docs/inv-hypnagogic_取り込み計画.md)（2026-08-19。Wire 306＝表紙月表記／文案は計画書 §文案 に集約／承認後に草稿直反映）
+
+**ステータス**：☑ 調査完了（2026-08-09）。☑ 計画承認・草稿反映（2026-08-19。[`草稿.md`](./草稿.md) 第2章 L379・L385、第3章「hypnagogic pop と二重の命名」節・憑在論節）。推敲・詰めは継続。
 
 ---
 

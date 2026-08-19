@@ -2,6 +2,7 @@
 
 > 作成日：2026-08-09（Simon Reynolds『Retromania』単体の調査として開始）
 > 統合：2026-08-09（chillwave/hypnagogic popの命名史・両者の音楽的な異同についての詳細調査を統合。ファイル名を`Retromania_調査ノート.md`から改題・移動）
+> 更新：2026-08-19（Wire 306 流通時期の再調査 §3.8.2.2、計画書連携）
 > 目的：草稿 第2章L385・第3章L695〜707の「hypnagogic popはchillwaveとほとんど同じ音楽群」「しばしば同義に使われた」という記述を、一次資料に基づいて検証・補強する。第8章後記reorg計画（[`第8章_後記reorg_計画.md`](../docs/第8章_後記reorg_計画.md)§1-8）で見つかったSimon Reynolds／retromaniaの符合も、本ノートに統合されている。
 > 経緯：①RA記事のretromania言及→Reynolds引用の裏取り調査（§1〜2、一次未確認段階）。②実際に聴き比べるとchillwaveとhypnagogic popは音楽的にかなり違う、という著者の指摘→両者の異同・命名史の詳細調査（§3以降、他LLMによる調査。著者がInternet Archive・Wayback Machineの一次資料テキストを提供し、一次確認まで到達）。
 > **状態：§3以降は一次資料の引用・出典URLが逐一ついた調査結果。§1〜2は統合前の記録として残す（内容は§3以降でおおむね上書き・補強されている）。**
@@ -44,7 +45,7 @@ RA Part.1（`sources/papers/RA_There-Is-No-Sound-Of-The-2020s-Yet.md`）が2010�
 - Simon Reynolds自身は、著書『Retromania』（2011年）から2025年末のブログ投稿に至るまで、**一貫して両者をほぼ同一視する書き方**をしている（後述3.5節）。彼の直近の表現は "chillwave a/k/a hypnagogic pop" である。
 - 「壁越しに音を聴いた」という創世神話は、Reynolds本人が繰り返し語っており、『Retromania』本文（第10章、p.347）で**逐語確認済み**（3.4節）。
 - **glo-fi**については単一の命名者・命名記事は特定できなかったが、2009年7月24日付のPitchforkの記事本文を実際に確認したところ、その時点で既に「またこの言い方か」という調子でPitchfork編集部内の慣用句として定着していたことが分かった（3.8.2.1節）。これはCarlesのchillwave投稿（7月27日）より早く、真の初出はさらに遡る可能性が高い。
-- **【追記】The Wire誌306号（8月号）の実際の発売日**は、複数の状況証拠（誌面内の予告文、検索エンジンのメタデータ、The Wireの一般的な発売サイクル）から、表紙表記の「8月」より早く、**7月上旬〜中旬**だった可能性が高い（3.8.2.1節末尾）。これが正しければ、「hypnagogic popはchillwaveの数週間後に命名された」という通説は修正が必要で、実際には両者はほぼ同時期、あるいはhypnagogic popの方がわずかに先行していた可能性すらある。ただし確定的な一次資料には未到達。
+- **【追記】The Wire誌306号（8月号）の流通時期**：§3.8.2.1 の状況証拠（誌面内予告・Exact Editions メタデータ等）に加え、2026-08-19 再調査（§3.8.2.2）で **Simon Reynolds blissblog（2009年7月22日）** の contemporaneous 言及、**Forced Exposure 米国 RELEASE DATE（7/27/2009）**、**wyattandstuff（7/30）** を確認。**英国店頭の確定発売日一次資料は依然未到達**だが、306号は7月下旬には流通しており、三語（glo-fi／chillwave／hypnagogic pop）は **2009年7月下旬にほぼ同時期**に並走したと書ける。「hypnagogic popはchillwaveの数週間後」という通説は支持されない。
 
 ---
 
@@ -71,6 +72,11 @@ Carlesという匿名の書き手が運営するブログ Hipster Runoff が2009
 > Keenan, David (August 2009). "Childhood's End". The Wire. No. 306. pp. 26–31 – via Exact Editions.
 出典：https://en.wikipedia.org/wiki/The_Wire_(magazine)
 
+**【追記 2026-08-19】記事タイトル「Childhood's End」とアーサー・C・クラークのSF小説**
+
+英題 *Childhood's End*（日本語版題『幼年期の終り』、1953）はクラークの代表作のひとつ。Keenan の Wire 記事はこれと**同題**である。記事の主題（1980年代ポップが幼少期の無意識に浸透した記憶、壁越しに聞こえる音など）から、**意図的な同題引用／オマージュと読むのが自然**だが、Keenan 自身がクラーク小説を明示的に引いた発言は、今回の調査範囲（Wikipedia・enculturation.net・二次解説）では**確認できていない**。正文では「オマージュと読める」程度の確度で1文触れる方針（計画書 §文案 B 段落2）。
+出典（クラーク小説）：https://en.wikipedia.org/wiki/Childhood%27s_End
+
 定義文言は、この記事を参考文献に挙げる学術論文（enculturation.net掲載）が原文ページ番号付きで引用している。
 
 > "Hypnagogic pop is pop music refracted through the memory of a memory" (Keenan, p.26)
@@ -93,7 +99,7 @@ Keenanが記事内で名指ししたアーティストは、英語版Wikipedia�
 
 ### 3.3 両者の関係：「互換的」から「分岐」へ
 
-#### 3.3.1 時系列としては、chillwaveが先、hypnagogic popが数週間後（通説。3.8節で要再検証）
+#### 3.3.1 時系列としては、chillwaveが先、hypnagogic popが数週間後（通説。**§3.8.2.2 再調査で要修正**）
 
 > "'Chillwave', a tag used to describe a similar trend, was coined one month before Keenan's 2009 article"
 出典：https://en.wikipedia.org/wiki/Hypnagogic_pop （典拠：Trainer, Adam. "From Hypnagogia to Distroid." *The Oxford Handbook of Music and Virtuality*, 2016, pp.409, 416）
@@ -314,6 +320,81 @@ chillwave（Carles、2009年7月27日、Hipster Runoff）やhypnagogic pop（Dav
 
 いずれにせよ、**glo-fiという語の実際の初出はこの記事よりもさらに早い可能性が高い**——Plagenhoefの書きぶりからして、これは新語の紹介ではなく、既に読者に通じる前提の「お決まりの表現」への言及だからである。
 
+#### 3.8.2.2【2026-08-19 再調査】Wire 306号の流通時期
+
+**背景**：§3.8.2.1 の状況証拠（Exact Editions 逆算・7/13 メタデータ・別年の発売サイクル類推）は引き続き有効。本節は追加調査で得られた、より強い contemporaneous 言及と米国流通データを記録する。**英国店頭の確定一次資料には依然未到達。**
+
+##### Forced Exposure（米国ディストリビュータ）RELEASE DATE
+
+The Wire を米国で流通させる Forced Exposure の各号商品ページに RELEASE DATE が明記されている（2026-08-19 確認）。
+
+| 号 | 表紙月 | RELEASE DATE |
+|---|---|---|
+| 304 | June 2009 | 5/25/2009 |
+| 305 | July 2009 | 6/22/2009 |
+| **306** | **August 2009** | **7/27/2009** |
+| 307 | September 2009 | 8/24/2009 |
+| 308 | October 2009 | 9/21/2009 |
+
+パターン：表紙月より約4〜5週間早い。306号の 7/27/2009 は **Carles の chillwave 命名（同日）と一致**。
+
+出典：https://www.forcedexposure.com/Catalog/wire-the-306-august-2009-mag/WIRE.306.html （304〜308 各号ページも同形式）
+
+**注意**：これは**米国流通日**であり、英国店頭発売日の直接証拠ではない。ただし三語が「7月下旬にほぼ同時」だった叙述を補強する。
+
+##### 2009年7月の contemporaneous 言及
+
+1. **Simon Reynolds, blissblog**（**2009年7月22日**）
+
+   Atom feed `published`: 2009-07-22T08:43:00-07:00
+
+   > "Interesting article by David Keenan, **in the latest issue of The Wire**, on what he's calling 'hypnagogic pop'"
+
+   出典：http://blissout.blogspot.com/2009/07/hipstergogic-pop-interesting-article-by.html
+
+   **7月24日の Plagenhoef レビュー・7月27日の Carles 投稿より前**に、Reynolds は既に Wire の Keenan 記事を読んで論評している。Plagenhoef レビューが hypnagogic pop を併記していた背景（§3.8.2.1 ③）の説明として最も強い contemporaneous 根拠。
+
+2. **wyattandstuff.blogspot.com**（**2009年7月30日**）
+
+   Atom feed `published`: 2009-07-30T10:43:00+02:00
+
+   > "Check out the **latest issue of Wire (#306)**"
+
+   出典：http://wyattandstuff.blogspot.com/2009/07/british-visionary-jazz.html
+
+##### §3.8.2.1 状況証拠との統合
+
+| 根拠 | 示唆する流通時期 | 強度 |
+|---|---|---|
+| Exact Editions 306号 Below The Radar 予告（9月号8/6発売） | 7月上旬頃 | 状況証拠 |
+| Exact Editions メタデータ July 13, 2009 | 7月中旬 | 状況証拠 |
+| Reynolds blissblog（7/22） | **7月22日時点で英国で入手・読了可能** | **contemporaneous 一次言及** |
+| Plagenhoef Seasun（7/24）glo-fi + hypnagogic pop 併記 | 7/24時点で h-pop 語が Pitchfork 内流通 | 確定 |
+| Forced Exposure 306 RELEASE DATE | 米国 7/27 | 流通業者データ |
+| Carles chillwave（7/27） | 同日 | 確定 |
+| wyattandstuff（7/30） | 7月下旬 | contemporaneous 言及 |
+
+**修正された時系列理解**：
+
+- 「hypnagogic pop は chillwave の数週間後」という通説は**支持されない**。
+- 三語（glo-fi＝7/24以前から Pitchfork 内、glo-fi 確定併記 7/24、chillwave 7/27、h-pop via Wire 306）は **2009年7月下旬にほぼ同時期**に並走したと書ける。
+- Keenan 記事の**公表経路**として表紙月（2009年8月号）を維持する方針（[`docs/inv-hypnagogic_取り込み計画.md`](../docs/inv-hypnagogic_取り込み計画.md) 方針 A）と両立：「306号（2009年8月号）で定義されたが、7月下旬にはすでに流通していた」。
+
+##### 未到達・未確認
+
+- **Wayback Machine（著者確認・2026-08-19 CDX 裏取り）**
+  - `thewire.co.uk/news/`：**2009年のキャプチャなし**（最古は2003年・2004年、次は2012年5月以降）
+  - `thewire.co.uk/`（トップ）：2009年は **7月2日**（`20090702104640`）と **9月2日**（`20090902220044`）のみ。**8月のキャプチャはない**
+  - よって2009年7〜8月の The Wire 公式「on sale from」告知は Wayback からは**復元不能**
+- WorldCat / 英国国立図書館の306号個別書誌日
+- blissblog 個別ページの Wayback 2009年キャプチャ（Atom feed の日付は確認済み）
+
+##### 正文への示唆
+
+- 表紙月表記（2009年8月号）は**書誌**として維持。「数週間後」は削除。
+- 第3章で三語の**ほぼ同時期**叙述（7月下旬）。**306号の流通は7月下旬**と書いてよい——最低限の根拠は Reynolds blissblog（**2009年7月22日**、著者判断 2026-08-19）。
+- 英国店頭の確定発売日は未確認だが、正文に長い留保は不要（Forced Exposure 7/27・wyattandstuff 7/30 は補強用、調査ノートに残す）。
+
 #### 3.8.2 分かったこと（Wikipedia等の二次資料）
 
 英語版Wikipedia「Chillwave」項目・「Hypnagogic pop」項目はいずれも、glo-fiを<cite>「chillwaveおよびhypnagogic popと当初同義的に使われていた」</cite>語として扱うのみで、命名者・命名日を特定していない。
@@ -343,9 +424,7 @@ Harperはこの記述に、Pitchforkの具体的な記事URL（トラックレ�
    https://pitchfork.com/reviews/albums/13510-psychic-chasms/
    この記事内でHoganが"dream-beat, chillwave, glo-fi, hypnagogic pop, hipster-gogic pop"の5語を並べて論じている（本文は英語版Wikipediaの孫引きでのみ確認済み、原文は今回未読）。
 
-3. **The Wire誌306号（2009年8月号）の実際の発売日・店頭配布日**
-   英国の月刊音楽誌の実務上の発売日は、表紙表記の月より早いことが多い（例：「8月号」が7月中旬〜下旬に発売されるなど）。The Wire誌の実際の発売スケジュールを確認できれば、3.8.2.1節で指摘した「Keenanの記事がPitchforkのSeasunレビュー（7月24日）より先に読まれていた可能性」を検証できる。The Wire誌のアーカイブ（Exact Editions経由）：
-   https://exacteditions.com/titles/the-wire ※未アクセス
+3. ~~**The Wire誌306号（2009年8月号）の実際の発売日・店頭配布日**~~ → **【部分解消】** §3.8.2.2 で Reynolds blissblog（7/22）、Forced Exposure（7/27）、wyattandstuff（7/30）を確認。**英国店頭の確定一次資料**（The Wire 公式 on sale 告知、WorldCat 書誌日）は未到達。
 
 4. **Pitchforkの2009年6〜7月のtrack reviewsアーカイブ全体**
    Seasunレビュー以前に「glo-fi」が使われた記事がないか、Wayback Machineの当該期間のPitchforkキャプチャを遡って確認すると、真の初出に近づける可能性がある。
@@ -450,18 +529,21 @@ https://www.nytimes.com/2011/08/14/books/review/retromania-by-simon-reynolds-boo
 24. https://reader.exacteditions.com/issues/5474/spread/2 【306号誌面プレビュー、Below The Radar Vol.1予告文を確認】
 25. https://reader.exacteditions.com/issues/5474/page/ 【306号Exact Editionsページ、メタデータ"age: July 13, 2009"を確認】
 26. https://www.thewire.co.uk/news/ 【The Wireの一般的な発売サイクルの参考例（別年）】
+27. https://www.forcedexposure.com/Catalog/wire-the-306-august-2009-mag/WIRE.306.html 【306号 RELEASE DATE 7/27/2009（§3.8.2.2）】
+28. http://blissout.blogspot.com/2009/07/hipstergogic-pop-interesting-article-by.html 【Reynolds、Wire 306 Keenan 記事論評、2009-07-22（§3.8.2.2）】
+29. http://wyattandstuff.blogspot.com/2009/07/british-visionary-jazz.html 【Wire #306 言及、2009-07-30（§3.8.2.2）】
 
 ---
 
-## 4. 草稿への反映方針（未定稿・要相談）
+## 4. 草稿への反映方針
 
-この節は統合調査（§3）を受けた、草稿反映についての方向性メモ。実際の修正文案はまだ書いていない。
+**正本**：[`docs/inv-hypnagogic_取り込み計画.md`](../docs/inv-hypnagogic_取り込み計画.md)（2026-08-19 作成。文案・実行順は計画書 §文案 に集約）。以下は調査ノート側の要約。
 
 1. **「同義に使われた」という記述自体は誇張ではなく、むしろ良く裏付けられる**（§3.3.2・3.5.2）。削る必要はない。
 2. **問題は「同義に使われた」＝「ほとんど同じ音楽」という読み方をされかねない書き方の方**。Reynoldsの3層分類（§3.4.1②）とKeenan自身の後年の分岐宣言（§3.3.4）を使えば、「批評語としては同義的に流通したが、実際に名指しされたアーティストは最初からズレており、のちに命名者自身が『商業性 vs 実験性』の分岐を宣言した」という、より正確で面白い記述に書き換えられる。
-3. **「数週間後」という時系列表現は要検討**。§3.8.2.1の状況証拠（確定はしていない）を踏まえ、「数週間後」を残すか、「時期はほぼ重なる」に弱めるか、あるいは注記を加えるかを判断する。
-4. **glo-fiは現状草稿に未登場**。3語が同時期に並走していた事実（§3.3.5後半、Rouge's Foam）を軽く触れる価値はあるが、必須ではない。
-5. Adam Harperの「地獄でサタンが〜」という自嘲的な比喩（§3.3.5）は、草稿の文体（軽いユーモアを交える瞬間がある）に合えば使える素材。
+3. **「数週間後」は削除**（§3.8.2.2）。三語は2009年7月下旬に**ほぼ同時期**に並走。**草稿反映済**（2026-08-19）：特徴は似通う／名指しは異なる／同義流通／Retromania・Keenan 323 分岐。
+4. **glo-fi**は第3章で命名時期の文脈として1〜2文（§3.8.2.1 Plagenhoef 7/24）。
+5. Adam Harperの「地獄でサタンが〜」（§3.3.5）は任意。今回の計画では省略。
 
 ---
 
