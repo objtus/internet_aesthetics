@@ -2,7 +2,7 @@
 
 > 作成日：2026-08-09（Simon Reynolds『Retromania』単体の調査として開始）
 > 統合：2026-08-09（chillwave/hypnagogic popの命名史・両者の音楽的な異同についての詳細調査を統合。ファイル名を`Retromania_調査ノート.md`から改題・移動）
-> 更新：2026-08-19（Wire 306 流通時期の再調査 §3.8.2.2、計画書連携）
+> 更新：2026-08-19（Wire 306 流通時期 §3.8.2.2；**Gidman ブログ 7/20 追記**）
 > 目的：草稿 第2章L385・第3章L695〜707の「hypnagogic popはchillwaveとほとんど同じ音楽群」「しばしば同義に使われた」という記述を、一次資料に基づいて検証・補強する。第8章後記reorg計画（[`第8章_後記reorg_計画.md`](../docs/第8章_後記reorg_計画.md)§1-8）で見つかったSimon Reynolds／retromaniaの符合も、本ノートに統合されている。
 > 経緯：①RA記事のretromania言及→Reynolds引用の裏取り調査（§1〜2、一次未確認段階）。②実際に聴き比べるとchillwaveとhypnagogic popは音楽的にかなり違う、という著者の指摘→両者の異同・命名史の詳細調査（§3以降、他LLMによる調査。著者がInternet Archive・Wayback Machineの一次資料テキストを提供し、一次確認まで到達）。
 > **状態：§3以降は一次資料の引用・出典URLが逐一ついた調査結果。§1〜2は統合前の記録として残す（内容は§3以降でおおむね上書き・補強されている）。**
@@ -45,7 +45,7 @@ RA Part.1（`sources/papers/RA_There-Is-No-Sound-Of-The-2020s-Yet.md`）が2010�
 - Simon Reynolds自身は、著書『Retromania』（2011年）から2025年末のブログ投稿に至るまで、**一貫して両者をほぼ同一視する書き方**をしている（後述3.5節）。彼の直近の表現は "chillwave a/k/a hypnagogic pop" である。
 - 「壁越しに音を聴いた」という創世神話は、Reynolds本人が繰り返し語っており、『Retromania』本文（第10章、p.347）で**逐語確認済み**（3.4節）。
 - **glo-fi**については単一の命名者・命名記事は特定できなかったが、2009年7月24日付のPitchforkの記事本文を実際に確認したところ、その時点で既に「またこの言い方か」という調子でPitchfork編集部内の慣用句として定着していたことが分かった（3.8.2.1節）。これはCarlesのchillwave投稿（7月27日）より早く、真の初出はさらに遡る可能性が高い。
-- **【追記】The Wire誌306号（8月号）の流通時期**：§3.8.2.1 の状況証拠（誌面内予告・Exact Editions メタデータ等）に加え、2026-08-19 再調査（§3.8.2.2）で **Simon Reynolds blissblog（2009年7月22日）** の contemporaneous 言及、**Forced Exposure 米国 RELEASE DATE（7/27/2009）**、**wyattandstuff（7/30）** を確認。**英国店頭の確定発売日一次資料は依然未到達**だが、306号は7月下旬には流通しており、三語（glo-fi／chillwave／hypnagogic pop）は **2009年7月下旬にほぼ同時期**に並走したと書ける。「hypnagogic popはchillwaveの数週間後」という通説は支持されない。
+- **【追記】The Wire誌306号（8月号）の流通時期**：§3.8.2.1 の状況証拠に加え §3.8.2.2 で **Gidman ブログ（2009年7月20日）**「available now」、**Simon Reynolds blissblog（7月22日）**、**Forced Exposure 米国 RELEASE DATE（7/27）**、**wyattandstuff（7/30）** を確認。**英国店頭の確定発売日一次資料は依然未到達**だが、306号は7月下旬には流通しており、三語は **2009年7月下旬にほぼ同時期**に並走したと書ける。
 
 ---
 
@@ -344,7 +344,19 @@ The Wire を米国で流通させる Forced Exposure の各号商品ページに
 
 ##### 2009年7月の contemporaneous 言及
 
-1. **Simon Reynolds, blissblog**（**2009年7月22日**）
+1. **Gidman, Gidman's Treasures And Nuggets**（**2009年7月20日**）
+
+   投稿日時：`Monday, 20 July 2009`、20:35
+
+   > "This is an excerpt from Wire's cover story on Madlib from their **Aug. 2009 issue, which is available now**."
+
+   同投稿の目次要約（表紙文）に **Hypnagogic pop**、Contributors に **David Keenan** が列挙されている。
+
+   出典：https://treasureandnuggets.blogspot.com/2009/07/madlib-in-august-edition-of-wire.html
+
+   **現時点で確認できる最古の contemporaneous 言及**（blissblog 7/22 より2日早い）。306号が「入手可能」だったことを示す。**Keenan 記事を読んだ・論評した**ことまでは本文からは言えない（Madlib 表紙記事の抜粋紹介が主）。`available now` が英国店頭・Exact Editions デジタル・宣伝用抜粋のいずれを指すかも**未確定**。
+
+2. **Simon Reynolds, blissblog**（**2009年7月22日**）
 
    Atom feed `published`: 2009-07-22T08:43:00-07:00
 
@@ -352,9 +364,9 @@ The Wire を米国で流通させる Forced Exposure の各号商品ページに
 
    出典：http://blissout.blogspot.com/2009/07/hipstergogic-pop-interesting-article-by.html
 
-   **7月24日の Plagenhoef レビュー・7月27日の Carles 投稿より前**に、Reynolds は既に Wire の Keenan 記事を読んで論評している。Plagenhoef レビューが hypnagogic pop を併記していた背景（§3.8.2.1 ③）の説明として最も強い contemporaneous 根拠。
+   **Keenan 記事を読了・論評した最古の contemporaneous 言及**。7月24日の Plagenhoef レビュー・7月27日の Carles 投稿より前。Plagenhoef レビューが hypnagogic pop を併記していた背景（§3.8.2.1 ③）の説明として、**記事内容への言及**という点では最も強い根拠。
 
-2. **wyattandstuff.blogspot.com**（**2009年7月30日**）
+3. **wyattandstuff.blogspot.com**（**2009年7月30日**）
 
    Atom feed `published`: 2009-07-30T10:43:00+02:00
 
@@ -368,7 +380,8 @@ The Wire を米国で流通させる Forced Exposure の各号商品ページに
 |---|---|---|
 | Exact Editions 306号 Below The Radar 予告（9月号8/6発売） | 7月上旬頃 | 状況証拠 |
 | Exact Editions メタデータ July 13, 2009 | 7月中旬 | 状況証拠 |
-| Reynolds blissblog（7/22） | **7月22日時点で英国で入手・読了可能** | **contemporaneous 一次言及** |
+| Gidman treasureandnuggets（7/20） | **7月20日時点で306号 "available now"**（表紙文に Hypnagogic pop） | **contemporaneous 言及（最古）** |
+| Reynolds blissblog（7/22） | **7月22日時点で Keenan 記事を読了・論評** | **contemporaneous 一次言及（記事内容）** |
 | Plagenhoef Seasun（7/24）glo-fi + hypnagogic pop 併記 | 7/24時点で h-pop 語が Pitchfork 内流通 | 確定 |
 | Forced Exposure 306 RELEASE DATE | 米国 7/27 | 流通業者データ |
 | Carles chillwave（7/27） | 同日 | 確定 |
@@ -392,8 +405,9 @@ The Wire を米国で流通させる Forced Exposure の各号商品ページに
 ##### 正文への示唆
 
 - 表紙月表記（2009年8月号）は**書誌**として維持。「数週間後」は削除。
-- 第3章で三語の**ほぼ同時期**叙述（7月下旬）。**306号の流通は7月下旬**と書いてよい——最低限の根拠は Reynolds blissblog（**2009年7月22日**、著者判断 2026-08-19）。
-- 英国店頭の確定発売日は未確認だが、正文に長い留保は不要（Forced Exposure 7/27・wyattandstuff 7/30 は補強用、調査ノートに残す）。
+- 第3章で三語の**ほぼ同時期**叙述（7月下旬）。**306号の流通は7月下旬**と書いてよい。
+- **306号「入手可能」の最古言及**：Gidman ブログ（**2009年7月20日**）。**Keenan 記事の読了・論評**：blissblog（**7月22日**）。論旨（7月下旬流通・三語同時期）は変更不要。正文で両方触れる必要はない——blissblog だけでも足りるが、Gidman は blissblog より早い補強根拠。
+- 英国店頭の確定発売日は未確認（Gidman の `available now` も店頭限定とは言えない）。正文に長い留保は不要。
 
 #### 3.8.2 分かったこと（Wikipedia等の二次資料）
 
@@ -530,8 +544,9 @@ https://www.nytimes.com/2011/08/14/books/review/retromania-by-simon-reynolds-boo
 25. https://reader.exacteditions.com/issues/5474/page/ 【306号Exact Editionsページ、メタデータ"age: July 13, 2009"を確認】
 26. https://www.thewire.co.uk/news/ 【The Wireの一般的な発売サイクルの参考例（別年）】
 27. https://www.forcedexposure.com/Catalog/wire-the-306-august-2009-mag/WIRE.306.html 【306号 RELEASE DATE 7/27/2009（§3.8.2.2）】
-28. http://blissout.blogspot.com/2009/07/hipstergogic-pop-interesting-article-by.html 【Reynolds、Wire 306 Keenan 記事論評、2009-07-22（§3.8.2.2）】
-29. http://wyattandstuff.blogspot.com/2009/07/british-visionary-jazz.html 【Wire #306 言及、2009-07-30（§3.8.2.2）】
+28. https://treasureandnuggets.blogspot.com/2009/07/madlib-in-august-edition-of-wire.html 【Gidman、Wire 306 "available now"、2009-07-20（§3.8.2.2）】
+29. http://blissout.blogspot.com/2009/07/hipstergogic-pop-interesting-article-by.html 【Reynolds、Wire 306 Keenan 記事論評、2009-07-22（§3.8.2.2）】
+30. http://wyattandstuff.blogspot.com/2009/07/british-visionary-jazz.html 【Wire #306 言及、2009-07-30（§3.8.2.2）】
 
 ---
 

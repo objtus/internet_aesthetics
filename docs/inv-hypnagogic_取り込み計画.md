@@ -63,14 +63,15 @@
 
 | 根拠 | 内容 | 強度 |
 |---|---|---|
-| **Simon Reynolds blissblog** | 2009年**7月22日**、「*the latest issue of The Wire*」の Keenan hypnagogic pop 記事を論評 | contemporaneous 一次言及 |
+| **Gidman, treasureandnuggets** | 2009年**7月20日**、306号（表紙8月）を **"available now"** と記載。表紙文に Hypnagogic pop、Contributors に Keenan | contemporaneous 言及（**現時点最古**。blissblog より2日早い） |
+| **Simon Reynolds blissblog** | 2009年**7月22日**、「*the latest issue of The Wire*」の Keenan hypnagogic pop 記事を**読了・論評** | contemporaneous 一次言及（**記事内容**） |
 | **Forced Exposure（米国流通）** | 306号（表紙8月）RELEASE DATE **7/27/2009**（chillwave 命名と**同日**）。304〜308 で表紙月より約4〜5週早いパターン | 流通業者データ |
 | **wyattandstuff** | 2009年**7月30日**、「latest issue of Wire (#306)」 | contemporaneous 言及 |
 | §3.8.2.1 状況証拠 | Exact Editions 逆算（7月上旬）、メタデータ July 13、別年 on sale 類推 | 状況証拠 |
 
 **未到達**：The Wire 公式 on sale 告知（Wayback：`thewire.co.uk/news/` は2009年キャプチャなし、`thewire.co.uk/` は2009年7/2・9/2のみで**8月なし**）、WorldCat／英国国立図書館の306号書誌日。
 
-**正文への含意**（2026-08-19 著者判断）：Keenan 命名の**書誌**は表紙月（2009年8月号）を維持しつつ、306号の**流通は7月下旬**と書いてよい。最低限の根拠は Simon Reynolds blissblog（**2009年7月22日**）——この時点で Keenan 記事を読んで論評している。三語は **2009年7月下旬にほぼ同時期**。「数週間後」は削除。
+**正文への含意**（2026-08-19 著者判断、**Gidman 7/20 追記**）：Keenan 命名の**書誌**は表紙月（2009年8月号）を維持しつつ、306号の**流通は7月下旬**と書いてよい。**306号「入手可能」の最古言及**は Gidman ブログ（**7月20日**）。**Keenan 記事の読了・論評**は blissblog（**7月22日**）。論旨（7月下旬・三語同時期）は変更不要。正文では blissblog だけでも足りる（Gidman は脚注・調査ノート用の補強）。
 
 ### 正文で採る方針
 
@@ -78,14 +79,14 @@
 |---|---|---|
 | **chillwave** | 2009年7月27日 | Carles／Hipster Runoff（確定） |
 | **glo-fi** | 2009年7月24日以前から Pitchfork 内で流通；7月24日レビューで glo-fi／hypnagogic pop 併記 | Plagenhoef「Seasun」レビュー（Wayback 確認済）。**単独の命名記事は特定できない** |
-| **hypnagogic pop** | *The Wire* **306号（2009年8月号）**；**7月下旬には流通**（blissblog 7/22） | Keenan「Childhood's End」。書誌は表紙月、流通は contemporaneous 言及 |
+| **hypnagogic pop** | *The Wire* **306号（2009年8月号）**；**7月下旬には流通**（Gidman 7/20 "available now"、blissblog 7/22 で Keenan 記事論評） | Keenan「Childhood's End」。書誌は表紙月、流通は contemporaneous 言及 |
 
 ### 時系列をどう叙述するか（文案 B 段落1で実装）
 
 **採用案**（第3章のみ。第2章は表紙月＋7月27日の chillwave だけで足りる）：
 
 1. **三語の並走**：2009年7月下旬、Simon Reynolds は7月22日の blissblog で *The Wire* 306号（表紙8月）の Keenan 記事をすでに論評しており、306号はこの時点で流通していた。Pitchfork では glo-fi が（編集部内の）定着した呼び方として使われ（7月24日レビュー）、Carles の chillwave（7月27日）が続く——**三つの呼称が短い期間に独立して（またはほぼ同時に）生まれた**。
-2. **Wire の書誌と流通の分離**：Keenan 命名の**書誌**は表紙月（2009年8月号）を用いる。**流通**は7月下旬（blissblog 7/22 最低限）。Carles より「数週間後」とは**書かない**。英国店頭の確定発売日は未確認だが、正文に長い留保は入れない（著者判断 2026-08-19）。
+2. **Wire の書誌と流通の分離**：Keenan 命名の**書誌**は表紙月（2009年8月号）を用いる。**流通**は7月下旬（Gidman 7/20・blissblog 7/22）。Carles より「数週間後」とは**書かない**。英国店頭の確定発売日は未確認（Gidman の `available now` も店頭限定とは言えない）だが、正文に長い留保は入れない（著者判断 2026-08-19）。
 3. **glo-fi の深掘りはしない**：「命名者不明・Pitchfork 内スラング」まで。初出特定は調査ノート §3.8.2.1 に残す。
 
 **第2章では触れないもの**：glo-fi、Wire 発売日の留保（見取り図を過密にしない）。
@@ -311,6 +312,7 @@
 |---|---|
 | *The Wire* 306号 | https://www.thewire.co.uk/issues/306 |
 | Keenan「Childhood's End」（定義引用） | https://enculturation.net/what_will_have_been_cool |
+| Gidman treasureandnuggets 2009-07-20 | https://treasureandnuggets.blogspot.com/2009/07/madlib-in-august-edition-of-wire.html |
 | Reynolds blissblog 2009-07-22 | http://blissout.blogspot.com/2009/07/hipstergogic-pop-interesting-article-by.html |
 | Carles chillwave 2009-07-27 | https://web.archive.org/web/20130717013018/http://hipsterrunoff.com/node/1780 |
 | Plagenhoef「Seasun」2009-07-24（glo-fi 併記） | http://pitchfork.com/reviews/tracks/11401-seasun/ |
@@ -324,7 +326,7 @@
 
 **文案メモ**
 
-- Wire：**書誌は表紙月、流通は7月下旬**（blissblog 7/22）。第2章には入れない。
+- Wire：**書誌は表紙月、流通は7月下旬**（Gidman 7/20・blissblog 7/22）。第2章には入れない。
 - **§文案 B**：段落1・3は「**特徴は似通う／名指しアーティストは異なる**」の二層（2026-08-19 著者判断）。Keenan 記事本文未読のため、特徴の重なりは blissblog・enculturation・Carles 投稿からの推定。
 - **§文案 B**：段落2の chillwave は L699–703 を「直前に触れた」で受ける（重複回避）。
 - **Clarke オマージュ**：段落2に1文。Keenan がクラークを明示した一次資料は未確認（タイトル同題＋幼少期記憶の文脈からの推定。2026-08-19 著者指摘）。
