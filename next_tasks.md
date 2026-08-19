@@ -9,6 +9,12 @@
 **認知リズム**：[`cognitive-rhythm-writing/SKILL.md`](./cognitive-rhythm-writing/SKILL.md)（**crw-*** 推敲の正本）  
 **フラクタル推敲**：[`fractal-revision-guide/SKILL.md`](./fractal-revision-guide/SKILL.md)（**fractal-*** 推敲の正本。文→段落→節→章の順）
 
+**直近完了（2026-08-19）**：**第3章全体の流れの再点検** ☑——「hypnagogic pop」節の分割後、著者の依頼で第3章全体を通し読みし、以下2点を発見・対応。①「憑在論と郷愁の言語」節末尾（L731）がAdam Harper・Charlie Jones・distroidを名指ししていたが、これらが正式に紹介されるのは約250行あとの「DMY Magazine」節（L981・L997）で、前方参照になっていた。おそらく憑在論節を章前半へ移動・格上げした際の副作用。固有名詞を落として一般化し解消（「Nick Landの加速主義と結びつけて読まれることもあった」）。②vaporwave節（L735-747）はchillwave・hypnagogic pop節（新設・拡充後）に比べて分量が薄く、旧明晰さレビューの「vaporwaveの命名過程の分析がseapunkに比べて薄い」指摘がさらに目立つ形になっていた。加筆は推敲の範囲を超えるため、既存引用（捨て垢の記事、L747）の紹介の仕方を変え、「本節は命名経緯に絞っているが、この記事はその後の展開までを一貫して扱っており、総説として参考になる」という一文を追加し、読者への導線とした。
+
+**直近完了（2026-08-19）**：**inv-hypnagogic 反映分の節構造の是正** ☑——著者指摘により、「### hypnagogic pop と二重の命名」節（11段落）が姉妹節「### chillwave——冗談から定着」（3段落）に比べて突出して長いことが判明。fractal-revision-guideの節レベル基準「問いの単一性」で見ると、実質3つの異なる問い（命名の経緯／音とアーティストの異同／批評語としての流通と分岐）を1節に詰め込んでいたため、3分割：「### hypnagogic pop——由来と定義」（4段落）／「### 音とアーティストの異同」（4段落）／「### 同義的な流通と分岐」（3段落）。分量は3・4・4・3段落となりバランスが是正された。
+
+**直近完了（2026-08-19）**：**inv-hypnagogic 反映分の再推敲** ☑——著者がmainに直接反映した第2章L379・L385、第3章「名前は冗談から生まれる——chillwave・hypnagogic pop」節（新設）・「憑在論と郷愁の言語」節（再配置・格上げ）を、ブランチをoriginから作り直した上で[`fractal-revision-guide/SKILL.md`](./fractal-revision-guide/SKILL.md)の手順で再点検。まず節レベルの確認（「憑在論と郷愁の言語」節の前後橋渡し良好、旧明晰さレビュー指摘の情報過密段落も分割済みと確認）を行い、続けて上から4段落ずつ、文体メモも参照しながら文レベル・段落レベルを詳細に再点検（対象：L677-729、chillwave・hypnagogic pop命名の2小節＋憑在論節）。反映した指摘は計9件——帰属の曖昧さ解消1件（James Ferraro発言の紹介者を明確化）、情報量のピーク分割5件（Wire306流通経緯の文／Keenanの定義文／Carles・Keenanの命名理論化文／glo-fiレビューの事実と推論の分離／Retromania3層分類）、訳語1件（oneiric→「夢想的な」、既出の「夢」モチーフに合わせた）、出典への誠実さ1件（Keenan「堕落形」宣言に英語原文を追加、文体メモ§5）、語順1件（第3章冒頭「の上で」→「を踏まえ」）。時制の不統一（地の文の記述文と資料説明文での書き分け）は著者判断で**現状維持**（日本語として自然、統一不要）。[`docs/inv-hypnagogic_取り込み計画.md`](docs/inv-hypnagogic_取り込み計画.md)の「反映後チェックリスト」8項目もgrep照合ですべて充足を確認しチェック済みに更新。**次：§確定タスクの残り（MySpace年号・章番号詳細・第3章アーキテクチャ節・corecore・IndieWeb節の扱い）、または新規追加ファイル（`docs/inv-hypnagogic_取り込み計画.md`／`notes/chillwave-hypnagogicpop-Retromania_調査ノート.md`）の内容確認**
+
 **直近完了（2026-08-18）**：**明晰さレビュー全章検証** ☑——2026-06-25版[`docs/草稿_明晰さレビュー.md`](docs/草稿_明晰さレビュー.md)の指摘（全体課題6点＋章別指摘28件）を序文＋全8章にわたって現物と照合。既存指摘の再検証というアプローチで実施（新規通読は行わず）。結果、大半がfractal-1〜8・各種reorg作業で既に構造ごと解消済みと判明。未解消として残った3件（第4章：第3章末尾との記述重複／第4章：末尾アーキテクチャ節の薄さ／第8章：「遡行的確定」の術語注釈なし）は著者確認のうえ**いずれも対応不要と判断**し、明晰さレビューは全項目クローズ。詳細は下記§明晰さレビュー節。**次：§確定タスク（MySpace年号・章番号詳細・第3章アーキテクチャ節・corecore・inv-hypnagogic文案・IndieWeb節の扱い）**
 
 **直近完了（2026-08-18）**：**fractal-8** ☑——第8章「制度化：分類するという欲望」＋後記「クロニクルの終わりにあたって」を[`fractal-revision-guide/SKILL.md`](./fractal-revision-guide/SKILL.md)で全節点検・反映（文／段落→節→章。全11節・15コミット）。これで**fractal-1〜8、全8章の主線パイプラインが完走**。主な内容：論理矛盾の修正1件（「Aero」＝Vista一製品の名 vs 時代全体を束ねるラベルの不在）、内容に踏み込んだ議論2件（章冒頭「あの感じ」自体が遡行的確定の産物であることの自己言及追加／盗用の主体をリポジトリ内一次資料で確認して明確化）、節見出しの変更2件（「IndieWebとNeocities」→「Neocities」＝本文にIndieWeb記述がなかったため、「語り直すために、アーカイブが要る」→「物語ることの偏り」＝結論を先取りしない見出しへ）、表記統一6件（facebook/discord→Facebook/Discord）、誤字修正2件（Subprime Morgage→Mortgage、2016年の重複）、引用の訳追加4件、情報量のピーク分割3件、主語の欠落・曖昧性の修正3件、段落の削除1件（Dismiss Yourselfへの唐突な言及、文脈接続が弱く本題から外れていたため）。節をまたいだ重複は第7章との1件のみ（Tumblr NSFW BAN以降の移行先の記述）を発見し前方参照を追加。運用面：見出し変更や内容解釈にかかわる指摘は**著者との協働的な検討**（複数往復での文案修正、リポジトリ内一次資料の確認）を経てから反映する運用が有効だった。**次：明晰さレビュー**（`docs/草稿_明晰さレビュー.md`の章別再確認リスト、下記§参照）
@@ -245,7 +251,7 @@ fractal-5〜8 の主線とは別に、**現物確認で残存が確定した**�
 | **inv-steyerl** | Hito Steyerl「貧しいイメージの擁護（In Defense of the Poor Image）」節の追加 | ☑ | Post T.V. 節反映済（2026-06-17） | [`第2章取込_steyerl_文案.md`](./archive/反映済み文案/第2章取込_steyerl_文案.md)（Post T.V. 節末 `####`）。下記詳細節 |
 | **inv-piajp** | 日本のポストインターネットアート受容——雑誌特集の簡単な紹介節 | ☑ | 草稿反映済（2026-06-17） | [`第1章取込_piajp_文案.md`](./archive/反映済み文案/第1章取込_piajp_文案.md)（第1章・Designing Tumblr 直後）。下記詳細節 |
 | **inv-tabor** | Tabor Robak ネットワーク整理・BrandNewPaintJob.exe（Jon Rafman との共作） | ☐ | 並行可 | [taborrobak.com](https://www.taborrobak.com/) / 草稿 L318・L439・L598・L994 既出 |
-| **inv-hypnagogic** | chillwave／hypnagogic popの命名史・音楽的異同——**草稿反映済**（2026-08-19） | ☑ 調査／☑ 反映 | 推敲・詰め | 計画 [`docs/inv-hypnagogic_取り込み計画.md`](docs/inv-hypnagogic_取り込み計画.md)／調査 [`notes/chillwave-hypnagogicpop-Retromania_調査ノート.md`](notes/chillwave-hypnagogicpop-Retromania_調査ノート.md) |
+| **inv-hypnagogic** | chillwave／hypnagogic popの命名史・音楽的異同——**草稿反映済・再推敲済**（2026-08-19） | ☑ 調査／☑ 反映／☑ 推敲 | なし | 計画 [`docs/inv-hypnagogic_取り込み計画.md`](docs/inv-hypnagogic_取り込み計画.md)（反映後チェックリスト充足確認済）／調査 [`notes/chillwave-hypnagogicpop-Retromania_調査ノート.md`](notes/chillwave-hypnagogicpop-Retromania_調査ノート.md) |
 | **inv-oesb** | OESB（Todd Ledford）× OPN「Time Decanted」MV 接点 | ☑ | 草稿反映済（2026-06-17） | [Vimeo](https://vimeo.com/7616034) / 草稿 L314 |
 | **inv-frkwys** | FRKWYS Vol.7（RVNG Intl.）——Ferraro・OPN・Laurel Halo 同席の記録 | ☑ | 草稿反映済（2026-06-17） | [Discogs](https://www.discogs.com/ja/master/353721-Borden-Ferraro-Godin-Halo-Lopatin-FRKWYS-7-) / 2011年7月 |
 | **inv-opn-cook** | OPN × A. G. Cook——**vaporwave 系譜と PC Music の交差**（コラボ年表） | ☑ | 並行可。src-4 ☑ 後推奨 | [`inv-opn-cook_年表.md`](notes/inv-opn-cook_年表.md) → [`第2章取込_OPN_Cook_文案.md`](./archive/反映済み文案/第2章取込_OPN_Cook_文案.md)。草稿 L733 直後反映（2026-06-22） |
@@ -381,7 +387,7 @@ inv-khole-1c（第8章 CARI Are.na。実行可能——三段階知識生産フ�
 
 **計画正本**：[`docs/inv-hypnagogic_取り込み計画.md`](docs/inv-hypnagogic_取り込み計画.md)（2026-08-19。Wire 306＝表紙月表記／文案は計画書 §文案 に集約／承認後に草稿直反映）
 
-**ステータス**：☑ 調査完了（2026-08-09）。☑ 計画承認・草稿反映（2026-08-19。[`草稿.md`](./草稿.md) 第2章 L379・L385、第3章「hypnagogic pop と二重の命名」節・憑在論節）。推敲・詰めは継続。
+**ステータス**：☑ 調査完了（2026-08-09）。☑ 計画承認・草稿反映（2026-08-19。[`草稿.md`](./草稿.md) 第2章 L379・L385、第3章「hypnagogic pop と二重の命名」節・憑在論節）。☑ 反映後の再推敲完了（2026-08-19。帰属の曖昧さ1件修正、節の接続・チェックリスト8項目を確認）。**完了**。
 
 ---
 
@@ -976,7 +982,7 @@ Daniel Lopatin（Oneohtrix Point Never、OPN）は、『Memory Vague』（2009�
 | 節 | 状態 | 主な反映 |
 |---|---|---|
 | vaporwaveという名前の登場 | ☑ | 動詞反復解消、二重帰属表現の整理 |
-| 名前は冗談から生まれる——chillwave・hypnagogic pop | ☑ | 第2章との章またぎ重複を前方参照化（2件）、密度の高い段落を分割 |
+| 名前は冗談から生まれる——chillwave・hypnagogic pop | ☑ | 第2章との章またぎ重複を前方参照化（2件）、密度の高い段落を分割。**2026-08-19：inv-hypnagogic反映後に節そのものを新設・全面差替、憑在論節を本節直後に再配置・格上げ。上から4段落ずつ文体メモも参照して再推敲済**（帰属の曖昧さ1件、情報量のピーク分割5件、訳語1件、出典への誠実さ1件、語順1件＝計9件反映。時制の不統一は著者判断で現状維持） |
 | witch house——命名と充填 | ☑ | 語の反復解消、段落間の空行欠落を2箇所修正、Rhinoceropolis段落を分割 |
 | seapunk（`### 2011年6月1日のツイート`まで） | ☑ | 「夢の断片」反復解消。体言止め列挙＋「これらは」型の構文が3回目の出現（台帳記録・保留） |
 | seapunk（`### Lil Internet と Lil Government の年表`以降） | ☑ | 年表〜レーベルと正史節の推敲、`witch-house.com` 見出しを明確化、節冒頭に記述配分の前置きを追加 |
