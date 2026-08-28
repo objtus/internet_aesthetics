@@ -9,6 +9,8 @@
 **認知リズム**：[`cognitive-rhythm-writing/SKILL.md`](./cognitive-rhythm-writing/SKILL.md)（**crw-*** 推敲の正本）  
 **フラクタル推敲**：[`fractal-revision-guide/SKILL.md`](./fractal-revision-guide/SKILL.md)（**fractal-*** 推敲の正本。文→段落→節→章の順）
 
+**直近完了（2026-08-28）**：**公開準備の第一段** ☑——8月末公開を見据え、著者の希望で確定タスク表の#2・3・5・6を消化。加えてSherburne/NYT一次資料（[`sources/papers/Sherburne_Witch-house-DJ-Screw-and-the-new-doom.md`](sources/papers/Sherburne_Witch-house-DJ-Screw-and-the-new-doom.md)／[`sources/papers/Caramanica_Seeping-Out-of-Houston-Slowly.md`](sources/papers/Caramanica_Seeping-Out-of-Houston-Slowly.md)）を第2章witch house節・第3章SuperSuper!節へ反映し、fractal-revision-guideで文・段落レベルを再点検（前方参照バグの並べ替え修正、情報過多文の分割）。章参照の全数grep点検で新たにAre.na設立者の記述不整合（第4章「Broskoski・Zucconi」vs第6章「Sherron・Yago」）を発見し、[`notes/khole-arena-archillect-researtch.md`](notes/khole-arena-archillect-researtch.md)の一次資料に基づき修正。残：確定タスク#4（yabujincore、著者検討中）。**次：公開形態（個人サイト/静的サイト）に向けた最終準備**
+
 **直近完了（2026-08-19）**：**第3章全体の流れの再点検** ☑——「hypnagogic pop」節の分割後、著者の依頼で第3章全体を通し読みし、以下2点を発見・対応。①「憑在論と郷愁の言語」節末尾（L731）がAdam Harper・Charlie Jones・distroidを名指ししていたが、これらが正式に紹介されるのは約250行あとの「DMY Magazine」節（L981・L997）で、前方参照になっていた。おそらく憑在論節を章前半へ移動・格上げした際の副作用。固有名詞を落として一般化し解消（「Nick Landの加速主義と結びつけて読まれることもあった」）。②vaporwave節（L735-747）はchillwave・hypnagogic pop節（新設・拡充後）に比べて分量が薄く、旧明晰さレビューの「vaporwaveの命名過程の分析がseapunkに比べて薄い」指摘がさらに目立つ形になっていた。加筆は推敲の範囲を超えるため、既存引用（捨て垢の記事、L747）の紹介の仕方を変え、「本節は命名経緯に絞っているが、この記事はその後の展開までを一貫して扱っており、総説として参考になる」という一文を追加し、読者への導線とした。
 
 **直近完了（2026-08-19）**：**inv-hypnagogic 反映分の節構造の是正** ☑——著者指摘により、「### hypnagogic pop と二重の命名」節（11段落）が姉妹節「### chillwave——冗談から定着」（3段落）に比べて突出して長いことが判明。fractal-revision-guideの節レベル基準「問いの単一性」で見ると、実質3つの異なる問い（命名の経緯／音とアーティストの異同／批評語としての流通と分岐）を1節に詰め込んでいたため、3分割：「### hypnagogic pop——由来と定義」（4段落）／「### 音とアーティストの異同」（4段落）／「### 同義的な流通と分岐」（3段落）。分量は3・4・4・3段落となりバランスが是正された。
@@ -185,11 +187,12 @@ fractal-5〜8 の主線とは別に、**現物確認で残存が確定した**�
 | # | 内容 | 現物の状態 | 見積 |
 |---|---|---|---|
 | 1 | **誤字2件** | ☑ **修正済（2026-08-18・fractal-8）**。草稿L1915「特に2016年以降に2016年4月に」重複／L1916「理由にある可能性がある」→「理由である可能性がある」。facebook表記ゆれも第8章分は同時に解消 | — |
-| 2 | **MySpace データ消失年の精度** | 草稿 **L117**「そして**2019年、サーバー移行の不手際によって**12年分…」が残存。[BBC](https://www.bbc.com/news/technology-47610936) では移行が2018年初頭、公表が2019年3月。「2018年の移行、2019年3月に発覚」等へ | 15分 |
-| 3 | **第3章 `## アーキテクチャ：命名とプラットフォーム` 節** | fractal-3 で唯一、点検記録が見当たらない節（第2章の同名節は推敲済） | 10分 |
-| 4 | **第7章 corecore／yabujincore 追記** | inv-khole-1b の積み残し。1文 | 10分 |
-| 5 | **章番号の不一致**（明晰さレビュー課題②） | distroid の章番号、「第5章以降」、序文の第7章欠落。grep で全数確認 | 20分 |
-| 6 | **6c 残／6d-review 残** | 6c は Cluster Mag 直後の接続文（当時 L254 → 現 L689・L1221 へ移動）、6d-review は witch house 節の分量・時系列と seapunk 節への接続。**いずれも fractal-2／3 の全節通過後なので吸収済みの可能性が高い**——確認して閉じる | 20分 |
+| 2 | **MySpace データ消失年の精度** | ☑ **修正済（2026-08-28）**。「2018年、サーバー移行の不手際によって…失われたことが、2019年3月に発覚した」へ | — |
+| 3 | **第3章 `## アーキテクチャ：命名とプラットフォーム` 節** | ☑ **点検済（2026-08-28）**。トピック文「専用フォーラムやMySpaceは、命名以前から機能していた別の層だ」がwitch-house.comフォーラム（命名後の2010年5月開設）には当てはまらない射程の不一致を発見・修正（→「タグの拡散とは別のかたちでシーンを支えていた」）。ほかは問題なし | — |
+| 4 | **第7章 corecore／yabujincore 追記** | inv-khole-1b の積み残し。1文。**要検討（著者判断待ち）** | 10分 |
+| 5 | **章番号の不一致**（明晰さレビュー課題②） | ☑ **確認済・対応不要（2026-08-28）**。「第5章以降」は現存せず、distroid・Jon Rafman・Are.na等の章参照はgrep全数確認で正確。序文の章一覧はed-7で節ごと削除済みのため「第7章欠落」は非該当 | — |
+| 6 | **6c 残／6d-review 残** | ☑ **確認済・対応不要（2026-08-28）**。Cluster Mag接続文（Kevin Heckart／Alexis Stephens）は現行の第3章seapunk節に統合済み。witch house→seapunk節の橋渡しもseapunk節冒頭の前置き文で対応済み。いずれもfractal-3で吸収済みと確認 | — |
+| 8 | **Are.na設立者の記述不整合**（今回grepで新規発見） | ☑ **修正済（2026-08-28）**。第4章L1075「Broskoski と Zucconi」と第6章L1481「Sherron と Yago が共同創設者として設立」で主導者の重心が食い違っていた。[`notes/khole-arena-archillect-researtch.md`](notes/khole-arena-archillect-researtch.md)の一次資料に基づき、第6章を「Broskoskiが主導しSherron・Yagoを含むチームを集めた」に修正 | — |
 | 7 | **inv-hypnagogic の文案化** | 調査 ☑（[`notes/chillwave-hypnagogicpop-Retromania_調査ノート.md`](notes/chillwave-hypnagogicpop-Retromania_調査ノート.md)）。第2章 L385・第3章 L695〜707 が対象。「同義に使われた」は**削らず**、Reynolds の3層分類と Keenan の分岐宣言を足す | 0.5日 |
 
 ---
