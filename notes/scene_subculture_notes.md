@@ -1,7 +1,7 @@
 # Sceneサブカルチャー調査ノート
 **作成日:** 2026-06-28  
 **対象:** Scene subculture（シーンサブカルチャー）の起源・構造・音楽・衰退・継承  
-**用途:** 「インターネット美学のクロニクル」原稿参照資料  
+**用途:** 「インターネット美学の系譜」原稿参照資料  
 **調査方法:** Wikipedia・Aesthetics Wiki・PopMatters・Rate Your Music等の照合
 ---
 ## 1. 基本情報
@@ -129,7 +129,7 @@ TikTok上では「クリンジ」として消費される形でもsceneは循環
 # -coreサフィックス調査ノート
 **作成日:** 2026-06-28  
 **対象:** -coreサフィックスの語源・歴史的変遷・ビジュアル美学への転用  
-**用途:** 「インターネット美学のクロニクル」原稿参照資料
+**用途:** 「インターネット美学の系譜」原稿参照資料
 ---
 ## 1. 語源
 > "-core comes from hard core, which at first (1841) referred to broken bricks or stones that formed the hard substratum of roads and foundations."  
@@ -225,7 +225,7 @@ fashioncoreとnormcoreの2事例から共通パターンが見える：
 # Indie Sleaze調査ノート
 **作成日:** 2026-06-28  
 **対象:** Indie Sleaze aestheticの起源・命名史・ファッション・音楽・隣接aestheticとの関係  
-**用途:** 「インターネット美学のクロニクル」原稿参照資料
+**用途:** 「インターネット美学の系譜」原稿参照資料
 ---
 ## 1. 基本情報
 | 項目 | 内容 |
