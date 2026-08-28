@@ -1,4 +1,4 @@
-# コンテキストマップ——「インターネット美学のクロニクル」調査資料の全体地図
+# コンテキストマップ——「インターネット美学の系譜」調査資料の全体地図
 
 > 生成日: 2026-07-06（構成更新: 2026-08-04 — `sources/`・`notes/`・`docs/`・`manuscript/` 整備）
 > 対象: ルート作業基盤（`草稿.md`・`timeline.md`・`next_tasks.md` 等）＋[`sources/`](./sources/)・[`notes/`](./notes/)・[`docs/`](./docs/)・[`manuscript/`](./manuscript/)・[`archive/`](./archive/)
