@@ -1,6 +1,6 @@
 # 第5章　「aesthetic」という語——包含関係の逆転
 
-## 本章が追う「逆転」とは何か
+## 本章が追う「逆転」とは何か {#what-is-inversion}
 
 「aesthetic」は古くからある、ありふれた言葉だ。「美的な」「美意識」「見た目の趣味」を指す。それが2010年代のインターネットで、ある雰囲気や様式そのものを名指す言葉になり、やがて vaporwave や cottagecore を束ねる「インターネット美学」という分類の名前になった。
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 音楽ジャンルに添えられた「aesthetic」
+## 音楽ジャンルに添えられた「aesthetic」 {#aesthetic-on-genres}
 
 vaporwave という名前が広まるより前から、「aesthetic」はネット発の音楽の批評に顔を出していた。といっても、まだ何かを束ねるカテゴリの名前ではない。ある音楽が持つ見た目や雰囲気を指す、ふつうの言い方としての aesthetic だ。Pictureplane が2009年12月に Pitchfork の「Guest List: Best of 2009」で witch house を名指したときにも、*witch house aesthetic* という語が使われ、Modern Witch「In Your Eyes」や「Goth Star」の映像がその例に挙げられていた。ジャンル名に aesthetic が添えられる使い方は、この頃からあった。
 
@@ -26,7 +26,7 @@ vaporwave という名前が広まるより前から、「aesthetic」はネッ�
 
 ---
 
-## 批評の語彙になる「aesthetic」
+## 批評の語彙になる「aesthetic」 {#aesthetic-as-criticism}
 
 2012年になると、ネット発の音楽を論じる批評のなかで、aesthetic はよく使われる語になっていく。ただし、まだ何かを束ねる名前というより、その音楽が「持っている」質を指す書き方だ。
 
@@ -46,9 +46,9 @@ Charlie Jones の distroid 記事は、distroid という語を説明したす�
 
 ---
 
-## ミームになる「aesthetic」
+## ミームになる「aesthetic」 {#aesthetic-as-meme}
 
-### YouTube と「リサフランク420」
+### YouTube と「リサフランク420」 {#youtube-lisa-frank-420}
 
 批評や論争のなかで aesthetic が使われていたのと並行して、もうひとつの回路があった。YouTube のコメント欄だ。ここでは aesthetic は、定義や論争とは関係なく、ある種のミームとして貼られていく。
 
@@ -56,17 +56,17 @@ Charlie Jones の distroid 記事は、distroid という語を説明したす�
 
 のちの言説によれば、この動画と aesthetic という語が結びつけられ、コメント欄に「aesthetic」とだけ書き込まれた、という。ただし、その結びつきがいつ始まったのかは、はっきりしない。語そのものは、動画が大きく伸びる前から話題になっていた。それでも、ネット文化のなかで aesthetic という語が『Floral Shoppe』のジャケットや、この動画と強く結びついていた時期があったことは確かだ。2015年11月の [r/OutOfTheLoop](https://www.reddit.com/r/OutOfTheLoop/comments/3snn9u/what_is_up_with_a_e_s_t_h_e_t_i_c/) には、「a e s t h e t i c とは何なのか」と問うスレッドが立ち、そのなかでこの動画が取り上げられている。のちのメディアの整理、とくに [Know Your Meme の2015年1月に立ち上げられた「aesthetic」記事](https://knowyourmeme.com/memes/aesthetic)も、この楽曲とこの動画を aesthetic という語に結びつけている。哲学的な問いとしてではなく、音楽と映像が持つ固有の雰囲気や視覚的な特徴、世界観を一語で指す使い方としてだ。 r/VaporwaveAesthetics の作成が2014年10月27日であり、この文脈で aesthetic という言葉がミーム化したのは2014年末頃かもしれない。
 
-### コメント欄のミーム
+### コメント欄のミーム {#comment-section-memes}
 
 では、なぜこの動画と aesthetic という言葉が結びつき、ミーム化したのか。動画は、ピンクの抽象空間に浮かぶヘリオス像、日本語の文字、ヴィンテージ CM の切り貼り、伸びきった Diana Ross の声など、説明のつかない要素の寄せ集めでできている。感覚では受け取れるが、筋道は通らない。
 
 こうした映像のコメント欄に、人は「aesthetic」とだけ書いたとされる。哲学や美学を思わせる、少し気取った響きの語を、意味のはっきりしないムードのシールのように貼る。真面目に「美しい」と讃えるのではなく、その不条理さ自体を面白がるナンセンスでアイロニカルな感覚がそこにはある。この感覚は、2012年ごろ Tumblr で流行した [2deep4u](https://knowyourmeme.com/memes/2deep4u) とも地続きだ。"too deep for you（君には深すぎる）" の略で、気取った抽象画像や、それを気取って評価する人（いわゆる「ヒップスター」、意訳すれば「（美）意識高い系」）を揶揄するミームだった。中心にあるのは、言い表せないものに、わざと大げさな名前を貼ることのおかしさだ。ギリシャ語に由来し、18世紀以降は美学という学問の名でもあった「aesthetic」という重い語と、筋の通らない映像とのあいだのずれ。そのずれが、この語をラベルとして広めたのかもしれない。のちに YouTuber の FrankJavCee が aesthetic を「『美しい』の気取った言い方」と言い換えたのも、同じ感覚を指している。コメント欄でこの使い方がいつ始まったかを示す記録はほとんど残っていない。[2013年6月時点の保存](https://web.archive.org/web/20130607225546/https://www.youtube.com/watch?v=cU8HrO7XuiE)では総コメント232件が確認できるが、そのうち閲覧できた12件ほどに aesthetic は見当たらなかった。
 
-### 過剰な細分化と命名の政治
+### 過剰な細分化と命名の政治 {#over-segmentation-naming-politics}
 
 第1章で触れた [H∆SHTAG$](https://daily.redbullmusicacademy.com/2013/03/hashtags-tumblrwave/) 第5話において、Daniel Dodecahedron（BlackBlackGold／GucciGoth）は、90年代に憧れるような憧憬やノスタルジアの感覚について、「that has just led to this pooling of different aspects of the aesthetics（それが、その美学のさまざまな側面が一つに溜まっていく結果につながった）」と述べる。ここでも *aspects of the aesthetics* と、定冠詞のついた複数形で、ひとまとめになった文化的パッケージの「いくつもの側面」を指している。aesthetic はまだ、何かが持つ質の側にある。続けて彼は、「hyper-segmentation is a creation more of the people who are writing about it, like music journalists（過剰な細分化は、それについて書く人々、たとえば音楽ジャーナリストが作り出したものだ）」と述べ、"I think that the people actively involved with it don't really care that much.（実際に関わっている人たちは、そんなに気にしていないと思う）" と付け加える。外から名づけるジャーナリストと、当事者の感覚とのあいだのずれについて語ったものだ。この Daniel Dodecahedron は、2010年1月28日に Last.fm で [witch house タグを付けはじめた](https://witch-house.com/forum/viewtopic.php?t=8558) KingTreehouse（のちの GucciGoth）と同一人物だった。witch house というラベルを特定の音楽に最初期に付けた当の実践者が、のちに細分化への批判を語る。この逆説は、名づけることの政治、つまり誰が分類を所有するのかという問いにかかわるものだろう。
 
-### 作品名と FrankJavCee
+### 作品名と FrankJavCee {#frankjavcee}
 
 語がひとつの「もの」として立ち上がる動きは、作品名のなかにも見える。2013年11月24日、Savvy J は YouTube に「♋AESTHETIC♋」と題した動画を投稿した（現在は[再投稿版](https://www.youtube.com/@steingar7820)で確認できる）。ファイナルファンタジーのゲーム内映像、旧 Windows のスクリーンセーバー、ガンダムの 3DCG を組み合わせ、フレームの周囲には回転する 3D オブジェクトの GIF（Windows ロゴ、地球儀アイコン、PlayStation のロゴなど）が配置されていた。aesthetic 的な映像そのものだ。注目したいのは、「aesthetic」という語が、ここでは作品のタイトルそのものになっていることだ。何かに添える形容詞から、ひとつの名前へと移っている。佐藤秀彦編『[新蒸気波要点ガイド](https://diskunion.net/dubooks/ct/detail/DUBK237)』所収のばるぼら「Vaporwave年表」は、この動画について項目を立て、「以降、Vaporwaveのビジュアル面に関してAestheticという言葉をもちいることが多くなる」と記す。Know Your Meme の「aesthetic」記事も、語の広がりを示す例として、この動画を最初に挙げている。
 
@@ -82,13 +82,13 @@ Charlie Jones の distroid 記事は、distroid という語を説明したす�
 
 ---
 
-## 音と見た目が分かれる
+## 音と見た目が分かれる {#sound-and-look-diverge}
 
-### vaporwaveサブレディットの分離
+### vaporwaveサブレディットの分離 {#vaporwave-subreddit-split}
 
 2014年の終わりごろ、コミュニティが自分たちで、音楽と見た目を別々の場所に分けはじめる。音楽のサブレディット [r/vaporwave](https://www.reddit.com/r/vaporwave/) は2012年7月7日に作られていた。その後、2014年10月27日に [r/VaporwaveArt](https://www.reddit.com/r/VaporwaveArt/) が、12月30日に [r/VaporwaveAesthetics](https://www.reddit.com/r/Vaporwaveaesthetics/) が作られる。r/VaporwaveAesthetics の初期の概要（[Wayback 2015年1月6日](https://web.archive.org/web/20150106122252/reddit.com/r/vaporwaveaesthetics)）は、音楽は r/vaporwave へ、こちらは Vaporwave の aesthetic の画像と素材だけ、とはっきり書いている。同じ vaporwave を、音で集める場と、見た目で集める場に分ける。音楽ジャンルとビジュアルの分離が、コミュニティ自身の自己記述として現れた。r/VaporwaveArt の[初期の投稿](https://www.reddit.com/r/VaporwaveArt/comments/2mlwej/the_banality_of_the_new_aesthetic/)には、第1章で見た James Bridle の New Aesthetic を論じた [Furtherfield の記事](https://web.archive.org/web/20120420225824/http://furtherfield.org/features/reviews/banality-new-aesthetic)（2012年4月15日）へのリンクもあり、vaporwave の画像文化が批評上の New Aesthetic 論とつながれていた。
 
-### Know Your Meme の「aesthetic」項目
+### Know Your Meme の「aesthetic」項目 {#know-your-meme-aesthetic}
 
 ほぼ同じ時期、Know Your Meme に「aesthetic」の項目ができる。[2015年1月19日に登録された](https://web.archive.org/web/20150122051039/http://knowyourmeme.com/memes/aesthetic)この項目の About 節は、aesthetic を視覚的なまとまりとして説明していた。
 
@@ -102,7 +102,7 @@ About 節の途中には『Floral Shoppe』のジャケットが引用されて�
 
 この項目の分類欄は、しばらく揺れている。2015年1月19日に登録された2日後の[最終更新1月21日版](https://web.archive.org/web/20150414171725/https://knowyourmeme.com/memes/aesthetic)（2015年4月14日に保存）には要約欄がない。[最終更新6月23日版](https://web.archive.org/web/20150923215127/http://knowyourmeme.com/memes/aesthetic)（2015年9月23日に保存）では、要約が「Part of a series on Album Cover Parodies」になっている。トップ画像が『Floral Shoppe』のジャケットなので、一時的にアルバムカバー・パロディの系列に分類されたと読むことができる。そして[最終更新10月7日版](https://web.archive.org/web/20151008181506/https://knowyourmeme.com/memes/aesthetic)（2015年10月8日に保存）から、要約は「Part of a series on Vaporwave」に変わる。About 節の中身は立項から10月8日まで変わっておらず、この要約はそれ以降2026年まで変わっていない。
 
-### 音楽ジャンルと aesthetic の配置関係
+### 音楽ジャンルと aesthetic の配置関係 {#genre-aesthetic-placement}
 
 Know Your Meme の分類のうえで、aesthetic が vaporwave の系列の下位項目になったのは、この2015年秋以降だ。ここで注意したいことがある。2015年秋の KYM が aesthetic を vaporwave の下位に置いたとき、vaporwave はすでに単純な音楽ジャンルではなくなっていた。音楽と見た目とムードを一体として動かすシーンとして、ジャンルより広い位置を占めていた。だからこそ、aesthetic を下の項目として従える位置に置けた。しかも About 節は同時に、その vaporwave 由来の見た目を "this is only one form of aesthetic" と書いている。aesthetic にはいくつもの形があり、vaporwave のものはそのうち最も一般的な一つ、という見方がここにすでに顔を出している。
 
@@ -110,13 +110,13 @@ Know Your Meme の分類のうえで、aesthetic が vaporwave の系列の下�
 
 ---
 
-## 逆転の中身
+## 逆転の中身 {#inside-inversion}
 
-### 二つのものさし
+### 二つのものさし {#two-measures}
 
 同じ vaporwave という対象は、二通りのやり方で見られ、集められていた。一方は音楽のものさしだ。Pitchfork や DUMMY Magazine、Discogs のような場では、ジャンル、系譜、元ネタ、サウンドの特徴で vaporwave を測り、整理する。もう一方は、見た目と気分のものさしで vaporwave という対象を測った。Tumblr のタグ、YouTube のコメント欄、サブレディットでは、aesthetic、vibe、lifestyle、ideology といった語で、同じものを束ねる。どちらが正しいというのではなく、ひとつの対象に二つの見方が重なっていた。そして後者の見方は、誰かが先に定義を決めたものではない。フォークソノミーと同様、使われ方が積み重なって、あとから意味の形ができていった。
 
-### 三つの段階
+### 三つの段階 {#three-stages}
 
 この二つのものさしは、はじめから対等に並んでいたわけではない。aesthetic という語の使われ方を順にたどると、三つの段階が見えてくる。
 
@@ -132,15 +132,15 @@ Know Your Meme の分類のうえで、aesthetic が vaporwave の系列の下�
 
 ここまで、逆転を二つの面から見てきたことになる。ひとつは文法の面だ。複数形の意味が、質の複数から種の複数へ移り、所有の言い方（あれの aesthetic）から、それ自体ひとつのもの（the Aesthetic）を経て、並ぶもののひとつ（an aesthetic）へと動いた。もうひとつは意味の面だ。aesthetic が、対象の属性から独立して、対象を束ねる上位の枠になった。この二つは別々の話ではない。ひとつの移り変わりを、語の形から見るか、意味から見るかの違いだ。
 
-### プラットフォームと速度のずれ
+### プラットフォームと速度のずれ {#platform-speed-gap}
 
 なぜ、aesthetic の見方がここまで育ったのか。筆者の推測も含んだ仮説だが、手がかりは第1章で見たプラットフォームのつくりにある。Tumblr や Pinterest のような場では、画像は、リブログ、タグ、ボードという単位で、複数枚を同時に扱える。画像は、添付され、タグを付けられ、別のボードに集められて、速く流通していく。これに対して、サウンドの系譜や音楽的な特徴は、画像ほど簡単にはタグをつけられず、流通するのも遅い。しかも音楽は、SNS の上ではそれ単体で流通することがほとんどなく、たいてい動画として、つまり画像やビジュアルとセットで流通する。いまの音楽配信サービスでも、たいていはアートワークと一緒に配信されている。見た目のほうが扱いやすく、速く動く。この速さのちがいのために、群衆による分類は、見た目と気分の軸に沿って重ねられていきやすい。だから aesthetic という上位の枠も、その軸の上に形づくられていったのだと見ることができる。ただし「見た目が音楽に勝った」ということではない。音楽はそぎ落とされたのではなく、枠の内に一つの側面として収まり直した。速さの非対称が生んだのは、見た目の優勢ではなく、見た目と気分の軸を基準に対象を束ね直す再編成だった。使われ方の積み重ねが意味をつくるフォークソノミーの構造が、ここでも働いている。
 
 ---
 
-## 逆転が固まるまで
+## 逆転が固まるまで {#until-inversion-solidifies}
 
-### 「internet aesthetic」という複合語
+### 「internet aesthetic」という複合語 {#internet-aesthetic-compound}
 
 ここまで、aesthetic という一語を追ってきた。だが、この語が個々の様式を束ねる上位カテゴリとして目録や百科に書きつけられる段階になると、ありふれた一語のままでは指すものが定まらない。aesthetic は日常語でもあり、18世紀以来の美学という学問の名でもある。ネット発の様式群という特定の種を名指すには、限定の語が要る。そこで現れるのが「internet aesthetic」という複合語だ。
 
@@ -148,11 +148,11 @@ Know Your Meme の分類のうえで、aesthetic が vaporwave の系列の下�
 
 本章が追ってきた、個々の様式を束ねる上位カテゴリとしての用法では、internet という限定語がつくことで、この複合語は「数えられる種」として働く。an internet aesthetic は、an internet meme と同じ形だ。ただし、同じ綴りがつねにこの意味になるわけではない。「internet aesthetic」は、インターネットそのものがもつ美的な質、いわば「ネットらしい手ざわり」を指す質的な使い方もできる。2013年8月の [Harvard Business Review](https://x.com/HarvardBiz/status/365460092126113792) は、風変わりなスタートアップの社名ブームを「internet aesthetic」と呼んでいるが、これは個々の様式を束ねる種ではなく、ある時代のネットの質感を指す比喩だった。逆転のあらわれとして読めるのは、前者、つまり数えられる種としての用法のほうだ。
 
-### メディアへの出現
+### メディアへの出現 {#media-appearance}
 
 今日の意味での internet aesthetic、すなわち個々の様式を束ねるカテゴリとしての使い方は、2019〜2020年ごろにメディアで見えはじめる。2019年12月の [AIGA Eye on Design](https://x.com/AIGAeyeondesign/status/1202981083786219520) は vaporwave を "half-satirical, half-earnest internet aesthetic（半ば皮肉、半ば本気のinternet aesthetic）" と呼んだ。2020年9月の [Washington Post](https://web.archive.org/web/20200911061944/https://www.washingtonpost.com/lifestyle/travel/how-the-cottagecore-internet-aesthetic-dovetails-with-pandemic-travel/2020/09/10/3ae54032-ed39-11ea-99a1-71343d03bc29_story.html) は #cottagecore を "nostalgic, romantic Internet aesthetic" と紹介した。ここでは、音楽ジャンルを出自に持たない cottagecore が、ひとつの internet aesthetic として数えられている。複合語が、個々の様式を束ねる上位カテゴリの名前として、一般の読者に届きはじめた初期の例だ。
 
-### Wikipedia による制度化
+### Wikipedia による制度化 {#wikipedia-institutionalization}
 
 やがてこの語は、百科事典の項目になる。英語版 Wikipedia では、2022年8月5日、Spiderwinebottle という編集者が[ユーザーページに草稿](https://en.wikipedia.org/w/index.php?title=User:Photos_of_Japan/Internet_aesthetic&oldid=1102551949)を起こした。要約には「Draft; To be continued」とある。草稿はまもなく本記事の空間へ移され、2022年9月30日には新規記事として[本文空間に登録が確認](https://en.wikipedia.org/wiki/Special:Redirect/logid/137226761)された。タイトルは単数形の「Internet aesthetic」だった。2023年10月11日には、この記事を翻訳するかたちで、日本語版 Wikipedia に[「インターネット・エスセティック」](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%83%BB%E3%82%A8%E3%82%B9%E3%82%BB%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF)も作成された。英語版はその後も拡張され、2024年の後半には dark academia、McBling、Frutiger Aero、Y2K Aesthetic といった節が[足されていく](https://en.wikipedia.org/w/index.php?title=Internet_aesthetic&action=history)。
 
@@ -164,11 +164,11 @@ Know Your Meme の分類のうえで、aesthetic が vaporwave の系列の下�
 
 この単数と複数の揺れは、ただの表記の問題ではない。単数の「Internet aesthetic」は、定義できるひとつの概念、いわばその中身（内包）を指す。複数の「Internet aesthetics」は、個々の美学が集まった集合、いわばその外延を指す。ただしこれは、aesthetic を vaporwave の下に置くか、それを束ねる側に置くか、という問いとはちがう。そうした問いは、さきに見た KYM の分類のように、もっと早い段階のものだった。ここで起きているのは、語の逆転が固まったあとの、種の内側で、定義（内包）と集合（外延）をどう書き分けるかの調整だ。
 
-### CARI と Aesthetics Wiki
+### CARI と Aesthetics Wiki {#cari-aesthetics-wiki}
 
 こうした制度化の中心にあるのが、Consumer Aesthetics Research Institute（CARI）と [Aesthetics Wiki](https://aesthetics.fandom.com/wiki/Category:Internet_Aesthetics?action=history) だった。Aesthetics Wiki は2022年6月に「Category:Internet Aesthetics」という上位カテゴリを作り、すでに数多くあった個々の美学の記事を、その下に束ねた。ここでは vaporwave も、cottagecore も、Frutiger Aero も、aesthetic のひとつとして並ぶ。「aesthetic」は、ここで、個々の様式を目録のように束ねる上位カテゴリの名前として落ち着く。
 
-### 振り返り
+### 振り返り {#retrospective}
 
 ここまでの道筋をまとめておく。aesthetic という語が見た目とムードのラベルとして使われるようになったのは、vaporwave や seapunk のように、音楽ジャンルに出自を持つシーンの土壌のなかでだった。いっぽうで、視覚と雰囲気のまとまりをタグでくくること自体は、それより前からありえた。第1章で見たように、Tumblr のリブログとタグは、フォークソノミーの仕組みでこうしたラベルづけを加速させる。そうして並べられたまとまりの一部が、aesthetic と呼ばれていく。
 

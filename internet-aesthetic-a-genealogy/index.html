@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>internet aesthetic: a genealogy - 100%health</title>
+  <link rel="stylesheet" href="../../1column.css">
+  <link rel="stylesheet" href="../text.css">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <script src="../../js/jquery-3.6.0.min.js"></script>
+  <script src="../../js/main.js"></script>
+  <script src="/js/mouse.js" defer></script>
+
+</head>
+
+<body>
+  <div id="wrapper">
+    <header id="header">
+      <div id="header-flex">
+        <nav id="back" aria-label="戻るナビゲーション">
+          <a id="backicon" href="../txt_main.html">
+            &lt;
+          </a>
+        </nav>
+        <nav id="address" class="addressbar" aria-label="パンくずナビゲーション">
+          <ol class="breadcrumb">
+            <li><a href="../../index.html">100%health</a></li>
+            <li><a href="../txt_main.html">txt</a></li>
+            <li aria-current="page">internet aesthetic: a genealogy</li>
+          </ol>
+        </nav>
+      </div>
+    </header>
+    <main id="main">
+      <article id="textblock">
+        <h1 class="title">インターネット美学の<wbr>系譜</h1>
+        <p class="subtitle">internet aesthetic: a genealogy</p>
+
+        <section>
+          <p>「インターネット美学」の系譜について。執筆者の視点と解釈を含む。</p>
+          <ol class="toc">
+            <!-- toc:start -->
+            <li><a href="intro.html">序文</a></li>
+            <li><a href="ch01.html">第1章　土壌——Tumblrとフォークソノミー</a></li>
+            <li><a href="ch02.html">第2章　シーンと土壌</a></li>
+            <li><a href="ch03.html">第3章　命名の時代</a></li>
+            <li><a href="ch04.html">第4章　lo-fiとHD</a></li>
+            <li><a href="ch05.html">第5章　「aesthetic」という語——包含関係の逆転</a></li>
+            <li><a href="ch06.html">第6章　名前があとから来る（2015〜2019年）</a></li>
+            <li><a href="ch07.html">第7章　爆発（2020〜2021年）</a></li>
+            <li><a href="ch08.html">第8章　制度化：分類するという欲望</a></li>
+          <!-- toc:end -->
+          </ol>
+        </section>
+
+        <section id="change_log">
+          <h2>更新履歴</h2>
+          <div class="section-item">
+            <ul>
+              <li><time datetime="2026-08-29">2026年08月29日</time>　初版公開（目次＋序文・全8章）</li>
+            </ul>
+          </div>
+        </section>
+
+      </article>
+    </main>
+    <footer id="main-footer">
+      <div id="texthtml"></div>
+      <div id="sitenachtml"></div>
+      <!-- main.jsから#footerへfooter.htmlの挿入 -->
+      <div id="footerhtml"></div>
+    </footer>
+  </div>
+  <div id="lightbox">
+    <link rel="stylesheet" href="../../luminous-basic.min.css">
+    <script src="../../Luminous.min.js"></script>
+    <script>
+      new LuminousGallery(document.querySelectorAll('a[href$=jpg],a[href$=png],a[href$=gif],a[href$=webp]'));
+    </script>
+  </div>
+</body>
+
+</html>
